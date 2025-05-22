@@ -1,3 +1,7 @@
-# ignore 2024 folder
-/2024
-/clean_txt
+datasets/2024/*
+datasets/clean_txt/*
+datasets/clean_formatted_txt/*
+
+# ignore pdf files
+*.pdf
+*.txt

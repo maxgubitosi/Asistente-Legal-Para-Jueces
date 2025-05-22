@@ -2,7 +2,7 @@
 clean_pdfs.py  ·  Limpia PDF jurídicos para RAG
 ------------------------------------------------
 correr con: 
-$ python clean_pdfs.py --pdf_dir ./2024 --out_dir ./clean_txt
+$ python pre-processing/clean_pdfs.py --pdf_dir datasets/2024 --out_dir datasets/clean_txt
 """
 
 
