@@ -1,6 +1,4 @@
-datasets/2024/*
-datasets/clean_txt/*
-datasets/clean_formatted_txt/*
+datasets/*
 
 # ignore pdf files
 *.pdf
