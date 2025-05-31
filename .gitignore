@@ -1,5 +1,11 @@
 datasets/*
 
+
 # ignore pdf files
 *.pdf
-*.txt
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# ignore Python bytecode files
+__pycache__/
+# ignore virtual environment directories
+venv/

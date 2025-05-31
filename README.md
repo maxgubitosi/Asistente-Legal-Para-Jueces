@@ -1,5 +1,9 @@
 ## Verificación Automática de Contradicciones Judiciales con RAG
 # TP_NLP
+INSTALANDO EL PROYECTO
+Pueeden hacer desde cualquier entorno nuevo de python:
+         pip install -r requirements.txt 
+         Y con eso se instalan las librerias necesarias para correr todo el proyecto. A medida que agreguemos más, estaría bueno ir completando el .txt ese asi es facil hacer el setup del proyecto en cualquier lugar.
 
 Para correr el clean_pdfs.py:
 1. Descargar zip de toni y descomprimir el archivo
