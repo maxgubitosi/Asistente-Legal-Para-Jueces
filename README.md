@@ -6,7 +6,8 @@ Pueeden hacer desde cualquier entorno nuevo de python:
          Y con eso se instalan las librerias necesarias para correr todo el proyecto. A medida que agreguemos más, estaría bueno ir completando el .txt ese asi es facil hacer el setup del proyecto en cualquier lugar.
 
 # Correr los archivos numerados en el orden correspondiente
-0. Antes de correr código, descargar la carpeta de toni y colocarla dentro de la carpeta `datasets` con el nombre `2024`
+0. Antes de correr código, descargar la carpeta de toni y colocarla dentro de la carpeta `datasets` con el nombre `2024`. También se debe crear un archivo credentials_config.py en la carpeta configs, siguiendo el template de template_config.py con las credenciales personales de Azure.
+
 1. **1_normalization.ipynb**: 
    - Normaliza los textos de los fallos judiciales.
    - los croppea y elimina datos irrelevantes.
