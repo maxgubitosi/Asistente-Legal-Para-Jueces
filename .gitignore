@@ -9,3 +9,8 @@ datasets/*
 __pycache__/
 # ignore virtual environment directories
 venv/
+
+# ignore everything inside configs folder except configs/template_config.py
+configs/*
+!configs/template_config.py
+
