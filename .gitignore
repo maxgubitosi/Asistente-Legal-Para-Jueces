@@ -3,6 +3,16 @@ datasets/*
 
 # ignore pdf files
 *.pdf
+
+# ignore log files
+*.log
+
+# ignore datasets
+datasets/
+
+# ignore BM25 cache files
+bm25_cache/
+
 # ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
 # ignore Python bytecode files
@@ -10,6 +20,12 @@ __pycache__/
 # ignore virtual environment directories
 venv/
 nlp_venv/
+
+# Project specific
+
+*.pkl
+*.npy
+*.bak
 
 # ignore everything inside configs folder except configs/template_config.py
 configs/*
