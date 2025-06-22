@@ -38,7 +38,10 @@ ENV/
 Thumbs.db
 
 # Project specific
-bm25_cache/
+bm25_cache/*
+!bm25_cache/.gitkeep
+datasets/*
+!datasets/.gitkeep
 *.pkl
 *.npy
 *.bak

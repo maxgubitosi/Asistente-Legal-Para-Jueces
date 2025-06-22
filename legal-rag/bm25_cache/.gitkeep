@@ -1,0 +1,2 @@
+# This file keeps the bm25_cache directory in the repository
+# The actual cache files are ignored by .gitignore

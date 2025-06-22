@@ -1,5 +1,6 @@
+# ignore datasets content but keep the folder structure
 datasets/*
-
+!datasets/.gitkeep
 
 # ignore pdf files
 *.pdf
@@ -7,11 +8,9 @@ datasets/*
 # ignore log files
 *.log
 
-# ignore datasets
-datasets/
-
-# ignore BM25 cache files
-bm25_cache/
+# ignore BM25 cache files content but keep the folder structure
+bm25_cache/*
+!bm25_cache/.gitkeep
 
 # ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
