@@ -14,11 +14,12 @@ services:
     env_file: [.env]
     environment:
       QDRANT_URL: "http://qdrant:6333"
+      PYTHONPATH: "/app"  # ← IMPORTANTE: Para que encuentre el módulo backend
     volumes:
-      - ../datasets:/datasets
+      - ./datasets:/datasets
       - ./bm25_cache:/indexes    # ←─ comando directo para uvicorn
-    command: ["bash", "/app/scripts/build_and_start.sh"]
-    expose: ["8000"]
+    ports: ["8000:8000"]  # ← AGREGAR ESTA LÍNEA
+    command: ["bash", "/app/deployment/scripts/build_and_start.sh"]  # ← Nueva ruta
 
 # ---------------------------------- UI Streamlit
   streamlit:
@@ -26,7 +27,8 @@ services:
     container_name: rag-ui
     depends_on: [backend]
     environment:
-      API_URL: "http://backend:8000/query"   # URL interna
+      API_URL: "http://backend:8000/query"
+      PYTHONPATH: "/app"  # ← Agregar también aquí
     command: >
       streamlit run frontend/ui.py
         --server.port 8501

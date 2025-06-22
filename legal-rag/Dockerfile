@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.11-slim-bookworm
 
 # Carpeta base dentro del contenedor
 WORKDIR /app
@@ -7,11 +7,17 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copiamos todo el código (app/, scripts/, entrypoint)
+# Copiamos todo el código
 COPY . .
 
-# Hacemos ejecutable el entrypoint y scripts
-RUN chmod +x /app/entrypoint.sh /app/scripts/build_and_start.sh /app/build_indexes.sh /app/scripts/update_indexes.sh /app/verify_setup.sh
+# Hacemos ejecutables los scripts (nueva ubicación)
+RUN chmod +x /app/deployment/scripts/build_and_start.sh \
+    && chmod +x /app/deployment/scripts/update_indexes.sh \
+    && chmod +x /app/deployment/scripts/verify_setup.sh
 
-CMD ["/app/entrypoint.sh"]
+# Configurar PYTHONPATH por defecto
+ENV PYTHONPATH="/app"
+
+# El CMD será sobrescrito por docker-compose
+CMD ["bash"]
 
