@@ -5,6 +5,9 @@ from typing import Tuple, List, Dict, Any
 from ..base import BaseRAGPipeline
 from backend.search import get_retriever
 from backend.llm import get_llm_provider
+from backend.config import get_settings
+
+settings = get_settings()
 
 logger = logging.getLogger(__name__)
 
@@ -35,7 +38,7 @@ class ConversationalRAGPipeline(BaseRAGPipeline):
         """Procesa consulta con contexto conversacional"""
         # Búsqueda normal
         if self.retriever is None:
-            self.retriever = get_retriever("hybrid")
+            self.retriever = get_retriever(settings.search_strategy)
         
         hits = self.retriever.query(question, top_n)
         

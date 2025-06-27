@@ -6,8 +6,6 @@ from .factory import get_processor, get_available_modes, get_default_mode, iter_
 # Acceso directo a procesadores
 from .processing import StandardProcessor
 
-# Alias para compatibilidad (sin wrapper)
-DataProcessor = StandardProcessor
 
 __all__ = [
     # Models
@@ -25,7 +23,4 @@ __all__ = [
     
     # Procesadores directos
     "StandardProcessor",
-    
-    # Compatibilidad
-    "DataProcessor"             # Alias directo a StandardProcessor
 ]

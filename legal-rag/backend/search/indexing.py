@@ -21,7 +21,7 @@ def build_indexes(json_dir: Path, qdrant_url: str = "http://qdrant:6333"):
     
     # 1) Cargar documentos
     print("📊 Contando documentos...")
-    paras = list(iter_paragraphs(Path(json_dir)))
+    paras = list(iter_paragraphs(Path(json_dir), settings.processing_mode))
     total_docs = len(paras)
     print(f"📄 Total de párrafos a procesar: {total_docs:,}")
     

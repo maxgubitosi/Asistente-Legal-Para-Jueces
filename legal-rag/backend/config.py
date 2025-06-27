@@ -24,10 +24,10 @@ class Settings(BaseSettings):
     # =================================
     
     # Strategy Selection
-    processing_mode: Literal["standard", "parallel", "streaming"] = Field("standard", alias="PROCESSING_MODE")
-    search_strategy: Literal["hybrid", "dense_only", "lexical_only"] = Field("hybrid", alias="SEARCH_STRATEGY") 
-    llm_provider: Literal["azure", "openai", "local"] = Field("azure", alias="LLM_PROVIDER")
-    rag_strategy: Literal["standard", "conversational", "multi_step"] = Field("standard", alias="RAG_STRATEGY")
+    processing_mode: Literal["standard", "enriched"] = Field("standard", alias="PROCESSING_MODE")
+    search_strategy: Literal["hybrid", "hybrid_enriched"] = Field("hybrid", alias="SEARCH_STRATEGY") 
+    llm_provider: Literal["azure"] = Field("azure", alias="LLM_PROVIDER")
+    rag_strategy: Literal["standard", "enriched"] = Field("standard", alias="RAG_STRATEGY")
     
     # Data Processing Parameters
     max_paragraph_length: int = Field(300, alias="MAX_PARAGRAPH_LENGTH")

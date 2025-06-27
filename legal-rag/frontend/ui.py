@@ -14,7 +14,7 @@ st.markdown("Sistema RAG para consultas legales en expedientes judiciales")
 # Sidebar con controles
 with st.sidebar:
     st.header("📊 Configuración")
-    top_n = st.slider("Número de resultados", 5, 20, 8)
+    top_n = st.slider("Número de resultados", 5, 12, 8)
     
     # Información del sistema
     try:
@@ -44,7 +44,7 @@ if st.button("🔍 Buscar", type="primary") and query:
             response = requests.post(
                 API_URL, 
                 json={"question": query, "top_n": top_n},
-                timeout=30
+                timeout=60
             )
             
             if response.status_code != 200:
@@ -74,7 +74,9 @@ if st.button("🔍 Buscar", type="primary") and query:
                     st.markdown(data["markdown"])
                     
                     st.divider()
-                    
+                    #mostrar data["results"]
+                    # st.markdown("### 📋 Resultados de la Búsqueda")
+                    # st.write(data["results"])
                     # Resultados detallados
                     st.markdown("### 📋 Documentos Consultados")
                     
@@ -115,6 +117,89 @@ if st.button("🔍 Buscar", type="primary") and query:
                             st.markdown(result.get("paragraph", "Sin contenido"))
                             st.markdown(f"📁 *Archivo: {result.get('path', 'N/A')}*")
                             if i < len(data["results"]):
+                                st.divider()
+                    
+                    # Agrupar resultados por expediente
+                    grouped = {}
+                    for result in data["results"]:
+                        expte = result.get("expte", "N/A")
+                        if expte not in grouped:
+                            grouped[expte] = {
+                                "idea_central": result.get("idea_central", "Sin idea central"),
+                                "idea_central_original": result.get("idea_central_original", result.get("idea_central", "Sin idea central")),
+                                "articulos_citados": result.get("articulos_citados", []),
+                                "materia_preliminar": result.get("materia_preliminar", ""),
+                                "metadatos": result.get("metadatos", {}),
+                                "extractos": [],
+                                "paths": set(),
+                                "sections": set(),
+                                "scores": [],
+                                "search_types": set(),
+                            }
+                        grouped[expte]["extractos"].append(result.get("paragraph", "Sin contenido"))
+                        grouped[expte]["paths"].add(result.get("path", "N/A"))
+                        grouped[expte]["sections"].add(result.get("section", "N/A"))
+                        grouped[expte]["scores"].append(result.get("score", 0))
+                        grouped[expte]["search_types"].add(result.get("search_type", "hybrid"))
+
+                    st.markdown("### 📋 Fallos relevantes agrupados por expediente")
+                    for expte, info in grouped.items():
+                        with st.container():
+                            st.markdown(f"#### Expediente: `{expte}`")
+                            st.markdown(f"**Materia:** {info['materia_preliminar']}")
+                            st.markdown(f"**Archivos:** {'; '.join(info['paths'])}")
+                            st.markdown(f"**Secciones:** {'; '.join(info['sections'])}")
+                            st.markdown(f"**Score promedio:** {sum(info['scores'])/len(info['scores']):.2f}")
+                            st.markdown(f"**Tipo de búsqueda:** {', '.join(info['search_types'])}")
+                            st.markdown(":blue[Idea central resumida por LLM]:")
+                            st.info(info["idea_central"])
+                            with st.expander("Ver idea central original guardada en base de datos"):
+                                st.write(info["idea_central_original"])
+                            st.markdown(":orange[Artículos citados]:")
+                            if info["articulos_citados"]:
+                                for art in info["articulos_citados"]:
+                                    st.markdown(f"- {art}")
+                            else:
+                                st.write("No hay artículos citados.")
+                            st.markdown(":green[Extractos relevantes]:")
+                            for i, ext in enumerate(info["extractos"], 1):
+                                st.markdown(f"{i}. {ext}")
+                            st.divider()
+                    
+                    # Mostrar tabla tipo jurisprudencial agrupada por expediente y extracto (nuevo formato)
+                    if data.get("results"):
+                        results_data = []
+                        for i, fallo in enumerate(data["results"], 1):
+                            expte = fallo.get("expte", "N/A")
+                            materia = fallo.get("materia_preliminar", "N/A")
+                            idea_central = fallo.get("idea_central", "-")
+                            articulos = fallo.get("articulos_citados", [])
+                            # Formatear artículos citados: main_source + números
+                            articulos_str = "; ".join(
+                                f"{a.get('main_source', '')} {', '.join(map(str, a.get('cited_articles', [])))}".strip()
+                                for a in articulos if a
+                            ) if articulos else "-"
+                            for sec, ext in zip(fallo.get("sections", []), fallo.get("extractos", [])):
+                                results_data.append({
+                                    "Expte.": expte,
+                                    "Sección": sec,
+                                    "Extracto": ext,
+                                    "Materia": materia,
+                                    "Artículos citados": articulos_str,
+                                    "Idea central": idea_central
+                                })
+                        df = pd.DataFrame(results_data)
+                        st.markdown("### 📋 Resultados jurisprudenciales relevantes")
+                        st.dataframe(
+                            df,
+                            use_container_width=True,
+                            hide_index=True
+                        )
+                        # Expander para idea central original
+                        with st.expander("Ver ideas centrales originales de los fallos"):
+                            for i, fallo in enumerate(data["results"], 1):
+                                st.markdown(f"**{i}. Expediente {fallo.get('expte', 'N/A')}**")
+                                st.write(fallo.get("idea_central", "-"))
                                 st.divider()
         
         except requests.RequestException as e:

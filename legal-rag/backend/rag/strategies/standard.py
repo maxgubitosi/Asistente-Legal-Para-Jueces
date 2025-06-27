@@ -1,10 +1,14 @@
-import textwrap, time, os
+import textwrap, time
 import logging
 from typing import Tuple, List, Dict, Any
 
 from ..base import BaseRAGPipeline
 from backend.search import get_retriever
 from backend.llm import get_llm_provider
+
+from backend.config import get_settings
+
+settings = get_settings()
 
 logger = logging.getLogger(__name__)
 
@@ -46,10 +50,10 @@ class StandardRAGPipeline(BaseRAGPipeline):
     def __init__(self):
         self.retriever = None
         self.llm_provider = None
-        self.max_paragraph_length = int(os.getenv("MAX_PARAGRAPH_LENGTH", "300"))
-        self.max_tokens = int(os.getenv("LLM_MAX_TOKENS", "300"))
-        self.max_results = int(os.getenv("MAX_RESULTS_PER_QUERY", "8"))
-    
+        self.max_paragraph_length = int(settings.max_paragraph_length)
+        self.max_tokens = int(settings.llm_max_tokens)
+        self.max_results = int(settings.max_results_per_query)
+
     def _get_retriever(self):
         """Lazy loading del retriever"""
         if self.retriever is None:

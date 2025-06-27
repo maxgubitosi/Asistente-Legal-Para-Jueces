@@ -13,6 +13,7 @@ def get_processor(mode: str = None, **kwargs):
     # Lazy imports para evitar cargar todo al inicio
     processors = {
         "standard": lambda: _import_standard(),
+        "enriched": lambda: _import_enriched(),
         # "parallel": lambda: _import_parallel(),    # ← Futuro
         # "streaming": lambda: _import_streaming(),  # ← Futuro
     }
@@ -30,19 +31,29 @@ def _import_standard():
     from .processing.standard import StandardProcessor
     return StandardProcessor
 
+def _import_enriched():
+    """Lazy import de EnrichedProcessor"""
+    from .processing.enriched import EnrichedProcessor
+    return EnrichedProcessor
+
 def get_available_modes():
     """Retorna modos disponibles"""
-    return ["standard"]
+    return ["standard", "enriched"]
 
 def get_default_mode():
     """Retorna modo por defecto"""
     return settings.processing_mode
 
 # Función de conveniencia sin wrapper complejo
-def iter_paragraphs(json_dir):
+def iter_paragraphs(json_dir, mode: str = "standard"):
     """Función de conveniencia para procesamiento rápido"""
     if isinstance(json_dir, str):
         json_dir = Path(json_dir)
     
-    processor = get_processor("standard")
+    if mode not in get_available_modes():
+        raise ValueError(f"Modo '{mode}' no disponible. Opciones: {get_available_modes()}")
+    
+    processor = get_processor(mode)
+    logger.info(f"📊 Processing directory {json_dir} with mode '{mode}'")
+    
     yield from processor.process_directory(json_dir)

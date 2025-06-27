@@ -12,6 +12,7 @@ def get_retriever(strategy: str = None, **kwargs):
     # Lazy imports para evitar cargar todo al inicio
     strategies = {
         "hybrid": lambda: _import_hybrid(),
+        "hybrid_enriched": lambda: _import_hybrid_enriched(),
         "dense_only": lambda: _import_dense_only(),
         # "lexical_only": lambda: _import_lexical_only(),  # ← Futuro
     }
@@ -29,6 +30,11 @@ def _import_hybrid():
     from .strategies.hybrid import HybridRetriever
     return HybridRetriever
 
+def _import_hybrid_enriched():
+    """Lazy import de HybridRetrieverEnriched"""
+    from .strategies.hybrid_enriched import HybridRetrieverEnriched
+    return HybridRetrieverEnriched
+
 def _import_dense_only():
     """Lazy import de DenseOnlyRetriever"""  
     from .strategies.dense_only import DenseOnlyRetriever
@@ -36,7 +42,7 @@ def _import_dense_only():
 
 def get_available_strategies():
     """Retorna estrategias disponibles"""
-    return ["hybrid", "dense_only"]
+    return ["hybrid", "hybrid_enriched", "dense_only"]
 
 def get_default_strategy():
     """Retorna estrategia por defecto"""

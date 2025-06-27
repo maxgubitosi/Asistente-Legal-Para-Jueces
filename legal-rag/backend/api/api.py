@@ -90,18 +90,30 @@ async def query_endpoint(request: QueryRequest) -> QueryResponse:
                 detail=f"Query took {elapsed_time:.1f}s (timeout: {query_timeout}s). Try a simpler question."
             )
         
-        # Convertir hits al formato esperado
+        # Convertir hits agrupados al formato plano esperado, manteniendo info común y agrupando por expediente
         hit_objects = []
         for hit in hits:
-            hit_obj = Hit(
-                expte=hit.get('expte', ''),
-                section=hit.get('section', ''),
-                paragraph=hit.get('paragraph', ''),
-                score=hit.get('score', 0.0),
-                path=hit.get('path', ''),
-                search_type=hit.get('search_type', 'hybrid')
-            )
-            hit_objects.append(hit_obj)
+            expte = hit.get('expte', '')
+            idea_central = hit.get('idea_central', '')
+            materia_preliminar = hit.get('materia_preliminar', '')
+            sections = hit.get('sections', [])
+            extractos = hit.get('extractos', [])
+            path = hit.get('paths', [])
+            scores = hit.get('scores', [])
+            search_types = hit.get('search_types', [])
+            # Emparejar por índice, solo lo distinto (extractos/sections)
+            for i in range(len(extractos)):
+                hit_obj = Hit(
+                    expte=expte,
+                    section=sections[i] if i < len(sections) else '',
+                    paragraph=extractos[i],
+                    score=scores[i] if i < len(scores) else 0.0,
+                    path=path[i] if i < len(path) else '',
+                    search_type=search_types[i] if i < len(search_types) else 'hybrid',
+                    idea_central=idea_central,
+                    materia_preliminar=materia_preliminar
+                )
+                hit_objects.append(hit_obj)
         
         query_time = time.time() - start_time
         
