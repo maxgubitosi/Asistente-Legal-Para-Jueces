@@ -96,6 +96,7 @@ async def query_endpoint(request: QueryRequest) -> QueryResponse:
             expte = hit.get('expte', '')
             idea_central = hit.get('idea_central', '')
             materia_preliminar = hit.get('materia_preliminar', '')
+            articulos_citados = hit.get('articulos_citados', [])
             sections = hit.get('sections', [])
             extractos = hit.get('extractos', [])
             path = hit.get('paths', [])
@@ -111,7 +112,10 @@ async def query_endpoint(request: QueryRequest) -> QueryResponse:
                     path=path[i] if i < len(path) else '',
                     search_type=search_types[i] if i < len(search_types) else 'hybrid',
                     idea_central=idea_central,
-                    materia_preliminar=materia_preliminar
+                    articulos_citados=articulos_citados,
+                    materia_preliminar=materia_preliminar,
+                    sections=sections,
+                    extractos=extractos
                 )
                 hit_objects.append(hit_obj)
         

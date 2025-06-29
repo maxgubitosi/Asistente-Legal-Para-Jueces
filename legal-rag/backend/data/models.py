@@ -43,6 +43,11 @@ class Hit(BaseModel):
     paragraph_id: int = Field(0, description="ID del párrafo")
     score: float = Field(0.0, description="Score de relevancia (puede ser negativo)")
     search_type: Optional[str] = Field("hybrid", description="Tipo de búsqueda")
+    idea_central: Optional[str] = Field(None, description="Idea central del fallo")
+    articulos_citados: Optional[List[Dict[str, Any]]] = Field(default_factory=list, description="Artículos citados en el fallo")
+    materia_preliminar: Optional[str] = Field(None, description="Materia preliminar del fallo")
+    sections: Optional[List[str]] = Field(default_factory=list, description="Lista de secciones asociadas al párrafo/expediente")
+    extractos: Optional[List[str]] = Field(default_factory=list, description="Lista de extractos asociados al expediente")
 
 class QueryRequest(BaseModel):
     """Solicitud de consulta"""
