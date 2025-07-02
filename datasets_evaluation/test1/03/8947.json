@@ -1,0 +1,114 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8947",
+    "MES": "03",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            65,
+            248,
+            282,
+            301
+          ],
+          "extra": [
+            "inc. 3) del CPCC"
+          ]
+        },
+        {
+          "main_source": "Constitución Nacional (CN)",
+          "cited_articles": [
+            17,
+            18,
+            19
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "conforme arts. 1º y 4º"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "EJECUCION DE HONORARIOS",
+  "IDEA_CENTRAL": "El Tribunal declaró procedente el recurso de inaplicabilidad de ley interpuesto por la codemandada, revocando la resolución de la Cámara que había declarado la caducidad de la segunda instancia en un proceso de ejecución de honorarios. La decisión se fundamenta en que la carga de impulso procesal recaía en la secretaría del juzgado, no en la parte apelante, conforme a lo establecido en el artículo número 301, inciso 3, del Código Procesal Civil y Comercial (CPCC).\n\n**Aspectos Legales Relevantes:**\n\n1. **Caducidad de Instancia:** La Cámara había declarado la caducidad de la segunda instancia por inacción de la parte apelante, lo cual fue considerado erróneo por el Tribunal.\n2. **Carga Procesal:** Se enfatiza que la obligación de impulsar el procedimiento recae en el juzgado y su secretaría, no en las partes, según el artículo 248 del CPCC.\n3. **Interpretación Restrictiva:** El Tribunal sostiene que la caducidad debe interpretarse de manera restrictiva, protegiendo el derecho a la defensa y el debido proceso.\n\n**Leyes y Artículos Clave:**\n\n- **Código Procesal Civil y Comercial (CPCC):**\n  - Artículo 248: Impulso de oficio por parte del juzgado.\n  - Artículo número 301, inciso 3: Excepciones a la caducidad de instancia.\n\n**Razonamiento del Tribunal:**\n\nEl Tribunal argumentó que la inacción de la parte apelante no podía considerarse como abandono de la instancia, dado que no tenía la carga de impulsar el procedimiento. La responsabilidad de la demora recaía en el juzgado, lo que justificaba la revocación de la caducidad. Se destacó la necesidad de proteger los derechos de las partes y garantizar el acceso a la justicia, evitando que la inacción de los funcionarios judiciales afectara a los justiciables.\n\nEn conclusión, el fallo reafirma la importancia de la correcta aplicación de las normas procesales y la protección de los derechos de las partes en el proceso judicial.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"GRAIZZARO SILVIA MARIA C/ RODRIGUUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947"
+    ],
+    "///CUERDO": [
+      "En la ciudad de Paraná, capital de la provincia de Entre Ríos, a los catorce días del mes de marzo del año dos mil veinticuatro reunidos los integrantes de este Tribunal asistidos por el Secretario autorizante, para conocer el recurso de inaplicabilidad de ley deducido en fecha 16/8/2023 en las actuaciones:",
+      "\"GRAIZZARO SILVIA MARIA C/ RODRIGUUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947, respecto de la resolución dictada por la Sala Tercera de la Cámara Segunda de Apelaciones de Paraná en fecha 31/7/2023. Se practicó el sorteo de ley resultando que la votación debía tener lugar en el siguiente orden: Sra. Vocal Dra. Gisela N. Schumacher; Sr. Vocal Dr. Leonardo Portela y Sra. Vocal Dra. Claudia M. Mizawak.",
+      "Estudiados los autos la Sala se planteó la siguiente cuestión, ¿que corresponde resolver respecto del recurso de inaplicabilidad de ley interpuesto?",
+      "A LA CUESTIÓN PROPUESTA LA SRA. VOCAL DRA.",
+      "1.- Que en fecha 16/8/2023, la parte codemandada, interpuso recurso de inaplicabilidad de ley contra la resolución de la Sala III de la Cámara Segunda de Apelaciones de Paraná, de fecha 31/7/2023, que declaró la caducidad de la segunda instancia del recurso de apelación interpuesto por su parte en fecha 27/9/2022 que le fuera concedido en fecha 19/10/2022, con costas por su orden."
+    ],
+    "GISELA SCHUMACHER DIJO": [
+      "1.- Que en fecha 16/8/2023, la parte codemandada, interpuso recurso de inaplicabilidad de ley contra la resolución de la Sala III de la Cámara Segunda de Apelaciones de Paraná, de fecha 31/7/2023, que declaró la caducidad de la segunda instancia del recurso de apelación interpuesto por su parte en fecha 27/9/2022 que le fuera concedido en fecha 19/10/2022, con costas por su orden.",
+      "Para así decidir, y luego de reseñar el trámite procesal de las presentes actuaciones, señaló que incumbe a la parte apelante, al tratarse de una caducidad de segunda instancia, la carga de realizar los actos procesales idóneos y útiles para mantener vivo el procedimiento, a fin de evitar la pérdida de su derecho a la revisión de la sentencia.",
+      "Adicionó que la aplicación del supuesto contemplado en el art.",
+      "301 inc. 3 del CPCC no excusa ni exonera la participación directa del interesado en el urgimiento procesal, por cuanto la reforma introducida por la ley 9776, no ha eliminado el instituto en cuestión.",
+      "Afirmó que la caducidad de la segunda instancia debe computarse desde que ya existe un pronunciamiento jurisdiccional que resolvió el conflicto, por lo que más allá de la interpretación restrictiva que debe primar en el instituto de la caducidad, la del recurso de apelación debe contener recaudos más exigentes.",
+      "Agregó que dicho criterio ha sido ratificado por la Corte Suprema de Justicia en diversos pronunciamientos y el mismo también es sostenido por la precedentes.",
+      "Sostuvo entonces que la omisión del deber impuesto al secretario en el art. 248 del CPCC no justifica la inacción de la parte de instar la segunda \"GRAIZZARO SILVIA MARIA C/ RODRIGUUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947 instancia.",
+      "Sin perjuicio de todo ello agregó que se impone siempre realizar una interpretación casuística de los supuestos donde se plantee la caducidad de instancia, teniendo presente la nueva gestión de causas la que permite flexibilizar prudentemente, en algunos casos, el análisis, tomando en cuenta los elementos de la causa y que el tiempo de inacción no resulte demasiado amplio que afecte la seguridad jurídica y el debido proceso.",
+      "Conforme ello consideró que en el caso de autos debe admitirse la caducidad de instancia, no solo por haber transcurrido prácticamente el doble del tiempo previsto para aquella, sino por ser una ejecución de honorarios de un perito como auxiliar de justicia, sin que esté en juego la pérdida de otros derechos sustanciales, y en la que además el ejecutado no opuso excepciones.",
+      "2.- Contra dicho pronunciamiento, interpuso la codemandada Sra.",
+      "María del Carmen Balbi recurso de inaplicabilidad de ley invocando la causal de violación o errónea aplicación de la ley -arts. 248 y 301 inc. d) del CPCC, arts. 17, 18 y 19 CN.",
+      "Estructuró sus agravios comenzando con el relato de los hechos para luego cuestionar la sentencia por considerarla que efectuó una errónea aplicación de la ley.",
+      "Sostuvo que la Cámara arriba a una conclusión equivocada al imponer en cabeza de su parte la obligación de impulsar la instancia -lo que no está dispuesto en ninguna norma positiva vigente- instando su elevación. Sostiene que dicha actividad correspondía al juzgado conforme lo dispuesto en el inc. 3 del art.",
+      "301 del CPCC.",
+      "Advirtió que, en el caso de autos frente a la interposición de su recurso y la correspondiente expresión de agravios, los que fueron respondidos por la contraria, el juzgado ordenó la elevación de las actuaciones y confeccionó el oficio de elevación, todo lo que generó en su parte el convencimiento de que la elevación a la alzada era un hecho y que solo restaba esperar la resolución de tribunal.",
+      "Sostiene que la Cámara sin explicación alguna decide trasladar a su parte una responsabilidad que no le es propia, lo que considera erróneo.",
+      "Consideró que los precedentes del STJ citados por la Cámara no resultan aplicables al caso por cuanto refieren a una situación diferente.",
+      "Sostuvo que se viola el art. 301, inc. 3) y el art. 248 del CPCC que establecen que el impulso es de oficio y a cargo de la secretaría del juzgado, citando precedentes jurisprudenciales que avalan su postura.",
+      "Hizo reserva de caso federal y peticionó se case la sentencia.",
+      "3.- En fecha 22/8/2023 la Cámara dispuso correr traslado del recurso a la contraria, quien hizo uso del derecho conferido por el art. 282 del \"GRAIZZARO SILVIA MARIA C/ RODRIGUUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947 CPCC en fecha 8/9/2023, resolviéndose en fecha 12/10/2023 conceder el recurso de inaplicabilidad de ley interpuesto por considerar cumplidos los requisitos formales de admisibilidad de la vía.",
+      "4.- Reseñados los antecedentes del presente juicio e ingresando a dar tratamiento a la inaplicabilidad de ley interpuesta, debo liminarmente expresar que asiste razón al recurrente, debiendo tener su pretensión acogida favorable, por cuanto la sentencia de cámara viola con su decisión una expresa disposición legal -art. 301 inc. 3 del CPCC-.",
+      "Que la norma invocada por el recurrente resulta clara, no dando lugar a duda alguna en su interpretación y alcance: \"No se producirá la caducidad de instancia: ... 3. Cuando los procesos estuvieran pendientes de alguna resolución y la demora en dictarla fuera imputable al tribunal, o la prosecución del trámite dependiere de una actividad que este código o las reglamentaciones de superintendencia imponen al secretario o al jefe de despacho\".",
+      "Conforme dicha disposición y de acuerdo con lo que se desprende del contexto de las actuaciones, surge que la carga procesal de disponer el pase electrónico de las actuaciones a la alzada correspondía una obligación que recaía en la secretaría del juzgado (art. 248 del CPCC).",
+      "En consecuencia, resulta errónea la interpretación casuística efectuada por la Cámara para flexibilizar la aplicación de la normativa invocada por el recurrente -art. 301 inc. 3, CPCC- imponiéndole a éste un acto de impulso procesal que no corresponde por cuanto su obligación de impulsarlo había cesado al disponerse en fecha 22/11/2022 la elevación a la Cámara.",
+      "Conforme ello considero que no es posible extender al justiciable actividades que no le son exigibles en tanto la ley adjetiva no se las atribuya, sin riesgo de incurrir en una delegación no prevista legalmente.",
+      "En síntesis, no pesando sobre el justiciable carga procesal de impulso alguna su inactividad no puede ser presumida como abandono de la instancia, pues ello importaría imputarle las consecuencias del incumplimiento de las obligaciones legales que pesan sobre los funcionarios judiciales responsables -en este caso la secretaría del juzgado-.",
+      "Que si bien esta Sala ha sostenido, en precedentes dictados con anteriores integraciones y por decisión mayoritaria pero que no constituyen doctrina legal en los términos del artículo 285 del CPCC, una distinta interpretación del alcance de la obligación de la parte de impulsar el procedimiento, habiendo ello sido resuelto con fundamento en la doctrina de la CSJN, en pronunciamientos posteriores el Máximo Tribunal ha señalado \"que la pasividad de la parte no puede ser presumida como abandono de la instancia cuando se encuentra exenta de la carga procesal de impulso, pues ello implicaría imputarle las consecuencias del incumplimiento de las obligaciones de los \"GRAIZZARO SILVIA MARIA C/ RODRIGUUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947 funcionarios judiciales responsables\" 1.",
+      "Conforme a lo expuesto, y atento el carácter restrictivo que debe darse al instituto de la caducidad de instancia, sumado a la configuración en autos del supuesto de improcedencia de su declaración previsto por una norma expresa del Código Procesal Civil y Comercial, corresponde declarar procedente el recurso de inaplicabilidad de ley interpuesto y, en consecuencia, CASAR el resolutorio impugnado, dejando sin efecto la caducidad declarada, mandar a tramitar el recurso de apelación deducido, con costas a cargo de la actora vencida- art. 65 del CPCC- ASÍ VOTO.",
+      "A LA CUESTIÓN PROPUESTA EL SR. VOCAL DR."
+    ],
+    "LEONARDO PORTELA DIJO": [
+      "Para así decidir, y luego de reseñar el trámite procesal de las presentes actuaciones, señaló que incumbe a la parte apelante, al tratarse de una caducidad de segunda instancia, la carga de realizar los actos procesales idóneos y útiles para mantener vivo el procedimiento, a fin de evitar la pérdida de su derecho a la revisión de la sentencia.",
+      "Adicionó que la aplicación del supuesto contemplado en el artículo número 301 inciso 3 del CPCC no excusa ni exonera la participación directa del interesado en el urgimiento procesal, por cuanto la reforma introducida por la ley nacional 9776, no ha eliminado el instituto en cuestión."
+    ],
+    "MIZAWAK DIJO": [
+      "Afirmó que la caducidad de la segunda instancia debe computarse desde que ya existe un pronunciamiento jurisdiccional que resolvió el conflicto, por lo que más allá de la interpretación restrictiva que debe primar en el instituto de la caducidad, la del recurso de apelación debe contener recaudos más exigentes.",
+      "Agregó que dicho criterio ha sido ratificado por la Corte Suprema de Justicia en diversos pronunciamientos y el mismo también es sostenido por la precedentes.",
+      "Sostuvo entonces que la omisión del deber impuesto al secretario en el artículo 248 del CPCC no justifica la inacción de la parte de instar la segunda \"GRAIZZARO SILVIA MARIA C/ RODRIGUUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947 instancia.",
+      "Sin perjuicio de todo ello agregó que se impone siempre realizar una interpretación casuística de los supuestos donde se plantee la caducidad de instancia, teniendo presente la nueva gestión de causas la que permite flexibilizar prudentemente, en algunos casos, el análisis, tomando en cuenta los elementos de la causa y que el tiempo de inacción no resulte demasiado amplio que afecte la seguridad jurídica y el debido proceso."
+    ],
+    "Y VISTO": [
+      "Conforme ello consideró que en el caso de autos debe admitirse la caducidad de instancia, no solo por haber transcurrido prácticamente el doble del tiempo previsto para aquella, sino por ser una ejecución de honorarios de un perito como auxiliar de justicia, sin que esté en juego la pérdida de otros derechos sustanciales, y en la que además el ejecutado no opuso excepciones."
+    ],
+    "RESUELVE": [
+      "2.- Contra dicho pronunciamiento, interpuso la codemandada Sra. María del Carmen Balbi recurso de inaplicabilidad de ley invocando la causal de violación o errónea aplicación de la ley -artículos 248 y 301 inciso d) del CPCC, artículos 17, 18 y 19 CN.",
+      "Estructuró sus agravios comenzando con el relato de los hechos para luego cuestionar la sentencia por considerarla que efectuó una errónea aplicación de la ley.",
+      "Sostuvo que la Cámara arriba a una conclusión equivocada al imponer en cabeza de su parte la obligación de impulsar la instancia -lo que no está dispuesto en ninguna norma positiva vigente- instando su elevación. Sostiene que dicha actividad correspondía al juzgado conforme lo dispuesto en el inciso 3 del artículo número 301 del CPCC.",
+      "Advirtió que, en el caso de autos frente a la interposición de su recurso y la correspondiente expresión de agravios, los que fueron respondidos por la contraria, el juzgado ordenó la elevación de las actuaciones y confeccionó el oficio de elevación, todo lo que generó en su parte el convencimiento de que la elevación a la alzada era un hecho y que solo restaba esperar la resolución de tribunal.",
+      "Sostiene que la Cámara sin explicación alguna decide trasladar a su parte una responsabilidad que no le es propia, lo que considera erróneo.",
+      "Consideró que los precedentes del STJ citados por la Cámara no resultan aplicables al caso por cuanto refieren a una situación diferente."
+    ]
+  }
+}

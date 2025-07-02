@@ -1,0 +1,114 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8947",
+    "MES": "03",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            65,
+            248,
+            282,
+            301
+          ],
+          "extra": [
+            "inc. 3) del CPCC"
+          ]
+        },
+        {
+          "main_source": "Constitución Nacional (CN)",
+          "cited_articles": [
+            17,
+            18,
+            19
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "conforme arts. 1º y 4º"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "EJECUCION DE HONORARIOS",
+  "IDEA_CENTRAL": "El Tribunal resolvió que era procedente el recurso de inaplicabilidad de ley presentado por la codemandada, anulando la decisión de la Cámara que había declarado la caducidad de la segunda instancia en un procedimiento de ejecución de honorarios. Esta determinación se basa en que la responsabilidad de impulsar el proceso correspondía a la secretaría del juzgado y no a la parte que apelaba, de acuerdo con lo dispuesto en el artículo 301, inciso 3, del Código Procesal Civil y Comercial (CPCC).\n\n**Aspectos Legales Relevantes:**\n\n1. **Caducidad de Instancia:** La Cámara había considerado que la caducidad de la segunda instancia se debía a la inacción de la parte apelante, lo cual fue calificado como un error por el Tribunal.\n2. **Carga Procesal:** Se subraya que la obligación de dar impulso al procedimiento recae en el juzgado y su secretaría, no en las partes, conforme al artículo 248 del CPCC.\n3. **Interpretación Restrictiva:** El Tribunal argumenta que la caducidad debe ser interpretada de forma restrictiva, salvaguardando el derecho a la defensa y el debido proceso.\n\n**Leyes y Artículos Clave:**\n\n- **Código Procesal Civil y Comercial (CPCC):**\n  - Artículo 248: Impulso de oficio por parte del juzgado.\n  - Artículo 301, inciso 3: Excepciones a la caducidad de instancia.\n\n**Razonamiento del Tribunal:**\n\nEl Tribunal sostuvo que la falta de acción por parte de la apelante no podía ser considerada como un abandono de la instancia, dado que no le correspondía la carga de impulsar el procedimiento. La responsabilidad por la demora recaía en el juzgado, lo que justificaba la anulación de la caducidad. Se resaltó la necesidad de proteger los derechos de las partes y asegurar el acceso a la justicia, evitando que la inacción de los funcionarios judiciales perjudicara a los justiciables.\n\nEn resumen, la decisión reafirma la relevancia de la adecuada aplicación de las normas procesales y la protección de los derechos de las partes en el marco del proceso judicial.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"GRAIZZARO SILVIA MARIA C/ RODRIGUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947\n\nEn el presente caso, se examina la solicitud de ejecución de honorarios presentada por la parte actora, GRAIZZARO SILVIA MARIA, contra los demandados, RODRIGUEZ JOSE MARIA y otro. La acción se fundamenta en la reclamación de los honorarios adeudados por servicios profesionales prestados.\n\nEl tribunal ha considerado las pruebas aportadas y los argumentos expuestos por las partes. Se ha verificado que los servicios fueron efectivamente brindados y que existe un saldo pendiente de pago, conforme a lo estipulado en el contrato entre las partes.\n\nPor lo tanto, se concluye que procede la ejecución de los honorarios reclamados, en virtud de lo dispuesto en el art. 3 de la ley 7046. En consecuencia, se ordena a los demandados el pago de la suma adeudada, más los intereses correspondientes desde la fecha de vencimiento hasta su efectivo pago.\n\nAsí se decide."
+    ],
+    "///CUERDO": [
+      "En la ciudad de Paraná, que es la capital de la provincia de Entre Ríos, a catorce de marzo del año dos mil veinticuatro, se reunieron los miembros de este Tribunal, con la asistencia del Secretario que otorga la autorización, con el propósito de evaluar el recurso de inaplicabilidad de ley presentado el 16/8/2023 en las actuaciones:",
+      "\"GRAIZZARO SILVIA MARIA C/ RODRIGUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947, en relación con la resolución emitida por la Sala Tercera de la Cámara Segunda de Apelaciones de Paraná con fecha 31/7/2023. Se llevó a cabo el sorteo de ley, determinándose que la votación se realizaría en el siguiente orden: Sra. Vocal Dra. Gisela N. Schumacher; Sr.",
+      "Vocal Dr. Leonardo Portela y Sra. Vocal Dra. Claudia M. Mizawak.",
+      "Analizados los antecedentes, la Sala se formuló la siguiente interrogante: ¿qué decisión corresponde adoptar en relación al recurso de inaplicabilidad de ley presentado?",
+      "A LA CUESTIÓN PLANTEADA POR LA SRA. VOCAL DRA."
+    ],
+    "GISELA SCHUMACHER DIJO": [
+      "1.- En fecha 16 de agosto de 2023, la parte codemandada presentó un recurso de inaplicabilidad de ley en contra de la decisión adoptada por la Sala III de la Cámara Segunda de Apelaciones de Paraná, datada el 31 de julio de 2023. Dicha resolución declaró la caducidad de la segunda instancia del recurso de apelación que había sido interpuesto por esta parte el 27 de septiembre de 2022, el cual le fue concedido el 19 de octubre de 2022, con costas a su cargo.",
+      "Con el propósito de fundamentar su decisión, y tras examinar el desarrollo procesal de los presentes autos, se indicó que corresponde a la parte apelante, dado que se trata de una caducidad en segunda instancia, asumir la responsabilidad de llevar a cabo los actos procesales pertinentes y eficaces que permitan preservar la continuidad del procedimiento, con el objetivo de evitar la extinción de su derecho a la revisión de la sentencia.",
+      "Se añadió que la implementación de la hipótesis prevista en el art.",
+      "La participación directa del interesado en el urgimiento procesal no está exenta ni exonerada por lo dispuesto en el art. 301 inc. 3 del CPCC, dado que la modificación realizada por la ley 9776 no ha suprimido el instituto en cuestión.",
+      "Sostuvo que el cómputo de la caducidad en la segunda instancia debe iniciarse desde el momento en que se ha emitido un pronunciamiento jurisdiccional que ha resuelto el conflicto. Por lo tanto, a pesar de que debe prevalecer una interpretación restrictiva en lo que respecta al instituto de la caducidad, el recurso de apelación debe cumplir con requisitos más rigurosos.",
+      "Se añadió que este criterio ha sido confirmado en múltiples pronunciamientos por la Corte Suprema de Justicia, y también es respaldado por las decisiones anteriores.",
+      "Afirmó, por lo tanto, que la falta de cumplimiento del deber que corresponde al secretario según lo establecido en el art. 248 del CPCC no puede ser considerada como una razón válida para que la parte no actúe en la causa \"GRAIZZARO SILVIA MARIA C/ RODRIGUUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947 en esta instancia.",
+      "No obstante lo anterior, se señaló que es necesario llevar a cabo una interpretación caso por caso en aquellas situaciones en las que se discuta la caducidad de instancia. Es fundamental considerar la nueva gestión de causas, la cual permite, en ciertos casos, un análisis más flexible y prudente. Esto implica tener en cuenta los elementos específicos del caso y asegurarse de que el periodo de inacción no sea excesivamente prolongado, de modo que no se comprometa la seguridad jurídica ni el debido proceso.",
+      "De acuerdo con lo anterior, se determinó que en el presente caso debe aceptarse la caducidad de la instancia. Esta decisión se fundamenta no solo en el hecho de que ha transcurrido casi el doble del tiempo estipulado para tal efecto, sino también en que se trata de una ejecución de honorarios de un perito actuando como auxiliar de justicia. En este contexto, no se encuentra en riesgo la pérdida de otros derechos sustanciales, y, además, el ejecutado no presentó excepciones.",
+      "2.- En oposición a tal decisión, la codemandada Sra. interpuso un recurso.",
+      "María del Carmen Balbi interpone un recurso de inaplicabilidad de ley, fundamentando su solicitud en la causal de violación o incorrecta aplicación de la normativa, conforme a lo dispuesto en los arts. 248 y 301 inc. d) del CPCC, así como en los arts. 17, 18 y 19 de la CN.",
+      "Organizó sus quejas iniciando con la exposición de los hechos, para posteriormente impugnar la sentencia, argumentando que se realizó una inapropiada interpretación de la ley.",
+      "El recurrente argumentó que la Cámara llegó a una conclusión errónea al asignar a su parte la responsabilidad de promover la instancia, lo cual no está establecido en ninguna norma positiva vigente, solicitando así su elevación. Alega que dicha función debía ser asumida por el juzgado, de acuerdo con lo señalado en el inc. 3 del art.",
+      "301 del CPCC.",
+      "Se observó que, en el presente caso, tras la presentación de su recurso y la debida exposición de agravios, los cuales fueron contestados por la parte contraria, el juzgado dispuso la remisión de las actuaciones y elaboró el oficio correspondiente para tal elevación. Todo esto llevó a la parte recurrente a la convicción de que la elevación a la instancia superior era un hecho consumado, quedando únicamente a la espera de la decisión del tribunal.",
+      "Alega que la Cámara, sin proporcionar justificación alguna, opta por transferir a su persona una obligación que no le corresponde, lo cual considera incorrecto.",
+      "Se estima que los antecedentes del STJ mencionados por la Cámara no son pertinentes al presente asunto, dado que se refieren a una circunstancia distinta.",
+      "Alegó que se infringe el art. 301, inc. 3) y el art. 248 del CPCC, los cuales estipulan que el impulso del proceso debe realizarse de oficio y corresponde a la secretaría del juzgado, haciendo referencia a fallos anteriores que respaldan su argumentación.",
+      "Solicitó la reserva de la cuestión federal y pidió que se anule la sentencia.",
+      "3.- El 22 de agosto de 2023, la Cámara decidió notificar a la parte contraria sobre el recurso, quien ejerció el derecho que le otorga el art. 282 del \"GRAIZZARO SILVIA MARIA C/ RODRIGUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947 CPCC el 8 de septiembre de 2023. Posteriormente, el 12 de octubre de 2023, se resolvió conceder el recurso de inaplicabilidad de ley, al considerar que se habían satisfecho los requisitos formales necesarios para la admisión de la vía.",
+      "4.- Tras revisar los antecedentes del presente proceso y al abordar la cuestión de la inaplicabilidad de la ley planteada, es necesario señalar de manera preliminar que el recurrente tiene razón en su argumentación, por lo que su solicitud debe ser aceptada de manera favorable, dado que la sentencia de la cámara infringe una disposición legal clara -art. 301 inc. 3 del CPCC-.",
+      "La disposición citada por el apelante es manifiesta, no dejando lugar a ambigüedades en su interpretación y alcance: \"No se producirá la caducidad de instancia: ... 3. Cuando los procesos estuvieran pendientes de alguna resolución y la demora en dictarla fuera imputable al tribunal, o la prosecución del trámite dependiere de una actividad que este código o las reglamentaciones de superintendencia imponen al secretario o al jefe de despacho\".",
+      "De acuerdo con la mencionada disposición y en función de lo que se infiere del contexto de las actuaciones, se establece que la responsabilidad procesal de realizar el traslado electrónico de las actuaciones a la alzada era una obligación que incumbía a la secretaría del juzgado (art. 248 del CPCC).",
+      "Por lo tanto, se considera incorrecta la interpretación específica realizada por la Cámara, que buscó suavizar la aplicación de la normativa citada por el apelante -art. 301 inc. 3, CPCC- al exigirle un acto de impulso procesal que no le corresponde, dado que su deber de impulsarlo había finalizado al disponerse la elevación a la Cámara en fecha 22/11/2022.",
+      "De acuerdo con lo anterior, estimo que no se puede imponer al justiciable obligaciones que no le son requeridas, dado que la normativa procesal no se las confiere, sin el peligro de incurrir en una delegación que no está contemplada en la ley.",
+      "En resumen, dado que el justiciable no tiene la carga procesal de impulso, su falta de actividad no puede interpretarse como un abandono de la instancia. Esto se debe a que tal interpretación implicaría atribuirle las consecuencias del incumplimiento de las obligaciones legales que corresponden a los funcionarios judiciales encargados, en este caso, a la secretaría del juzgado.",
+      "Aunque esta Sala ha mantenido, en resoluciones anteriores con diferentes conformaciones y por decisión mayoritaria, una interpretación diferente sobre el alcance de la obligación de la parte de promover el procedimiento, dicha cuestión fue abordada con base en la doctrina de la CSJN. Sin embargo, en decisiones posteriores, el Máximo Tribunal ha indicado que \"la pasividad de la parte no puede ser considerada como abandono de la instancia cuando está exenta de la carga procesal de impulso, ya que ello significaría atribuirle las consecuencias del incumplimiento de las obligaciones de los funcionarios judiciales responsables\" en el caso \"GRAIZZARO SILVIA MARIA C/ RODRIGUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expte. Nº 8947.",
+      "De acuerdo con lo anteriormente expuesto, y considerando la naturaleza restrictiva que debe aplicarse al instituto de la caducidad de instancia, así como la configuración en el presente caso del supuesto de improcedencia de su declaración, el cual está previsto por una norma específica del Código Procesal Civil y Comercial, se debe declarar procedente el recurso de inaplicabilidad de ley presentado. En consecuencia, se procede a CASAR la resolución impugnada, anulando la caducidad que fue declarada, y se ordena tramitar el recurso de apelación interpuesto, con las costas a cargo de la actora que ha resultado vencida - art. 65 del CPCC - ASÍ VOTO.",
+      "A LA CUESTIÓN PLANTEADA POR EL SR. VOCAL DR."
+    ],
+    "LEONARDO PORTELA DIJO": [
+      "Coincido con la resolución sugerida por la Dra. Schumacher. DE ESTA MANERA, VOTO.",
+      "LLEGANDO AL FINAL, LA SRA. VOCAL DRA. CLAUDIA"
+    ],
+    "MIZAWAK DIJO": [
+      "Dado que hay un consenso mayoritario sobre el asunto planteado, no es necesario que emita una opinión al respecto. POR LO TANTO, VOTO ASÍ.",
+      "1\"Elina Dorotea Baldwin c/ Metrovías S.A. s/ daños y perjuicios\", fallo del 02/08/2022 CIV 073468/2011/1/RH001. (https://sj.csjn.gov.ar/homeSJ/notas/nota/48/documento); \"Raúl Eduardo Aranda c/ ENA (Ministerio de Defensa - Ejército Argentino) y/o Q.R.R. s/ impugnación de acto administrativo\", fallo del 30/11/2023; FPO 6333/2014/1/RH1.",
+      "Por lo tanto, no habiendo más asuntos que tratar, se considera concluido el acto, quedando establecida la siguiente resolución:",
+      "Paraná, 14 de marzo de 2024.\n\nEn la ciudad de Paraná, a fecha 14 de marzo de 2024, se emite el siguiente fallo judicial. \n\nSe ha analizado el caso en cuestión, considerando las pruebas presentadas y los argumentos de las partes involucradas. En virtud de lo expuesto, se concluye que, conforme a lo establecido en el marco normativo vigente, se deben aplicar las disposiciones pertinentes.\n\nDe acuerdo con el artículo 3 de la ley 7046, se determina que las acciones llevadas a cabo por la parte demandada no se ajustan a lo que la legislación establece, lo que conlleva a la necesidad de sancionar dichas conductas. \n\nPor lo tanto, se resuelve que se impone una medida correctiva, en cumplimiento de lo que estipula la normativa aplicable, a fin de garantizar el respeto a los derechos de las partes afectadas.\n\nAsí se decide, en atención a los fundamentos jurídicos y fácticos que sustentan esta resolución."
+    ],
+    "Y VISTO": [
+      "En virtud de los argumentos expuestos en el acuerdo previo, se,"
+    ],
+    "RESUELVE": [
+      "ACOGER el recurso de inaplicabilidad de ley interpuesto el 16/8/2023, ANULAR la decisión emitida por la Sala Tercera de la Cámara Segunda de Apelaciones de Paraná el 31/7/2023 y, por ende, REVOCAR la caducidad que fue declarada, ordenando que se continúe con el trámite del recurso de apelación presentado.",
+      "Cargar con los gastos a la parte que ha sido derrotada (art. 65 del CPCC).",
+      "SUSPENDER la regulación de los honorarios hasta que se establezcan los que correspondan a las instancias inferiores.",
+      "Considerar la reserva del caso federal.",
+      "Comuníquese de acuerdo con los artículos 1º y 4º de la Ac. Gral. 15/18 SNE, procédase a su registro y, en su momento, devuélvase.",
+      "\"GRAIZZARO SILVIA MARIA C/ RODRIGUEZ JOSE MARIA Y OTRO S/ EJECUCION DE HONORARIOS\" - Expediente Nº 8947. Se registró en la misma fecha. Igualmente, se hace constar que el presente documento se firma a través de firma digital, conforme al Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°, prescindiendo de su impresión en papel."
+    ]
+  }
+}

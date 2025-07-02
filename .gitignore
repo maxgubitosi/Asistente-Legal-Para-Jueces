@@ -29,3 +29,5 @@ nlp_venv/
 # ignore everything inside configs folder except configs/template_config.py
 configs/*
 !configs/template_config.py
+.DS_Store
+/legal-rag/datasets copy

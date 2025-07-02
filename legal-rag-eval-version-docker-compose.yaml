@@ -1,0 +1,40 @@
+version: "3.9"
+
+services:
+# --------------------------------------------------- Qdrant
+  qdrant:
+    image: qdrant/qdrant:v1.9.1
+    ports: ["6334:6333"]  # Changed from 6333:6333 to avoid conflict
+    volumes: [qdrant_data:/qdrant/storage]
+
+# ---------------------------------- Backend (índices + FastAPI)
+  backend:
+    build: .
+    depends_on: [qdrant]
+    env_file: [.env]
+    environment:
+      QDRANT_URL: "http://qdrant:6333"  # Internal network still uses 6333
+      PYTHONPATH: "/app"  # ← IMPORTANTE: Para que encuentre el módulo backend
+    volumes:
+      - ./datasets:/datasets
+      - ./bm25_cache:/indexes    # ←─ comando directo para uvicorn
+    ports: ["8001:8000"]  # Changed from 8000:8000 to avoid conflict
+    command: ["bash", "/app/deployment/scripts/build_and_start.sh"]  # ← Nueva ruta
+
+# ---------------------------------- UI Streamlit
+  streamlit:
+    build: .
+    container_name: rag-ui-eval  # Changed container name to avoid conflict
+    depends_on: [backend]
+    environment:
+      API_URL: "http://backend:8000/query"  # Internal network still uses 8000
+      PYTHONPATH: "/app"  # ← Agregar también aquí
+    command: >
+      streamlit run frontend/ui.py
+        --server.port 8501
+        --server.address 0.0.0.0
+    ports: ["8502:8501"]  # Changed from 8501:8501 to avoid conflict
+
+volumes:
+  qdrant_data:
+  bm25_cache: 

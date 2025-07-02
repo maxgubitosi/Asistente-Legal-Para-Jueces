@@ -1,0 +1,90 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8984",
+    "MES": "03",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            511,
+            512
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 28/20",
+          "cited_articles": [],
+          "extra": [
+            "del 25 de noviembre de 2020"
+          ]
+        },
+        {
+          "main_source": "Ley 6902",
+          "cited_articles": [
+            79
+          ],
+          "extra": [
+            "que establece la competencia material"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "de fecha 22/09/2015"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "INCIDENTE (COMPETENCIA)",
+  "IDEA_CENTRAL": "El tribunal resolvió declarar la competencia del Juzgado de Paz número 1 de Paraná para conocer en el incidente de competencia planteado en la ejecución de un convenio de honorarios entre las partes, fundamentando su decisión en la normativa vigente que establece la competencia material de los juzgados de paz para juicios ejecutivos.\n\nSe declara la competencia del Juzgado de Paz número 1 de Paraná, remitiendo las actuaciones a dicho juzgado.\n\n**Fundamento Legal:**\nLa decisión se basa en el artículo 79, inciso 1° de la Ley Orgánica del Poder Judicial (ley número 6902), que atribuye a los Juzgados de Paz la competencia para juicios ejecutivos y procesos de ejecución. Además, se considera la Acordada General número 28/15, que establece un límite de competencia en 60 juristas para los procesos de ejecución en Paraná.\n\n**Aspectos Legales Relevantes:**\n1. **Ley Orgánica del Poder Judicial - Ley número 6902**: Artículo 79, que define la competencia material de los Juzgados de Paz.\n2. **Código Procesal Civil y Comercial (CPCC)**: Artículo 511, que regula la preparación de la vía ejecutiva.\n3. **Acordada General número 28/15**: Establece el monto para litigar ante los Juzgados de Paz.\n\n**Razonamiento del Tribunal:**\nEl tribunal analizó el conflicto de competencia entre varios juzgados y concluyó que, dado que la ejecución se basa en un convenio entre las partes y no en honorarios regulados en otros expedientes, corresponde a los Juzgados de Paz conocer del caso. Se destacó que el monto reclamado se encuentra dentro del límite establecido para la competencia de estos juzgados, lo que justifica su intervención.\n\nEn consecuencia, se ordenó la remisión de las actuaciones al Juzgado de Paz número 1, comunicando la resolución a los demás juzgados involucrados.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"FISCHBACH VERONICA Y OTRA C/ TORTUL ADRIANA SILVINA S/ INCIDENTE (COMPETENCIA)\" Expte. número 8984 PARANÁ, 19 de marzo de 2024."
+    ],
+    "VISTO": [
+      "El conflicto de competencia planteado entre el Juzgado de Ejecuciones Civiles y Comerciales número 10 (2/5/2023), el Juzgado de Paz número 1 (14/9/2023) y el Juzgado de Familia número 3 (27/11/2023), todos de la ciudad de Paraná, en las actuaciones \"FISCHBACH VERONICA Y OTRA C/ TORTUL ADRIANA SILVINA S/ INCIDENTE (COMPETENCIA)\" - Expte. número 8984, y,"
+    ],
+    "CONSIDERANDO": [
+      "1.- Las Dras. Verónica Fischbach y Amelia Bonasich, con patrocinio letrado de la Dra. Carolina Fischbach, interpusieron formal demanda de preparación de la vía ejecutiva (art. 511 del CPCC) contra la Sra. Adriana Silvina Tortul, por la suma de pesos setenta y dos mil cuatrocientos cincuenta ($ 72.450,00) equivalente a 63 Juristas (calculados al 11/7/2021, fecha de la mora automática), con más los intereses desde que debió abonarse y hasta el efectivo pago, gastos y costas del presente juicio.",
+      "Asimismo, se reclamó el cobro de gastos reconocidos por la suma de pesos tres mil setecientos ($ 3.700,00) con más sus intereses, adeudados desde la fecha de suscripción del convenio el 9/4/2019 y hasta su efectivo pago.",
+      "2.- Seguidamente, el Sr. Juez de Primera Instancia de Ejecuciones Civiles y Comerciales Nº 10 de esta ciudad, Dr. Ignacio Basaldúa, resolvió declarar su incompetencia y remitir las actuaciones a la Mesa Unica Informatizada, para un nuevo sorteo (fecha, 2/5/2023).",
+      "Para así decidir, destacó que conforme lo acordado por el Superior Tribunal de Justicia por Acuerdo General 28/20 del 25 de noviembre de 2020, el monto para litigar ante la Justicia de Paz de la ciudad de Paraná se fijó en la suma de pesos ciento sesenta y cinco mil ($165.000,00) y que el monto que se pretende ejecutar es por la suma de pesos setenta y seis mil ciento cincuenta ($76.150,00).",
+      "3.- Recibidos los autos por la Sra. Jueza del Juzgado de Paz Nº 1 de esta ciudad, Dra. Virginia Giachello, resolvió declarar su incompetencia en razón de la materia e inhibirse de entender en las presentes remitiendo las actuaciones al Juzgado de Familia Nº 3 de Paraná (fecha, 14/9/2023).",
+      "En sus fundamentos, expuso que al expedirse el Ministerio Fiscal sobre la competencia de la suscripta en razón de la materia, dictaminó la incompetencia del juzgado a su cargo (fecha, 25/8/2023).",
+      "Que la Sala Civil y Comercial del S.T.J estableció: \"Que la competencia en razón de la materia es determinada exclusivamente por la ley, siendo su carácter inderogable y de orden público. Que la competencia de los Juzgados de Paz está atribuida estrictamente por la Ley Orgánica del Poder Judicial - Ley 6902- que en el art. 79 establece la competencia material, estando restringida en lo que aquí interesa, en el inciso primero a los juicios ejecutivos y procesos de ejecución o apremio fiscal. Asimismo el Art. 84 del cuerpo legal citado refiere al procedimiento aplicable en los juicios que son de su competencia: juicios ejecutivos, ejecuciones y apremios fiscales, surgiendo de sus términos y de la armoniosa interpretación de ambos preceptos que los procesos autónomos de ejecución de sentencia se encuentran excluidos de la materia que les fuera asignada\" (cfr. \"Cipriani Gustavo Rafael c/ Superior Gobierno de la Pcia. de Entre Ríos - Ejecución de honorarios s/ Competencia\" Expte. Nº 4307 en fecha 31-03-2005, reiterado en autos: \"Fischbach, Verónica c/ Consejo Gral. de Educación s/ Ejecución de Honorarios\" y sus acumulados en fecha 20/05/2005).",
+      "4.- Recibidos los autos por la Sra. Jueza a cargo del Juzgado de Familia Nº 3 de Paraná, Dra. Ana Quinteros Fagetti, resolvió declarar la incompetencia material del juzgado a su cargo; y ante la contienda negativa de competencia, dispuso remitir las actuaciones al Juzgado de Paz Nº 1 de Paraná, para que en el caso de no compartirse lo resuelto, disponga su elevación al Superior común de ambos juzgados.",
+      "En sus fundamentos, explicó que una vez corrida nueva vista al Ministerio Público Fiscal, dictaminó que \"(...) En este caso particular, se intenta preparar la vía para ejecutar un convenio por honorarios celebrado por una clienta con su abogada. Luego de un reexamen de los presentes, sin perjuicio de lo oportunamente dictaminado advierto que no tratándose de una ejecución de honorarios propiamente dicha, por cuanto si bien se mencionan expedientes que tramitaron por ante el juzgado de Familia nº 3 de esta ciudad, donde ha intervenido la profesional actora en autos, se trata el presente de un convenio celebrado entre las partes referido a los honorarios convenidos, solicitándose la preparación de vía ejecutiva de un juicio ejecutivo que resulta de la competencia material de los juzgados de paz en virtud de lo establecido por la Ley Orgánica del Poder Judicial -Ley 6902- que en el art. 79 establece la competencia material, refiriéndose el inciso primero a los juicios ejecutivos y procesos de ejecución o apremio\" (fecha 17/11/2023), opinión que comparte.",
+      "5.- Arribados los autos a este Tribunal, se dio intervención a la Procuradora Adjunta del Ministerio Público Fiscal, Dra. Mónica Elizabeth Carmona (fecha, 18/12/2023).",
+      "En su dictamen analizó que en virtud de dar respuesta al conflicto de competencia material planteado en razón del monto, la suscripta considera acertado el criterio adoptado por los magistrados a cargo del Juzgado de Primera Instancia en lo Civil y Comercial N° 10 y el Juzgado de Familia N° 3, ambos de Paraná, ello por exhibir una derivación razonada del derecho vigente y compartir sus fundamentos y citas legales.",
+      "Que lo dispuesto por la Acordada General Nº 28/15 de fecha 22/09/2015 que fija la competencia de los Juzgados de Paz de Paraná en 60 juristas para los procesos de ejecución, teniendo presente el valor actual del jurista que prevé la Resolución Nº 3320 Página 2 de 3 dictada por la Caja Forense de Entre Ríos y de acuerdo a la suma reclamada en autos, entendió que resulta competente el Juzgado de Paz de esta jurisdicción.",
+      "Seguidamente, expresó que bajo tales premisas, y en orden al principio de aplicación inmediata de las leyes sobre competencia, cabía agregar que cuando su letra es clara y no exige esfuerzo de interpretación la misma debe ser aplicada directamente (CS, Fallos: 319:2617).",
+      "Finalmente, estimó que a la luz de una interpretación armónica de las normas citadas, la incompetencia decretada en el resolutorio de fecha 14/9/2023 resultaba improcedente y consideró que corresponde que el presente proceso continúe su trámite por ante el Juzgado de Paz N° 1 de la ciudad de Paraná (fecha, 6/2/2024).",
+      "6.- Reseñados brevemente los antecedentes del caso, en la tarea de dirimir el conflicto de competencia planteado y en concordancia con lo dictaminado por el Ministerio Público Fiscal, cabe adelantar que en el caso resulta competente el Juzgado de Paz N° 1 de Paraná.",
+      "Y es que si bien se mencionan expedientes que tramitaron por ante el Juzgado de Familia Nº 3 de esta ciudad respecto de los cuales han intervenido las profesionales ejecutantes en representación de la ejecutada, lo cierto es que no se está ante la ejecución de honorarios regulados en aquellas actuaciones.",
+      "En efecto, la presente ejecución tiene lugar con motivo de un convenio celebrado entre las partes y, por esta razón, se solicita la preparación de vía ejecutiva cuya competencia material pertenece a los juzgados de Paz en virtud de lo establecido por el art. 79 inc. 1° de la Ley Orgánica del Poder Judicial - Ley 6902- \"...juicios ejecutivos y procesos de ejecución o apremio\".",
+      "Es decir en autos se pretende la ejecución de un convenio que conforme a lo peticionado en la demanda requiere iniciar la preparación de la vía ejecutiva (511/512 del CPCC)1.",
+      "Asimismo, conforme lo dispuesto por la Acordada General Nº 28/15 de fecha 22/09/2015 que fija la competencia de los Juzgados de Paz de Paraná en sesenta (60) juristas para los procesos de ejecución, teniendo en cuenta el valor del jurista al tiempo de interposición de la demanda ($ 2.750) y de acuerdo a la suma reclamada en las presentes actuaciones ($ 76.150), resulta competente el Juzgado de Paz de esta jurisdicción.",
+      "En consecuencia, por los argumentos dados, corresponde declarar la competencia del Juzgado de Paz Nº 1 de Paraná al que se le remitirán las presentes actuaciones, y comunicar lo resuelto al Juzgado de Ejecuciones Civiles y Comerciales Nº 10 de Paraná y al Juzgado de Familia Nº 3 de esta ciudad.",
+      "Por ello, se"
+    ],
+    "RESUELVE": [
+      "1.- Las Dras. Verónica Fischbach y Amelia Bonasich, con patrocinio letrado de la Dra. Carolina Fischbach, interpusieron formal demanda de preparación de la vía ejecutiva (artículo 511 del CPCC) contra la Sra. Adriana Silvina Tortul, por la suma de pesos setenta y dos mil cuatrocientos cincuenta ($ 72.450,00) equivalente a 63 Juristas (calculados al 11/7/2021, fecha de la mora automática), con más los intereses desde que debió abonarse y hasta el efectivo pago, gastos y costas del presente juicio.",
+      "Asimismo, se reclamó el cobro de gastos reconocidos por la suma de pesos tres mil setecientos ($ 3.700,00) con más sus intereses, adeudados desde la fecha de suscripción del convenio el 9/4/2019 y hasta su efectivo pago.",
+      "2.- Seguidamente, el Sr. Juez de Primera Instancia de Ejecuciones Civiles y Comerciales número 10 de esta ciudad, Dr. Ignacio Basaldúa, resolvió declarar su incompetencia y remitir las actuaciones a la Mesa Única Informatizada, para un nuevo sorteo (fecha, 2/5/2023).",
+      "Para así decidir, destacó que conforme lo acordado por el Superior Tribunal de Justicia por Acuerdo General número 28/20 del 25 de noviembre de 2020, el monto para litigar ante la Justicia de Paz de la ciudad de Paraná se fijó en la suma de pesos ciento sesenta y cinco mil ($165.000,00) y que el monto que se pretende ejecutar es por la suma de pesos setenta y seis mil ciento cincuenta ($76.150,00)."
+    ]
+  }
+}

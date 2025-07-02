@@ -1,0 +1,95 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8946",
+    "MES": "03",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            42,
+            269,
+            280,
+            281
+          ],
+          "extra": [
+            "párrafo segundo"
+          ]
+        },
+        {
+          "main_source": "Constitución Nacional (CN)",
+          "cited_articles": [
+            18
+          ],
+          "extra": [
+            ""
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            ""
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "",
+  "IDEA_CENTRAL": "El tribunal denegó el recurso de queja interpuesto por Gastón Eduardo Catán, en el contexto de una resolución que le imponía una multa procesal de $2.888.417,60. La decisión se fundamenta en la falta de cumplimiento de los requisitos formales establecidos en el artículo 280 del Código Procesal Civil y Comercial (CPCC), así como en la ausencia de una argumentación suficiente que justifique la revisión de la decisión de la Cámara de Apelaciones.\n\n**Aspectos Legales Relevantes:**\n1. **Falta de Fundamentación**: El tribunal concluyó que el recurrente no expuso adecuadamente las razones por las cuales consideraba que la resolución era incongruente o desproporcionada, limitándose a expresar discrepancias subjetivas.\n2. **Legitimación**: Se determinó que el demandado no tenía legitimación para cuestionar la multa impuesta a sus letrados, ya que esta no le fue directamente impuesta a él, lo que impide que pueda alegar agravio.\n\n**Leyes y Artículos Clave:**\n- **Artículo 280, CPCC**: Establece los requisitos para la procedencia de los recursos.\n- **Artículo 18, CN**: Relativo a la garantía de no ser sancionado doblemente por la misma conducta.\n- **Artículo 269, CPCC**: Referente a la congruencia en las resoluciones judiciales.\n\n**Razonamiento del Tribunal:**\nEl tribunal argumentó que el recurso de queja no cumplió con los requisitos formales necesarios para su admisión, ya que las alegaciones de arbitrariedad y absurdidad no estaban debidamente fundamentadas. Además, se enfatizó que la valoración de hechos y la imposición de sanciones son prerrogativas de los tribunales de grado, salvo que se demuestre una clara arbitrariedad, lo cual no ocurrió en este caso.\n\nEn consecuencia, se resolvió denegar el recurso de queja, reafirmando la decisión de la Cámara de Apelaciones.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"CATAN CARLOS FELIPE Y OTRA C/ CATAN GASTON EDUARDO S.",
+      "RENDICION DE CUENTAS S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. ALEJANDRO IGNACIO FIDELIO)\" - Expte.",
+      "Nº 8946 PARANÁ, 19 de marzo de 2024."
+    ],
+    "VISTO": [
+      "El recurso de queja interpuesto por el Sr. Gastón Eduardo Catán, por derecho propio y con patrocinio letrado de los Dres. Juan Ignacio Weimberg y Alejandro Ignacio Fidelio, quienes también actúan por derecho propio, en fecha 17 de octubre de 2023, en los autos: \"CATAN CARLOS FELIPE Y OTRA C/ CATAN GASTON EDUARDO S. RENDICION DE CUENTAS S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. ALEJANDRO IGNACIO FIDELIO)\" - Expte. Nº 8946, contra la resolución de la Sala Primera Civil y Comercial de la Cámara de Apelaciones de Gualeguaychú dictada en fecha 3 de octubre de 2023 y;"
+    ],
+    "CONSIDERANDO": [
+      "1.- La resolución del tribunal de grado no concedió el recurso de inaplicabilidad de ley articulado contra la decisión de esa alzada que en lo que aquí interesa, admitió el pedido de los actores y, en consecuencia, condenó al demandado, Sr. Gastón Eduardo Catán conjuntamente con sus letrados Alejandro Ignacio Fidelio y Juan Ignacio Weimberg, a abonar a los actores, Carlos Felipe Catán y María Marcela Catán, el importe $2.888.417,60, en concepto de multa procesal.",
+      "Para así decidir, concluyó que el recurso interpuesto no resultó procedente porque no reunió los recaudos previstos por el art. 280, párrafo segundo, del CPCC.",
+      "Aseveró que si bien el recurrente invocó que el fallo resultó incongruente y desproporcionado, lo cierto es que no desarrolló en qué consistieron, más allá de la mera discrepancia con la valoración de los hechos. En igual sentido, al expresar que se violentaron normas legales y principios procesales, no expuso tales conceptos ni refirió cuál fue la legislación vigente violada, ni la doctrina legal que consideró vulnerada o erróneamente aplicada.",
+      "Explicó que el recurso no cumplió con el análisis sugerido por esta Sala, y que asimismo se manifestó en el recurso que la sentencia es absurda y arbitraria solo con fundamento en una discrepancia con el fallo.",
+      "2.- En su queja, la parte recurrente expresa que el recurso de inaplicabilidad de ley denegado, reúne los recaudos previstos por el art. 280, segundo párrafo del CPCC, pues en este se expresó clara y detalladamente cuál es la ley, la doctrina legal violada o erróneamente aplicada y se señaló la manifiesta arbitrariedad y absurdidad de la sentencia atacada.",
+      "Reiteran los apartados de su escrito recursivo y exponen que allí se detalló en forma concreta y pormenorizada la errónea aplicación del derecho y \"CATAN CARLOS FELIPE Y OTRA C/ CATAN GASTON EDUARDO S.",
+      "RENDICION DE CUENTAS S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. ALEJANDRO IGNACIO FIDELIO)\" - Expte.",
+      "Nº 8946 violación a las garantías, principios y derechos procesales de raigambre constitucional conculcados por la sanción aplicada, amén de la arbitrariedad y absurdidad que ello trae aparejado.",
+      "Asimismo, esgrimen que en el punto IV del escrito recursivo se explicaron cuáles son las razones por las que se violó el principio de congruencia, la norma jurídica transgredida (el art. 269 del CPCC) y la discordancia existente en la petición del actor (sanción al demandado) con la motivación de la sentencia y la resolución objeto de recurso; en el punto V se resaltó la violación al art. 18 de la CN en cuanto impuso al demandado una doble sanción por una misma conducta; y en el punto VII se justificó en derecho y argumentalmente la arbitrariedad de la decisión judicial al sancionar con la multa prevista en el art. 42 CPCC.",
+      "Alegan que el recurso de inaplicabilidad de ley fue mal denegado porque las consideraciones vertidas por la Cámara exceden el límite de las facultades que le otorga el art. 281 del CPCC con relación al examen de las condiciones formales de admisibilidad, al incursionar en materia que es privativa de esta Sala. Lo que consideran vulnera las garantías constitucionales al debido proceso y a la legítima defensa.",
+      "Hacen reserva del caso federal y peticionan.",
+      "3.- Sintetizados los aspectos relevantes del caso corresponde determinar si la queja ha cumplido con los recaudos formales que viabilicen abordar el tratamiento del remedio articulado y concluir, en su caso, si el recurso de inaplicabilidad de ley ha sido correctamente denegado.",
+      "Cabe puntualizar que la vía elegida debe bastarse a sí misma, pues impone la exigencia de una debida fundamentación que se encuentre estructurada en una crítica clara, concreta y eficaz dirigida a explicar las razones por las que el recurso denegado debió ser concedido.",
+      "En este sentido, se adelanta que el recurso de queja deducido no resultará favorable para la recurrente, ya que las denuncias formuladas respecto a la invocación de normas y principios procesales y constitucionales (doble sanción al demandado y conculcación del art. 18 de la Constitución Nacional) no han resultado suficientes para que su parte pueda cumplimentar con la carga procesal de debida fundamentación que resulte suficiente para conmover la decisión denegatoria dispuesta por el tribunal de grado, ya que sus argumentos refieren a meras discrepancias subjetivas relacionados principalmente con meritar aspectos fácticos del procedimiento lo que evidentemente no se condice con el objeto del recurso extraordinario de inaplicabilidad de ley.",
+      "Esta Sala en distintas integraciones viene sosteniendo que -por regla- determinar o valorar las conductas de las partes es una cuestión de hecho \"CATAN CARLOS FELIPE Y OTRA C/ CATAN GASTON EDUARDO S.",
+      "RENDICION DE CUENTAS S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. ALEJANDRO IGNACIO FIDELIO)\" - Expte.",
+      "Nº 8946 como así también aplicar y cuantificar una sanción o multa procesal, pues la determinación de la conducta maliciosa o temeraria que pueda fundamentar una sanción de multa procesal responde a una valoración de situaciones de hecho cuyo ejercicio es privativo de los tribunales de grado, salvo invocación y acreditación de la absurdidad o arbitrariedad que en el caso de autos si bien fueron alegadas no aparecen configuradas1.",
+      "Por otro lado, no está de más señalar que a partir de una lectura del recurso de inaplicabilidad de ley incorporado digitalmente en la documental presentada de manera electrónica en fecha 24/10/2023, se evidencia que en realidad el mismo fue interpuesto por el demandado Sr. Gastón Eduardo Catán, por derecho propio y con patrocinio letrado de los Dres. Juan Ignacio Weimberg y Alejandro Ignacio Fidelio, por la intervención acreditada en el expediente principal, mientras que en la presente queja los profesionales actuantes -ahora- también lo hacen por sí.",
+      "Es decir, en el recurso de inaplicabilidad de ley estos no indicaron 1En este sentido in re: \"Romero Alba Mariana y otra c/ Carlos Hugo Oscar y otro s/ daños y perjuicios\", Expte. Nº 2095, sentencia del 16/8/1995; \"Sterren Alejandra María Victoria c/ López Aníbal Omar y otra s/ Desalojo\", Expte. Nº 7567, sentencia del 6/12/2017; \"Fanoni María c/ Romero Juan Andrés y otro s. ordinario simulacion s/ incidente nulidad\"- Expte. Nº 8272, sentencia del 1/2/2021; entre otros.",
+      "que actuaban por su propio derecho, sino que lo hicieron en carácter de patrocinantes, consignándose incluso al final que el demandado estaba en pleno conocimiento del contenido y efectos jurídicos del escrito presentado.",
+      "En ese marco, el demandado carecía de legitimación para cuestionar por su propio derecho la multa procesal impuesta a sus letrados patrocinantes, puesto que en caso de admitirse el planteo realizado por los profesionales, la multa procesal dispuesta por la cámara quedaría únicamente a cargo del demandado, generándole incluso un mayor perjuicio que el que tenía antes de articular el recurso.",
+      "De esta manera, resulta evidente que el Sr. Gastón Eduardo Catán se encontraba impedido de invocar algún agravio o interés particular respecto a una sanción que no le fue impuesta.",
+      "En consecuencia, por los argumentos expuestos no corresponde hacer lugar al recurso de queja interpuesto.",
+      "Por último, el Sr. Vocal Dr. Germán R. F. Carlomagno manifiesta que por existir la mayoría necesaria para arribar a la decisión que antecede se abstiene de votar.",
+      "Por ello, se"
+    ],
+    "RESUELVE": [
+      "1.- La resolución del tribunal de grado no concedió el recurso de inaplicabilidad de ley articulado contra la decisión de esa alzada que en lo que aquí interesa, admitió el pedido de los actores y, en consecuencia, condenó al demandado, Sr. Gastón Eduardo Catán conjuntamente con sus letrados Alejandro Ignacio Fidelio y Juan Ignacio Weimberg, a abonar a los actores, Carlos Felipe Catán y María Marcela Catán, el importe $2.888.417,60, en concepto de multa procesal.",
+      "Para así decidir, concluyó que el recurso interpuesto no resultó procedente porque no reunió los recaudos previstos por el artículo 280, párrafo segundo, del CPCC.",
+      "Aseveró que si bien el recurrente invocó que el fallo resultó incongruente y desproporcionado, lo cierto es que no desarrolló en qué consistieron, más allá de la mera discrepancia con la valoración de los hechos. En igual sentido, al expresar que se violentaron normas legales y principios procesales, no expuso tales conceptos ni refirió cuál fue la legislación vigente violada, ni la doctrina legal que consideró vulnerada o erróneamente aplicada.",
+      "Explicó que el recurso no cumplió con el análisis sugerido por esta Sala, y que asimismo se manifestó en el recurso que la sentencia es absurda y arbitraria solo con fundamento en una discrepancia con el fallo.",
+      "2.- En su queja, la parte recurrente expresa que el recurso de inaplicabilidad de ley denegado, reúne los recaudos previstos por el artículo 280, segundo párrafo del CPCC, pues en este se expresó clara y detalladamente cuál es la ley, la doctrina legal violada o erróneamente aplicada y se señaló la manifiesta arbitrariedad y absurdidad de la sentencia atacada.",
+      "Reiteran los apartados de su escrito recursivo y exponen que allí se detalló en forma concreta y pormenorizada la errónea aplicación del derecho y \"CATAN CARLOS FELIPE Y OTRA C/ CATAN GASTON EDUARDO S."
+    ]
+  }
+}

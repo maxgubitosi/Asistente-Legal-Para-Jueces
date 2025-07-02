@@ -1,0 +1,66 @@
+{
+  "test_name": "Redaction Robustness",
+  "accuracy": 0.0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0.0,
+  "details": {
+    "total_consultas": 10,
+    "respuestas_robustas": 0,
+    "similitud_promedio": 0.0,
+    "tasa_robustez": 0.0,
+    "resultados_detallados": [
+      {
+        "query_id": 1,
+        "query": "¿Cuáles son los requisitos para interponer un recurso de inaplicabilidad de ley?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 2,
+        "query": "¿Cómo se regulan los honorarios profesionales en Entre Ríos?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 3,
+        "query": "¿Qué establece la Ley 7046 sobre notificación de regulación de honorarios?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 4,
+        "query": "¿Cuál es el procedimiento para el pago de honorarios regulados judicialmente?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 5,
+        "query": "¿Qué consecuencias tiene la mora en el pago de honorarios profesionales?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 6,
+        "query": "¿Cómo se aplican los intereses en caso de mora en honorarios?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 7,
+        "query": "¿Qué artículos del Código Procesal Civil y Comercial se aplican frecuentemente?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 8,
+        "query": "¿Cuáles son las disposiciones sobre accidentes de tránsito en la provincia?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 9,
+        "query": "¿Qué establece el Acuerdo General 15/18 SNE?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      },
+      {
+        "query_id": 10,
+        "query": "¿Cómo se determina la competencia en casos de concursos preventivos?",
+        "error": "'RAGResponse' object has no attribute 'get'"
+      }
+    ],
+    "descripcion": "Evalúa si el RAG retorna resultados similares con redacción diferente"
+  }
+}
