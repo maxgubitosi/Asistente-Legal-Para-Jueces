@@ -5,7 +5,7 @@ from .base import BaseRAGPipeline
 from .factory import get_rag_pipeline, get_available_strategies, get_default_strategy, answer
 
 # Acceso directo a estrategias
-from .strategies import StandardRAGPipeline, ConversationalRAGPipeline
+from .strategies import StandardRAGPipeline
 
 # Alias para compatibilidad (sin wrapper)
 RAGPipeline = StandardRAGPipeline
@@ -22,7 +22,6 @@ __all__ = [
     
     # Estrategias directas
     "StandardRAGPipeline",
-    "ConversationalRAGPipeline",
     
     # Compatibilidad
     "RAGPipeline"                       # Alias directo a StandardRAGPipeline

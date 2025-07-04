@@ -10,7 +10,7 @@ from ..models import LegalParagraph
 logger = logging.getLogger(__name__)
 
 class StandardProcessor(DataProcessor):
-    """Procesador estándar - migrado de ingest.py"""
+    """Procesador estándar"""
     
     def __init__(self):
         self.stats = {

@@ -1,69 +1,27 @@
-## Verificación Automática de Contradicciones Judiciales con RAG
-# TP_NLP
-INSTALANDO EL PROYECTO
-Pueeden hacer desde cualquier entorno nuevo de python:
-         pip install -r requirements.txt 
-         Y con eso se instalan las librerias necesarias para correr todo el proyecto. A medida que agreguemos más, estaría bueno ir completando el .txt ese asi es facil hacer el setup del proyecto en cualquier lugar.
+# Asistente Legal Para Jueces
 
-# Correr los archivos numerados en el orden correspondiente
-0. Antes de correr código, descargar la carpeta de toni y colocarla dentro de la carpeta `datasets` con el nombre `2024`. También se debe crear un archivo credentials_config.py en la carpeta configs, siguiendo el template de template_config.py con las credenciales personales de Azure.
-<br><br>También mirar sección de cómo armar el env de python
+**Autores:** Antonio Santiago Tepsich, Máximo Gubitosi, Gabor Gorondi y Bruno Castagnino Rossi
 
-1. **1_normalization.ipynb**: 
-   - Normaliza los textos de los fallos judiciales.
-   - los croppea y elimina datos irrelevantes.
-   - devuelve una carpeta con los jsons de los fallos dados
-2. **2_embeddings.ipynb**: 
-   - Crear archivo en configs con datos de la API.
-   - Seleccionar los parametros
-   - Crea los embeddings de los textos de los fallos judiciales.
-   - Utiliza la librería `sentence_transformers` para generar representaciones vectoriales de los textos.
+Este repositorio agrupa todo el trabajo realizado para construir, evaluar y desplegar un sistema *Retrieval-Augmented Generation* (RAG) especializado en jurisprudencia argentina.
 
-# Notas
-- esta la clase tutorial de RAG aca para usar de referencia
-- el flujo actual solo carga los fallos de febrero, son 10.
+## Estructura del repositorio
 
-# Notas para armar el python env (venv)
+| Carpeta | Descripción |
+|---------|-------------|
+| `legal-rag/` | Proyecto final listo para producción: backend (FastAPI), frontend (Streamlit) y un subconjunto del dataset. Contiene **su propio README** con los pasos detallados para construir índices, configurar variables de entorno y ejecutar el stack mediante *docker-compose*. |
+| `legal-rag-eval-version/` | Clon de `legal-rag` ampliado para correr varias configuraciones de RAG **en paralelo** sobre versiones modificadas del dataset. Lo usamos para comparar estrategias de búsqueda, distintos LLMs y parámetros. |
+| `post_evaluation/` | Código y resultados de la fase de evaluación offline. Dentro encontrarás un archivo `reporte_evaluacion.md` donde explicamos la metodología y las métricas utilizadas. |
+| `pre-processing/` | Scripts exploratorios de limpieza de PDFs (legacy). El pipeline definitivo está documentado en `legal-rag/Notebooks/`. |
 
-1. **En terminal: crear el venv, activarlo**
+## Flujo de pre-procesamiento
+Los cuadernos Jupyter bajo `legal-rag/Notebooks` muestran paso a paso cómo transformamos los fallos en PDF al formato JSON enriquecido que consume el backend en producción.
 
-   ```bash
-   cd Su/Path/a/TP_NLP
+## Datos
+Por motivos de confidencialidad sólo incluimos **unas pocas sentencias** para que puedas levantar el sistema y probar su funcionamiento. Durante el desarrollo trabajamos con **más de 160 fallos reales**. Si necesitás acceso completo para investigación o pruebas, no dudes en contactarnos y coordinamos el envío.
 
-   python3.11 -m venv nlp_venv      # Crea venv (equivalente a "conda create -n nlp_venv").
-   ```
-   Con 3.11 y 3.13 probado funciona. Si no las tienen y quieren probar otra pueden probar suerte.
+## Cómo empezar
+Para correr la aplicación:
+1. Lee el README dentro de `legal-rag/`.
+2. Sigue las instrucciones allí indicadas (crear entorno, construir índices y lanzar `docker-compose`).
 
-   ```bash
-   # # # en mac: # # #
-   source nlp_venv/bin/activate        # activa el venv (equivalente a hacer "conda activate nlp_venv") 
-
-   # # # en Windows: # # #
-   .\nlp_venv\Scripts\activate
-   ```
-
-2. **En terminal: con el venv activado, instalar dependencias**
-
-   ```bash
-   # con el nlp_venv activo (hacer paso 1):
-   pip install --upgrade pip
-   pip install -r requirements_nlp_venv.txt
-   ```
-
-
-3.  **Si no les aparece el kernel del venv en el dropdown de vscode para correr el ipynb**
-   - Tienen que agregar el path al directorio donde esta el venv a los configs de vscode:
-   - Van a Code > Settings > Settings, buscan 'venv' en el buscador y agregan Su/Path/a/TP_NLP a las configs relevantes, que son "Python: Venv Folders", y "Python: Venv Path"
-   <br>
-<img src="readme_imgs/vscode_venv_configs.png" alt="Description" style="width:60%;" />
-
-4. **Para desactivar venv**
-  
-   ```bash
-   # Si quieren desactivar el venv en la terminal:
-   deactivate           # Equivalente a "conda deactivate"
-
-   # Para usarlo en el futuro simplemente:
-   cd Su/Path/a/TP_NLP
-   source nlp_venv/bin/activate     # "conda activate nlp_venv"
-   ```
+Con eso obtendrás el backend, el frontend y los índices mínimos para explorar las funcionalidades del sistema.
