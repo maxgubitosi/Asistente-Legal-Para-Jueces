@@ -1,0 +1,11 @@
+{
+  "json_id": "8836",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8836.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles fueron los fundamentos del tribunal para declarar inadmisible el recurso extraordinario federal interpuesto por los herederos aparentes?",
+    "¿Cómo se aplicó el artículo 772 del Código Civil y Comercial en la resolución del caso de petición de herencia?",
+    "¿Qué elementos llevaron al tribunal a calificar como de mala fe la actuación de los herederos aparentes al disponer de los bienes hereditarios?"
+  ],
+  "generated_at": "20250703_194141"
+}

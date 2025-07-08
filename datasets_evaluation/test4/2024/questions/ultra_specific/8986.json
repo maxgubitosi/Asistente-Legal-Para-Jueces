@@ -1,0 +1,11 @@
+{
+  "json_id": "8986",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8986.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la fecha en la que se resolvió denegar el recurso de queja interpuesto en el expediente Nº 8986?",
+    "¿Qué artículo del Código Civil y Comercial fue citado por el Superior Tribunal de Justicia de Entre Ríos para justificar la inadmisibilidad del recurso de inaplicabilidad de ley?",
+    "¿Qué criterio utilizó el tribunal para concluir que la imposición de costas de ambas instancias no era revisable en la instancia extraordinaria en este caso?"
+  ],
+  "generated_at": "20250703_194143"
+}

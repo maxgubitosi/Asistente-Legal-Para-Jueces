@@ -1,0 +1,11 @@
+{
+  "json_id": "9064",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9064.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué se declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por Cingolani Eduardo B.?",
+    "¿Qué requisitos establecidos en el artículo 257 del Código Procesal Civil y Comercial no fueron cumplidos según el Tribunal?",
+    "¿En qué casos el Tribunal admite por vía pretoriana el análisis de cuestiones de hecho y prueba?"
+  ],
+  "generated_at": "20250703_194245"
+}

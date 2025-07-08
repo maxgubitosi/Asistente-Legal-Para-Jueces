@@ -1,0 +1,11 @@
+{
+  "json_id": "8939",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8939.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los argumentos del Tribunal para declarar inadmisible el recurso de inaplicabilidad de ley interpuesto en el caso 'DELALOYE HUGO LUIS y otra C/ ASOCIACIÓN ARGENTINA DE LOS ADVENTISTAS DEL SEPTIMO DÍA' según la resolución de fecha 15 de marzo de 2024?",
+    "¿Qué disposiciones específicas del Código Civil y Comercial fueron citadas en relación con la responsabilidad civil y los daños en el caso 'DELALOYE HUGO LUIS y otra C/ ASOCIACIÓN ARGENTINA DE LOS ADVENTISTAS DEL SEPTIMO DÍA'?",
+    "¿Sobre qué fundamentos concluyó la Cámara de Apelaciones que la Dra. Ingrid Wensel de Stoletnly incurrió en 'mala praxis' médica en el contexto del caso 'DELALOYE HUGO LUIS y otra C/ ASOCIACIÓN ARGENTINA DE LOS ADVENTISTAS DEL SEPTIMO DÍA'?"
+  ],
+  "generated_at": "20250703_193538"
+}

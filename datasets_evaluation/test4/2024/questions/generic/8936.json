@@ -1,0 +1,11 @@
+{
+  "json_id": "8936",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8936.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son las implicancias procesales de aceptar la excusación de un juez en un caso de usucapión?",
+    "¿Qué procedimientos deberían seguirse para garantizar la imparcialidad del tribunal ante una excusación judicial?",
+    "¿Cómo se determina la nueva composición de la sala judicial tras la aceptación de una excusación?"
+  ],
+  "generated_at": "20250703_194039"
+}

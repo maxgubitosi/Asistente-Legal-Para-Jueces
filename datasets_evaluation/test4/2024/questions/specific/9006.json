@@ -1,0 +1,11 @@
+{
+  "json_id": "9006",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9006.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del tribunal para considerar que la resolución impugnada no encuadra como sentencia definitiva según el CPCC?",
+    "¿Qué alternativa procesal tienen las recurrentes para cuestionar la inclusión de bienes en el inventario conforme al artículo 754 del CPCC?",
+    "¿Qué argumentos esgrimieron las recurrentes para sostener que la resolución tiene efectos equivalentes a una sentencia definitiva?"
+  ],
+  "generated_at": "20250703_193837"
+}

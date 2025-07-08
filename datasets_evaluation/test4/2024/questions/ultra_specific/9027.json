@@ -1,0 +1,11 @@
+{
+  "json_id": "9027",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9027.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué artículos de la Ley Orgánica del Poder Judicial y el Código Procesal Civil y Comercial se mencionan para justificar la competencia material del Juzgado Civil, Comercial y Laboral?",
+    "¿Cuál fue la fecha en la que la Dra. Susana Griselda Irurzun se excusó en el proceso penal debido a su anterior intervención como agente fiscal?",
+    "¿Qué argumentos presentó el Dr. Omar Javier Ovando al declarar de oficio la incompetencia material de su juzgado para entender en el proceso penal del expediente Nº 9027?"
+  ],
+  "generated_at": "20250703_194143"
+}

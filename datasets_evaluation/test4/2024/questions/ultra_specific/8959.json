@@ -1,0 +1,11 @@
+{
+  "json_id": "8959",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8959.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la fecha de la sentencia original que se corrigió en este documento?",
+    "¿Qué artículos del Acuerdo General 15/18 del Sistema Nacional de Expedientes Electrónicos se mencionan como fundamento para la corrección del error material?",
+    "¿Qué sala de la Cámara Segunda de Apelaciones de Paraná debe ser referida correctamente según la resolución?"
+  ],
+  "generated_at": "20250703_193637"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8977",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8977.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué causal de recusación establecida en el artículo 14, inciso 7 del Código Procesal Civil y Comercial motivó la excusación del Dr. Carlos Federico Tepsich en las actuaciones del expediente N° 8977?",
+    "¿Qué fundamento del artículo 33 de la Ley Orgánica del Poder Judicial respaldó la abstención de voto del presidente Leonardo Portela en la resolución del caso 'MANFRONI KERGARAVAT CLAUDIO FABIAN C/ PLAN ROMBO Y/U OTRO S/ SUMARISIMO (CIVIL) (LEY DE DEFENSA CONSUMIDOR)' del 21 de mayo de 2024?",
+    "¿Qué fecha específica se menciona en el expediente N° 8977 como la ocasión en que el Dr. Carlos Federico Tepsich emitió opinión, configurando la causal prevista por el artículo 14, inciso 7 del Código Procesal Civil y Comercial?"
+  ],
+  "generated_at": "20250703_193942"
+}

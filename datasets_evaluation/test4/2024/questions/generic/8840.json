@@ -1,0 +1,11 @@
+{
+  "json_id": "8840",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8840.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios deben considerarse al establecer los honorarios profesionales en un caso judicial?",
+    "¿Cómo se asegura la correcta notificación y el cumplimiento del pago de honorarios regulados judicialmente?",
+    "¿Qué procedimientos deben seguirse en caso de mora en el pago de honorarios profesionales regulados judicialmente?"
+  ],
+  "generated_at": "20250703_193736"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8713",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8713.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue la razón principal por la que el Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto?",
+    "¿Qué fundamentos utilizó el Tribunal para considerar insuficientes las objeciones del fallido respecto a la tasación realizada?",
+    "¿Cómo se relaciona la medida de mejor proveer con la actualización de las valuaciones de los inmuebles en este caso?"
+  ],
+  "generated_at": "20250703_194142"
+}

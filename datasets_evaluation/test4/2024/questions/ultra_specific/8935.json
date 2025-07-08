@@ -1,0 +1,11 @@
+{
+  "json_id": "8935",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8935.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los fundamentos legales que llevaron al rechazo de la excusación del Sr. Vocal Carlos Federico Tepsich según el artículo 14 inciso 7 del Código Procesal Civil y Comercial?",
+    "¿Qué razones expone el Tribunal para considerar que la regulación de honorarios no configura prejuzgamiento en relación con la resolución previa del 15/6/2023?",
+    "¿Cuál es la integración definitiva de la Sala Civil y Comercial del STJ de Entre Ríos dispuesta en fecha 29 de noviembre de 2024 según esta resolución?"
+  ],
+  "generated_at": "20250703_194446"
+}

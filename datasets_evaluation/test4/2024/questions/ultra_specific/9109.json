@@ -1,0 +1,11 @@
+{
+  "json_id": "9109",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9109.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué errores específicos en los cálculos indemnizatorios realizados por la Cámara llevó al tribunal a declarar parcialmente procedente el recurso de inaplicabilidad de ley en el caso 'BERNHARDT ROY ALFREDO y OTROS C/ ROCCUZO FRANCO y OTRA S/ ORDINARIO DAÑOS Y PERJUICIOS'?",
+    "¿Por qué el tribunal rechazó la aclaratoria interpuesta por los codemandados Franco Rocuzzo y Andrea María Fabiana Lanzarotta respecto de los cálculos indemnizatorios en la resolución del 24/10/2024?",
+    "¿Cuál fue la razón por la que el Sr. Vocal en ejercicio de la presidencia del STJ, Leonardo Portela, se abstuvo de votar en la resolución emitida el 19/11/2024 según el art. 33 de la LOPJ?"
+  ],
+  "generated_at": "20250703_194447"
+}

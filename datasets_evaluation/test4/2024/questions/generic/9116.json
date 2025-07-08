@@ -1,0 +1,11 @@
+{
+  "json_id": "9116",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9116.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué requisitos deben cumplirse para la admisión de un recurso ante la falta de depósito previo?",
+    "¿En qué casos una resolución anterior puede considerarse irrecurrible en un proceso judicial?",
+    "¿Cómo se determina la responsabilidad en el pago de costas en un juicio cuando el recurso es rechazado?"
+  ],
+  "generated_at": "20250703_194444"
+}

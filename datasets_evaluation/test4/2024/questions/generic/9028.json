@@ -1,0 +1,11 @@
+{
+  "json_id": "9028",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9028.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo se resuelve un supuesto conflicto de competencias entre juzgados con áreas de especialización diferentes?",
+    "¿Qué procedimientos deben seguirse cuando un juez considera que no tiene la competencia material para una causa asignada?",
+    "¿De qué manera puede afectar la subrogancia a la adecuada prestación del servicio de justicia en un juzgado específico?"
+  ],
+  "generated_at": "20250703_193938"
+}

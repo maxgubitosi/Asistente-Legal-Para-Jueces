@@ -1,0 +1,11 @@
+{
+  "json_id": "9031",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9031.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo se resuelve un conflicto de competencias entre juzgados de distintas materias dentro del mismo sistema judicial?",
+    "¿Cuál es el impacto de la falta de especialización de un juez en la resolución de casos que no corresponden a su materia de competencia?",
+    "¿Qué procedimientos se deben seguir cuando un juez se excusa de intervenir en un caso por razones de imparcialidad o competencia?"
+  ],
+  "generated_at": "20250703_193736"
+}

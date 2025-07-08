@@ -1,0 +1,11 @@
+{
+  "json_id": "9060",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9060.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué fundamento utilizó el Tribunal para priorizar la posesión de estado y el vínculo socio-afectivo en el reconocimiento de filiación?",
+    "¿Qué establece el artículo 593 del Código Civil y Comercial en relación con el plazo de caducidad de la acción de impugnación de filiación?",
+    "¿Cómo consideró el Tribunal la caducidad de la acción de impugnación en relación con el principio de identidad familiar y estabilidad jurídica?"
+  ],
+  "generated_at": "20250703_194445"
+}

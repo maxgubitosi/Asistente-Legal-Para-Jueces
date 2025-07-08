@@ -1,0 +1,11 @@
+{
+  "json_id": "8947",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8947.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la justificación del Tribunal para declarar procedente el recurso de inaplicabilidad de ley interpuesto por la codemandada en el expediente Nº 8947?",
+    "¿Qué establece el artículo 301, inciso 3, del Código Procesal Civil y Comercial (CPCC) respecto a la caducidad de instancia?",
+    "¿Cómo interpretó el Tribunal la carga procesal establecida en el artículo 248 del CPCC en relación con el impulso de oficio en el caso 'Graizzaro Silvia María c/ Rodríguez José María y otro s/ ejecución de honorarios'?"
+  ],
+  "generated_at": "20250703_193436"
+}

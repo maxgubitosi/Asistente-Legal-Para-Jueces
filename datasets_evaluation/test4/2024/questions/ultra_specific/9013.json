@@ -1,0 +1,11 @@
+{
+  "json_id": "9013",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9013.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué artículo de la Ley 7046 establece que el juez que reguló los honorarios es competente para su cobro, independientemente del monto?",
+    "¿En qué fecha el Juzgado de Primera Instancia Civil y Comercial N° 10 de Paraná declaró su incompetencia y remitió las actuaciones al Juzgado de Paz de Seguí?",
+    "¿Cuál es el fundamento utilizado por la jueza Lorena G. Solaro para declarar la incompetencia del Juzgado de Paz de Seguí en el expediente N° 9013?"
+  ],
+  "generated_at": "20250703_193840"
+}

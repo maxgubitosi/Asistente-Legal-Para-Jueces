@@ -1,0 +1,55 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8752",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 7046",
+          "cited_articles": [
+            3,
+            28,
+            29,
+            30,
+            63,
+            64,
+            94,
+            114
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "conforme"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "ORDINARIO",
+  "IDEA_CENTRAL": "En el asunto \"ARUYA ELVIA ANALIA C/ SANATORIO CONCORDIA S.A. y OTRA\", el tribunal determinó establecer los honorarios profesionales de los abogados que intervinieron en el recurso de inaplicabilidad de ley, fijando las cantidades de $49,000 y $34,300, más IVA si corresponde. Esta resolución se basa en la normativa arancelaria pertinente, en particular en los artículos 3, 29, 30, 63, 64 y 94 de la Ley 7046.\n\n**Aspectos Legales Relevantes**\n\n1. **Normativa Arancelaria**: La fijación de honorarios se llevó a cabo de acuerdo con la Ley 7046, que define los criterios y procedimientos para la determinación de honorarios de abogados y procuradores.\n2. **Artículos Clave**:\n   - **Art. 28**: Establece la obligación de notificar la regulación de honorarios, indicando que dicha notificación debe realizarse en el domicilio real del mandante.\n   - **Art. 114**: Regula el abono de honorarios, estableciendo los plazos y condiciones para su pago, así como las implicaciones de la mora.\n\n**Razonamiento del Tribunal**\n\nAl regular los honorarios, el tribunal aplicó los criterios que establece la Ley 7046, garantizando que la regulación se alineara con lo estipulado por la normativa vigente. Se subrayó la relevancia de una notificación adecuada para el ejercicio del derecho a cobrar los honorarios, así como las repercusiones de la mora en el pago, que facultan al profesional a reclamar el monto actualizado con intereses. Esta decisión se inscribe dentro de un procedimiento ordinario y refleja la necesidad de asegurar una retribución justa por los servicios legales prestados.\n\nEn resumen, el fallo se enfoca en la regulación de honorarios, garantizando el cumplimiento de la normativa aplicable y resguardando los derechos de los profesionales del derecho.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"ELVIA ANALIA ARUYA C/ SANATORIO CONCORDIA S.A. y OTRA S/ ORDINARIO\" Expediente Nº 8752.",
+      "PARANÁ, 5 de febrero de 2024."
+    ],
+    "VISTO Y CONSIDERANDO": [
+      "Los autos \"ARUYA ELVIA ANALIA C/ SANATORIO CONCORDIA S.A. y OTRA S/ ORDINARIO\" - Expte. Nº 8752, son presentados ante este Tribunal con el propósito de establecer los honorarios correspondientes por la intervención profesional en el recurso de inaplicabilidad de ley, el cual fue resuelto el 27/4/2023.",
+      "Se considera la normativa arancelaria pertinente para la regulación actual, conforme a lo establecido en los arts. 3, 29, 30, 63, 64 y 94 de la ley 7046.",
+      "En consecuencia, se"
+    ],
+    "RESUELVE": [
+      "ESTABLECER los honorarios profesionales correspondientes a la Dra. Nadua Valeria Zuleiman y a José Luis Bello por el recurso de inaplicabilidad de ley, fijándose en las cantidades de pesos cuarenta y nueve mil ($ 49.000) y pesos treinta y cuatro mil trescientos ($ 34.300), más IVA si corresponde.",
+      "Proceda a notificar de acuerdo con los artículos 1º y 4º de la Ac. Gral. 15/18 SNE, realice el registro correspondiente y, en su momento, devuélvase.",
+      "Frente a mí. En la misma fecha se llevó a cabo el registro. Igualmente, se deja constancia de que la presente se firma a través de firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) omitiéndose su impresión en papel.",
+      "Dado que hay una normativa que regula los honorarios de abogados y/o procuradores, y en cumplimiento de lo establecido por la ley 7046, se procede a transcribir los siguientes artículos:",
+      "Art. 28: NOTIFICACIÓN DE CUALQUIER REGULACIÓN. La regulación de honorarios deberá ser notificada de manera personal o mediante cédula. Para poder ejercer el derecho al cobro del honorario por parte del mandante o patrocinado, la notificación tiene que realizarse en su domicilio real. En todos los casos, la cédula deberá contar con la firma del Secretario del Juzgado o Tribunal, incluyendo la transcripción de este Artículo y del art. 114, bajo pena de nulidad. No será necesaria la notificación personal o por cédula de los autos que resuelvan los reajustes posteriores que se efectúen en virtud de la aplicación del art. 114.",
+      "Art. 114: PAGO DE HONORARIOS. Los honorarios que hayan sido regulados por la vía judicial deberán ser pagados en un plazo de diez días contados desde que se requiera su abono de manera fehaciente. Una vez que se produzca la mora, el profesional tendrá el derecho de exigir el honorario actualizado, aplicando el índice establecido en el art. 29 desde el momento de la regulación hasta que se efectúe el pago, además de un interés del 8% anual. En situaciones donde los honorarios hayan sido objeto de apelación, se aplicará la corrección monetaria sobre el monto que se determine de manera definitiva por la instancia superior, a partir de la regulación realizada en la instancia inferior. No será necesario justificar en los juicios los índices que serán aplicados de oficio por los Sres. Jueces y Tribunales."
+    ]
+  }
+}

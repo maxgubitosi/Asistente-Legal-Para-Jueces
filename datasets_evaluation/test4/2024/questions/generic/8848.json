@@ -1,0 +1,11 @@
+{
+  "json_id": "8848",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8848.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué casos es necesario regular honorarios profesionales en el marco de un recurso judicial?",
+    "¿Cómo deben notificarse las resoluciones relacionadas con la regulación de honorarios en el ámbito judicial?",
+    "¿Cuáles son los procedimientos establecidos para el cobro de honorarios regulados judicialmente en caso de mora?"
+  ],
+  "generated_at": "20250703_193941"
+}

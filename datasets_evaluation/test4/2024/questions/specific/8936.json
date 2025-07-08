@@ -1,0 +1,11 @@
+{
+  "json_id": "8936",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8936.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la causal específica de excusación invocada por el Dr. Carlos Federico Tepsich según el artículo 14, inciso 7º del CPCC?",
+    "¿Qué impacto tiene la aceptación de la excusación sobre el tratamiento de la recusación planteada por la parte actora?",
+    "¿Cómo se integra la sala judicial tras la excusación del Dr. Carlos Federico Tepsich según el artículo 33 de la LOPJ?"
+  ],
+  "generated_at": "20250703_193940"
+}

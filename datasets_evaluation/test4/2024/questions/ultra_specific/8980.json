@@ -1,0 +1,11 @@
+{
+  "json_id": "8980",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8980.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la fecha en la que el Dr. Carlos Federico Tepsich presentó su excusación en el expediente 'BURGARTD JORGE LINO C/ BURGARTD JUAN PEDRO Y/O SUCESORES Y/O HEREDEROS Y/O QUIEN O QUIENES SE CONSIDEREN CON DERECHO S/ USUCAPION'?",
+    "¿Qué resoluciones previas emitió el Dr. Tepsich en el año 2023 que motivaron la recusación del actor, Jorge Lino Burgardt, en el marco del artículo 14 inciso 7º del CPCC?",
+    "¿Qué integrantes conformaron la nueva sala para continuar el tratamiento de la causa tras la aceptación de la excusación del Dr. Carlos Federico Tepsich, según el artículo 33 de la LOPJ?"
+  ],
+  "generated_at": "20250703_194042"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8678",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8678.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué el tribunal consideró que la intervención de la Sra. Vocal Gisela N. Schumacher no constituía prejuzgamiento en este caso?",
+    "¿Qué establece el artículo 14, inciso 7 del Código Procesal Civil y Comercial respecto a las causales de excusación de los magistrados?",
+    "¿Qué implicancias tiene la jurisprudencia de la Corte Suprema de Justicia de la Nación sobre la consideración de prejuzgamiento en decisiones judiciales previas?"
+  ],
+  "generated_at": "20250703_194344"
+}

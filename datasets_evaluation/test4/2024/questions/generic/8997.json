@@ -1,0 +1,11 @@
+{
+  "json_id": "8997",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8997.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué consecuencias procesales pueden derivarse de la falta de presentación de documentación requerida dentro del plazo establecido?",
+    "¿Qué criterios deben evaluarse al declarar inadmisible un recurso de queja por incumplimiento de requisitos formales?",
+    "¿Cómo influye la falta de cumplimiento de los requerimientos documentales en la resolución de un recurso judicial?"
+  ],
+  "generated_at": "20250703_193635"
+}

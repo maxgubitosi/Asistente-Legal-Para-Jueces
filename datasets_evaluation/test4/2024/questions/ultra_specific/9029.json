@@ -1,0 +1,11 @@
+{
+  "json_id": "9029",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9029.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué establece el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ) en relación con la subrogancia de jueces en caso de ausencia o impedimento?",
+    "¿Cuál es la razón principal por la que se excusó la Dra. Susana Griselda Irurzun, jueza de garantías de Federal, en el proceso penal contra Elena Ester Del Castillo?",
+    "¿Qué fundamentos utilizó el Superior Tribunal de Justicia de Entre Ríos para rechazar la declaración de incompetencia formulada por el Dr. Omar Javier Ovando en la causa penal Expte. Nº 9029?"
+  ],
+  "generated_at": "20250703_193435"
+}

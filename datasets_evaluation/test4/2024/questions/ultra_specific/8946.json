@@ -1,0 +1,11 @@
+{
+  "json_id": "8946",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8946.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del tribunal para denegar el recurso de queja interpuesto por Gastón Eduardo Catán en relación con la multa procesal de $2.888.417,60 establecida por la Cámara de Apelaciones de Gualeguaychú el 3 de octubre de 2023?",
+    "¿Por qué el tribunal concluyó que Gastón Eduardo Catán no tenía legitimación para cuestionar la multa procesal impuesta a sus abogados Alejandro Ignacio Fidelio y Juan Ignacio Weimberg en el expediente Nº 8946?",
+    "¿De qué manera el tribunal consideró que se incumplieron los requisitos formales previstos en el artículo 280 del Código Procesal Civil y Comercial en el recurso interpuesto por Gastón Eduardo Catán?"
+  ],
+  "generated_at": "20250703_193435"
+}

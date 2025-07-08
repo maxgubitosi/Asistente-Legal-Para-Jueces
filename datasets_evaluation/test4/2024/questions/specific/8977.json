@@ -1,0 +1,11 @@
+{
+  "json_id": "8977",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8977.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la causal de excusación invocada por el Dr. Carlos Federico Tepsich según el artículo 14, inciso 7 del CPCC?",
+    "¿Qué fundamento legal se utilizó para justificar la abstención del presidente del tribunal en esta resolución?",
+    "¿Cómo se garantiza la imparcialidad del tribunal en casos de conflictos de interés según el texto?"
+  ],
+  "generated_at": "20250703_193940"
+}

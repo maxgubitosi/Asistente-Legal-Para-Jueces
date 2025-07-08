@@ -1,8 +1,7 @@
 """
 Cliente para Sistema RAG Legal
 
-Este módulo maneja la comunicación con el backend del sistema RAG legal
-para realizar consultas y obtener resultados de búsqueda.
+Este módulo maneja la comunicación con el backend.
 """
 
 import requests

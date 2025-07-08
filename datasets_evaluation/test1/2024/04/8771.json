@@ -1,0 +1,69 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8771",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 7046",
+          "cited_articles": [
+            3,
+            14,
+            28,
+            29,
+            30,
+            63,
+            64,
+            94,
+            114
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Ley 10.704",
+          "cited_articles": [
+            33
+          ],
+          "extra": [
+            "texto según ley 10.704"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "conforme arts. 1º y 4º"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "ORDINARIO",
+  "IDEA_CENTRAL": "El fallo judicial en el caso \"SCHROEDER ERNESTO RODOLFO C/ LEFFLER Y WOLLERT SRL S/ ORDINARIO\" se centra en la regulación de honorarios profesionales por la actuación en un recurso de inaplicabilidad de ley. La decisión principal del tribunal es la aprobación de los honorarios a los abogados intervinientes, fijando montos específicos para cada uno, conforme a la normativa arancelaria aplicable.\n\n**Fundamento Legal y Aspectos Relevantes**\n\nLa regulación de honorarios se basa en la ley número 7046, específicamente en los artículos 3, 14, 29, 30, 63, 64 y 94, que establecen las pautas para la determinación y notificación de los honorarios. Se menciona que la base económica utilizada para la liquidación fue aprobada el 31 de julio de 2023.\n\n**Razonamiento del Tribunal**\n\nEl tribunal, tras considerar la normativa aplicable y la liquidación presentada, determina que los honorarios deben ser regulados de acuerdo con lo establecido en la ley. Se destaca que la notificación de la regulación debe realizarse conforme a los artículos 1º y 4º del Acuerdo General 15/18, asegurando el derecho al cobro por parte de los profesionales. Además, se hace referencia a la obligación de pago dentro de los diez días de requerido, conforme al art. 114 de la misma ley, que establece las consecuencias de la mora en el pago.\n\nFinalmente, se resalta que el vocal en ejercicio de la presidencia se abstuvo de votar, conforme al art. 33 de la Ley Orgánica del Poder Judicial (LOPJ), lo que no afecta la validez de la resolución adoptada por mayoría.\n\n**Conclusión**\n\nEl fallo establece de manera clara la regulación de honorarios profesionales, fundamentándose en la normativa vigente y asegurando el cumplimiento de los derechos de los abogados intervinientes en el proceso.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"SCHROEDER ERNESTO RODOLFO C/ LEFFLER Y WOLLERT SRL S/ ORDINARIO\" Expediente Nº 8771.",
+      "PARANÁ, 16 de abril de 2024."
+    ],
+    "VISTO Y CONSIDERANDO": [
+      "Que los autos \"SCHROEDER ERNESTO RODOLFO C/ LEFFLER Y WOLLERT SRL S/ ORDINARIO\" - Expediente Nº 8771, vienen a consideración de este Tribunal a los fines de regular honorarios por la actuación profesional en el recurso de inaplicabilidad de ley resuelto en fecha 9/5/2023.",
+      "Que para la presente regulación se tiene en cuenta la normativa arancelaria aplicable -artículo número 3, artículo número 14, artículo número 29, artículo número 30, artículo número 63, artículo número 64 y artículo número 94 de la ley número 7046-, y conforme a la base económica según liquidación aprobada en fecha 31/7/2023.",
+      "Por último, habiendo mayoría absoluta, EL SR. VOCAL EN EJERCICIO DE LA PRESIDENCIA DEL STJ, DR. LEONARDO PORTELA, se abstiene de votar y firmar la presente resolución con arreglo a lo dispuesto por el artículo número 33 de la LOPJ, texto según ley número 10.704.",
+      "En consecuencia, se"
+    ],
+    "RESUELVE": [
+      "REGULAR los honorarios profesionales, por el recurso de inaplicabilidad de ley resuelto, al Dr. Ricardo A. Mulone, a las Dras. Cintia A.",
+      "Folmer, María Virginia Folmer y al Dr. Diego Eugenio Yust en las respectivas sumas de pesos sesenta y ocho mil ($ 68.000), pesos sesenta y ocho mil ($ 68.000), pesos sesenta y ocho mil ($ 68.000) y pesos ciento cuarenta y dos mil ochocientos ($ 142.800), más IVA si correspondiere.",
+      "Notifíquese conforme artículo número 1º y artículo número 4º del Acuerdo General 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo General número 11/20 del 23 de junio de 2020, Punto 4°) prescindiéndose de su impresión en formato papel.",
+      "Existiendo regulación de honorarios a abogados y/o procuradores, cumpliendo con lo dispuesto por la ley número 7046, se transcriben los siguientes artículos:",
+      "Artículo número 28: NOTIFICACIÓN DE TODA REGULACIÓN. Toda regulación de honorarios deberá notificarse personalmente o por cédula. Para el ejercicio del derecho al cobro del honorario al mandante o patrocinado, la notificación deberá hacerse en su domicilio real.",
+      "En todos los casos la cédula deberá ser suscripta por el Secretario del Juzgado o Tribunal con transcripción de este artículo número y del artículo 114 bajo pena de nulidad. No será necesaria la notificación personal o por cédula de los autos que resuelvan los reajustes posteriores que se practiquen por aplicación del artículo 114.",
+      "Artículo 114: PAGO DE HONORARIOS. Los honorarios regulados judicialmente deberán abonarse dentro de los diez días de requerido su pago en forma fehaciente. Operada la mora, el profesional podrá reclamar el honorario actualizado con aplicación del índice, previsto en el artículo 29 desde la regulación y hasta el pago, con más un interés del 8% anual.",
+      "En caso de tratarse de honorarios que han sido materia de apelación, sobre el monto que quede fijado definitivamente su instancia superior, se aplicará la corrección monetaria a partir de la regulación de la instancia inferior. No será menester justificar en juicios los índices que se aplicarán de oficio por los Señores Jueces y Tribunales."
+    ]
+  }
+}

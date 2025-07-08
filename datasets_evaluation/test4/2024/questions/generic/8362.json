@@ -1,0 +1,11 @@
+{
+  "json_id": "8362",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8362.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo se regulan los honorarios de los abogados en procesos sucesorios ab intestato?",
+    "¿Qué criterios se tienen en cuenta para determinar los honorarios profesionales en un recurso de inaplicabilidad de ley?",
+    "¿Qué plazo tiene un profesional para reclamar la actualización de honorarios en caso de mora?"
+  ],
+  "generated_at": "20250703_194144"
+}

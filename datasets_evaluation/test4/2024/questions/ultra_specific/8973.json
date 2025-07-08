@@ -1,0 +1,11 @@
+{
+  "json_id": "8973",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8973.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la aplicación específica del artículo 1762 del Código Civil y Comercial en el caso 'Velázquez Hernán Ramón c/ Salcedo Daniel Omar y otros' respecto a la responsabilidad colectiva por actividad peligrosa?",
+    "¿Qué razones expuso el Tribunal para confirmar la responsabilidad civil de Juan Mateo Salcedo y María Isabel Arreseygor, pese a no probarse la contribución individual de Juan Mateo a los daños causados?",
+    "¿Cómo impactó el principio iura novit curia en la decisión del Tribunal respecto al encuadre jurídico del caso bajo el artículo 1762 del Código Civil y Comercial?"
+  ],
+  "generated_at": "20250703_193638"
+}

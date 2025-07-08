@@ -1,0 +1,11 @@
+{
+  "json_id": "8939",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8939.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué circunstancias se considera inadmisible un recurso extraordinario relacionado con la valoración de pruebas en un caso de responsabilidad civil?",
+    "¿Cuáles son las obligaciones de los establecimientos de salud en relación con el consentimiento informado y los controles prequirúrgicos?",
+    "¿Cómo se determina la responsabilidad de los profesionales médicos y de las instituciones sanitarias en casos de presunta mala praxis?"
+  ],
+  "generated_at": "20250703_193635"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9075",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9075.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el efecto de no cumplir con el depósito establecido en el artículo 280 del Código Procesal Civil y Comercial para la admisión del recurso?",
+    "¿Qué razones presentó la recurrente para solicitar la exención del depósito y cómo las valoró el tribunal?",
+    "¿Qué fundamentos utilizó el tribunal para rechazar el recurso de revocatoria in extremis y confirmar su carácter excepcional?"
+  ],
+  "generated_at": "20250703_194344"
+}

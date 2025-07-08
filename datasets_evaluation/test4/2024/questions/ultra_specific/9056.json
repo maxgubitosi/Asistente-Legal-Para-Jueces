@@ -1,0 +1,11 @@
+{
+  "json_id": "9056",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9056.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la fundamentación legal utilizada por el Tribunal para declarar inadmisible el recurso de inaplicabilidad de ley interpuesto en el expediente N.º 9056 'F., L.V. C/ J. R. E. S/ VIOLENCIA DE GÉNERO'?",
+    "¿Qué argumentó el Tribunal respecto del lenguaje utilizado en el memorial de agravios del denunciado y su letrado en relación a la Ley 26.485 y los estándares de derechos humanos?",
+    "¿Qué medida ordenó el Tribunal al Colegio de la Abogacía respecto a la capacitación en perspectiva de género de acuerdo con la Ley Provincial N.º 10.768 y la 'Ley Micaela'?"
+  ],
+  "generated_at": "20250703_193739"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8980",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8980.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue el fundamento principal para aceptar la excusación del Dr. Carlos Federico Tepsich en este caso?",
+    "¿Qué mecanismos procesales establece el Código Procesal Civil y Comercial para la excusación de los jueces?",
+    "¿Cómo se garantiza la imparcialidad judicial en casos donde un magistrado ha participado previamente en resoluciones relacionadas?"
+  ],
+  "generated_at": "20250703_194040"
+}

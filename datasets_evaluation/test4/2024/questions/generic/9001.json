@@ -1,0 +1,11 @@
+{
+  "json_id": "9001",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9001.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe el tribunal balancear el interés superior del niño con los derechos de los progenitores en casos de guarda judicial?",
+    "¿Cuáles son los criterios para determinar la necesidad de una revinculación entre menores y sus progenitores cuando existe una negativa expresa de los menores?",
+    "¿Qué medidas debe adoptar el tribunal al decidir sobre la prórroga de una guarda judicial en situaciones excepcionales?"
+  ],
+  "generated_at": "20250703_194043"
+}

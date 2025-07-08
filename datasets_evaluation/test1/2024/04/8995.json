@@ -1,0 +1,82 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8995",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Civil y Comercial (CCC)",
+          "cited_articles": [
+            770
+          ],
+          "extra": [
+            "inc. c)"
+          ]
+        },
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            280
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Ley 10.704",
+          "cited_articles": [
+            33
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "RECURSO DE QUEJA (QUEJA INTERPUESTA POR LA DRA. LUCIA DEMARCHI MORET)",
+  "IDEA_CENTRAL": "El fallo judicial resuelve hacer lugar al recurso de queja interpuesto por la Dra. Lucía Demarchi Moret, concediendo el recurso de inaplicabilidad de ley contra la decisión de la Cámara de Apelaciones de Gualeguaychú, que había admitido un recurso de apelación en un caso de daños y perjuicios. La decisión se fundamenta en la incorrecta evaluación de la admisibilidad del recurso extraordinario por parte de la Cámara, que se adentró en cuestiones de fondo que debían ser examinadas por el Superior Tribunal.\n\n**Aspectos Legales Relevantes**\n\n1. **Recurso de Queja**: Se interpone contra la denegación del recurso de inaplicabilidad de ley.\n2. **Código Procesal Civil y Comercial (CPCC)**: Art. 280, que establece las condiciones formales para la admisibilidad de recursos extraordinarios.\n3. **Código Civil y Comercial (CCC)**: Art. 770, inciso c), que regula la capitalización de intereses.\n\n**Fundamento Legal**\n\nEl tribunal concluye que la Cámara de Apelaciones incurrió en un exceso al evaluar la procedencia del recurso de inaplicabilidad de ley, ya que debió limitarse a verificar las condiciones formales y no entrar en el análisis de fondo. La quejosa argumentó que la Cámara había aplicado erróneamente el artículo número 770 del CCC, permitiendo la capitalización de intereses sin cumplir los requisitos legales.\n\n**Razonamiento del Tribunal**\n\nEl tribunal sostiene que la Cámara no solo desestimó el recurso sin un análisis adecuado, sino que también omitió considerar la doctrina vinculante establecida en precedentes de la Corte Suprema de Justicia de la Nación. Al admitir la queja, el tribunal busca corregir esta deficiencia, permitiendo que se evalúe el recurso de inaplicabilidad de ley con efecto suspensivo, asegurando así el respeto a las normas procesales y sustantivas pertinentes.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"TABORDA JUAN JESUS C/ REYNOSO DELFINA MAGALI Y OTRA - ORDINARIO DAÑOS Y PERJUICIOS S. EJECUCIÓN DE SENTENCIA S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR LA DRA. LUCIA DEMARCHI MORET)\" - Expediente Nº 8995 PARANÁ, 29 de abril de 2024."
+    ],
+    "VISTO": [
+      "El recurso de queja interpuesto en fecha 27/12/2023, en los autos \"TABORDA JUAN JESUS C/ REYNOSO DELFINA MAGALI Y OTRA - ORDINARIO DAÑOS Y PERJUICIOS S. EJECUCIÓN DE SENTENCIA S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR LA DRA. LUCIA DEMARCHI MORET)\" - Expediente Nº 8995, contra la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Gualeguaychú dictada en fecha 19/12/2023, y,"
+    ],
+    "CONSIDERANDO": [
+      "1.- La resolución del tribunal de grado, no concedió el recurso de inaplicabilidad de ley interpuesto contra la decisión de esa alzada, por la cual se resolvió admitir el recurso de apelación articulado por el Sr. Juan Jesús Taborda y, en consecuencia, se admitió la impugnación de la liquidación entablada por el ejecutante determinando que la deuda bruta a la fecha de la sentencia ascendía a la suma de $ 14.463.263,27.",
+      "Para así decidir, la Cámara consideró que los agravios del recurrente son una reiteración de los expuestos ante la Cámara y que omitió realizar una crítica directa y pertinente contra los fundamentos dados para rechazar su pretensión recursiva.",
+      "Afirmó que respecto a los cuestionamientos relacionados con la supuesta violación de la doctrina vinculante, se evidenció un error al comparar situaciones que no resultaban asimilables.",
+      "Asimismo, concluyó que no se indicó la infracción legal en que se habría incurrido, ni se demostró el desacierto jurídico que se atribuye al veredicto, indicando fundadas razones que expliquen cómo y por qué debe variar.",
+      "2.- En su queja, la recurrente manifiesta que el fundamento denegatorio del recurso de inaplicabilidad de ley número 7046 es mínimo y dogmático.",
+      "Expresa que su parte no puede reiterar agravios cuando no resultó perdidosa en primera instancia, pues su actividad se limitó a contestar los agravios esgrimidos por el ejecutante contra la resolución que rechazó la impugnación de la planilla intentada por este y con ello la pretensión de capitalizar intereses.",
+      "Manifiesta que entre los fundamentos expuestos al deducir el recurso de inaplicabilidad de ley se destacó la errónea aplicación del artículo número 770 inciso c) del CCC, ya que la Cámara al hacer lugar al recurso de apelación incurrió en un evidente apartamiento del tenor literal de la norma, permitiendo que se capitalicen intereses, pese a que no estaban cumplidos los requisitos contemplados por la ley número 7046.",
+      "Reafirma que este fundamento no puede ser una reiteración de los \"TABORDA JUAN JESUS C/ REYNOSO DELFINA MAGALI Y OTRA - ORDINARIO DAÑOS Y PERJUICIOS S. EJECUCIÓN DE SENTENCIA S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR LA DRA. LUCIA DEMARCHI MORET)\" - Expediente Nº 8995 agravios, ya que el juzgado de primera instancia había apoyado sus argumentos en la tesis que se sostiene.",
+      "Por otro lado, dice que fue puesto de resalto el precedente de la CSJN \"Elena Margarita Aranda\", donde para que proceda la capitalización de intereses, se exigió luego de aprobada la cuenta por el juez, la intimación de pago al deudor.",
+      "Finalmente, asevera que se viola la doctrina vinculante de esta Sala \"Marano Walter G. c/ Chaulet Raúl Alberto s/ preparación de la vía monitoria (Ejecutivo)\" - Expediente Nº 8630, del 1 de septiembre de 2022.",
+      "Hace reserva del caso federal y peticiona que se declare mal denegado el recurso.",
+      "3.- En orden a tratar el recurso traído a consideración cabe señalar que el tribunal a quo, al decidir sobre la admisibilidad del recurso extraordinario en cuestión debe limitarse a examinar la concurrencia de las condiciones formales contempladas en la ley procesal (artículo número 280, CPCC), sin entrar en consideraciones de otro orden y que son materia privativa del Superior.",
+      "Conforme ello, en la especie se verifica que la Cámara en oportunidad de no conceder el recurso de inaplicabilidad de ley deducido se adentra en cuestiones que hacen a su procedencia, por lo que incurrió en un exceso que debe ser corregido.",
+      "Conforme lo anterior, corresponde admitir la queja interpuesta y conceder el recurso de inaplicabilidad de ley número 7046 articulado.",
+      "Por último, habiendo mayoría absoluta, EL SR. VOCAL EN EJERCICIO DE LA PRESIDENCIA DEL STJ, DR. LEONARDO PORTELA, se abstiene de votar y firmar la presente resolución con arreglo a lo dispuesto por el artículo número 33 de la LOPJ, texto según ley número 10.704.",
+      "Por ello, se"
+    ],
+    "RESUELVE": [
+      "HACER LUGAR al recurso de queja interpuesto en fecha 27/12/2023 contra la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Gualeguaychú dictada en fecha 19/12/2023 y, en consecuencia, CONCEDER el recurso de inaplicabilidad de ley número 7046 interpuesto contra la sentencia definitiva de segunda instancia, con efecto suspensivo.",
+      "Líbrese oficio a la Cámara solicitando las actuaciones principales.",
+      "Regístrese, notifíquese conforme artículo número 1 y artículo número 4 del Acuerdo General 15/18 SNE y oportunamente archívese.",
+      "\"TABORDA JUAN JESUS C/ REYNOSO DELFINA MAGALI Y OTRA - ORDINARIO DAÑOS Y PERJUICIOS S. EJECUCIÓN DE SENTENCIA S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR LA DRA. LUCIA DEMARCHI MORET)\" - Expediente Nº 8995 Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo General 11/20 del 23-6-2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

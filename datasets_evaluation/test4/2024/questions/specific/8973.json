@@ -1,0 +1,11 @@
+{
+  "json_id": "8973",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8973.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento para atribuir responsabilidad objetiva en este caso según el artículo 1762 del Código Civil y Comercial?",
+    "¿Por qué no es necesario evaluar las acciones individuales de los integrantes del grupo para establecer la responsabilidad colectiva en este caso?",
+    "¿Qué principio jurídico permitió al Tribunal aplicar normas no invocadas por las partes en su decisión?"
+  ],
+  "generated_at": "20250703_193636"
+}

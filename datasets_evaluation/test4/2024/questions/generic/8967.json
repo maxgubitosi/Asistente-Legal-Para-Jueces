@@ -1,0 +1,11 @@
+{
+  "json_id": "8967",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8967.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué requisitos mínimos deben cumplirse para que un recurso sea considerado admisible en procesos judiciales?",
+    "¿Cómo se evalúa la arbitrariedad o excepcionalidad de una resolución en situaciones de inapelabilidad dentro de procesos falenciales?",
+    "¿Cuáles son las implicancias de la falta de fundamentación suficiente en la inadmisibilidad de recursos judiciales?"
+  ],
+  "generated_at": "20250703_193938"
+}

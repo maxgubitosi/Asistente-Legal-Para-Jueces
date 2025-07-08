@@ -1,0 +1,11 @@
+{
+  "json_id": "9032",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9032.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son las razones específicas expuestas por el Dr. Omar Javier Ovando para declarar la incompetencia material de su juzgado en el caso 'LUNA, PAULO Y OTRO - ABUSO SEXUAL CON ACCESO CARNAL (L F nro. 12780)' según su resolución del 26 de febrero de 2024?",
+    "¿Qué disposiciones del artículo 75 de la Ley Orgánica del Poder Judicial son utilizadas como fundamento para determinar la subrogancia legal en este caso?",
+    "¿Cuál es el argumento del tribunal para concluir que no existe un verdadero conflicto negativo de competencia entre el Juzgado Civil, Comercial y Laboral de Federal y el Juzgado de Garantías de Federal en el expediente Nº 9032?"
+  ],
+  "generated_at": "20250703_193435"
+}

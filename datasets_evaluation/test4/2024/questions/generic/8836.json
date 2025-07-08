@@ -1,0 +1,11 @@
+{
+  "json_id": "8836",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8836.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué elementos deben demostrarse para que proceda una acción de petición de herencia frente a herederos aparentes?",
+    "¿Cómo incide la mala fe de los herederos aparentes en la responsabilidad frente al heredero legítimo desplazado?",
+    "¿Cuáles son los requisitos de admisibilidad que debe cumplir un recurso extraordinario ante un tribunal superior?"
+  ],
+  "generated_at": "20250703_194242"
+}

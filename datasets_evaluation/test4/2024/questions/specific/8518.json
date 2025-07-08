@@ -1,0 +1,11 @@
+{
+  "json_id": "8518",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8518.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal utilizado por el Dr. Tepsich para presentar su excusación en este caso?",
+    "¿Por qué no se consideró necesario tratar la recusación planteada por la demandada Sra. Sonia Yolanda Inés Giovenal?",
+    "¿Qué normativa regula la integración de la Sala tras la excusación del Dr. Tepsich?"
+  ],
+  "generated_at": "20250703_194040"
+}

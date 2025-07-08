@@ -1,0 +1,11 @@
+{
+  "json_id": "9035",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9035.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento de la excusación realizada por la Dra. Susana Griselda Irurzun en el caso 'ROCHA, LUIS ESTEBAN y OTRA - CIRCUNVECCION DE INCAPACES', según el artículo 38 inciso a) del Código Procesal Civil y Comercial (CPCC)?",
+    "¿Qué disposición del artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ) fue argumentada en relación con la subrogancia legal y cómo impacta en la competencia material en el caso 'ROCHA, LUIS ESTEBAN y OTRA - CIRCUNVECCION DE INCAPACES'?",
+    "¿Qué posición adoptó la Sra. Procuradora Adjunta, Dra. Mónica Elizabeth Carmona, respecto a la competencia suscitada entre el Juzgado de Garantías y el Juzgado Civil, Comercial y Laboral en el expediente Nº 9035, de acuerdo al dictamen presentado el 13 de marzo de 2024?"
+  ],
+  "generated_at": "20250703_193435"
+}

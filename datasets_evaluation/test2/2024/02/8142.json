@@ -1,0 +1,56 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8142",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 7046",
+          "cited_articles": [
+            3,
+            14,
+            28,
+            29,
+            30,
+            63,
+            64,
+            69,
+            94,
+            114
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "ORDINARIO COBRO DE PESOS",
+  "IDEA_CENTRAL": "El tribunal ha tomado una decisión respecto a la regulación de los honorarios profesionales en el contexto del caso \"TERENZANO, ALCIDES VICENTE C/ LANDIVAR, MARTA OLGA Y OTRO S/ ORDINARIO COBRO DE PESOS\", de acuerdo con la normativa arancelaria dispuesta en la ley 7046.\n\nSe establecen los honorarios correspondientes a los abogados que han intervenido en dos recursos de inaplicabilidad de ley, determinando montos específicos para cada uno, más el IVA si corresponde.\n\n**Fundamento Legal:**\nLa resolución se basa en los artículos 3, 14, 29, 30, 63, 64, 69 y 94 de la ley 7046, que regula los honorarios de abogados y procuradores. Asimismo, se hace referencia al artículo 28, que trata sobre la notificación de la regulación, y al artículo 114, que establece el procedimiento para el pago de honorarios.\n\n**Aspectos Legales Relevantes:**\n1. **Ley 7046**: Define el marco normativo para la regulación de honorarios.\n2. **Art. 28**: Establece la obligación de notificar la regulación de honorarios.\n3. **Art. 114**: Regula el pago de honorarios y las implicaciones de la mora en su cumplimiento.\n\n**Razonamiento del Tribunal:**\nAl regular los honorarios, el tribunal toma en cuenta la normativa arancelaria pertinente y la liquidación económica que fue aprobada con anterioridad. Se asegura de que la regulación se ajuste a los montos que la ley establece y que se notifique de manera adecuada a los profesionales implicados, garantizando así el derecho al cobro de los honorarios regulados. Esta decisión tiene como objetivo asegurar la transparencia y la legalidad en el proceso de cobro de honorarios por parte de los abogados.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"ALCIDES VICENTE TERENZANO C/ MARTA OLGA LANDIVAR Y OTRO S/ COBRO ORDINARIO DE PESOS\" - Expediente Nº 8142.",
+      "PARANÁ, 5 de febrero de 2024."
+    ],
+    "VISTO Y CONSIDERANDO": [
+      "Los autos \"TERENZANO, ALCIDES VICENTE C/ LANDIVAR, MARTA OLGA Y OTRO S/ ORDINARIO COBRO DE PESOS\" - Expte. Nº 8142, son presentados ante este Tribunal a raíz de la petición de regulación de honorarios realizada el 7/12/2023, correspondiente a la actuación profesional en los recursos de inaplicabilidad de ley que fueron resueltos el 25/6/2020 y el 10/4/2023.",
+      "Se considera la normativa arancelaria pertinente para la regulación actual -arts. 3, 14, 29, 30, 63, 64, 69 y 94 de la ley 7046-, así como la base económica de acuerdo con la liquidación que fue aprobada el 8/6/2023.",
+      "En consecuencia, se"
+    ],
+    "RESUELVE": [
+      "ESTABLECER los honorarios profesionales correspondientes al recurso de inaplicabilidad de ley, resuelto el 25 de junio de 2020, para los Dres. Ricardo Abraham Salvador, Julio Eduardo Amaduzzi y Nicolás Eduardo Bruno, en las cantidades de pesos sesenta y tres mil novecientos ($ 63.900), pesos veintidós mil trescientos sesenta y cinco ($ 22.365) y pesos veintidós mil trescientos sesenta y cinco ($ 22.365), más IVA si fuera aplicable.",
+      "ESTABLECER los honorarios profesionales correspondientes al recurso de inaplicabilidad de ley, resuelto el 10 de abril de 2023, para el Dr. Ricardo Abraham Salvador, la Dra. María Antonella Arlettaz y el Dr. Diego G. Spinelli, en las cantidades de pesos doscientos trece mil ($ 213.000), pesos setenta y cuatro mil quinientos cincuenta ($ 74.550) y pesos setenta y cuatro mil quinientos cincuenta ($ 74.550), más IVA si corresponde.",
+      "Proceda a notificar de acuerdo con los artículos 1º y 4º de la Ac. Gral. 15/18 SNE, realice el registro correspondiente y, en su momento, devuélvase.",
+      "Frente a mí. En la misma fecha se llevó a cabo el registro. Igualmente, se deja constancia de que la presente se firma a través de firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) omitiéndose su impresión en papel.",
+      "Dado que hay una normativa que regula los honorarios de abogados y/o procuradores, y en cumplimiento de lo establecido por la ley 7046, se procede a transcribir los siguientes artículos:",
+      "Art. 28: NOTIFICACIÓN DE CUALQUIER REGULACIÓN. La regulación de honorarios deberá ser notificada de manera personal o mediante cédula. Para poder ejercer el derecho a cobrar el honorario al mandante o patrocinado, la notificación tiene que realizarse en su domicilio real. En todos los casos, la cédula deberá estar firmada por el Secretario del Juzgado o Tribunal, incluyendo la transcripción de este Artículo y del art. 114, bajo pena de nulidad. No será necesaria la notificación personal o por cédula de los autos que resuelvan los reajustes posteriores que se efectúen en virtud de la aplicación del art. 114.",
+      "Art. 114: PAGO DE HONORARIOS. El pago de los honorarios establecidos por la vía judicial deberá realizarse en un plazo de diez días a partir de la solicitud de su abono de manera fehaciente. Una vez que se produzca la mora, el profesional tendrá la facultad de exigir el honorario actualizado, aplicando el índice mencionado en el art. 29 desde el momento de la regulación hasta que se efectúe el pago, además de un interés del 8% anual. En situaciones donde los honorarios hayan sido objeto de apelación, se aplicará la corrección monetaria sobre el monto que se determine de manera definitiva por la instancia superior, comenzando desde la regulación de la instancia inferior. No será necesario justificar en los juicios los índices que serán aplicados de oficio por los Sres. Jueces y Tribunales."
+    ]
+  }
+}

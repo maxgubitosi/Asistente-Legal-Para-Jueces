@@ -1,0 +1,11 @@
+{
+  "json_id": "9031",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9031.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué el Tribunal consideró que no existía un conflicto negativo de competencia real en este caso?",
+    "¿Cuál es el fundamento principal para devolver las actuaciones al Juez Ovando según el Tribunal?",
+    "¿De qué manera el principio de especialidad influyó en la resolución de este caso?"
+  ],
+  "generated_at": "20250703_193636"
+}

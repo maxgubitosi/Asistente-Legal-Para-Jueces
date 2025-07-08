@@ -1,0 +1,11 @@
+{
+  "json_id": "9041",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9041.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué razones se expusieron para considerar que las decisiones sobre competencia no constituyen sentencias definitivas?",
+    "¿En qué fundamentos legales se basó el tribunal para rechazar el recurso de queja presentado por la recurrente?",
+    "¿Cómo se abordó la alegación de afectación al derecho al juez natural en la resolución del tribunal?"
+  ],
+  "generated_at": "20250703_194039"
+}

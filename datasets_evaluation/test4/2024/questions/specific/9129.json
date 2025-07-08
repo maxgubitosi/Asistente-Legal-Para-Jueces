@@ -1,0 +1,11 @@
+{
+  "json_id": "9129",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9129.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento jurídico para declarar inadmisible el recurso de inaplicabilidad interpuesto por Pablo Cheremnov Martushov?",
+    "¿Qué relevancia tienen los artículos 170, 276 y 280 del Código Procesal Civil y Comercial en el contexto del caso?",
+    "¿Cómo afecta la denuncia de un domicilio inexistente en la resolución del incidente de nulidad de notificación de demanda?"
+  ],
+  "generated_at": "20250703_194445"
+}

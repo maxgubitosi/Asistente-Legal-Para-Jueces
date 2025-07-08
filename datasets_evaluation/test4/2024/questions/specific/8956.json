@@ -1,0 +1,11 @@
+{
+  "json_id": "8956",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8956.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué causal de recusación establecida en el Código Procesal Civil y Comercial fue aplicada en este caso?",
+    "¿Cómo influye la Ley Orgánica del Poder Judicial en la resolución de este caso?",
+    "¿Qué medidas adoptó el tribunal para garantizar la imparcialidad del proceso judicial?"
+  ],
+  "generated_at": "20250703_193938"
+}

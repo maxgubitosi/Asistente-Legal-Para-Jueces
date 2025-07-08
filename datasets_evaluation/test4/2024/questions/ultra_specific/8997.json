@@ -1,0 +1,11 @@
+{
+  "json_id": "8997",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8997.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los requisitos documentales mencionados en los artículos 1º y 4º del Acuerdo General 15/18 del Sistema Nacional de Expedientes Electrónicos (SNE) que no fueron cumplidos en el caso del recurso de queja interpuesto por la Dra. Pamela María Irigoyen en representación de Julia Argentina Bauer?",
+    "¿Qué fecha y hora fueron establecidos como límite para la presentación de la documentación requerida en el expediente 'BAUER JULIA ARGENTINA S. BENEFICIO DE LITIGAR SIN GASTOS S/ RECURSO DE QUEJA' N° 8997?",
+    "¿Qué argumenta el tribunal sobre la mayoría de opiniones en relación con la cuestión propuesta en el pronunciamiento del Sr. Vocal Dr. Germán R. F. Carlomagno respecto al caso decidido el 11 de marzo de 2024?"
+  ],
+  "generated_at": "20250703_193537"
+}

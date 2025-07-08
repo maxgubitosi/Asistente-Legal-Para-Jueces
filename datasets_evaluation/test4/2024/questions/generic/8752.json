@@ -1,0 +1,11 @@
+{
+  "json_id": "8752",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8752.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son las implicancias legales de la mora en el pago de honorarios profesionales regulados judicialmente?",
+    "¿Qué criterios deben considerarse para la adecuada notificación de la regulación de honorarios a las partes involucradas?",
+    "¿Qué efectos genera la apelación de una regulación de honorarios en la aplicación de correcciones monetarias e intereses?"
+  ],
+  "generated_at": "20250703_194343"
+}

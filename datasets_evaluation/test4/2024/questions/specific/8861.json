@@ -1,0 +1,11 @@
+{
+  "json_id": "8861",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8861.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la normativa arancelaria aplicable que el Tribunal consideró para regular los honorarios en este caso?",
+    "¿Qué establece el artículo 28 de la Ley 7046 respecto a la notificación de la regulación de honorarios?",
+    "¿Qué sucede si los honorarios regulados judicialmente no se abonan dentro del plazo establecido por el artículo 114 de la Ley 7046?"
+  ],
+  "generated_at": "20250703_194141"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8985",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8985.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué fundamentos utilizó el Tribunal para declarar inadmisible el recurso de inaplicabilidad de ley presentado por los apoderados del acreedor?",
+    "¿Cómo justificó la Cámara de Apelaciones la distribución de los honorarios entre la sindicatura y los restantes profesionales involucrados?",
+    "¿Qué considera el Tribunal respecto a la posibilidad de revisar en casación cuestiones relacionadas con la regulación de honorarios?"
+  ],
+  "generated_at": "20250703_193433"
+}

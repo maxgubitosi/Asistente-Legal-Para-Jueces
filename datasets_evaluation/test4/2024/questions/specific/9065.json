@@ -1,0 +1,11 @@
+{
+  "json_id": "9065",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9065.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cómo fundamenta el Tribunal la corresponsabilidad de los demandados en el incumplimiento del contrato de pastaje?",
+    "¿Qué relevancia tiene la prueba indiciaria en este caso y cómo fue utilizada para evaluar la participación de los demandados?",
+    "¿Por qué el Tribunal rechazó el recurso de inaplicabilidad de ley presentado por los demandados?"
+  ],
+  "generated_at": "20250703_194344"
+}

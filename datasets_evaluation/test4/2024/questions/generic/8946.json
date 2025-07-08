@@ -1,0 +1,11 @@
+{
+  "json_id": "8946",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8946.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debería estructurarse un recurso de queja para cumplir con los requisitos formales de admisibilidad?",
+    "¿Qué elementos son necesarios para demostrar arbitrariedad en la imposición de una multa procesal?",
+    "¿En qué casos puede un tribunal de alzada incurrir en exceso de sus facultades al evaluar la admisibilidad de un recurso extraordinario?"
+  ],
+  "generated_at": "20250703_193436"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8344",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8344.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la razón principal esgrimida por el tribunal para considerar procedente la revocación de la donación según los artículos 1848, 1849 y 1850 del Código Civil?",
+    "¿Qué derechos políticos de Celia María Agueda Munilla fueron cuestionados por la resolución Nº 128 de la Dirección de Inspección de Personas Jurídicas de Entre Ríos en relación con RPB S.A.?",
+    "¿En qué fecha se dictó la sentencia de la Cámara de Apelaciones de Gualeguaychú que fue posteriormente casada por el tribunal según el expediente Nº 8344?"
+  ],
+  "generated_at": "20250703_194245"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9010",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9010.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la causal específica invocada para la excusación del juez según el artículo 14 del Código Procesal Civil y Comercial?",
+    "¿Cómo se garantiza la continuidad y composición del tribunal tras la excusación del Dr. Carlos Federico Tepsich?",
+    "¿Qué medidas se mencionan en el fallo para asegurar la imparcialidad y transparencia del proceso judicial?"
+  ],
+  "generated_at": "20250703_194142"
+}

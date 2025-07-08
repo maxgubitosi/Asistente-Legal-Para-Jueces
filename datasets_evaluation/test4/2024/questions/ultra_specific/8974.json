@@ -1,0 +1,11 @@
+{
+  "json_id": "8974",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8974.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron los fundamentos legales específicos que el Tribunal utilizó para declarar que Lázaro Rodrigo Baldo adquirió el dominio del inmueble por usucapión en virtud de los artículos 1915 y 1928 del Código Civil y Comercial?",
+    "¿Qué argumentos presentó la Cámara de Apelaciones de Gualeguaychú el 22 de mayo de 2023 para rechazar la demanda de usucapión de Lázaro Rodrigo Baldo, y cómo evaluó los actos de posesión alegados?",
+    "¿Qué objeciones señaló el recurso de inaplicabilidad de ley interpuesto por Lázaro Rodrigo Baldo el 9 de junio de 2023 en relación con la interpretación de los artículos 1915 y 1928 del Código Civil y Comercial durante el proceso?"
+  ],
+  "generated_at": "20250703_194041"
+}

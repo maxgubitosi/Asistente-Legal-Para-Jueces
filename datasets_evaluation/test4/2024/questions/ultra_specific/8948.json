@@ -1,0 +1,11 @@
+{
+  "json_id": "8948",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8948.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es el fundamento por el cual el Tribunal ordenó que la ejecución hipotecaria continúe en moneda de curso legal conforme al artículo 506 del CPCC?",
+    "¿Qué contradicción específica señaló el Tribunal con respecto a los considerandos y la parte resolutiva de la sentencia de primera instancia en este caso?",
+    "¿Qué fechas exactas se mencionan relacionadas con la interposición de los recursos de inaplicabilidad de ley en el expediente Nº 8948 por parte de los ejecutados?"
+  ],
+  "generated_at": "20250703_194244"
+}

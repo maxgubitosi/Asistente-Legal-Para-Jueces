@@ -1,0 +1,11 @@
+{
+  "json_id": "9026",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9026.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿En qué fecha la Dra. Susana Griselda Irurzun, Jueza de Garantías Interina de Federal, se excusó del caso 'DEL CASTILLO, JESICA MICAELA - RESISTENCIA A LA AUTORIDAD' y en virtud de qué artículo del Código Procesal Civil y Comercial tomó esta decisión?",
+    "¿Cuál es el fundamento expuesto por el Dr. Omar Javier Ovando para declarar la incompetencia material del Juzgado Civil, Comercial y Laboral de Federal en el proceso penal conforme a los artículos 5 y 6 del CPCC?",
+    "¿Qué rol desempeñó la Sra. Procuradora Adjunta del Ministerio Público Fiscal, Dra. Mónica Elizabeth Carmona, en el dictamen relacionado con el conflicto de competencia suscitado en el expediente Nº 9026?"
+  ],
+  "generated_at": "20250703_193737"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8927",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8927.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del Tribunal para declarar inadmisible el recurso de inaplicabilidad interpuesto por San Cristóbal Sociedad Mutual de Seguros Generales en relación al fallo de la Cámara de Apelaciones de Concordia dictado el 15/6/2023?",
+    "¿Cómo interpretó el Tribunal los artículos 41 y 64 de la Ley Nacional de Tránsito N° 24.449 respecto a la prioridad de paso en la colisión ocurrida en la arteria de doble sentido donde circulaba Fernando Ariel Zampedri?",
+    "¿Qué argumentos presentó la citada en garantía, San Cristóbal Sociedad Mutual de Seguros Generales, para cuestionar la presunta arbitrariedad de la Cámara al considerar que la calle Inmaculada Concepción de la ciudad de Federación no puede ser equiparada al concepto de semiautopista según el inciso d) del artículo 41 de la Ley Nacional de Tránsito N° 24.449?"
+  ],
+  "generated_at": "20250703_194145"
+}

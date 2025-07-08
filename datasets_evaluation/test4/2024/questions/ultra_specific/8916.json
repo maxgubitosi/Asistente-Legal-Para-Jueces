@@ -1,0 +1,11 @@
+{
+  "json_id": "8916",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8916.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué requisitos formales establecidos por la Acordada 4/2007 de la Corte Suprema de Justicia de la Nación incumplió Rodolfo Esteban Vera al interponer el recurso extraordinario federal en los autos 'SUINO S.A. C/ VERA RODOLFO ESTEBAN S/ ORDINARIO ESCRITURACION' - Expte. Nº 8916?",
+    "¿Cuál era el monto específico que Rodolfo Esteban Vera debía depositar, según el artículo 280 del Código Procesal Civil y Comercial, en función del avalúo fiscal del inmueble y su equivalencia a 45 juristas?",
+    "¿Qué precedente de la Corte Suprema de Justicia de la Nación citó Rodolfo Esteban Vera para sostener que el fallo del tribunal lesionó su garantía de defensa en juicio consagrada en el artículo 18 de la Constitución Nacional?"
+  ],
+  "generated_at": "20250703_193536"
+}

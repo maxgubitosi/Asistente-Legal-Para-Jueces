@@ -1,0 +1,11 @@
+{
+  "json_id": "8935",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8935.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la razón por la que se rechazó la excusación del Sr. Vocal Carlos Federico Tepsich?",
+    "¿Por qué el Tribunal considera que no se configura prejuzgamiento en este caso?",
+    "¿Cómo justifica el Tribunal la necesidad de interpretar las causales de excusación con rigor?"
+  ],
+  "generated_at": "20250703_194445"
+}

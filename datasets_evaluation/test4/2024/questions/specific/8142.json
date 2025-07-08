@@ -1,0 +1,11 @@
+{
+  "json_id": "8142",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8142.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué normativa establece las pautas para la regulación de honorarios en este caso?",
+    "¿Cómo debe realizarse la notificación de la regulación de honorarios según el documento?",
+    "¿Qué consecuencias establece la ley para la mora en el pago de honorarios regulados judicialmente?"
+  ],
+  "generated_at": "20250703_194244"
+}

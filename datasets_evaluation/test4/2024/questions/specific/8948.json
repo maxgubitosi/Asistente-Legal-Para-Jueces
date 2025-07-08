@@ -1,0 +1,11 @@
+{
+  "json_id": "8948",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8948.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué interpretación realizó el Tribunal sobre la aplicación del artículo 506 del Código Procesal Civil y Comercial respecto a la moneda en la ejecución hipotecaria?",
+    "¿Cómo justificó el Tribunal que la ejecución hipotecaria en dólares contraviene la normativa procesal aplicable?",
+    "¿En qué casos permite el artículo 765 del Código Civil y Comercial que el deudor pague en moneda nacional, y cómo se aplica esta disposición en el presente caso?"
+  ],
+  "generated_at": "20250703_194243"
+}

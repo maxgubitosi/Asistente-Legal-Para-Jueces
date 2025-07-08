@@ -1,0 +1,11 @@
+{
+  "json_id": "8995",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8995.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios deben considerarse al determinar la admisibilidad formal de un recurso extraordinario en casos de daños y perjuicios?",
+    "¿En qué circunstancias se puede afirmar que una Cámara de Apelaciones excedió su competencia al evaluar un recurso interpuesto por una de las partes?",
+    "¿Cómo debe interpretarse la normativa sobre la capitalización de intereses en relación con los requisitos procesales y sustantivos establecidos?"
+  ],
+  "generated_at": "20250703_193838"
+}

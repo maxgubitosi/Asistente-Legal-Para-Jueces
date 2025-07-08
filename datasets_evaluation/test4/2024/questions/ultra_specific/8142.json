@@ -1,0 +1,11 @@
+{
+  "json_id": "8142",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8142.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué honorarios se regularon específicamente para el Dr. Ricardo Abraham Salvador por el recurso de inaplicabilidad de ley resuelto el 10/4/2023?",
+    "¿Qué artículos de la ley 7046 fueron considerados para la regulación de honorarios en el caso 'TERENZANO, ALCIDES VICENTE C/ LANDIVAR, MARTA OLGA Y OTRO S/ ORDINARIO COBRO DE PESOS'?",
+    "¿Cuál es el plazo establecido en el artículo 114 de la ley 7046 para el pago de honorarios judicialmente regulados antes de que se genere mora?"
+  ],
+  "generated_at": "20250703_194245"
+}

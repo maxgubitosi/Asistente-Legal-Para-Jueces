@@ -31,3 +31,7 @@ configs/*
 !configs/template_config.py
 .DS_Store
 /legal-rag/datasets copy
+/datasets_evaluation/old/test1/03
+/datasets_evaluation
+/datasets_evaluation_copy
+

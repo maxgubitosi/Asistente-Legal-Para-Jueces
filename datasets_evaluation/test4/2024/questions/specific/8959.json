@@ -1,0 +1,11 @@
+{
+  "json_id": "8959",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8959.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue el error material identificado en la sentencia del 27 de diciembre de 2023?",
+    "¿Qué artículos del Acuerdo General 15/18 sirven como fundamento para la corrección de errores materiales en las sentencias?",
+    "¿Cómo afecta la corrección realizada al contenido sustancial de la sentencia original?"
+  ],
+  "generated_at": "20250703_193635"
+}

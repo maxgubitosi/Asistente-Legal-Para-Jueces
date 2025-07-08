@@ -1,0 +1,11 @@
+{
+  "json_id": "9164",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9164.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los criterios que deben considerarse para determinar la intervención estatal frente a situaciones de vulnerabilidad de menores?",
+    "¿De qué manera se puede coordinar eficazmente la intervención entre instituciones judiciales y administrativas para garantizar el interés superior del menor?",
+    "¿Qué medidas proceden cuando los intentos de abordaje terapéutico ambulatorio para un menor resultan infructuosos?"
+  ],
+  "generated_at": "20250703_194448"
+}

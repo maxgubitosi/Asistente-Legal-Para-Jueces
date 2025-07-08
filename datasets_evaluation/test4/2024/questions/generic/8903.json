@@ -1,0 +1,11 @@
+{
+  "json_id": "8903",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8903.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los requisitos para que un recurso extraordinario sea considerado admisible?",
+    "¿Cómo debe analizarse la valoración de las pruebas en casos de responsabilidad civil por incumplimiento de obligaciones contractuales?",
+    "¿Qué criterios debe tener en cuenta un tribunal para determinar si una sentencia es arbitraria o razonable?"
+  ],
+  "generated_at": "20250703_193635"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9038",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9038.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué fundamento utilizó el tribunal para declarar la incompetencia de la Sala Nº 2 en lo Civil y Comercial en este caso?",
+    "¿Qué distingue un conflicto laboral personal de una situación de violencia laboral según las leyes aplicables?",
+    "¿Qué criterios deben cumplirse para que un caso sea considerado bajo las disposiciones de la Ley 26.485 sobre violencia de género?"
+  ],
+  "generated_at": "20250703_193938"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8840",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8840.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué artículos de la Ley 7046 se consideraron para la regulación de honorarios en este fallo?",
+    "¿Cuál es el plazo establecido para el pago de honorarios regulados judicialmente según el artículo 114 de la Ley 7046?",
+    "¿Cuál es el procedimiento de notificación establecido por el artículo 28 de la Ley 7046 para la regulación de honorarios?"
+  ],
+  "generated_at": "20250703_193636"
+}

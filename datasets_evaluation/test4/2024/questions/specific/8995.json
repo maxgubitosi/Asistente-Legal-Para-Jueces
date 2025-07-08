@@ -1,0 +1,11 @@
+{
+  "json_id": "8995",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8995.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue el fundamento principal por el que el tribunal concluyó que la Cámara de Apelaciones incurrió en un exceso al evaluar el recurso de inaplicabilidad de ley?",
+    "¿Qué disposiciones legales resultaron relevantes para la resolución del recurso de queja y su vinculación con la capitalización de intereses?",
+    "¿En qué aspecto específico el tribunal consideró que se violó la doctrina vinculante y cómo esto influyó en su decisión?"
+  ],
+  "generated_at": "20250703_193737"
+}

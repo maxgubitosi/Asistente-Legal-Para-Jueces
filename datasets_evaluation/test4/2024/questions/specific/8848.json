@@ -1,0 +1,11 @@
+{
+  "json_id": "8848",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8848.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la normativa arancelaria aplicable para la regulación de honorarios mencionada en el fallo?",
+    "¿Qué procedimiento debe seguirse para la notificación de la regulación de honorarios según la Ley 7046?",
+    "¿Cómo se calcula la corrección monetaria en caso de apelación sobre los honorarios regulados según el artículo 114?"
+  ],
+  "generated_at": "20250703_193839"
+}

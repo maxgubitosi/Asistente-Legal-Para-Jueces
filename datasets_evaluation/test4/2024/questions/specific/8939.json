@@ -1,0 +1,11 @@
+{
+  "json_id": "8939",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8939.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué razones argumentó el Tribunal para declarar inadmisible el recurso de inaplicabilidad de ley interpuesto por la parte actora?",
+    "¿Cómo justificó la Cámara de Apelaciones la atribución de responsabilidad por 'mala praxis' médica en este caso?",
+    "¿Por qué se consideraron inadmisibles los agravios relacionados con el monto indemnizatorio por parte de la Asociación Argentina de los Adventistas del Séptimo Día?"
+  ],
+  "generated_at": "20250703_193536"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8932",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8932.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios se deben cumplir para que proceda un recurso de apelación en casos donde se alega deserción?",
+    "¿Cómo se evalúa la suficiencia de los agravios expresados en un recurso judicial en instancias de alzada?",
+    "¿Qué requisitos formales y sustantivos debe cumplir un recurso extraordinario para ser admitido por el tribunal?"
+  ],
+  "generated_at": "20250703_193736"
+}

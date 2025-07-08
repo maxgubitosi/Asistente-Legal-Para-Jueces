@@ -1,0 +1,11 @@
+{
+  "json_id": "9020",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9020.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la fundamentación legal utilizada por el tribunal para resolver la incompetencia del Juzgado Civil, Comercial y Laboral de Federal en el caso 'LUNA, VICTOR RAMON Y OTROS' según los artículos de la Ley Orgánica del Poder Judicial y el Código Procesal Civil y Comercial?",
+    "¿Qué razones expuso el Dr. Omar Javier Ovando el 26 de febrero de 2024 al declarar la incompetencia material de su juzgado para tramitar el expediente penal 'LUNA, VICTOR RAMON Y OTROS'?",
+    "¿Por qué la remisión del expediente 'LUNA, VICTOR RAMON Y OTROS' realizada por la jueza interina de Garantías, Dra. Susana Griselda Irurzun, se considera adecuada según el dictamen de la Dra. Mónica Elizabeth Carmona del 13 de marzo de 2024?"
+  ],
+  "generated_at": "20250703_193637"
+}

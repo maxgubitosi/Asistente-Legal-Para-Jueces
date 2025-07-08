@@ -1,0 +1,11 @@
+{
+  "json_id": "8852",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8852.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron los montos exactos de los honorarios regulados para los Dres. Francisco Alejandro Amadío y Rodolfo Luis Fraga según la decisión del tribunal en el expediente Nº 8852?",
+    "¿Qué artículos específicos de la Ley 7046 se mencionaron como fundamento para la regulación de honorarios en el caso 'ZAMPEDRI, ADRIAN EDGARDO C/ PÉREZ, EUSEBIO ANTONIO S/ ORDINARIO ACCION DE CONSIGNACION'?",
+    "¿Qué fecha se señaló para la solicitud de regulación de honorarios en el expediente Nº 8852 y qué fecha corresponde a la resolución del recurso de inaplicabilidad de ley relacionado?"
+  ],
+  "generated_at": "20250703_193536"
+}

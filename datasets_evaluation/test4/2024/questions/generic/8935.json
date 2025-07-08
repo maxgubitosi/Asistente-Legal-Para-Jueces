@@ -1,0 +1,11 @@
+{
+  "json_id": "8935",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8935.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios deben considerarse para determinar si una intervención judicial previa configura prejuzgamiento en un caso nuevo?",
+    "¿Cómo se garantiza la imparcialidad de un juez cuando ha participado en resoluciones anteriores dentro del mismo expediente?",
+    "¿Qué impacto tiene la interpretación estricta de las causales de excusación en la integración y funcionamiento de un tribunal?"
+  ],
+  "generated_at": "20250703_194448"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8840",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8840.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué artículos de la Ley 7046 fueron invocados para la regulación de honorarios profesionales en el expediente Nº 8840?",
+    "¿Qué fundamento utilizó el tribunal para establecer los honorarios en $19,600 más IVA para los abogados Aníbal Nicolás Ferreyra y Carina Alejandra Sanabria el 27 de marzo de 2024?",
+    "¿Cuáles son las obligaciones establecidas en el artículo 28 de la Ley 7046 respecto a la notificación de la regulación de honorarios judiciales?"
+  ],
+  "generated_at": "20250703_193637"
+}

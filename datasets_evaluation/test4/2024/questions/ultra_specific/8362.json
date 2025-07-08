@@ -1,0 +1,11 @@
+{
+  "json_id": "8362",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8362.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué sumas específicas se regularon como honorarios para la Dra. Jorgelina Guilisasti y los Dres. Fabio Andrés Rodriguez Zanin y Juan Eduardo Brondo en el recurso de inaplicabilidad de ley del caso 'HERRERA CLEMENTE DE DOLORES - NOGUERA DE HERRERA PANTALEONA S/ SUCESORIO AB INTESTATO'?",
+    "¿Qué establece el artículo 33 de la Ley Orgánica del Poder Judicial (LOPJ) citado en relación con la abstención del Dr. Leonardo Portela en la resolución de este fallo?",
+    "¿Qué plazo establece el artículo 114 de la Ley 7046 para el pago de honorarios regulados judicialmente y cuáles son las consecuencias en caso de mora?"
+  ],
+  "generated_at": "20250703_194143"
+}

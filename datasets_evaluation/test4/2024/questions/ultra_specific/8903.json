@@ -1,0 +1,11 @@
+{
+  "json_id": "8903",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8903.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Por qué el tribunal consideró inadmisible el recurso de inaplicabilidad de ley presentado por Gustavo Borrajo el 12 de abril de 2023 según el artículo 280 del Código Procesal Civil y Comercial de Entre Ríos?",
+    "¿Qué fundamentos utilizó la Cámara de Apelaciones para acreditar la responsabilidad civil de Gustavo Borrajo en relación con su actuación negligente en el manejo de la cartera de créditos?",
+    "¿Cuáles fueron los motivos por los que el tribunal rechazó el argumento de arbitrariedad planteado por Gustavo Borrajo en el recurso extraordinario federal del 22 de noviembre de 2023?"
+  ],
+  "generated_at": "20250703_193537"
+}

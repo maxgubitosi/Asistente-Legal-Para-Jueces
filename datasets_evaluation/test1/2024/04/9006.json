@@ -1,0 +1,79 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "9006",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            239,
+            276,
+            277,
+            754
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Constitución Nacional (CN)",
+          "cited_articles": [
+            17,
+            18
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Ley 10.704",
+          "cited_articles": [],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. JUAN JOSE MARCOLINI)",
+  "IDEA_CENTRAL": "El Superior Tribunal de Justicia de Entre Ríos denegó el recurso de queja interpuesto por las Sras. Eliana Jaquelina Utz y Laura Beatriz Martínez, en relación a la resolución de la Cámara de Apelaciones que no concedió el recurso de inaplicabilidad de ley respecto a la aprobación del inventario en el sucesorio de Lilian Lenoy Schneider.\n\n**Fundamento Legal:**\nLa decisión se fundamenta en que la resolución impugnada no es considerada una sentencia definitiva según los artículos 239, 276 y 277 del Código Procesal Civil y Comercial (CPCC). La Cámara concluyó que la resolución que desestimó la queja no encuadra en los supuestos que permiten la apelación, dado que es inapelable y las recurrentes pueden plantear su disconformidad a través de un incidente conforme al art. 754 del CPCC.\n\n**Aspectos Legales Relevantes:**\n1. **Artículo 239 CPCC:** Establece que ciertas resoluciones son inapelables.\n2. **Artículos 276 y 277 CPCC:** Definen lo que constituye una sentencia definitiva.\n3. **Artículo 754 CPCC:** Permite a las partes plantear incidentes para cuestionar aspectos del inventario.\n\n**Razonamiento del Tribunal:**\nEl tribunal argumentó que la resolución impugnada no pone fin al proceso ni impide su continuación, por lo que no puede ser considerada definitiva. Además, se destacó que las recurrentes tienen la opción de promover un incidente para cuestionar la inclusión de bienes en el inventario, lo que garantiza su derecho a defensa y debido proceso, conforme al artículo 18 de la Constitución Nacional.\n\n**Conclusión:**\nEl tribunal reafirmó la importancia de seguir los procedimientos establecidos en el CPCC, priorizando la validez procesal sobre la formalidad, y concluyó que no existían fundamentos suficientes para hacer lugar a la queja interpuesta.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"SCHNEIDER LILIAN LENOY S. SUCESORIO AB INTESTATO S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. JUAN JOSE MARCOLINI)\" - Expediente Nº 9006 PARANÁ, 16 de abril de 2024."
+    ],
+    "VISTO": [
+      "El recurso de queja interpuesto por las Sras. Eliana Jaquelina Utz y Laura Beatriz Martinez en fecha 13/2/2024, en las actuaciones \"SCHNEIDER LILIAN LENOY S. SUCESORIO AB INTESTATO S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. JUAN JOSE MARCOLINI)\" - Expediente Nº 9006, contra la resolución de la Sala Tercera de la Cámara Segunda de Apelaciones de Paraná, dictada en fecha 5/2/2024, y;"
+    ],
+    "CONSIDERANDO": [
+      "1.- La resolución del tribunal de grado no concedió el recurso de inaplicabilidad de ley articulado respecto de la interlocutoria que rechazó la queja deducida contra la decisión que había denegado el recurso de apelación interpuesto contra la resolución que tuvo por suficiente el inventario y avalúo de bienes practicado, atento a que es inapelable en los términos del artículo número 239 del CPCC.",
+      "Para así decidir, concluyó que la resolución que desestimó la queja por apelación denegada contra la aprobación del inventario -que el a quo denegó con fundamento en que las recurrentes debían realizar su planteo por las vías procesales pertinentes (artículo número 754, CPCC)-, en tanto no encuadra en ninguno de los supuestos del artículo 239 del CPCC, no reviste el carácter de sentencia definitiva exigido por los artículos 276 y 277 del CPCC.",
+      "2.- En su queja, las recurrentes dicen que la alzada ha omitido considerar que el debate propuesto tiene lugar en el marco de una aprobación de inventario sin traslado a la contraria, y que con la pretensión que se sustancie un incidente, ha quedado clausurado el debate referido a poder revisar el inventario.",
+      "Manifiestan que no se puede continuar un juicio que viole las garantías del debido proceso y la defensa en juicio (artículo 18 de la Constitución Nacional).",
+      "Entienden que la resolución -por sus efectos- puede equipararse al carácter de sentencia definitiva exigido a los fines de la admisibilidad del recurso de inaplicabilidad de ley, ya que la cuestión planteada no podrá discutirse en otro juicio o en otra oportunidad.",
+      "Expresan que por desidia del juzgado, tienen que promover un incidente en los términos del artículo número 754 del CPCC y pagar costas que quedarían firmes. Refieren al no sustanciarse una aprobación de inventario con las legales garantías (el manifiesto por Secretaría del artículo número 753) se produce una violación del derecho de propiedad (artículo 17 de la CN).",
+      "Destacan que se ha privilegiado la validez formal del proceso, con el excesivo dogmatismo formal de los artículos 239, 276 y 277 del Código Procesal Civil y Comercial, en desmedro de su validez sustancial y del derecho de propiedad.",
+      "Hacen reserva del caso federal y peticionan que se conceda el recurso.",
+      "3.- En la tarea de ingresar al tratamiento del presente recurso cabe \"SCHNEIDER LILIAN LENOY S. SUCESORIO AB INTESTATO S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. JUAN JOSE MARCOLINI)\" - Expediente Nº 9006 recordar que el recurso de inaplicabilidad de ley se otorga contra las sentencias definitivas de las cámaras de apelaciones que violen o hagan errónea aplicación de la ley o la doctrina legal, y que el mismo Código Procesal Civil y Comercial de Entre Ríos define lo que debe entenderse por sentencia definitiva \"... la que, aún recayendo sobre cuestión incidental, terminare el pleito o hiciere imposible su continuación\" (art. 277 C.P.C.C.).\" (Cfr. Mutual Nueva Imagen s/ Pedido de Quiebra s/ Concurso Preventivo s/ Incidente de Revisión (Prom: AFIP), Expediente Nº 6248, sentencia del 15/03/2012), cuestión que en este caso no aparece configurada.",
+      "Conforme este marco se advierte que el quejoso no desarrolla ningún argumento que permita apartarse del control de admisibilidad realizado por la Cámara puesto que la resolución que se intenta atacar no es definitiva en los términos de la norma procesal, puesto que la primigenia decisión es inapelable (artículo número.",
+      "239, CPCC) y las recurrentes pueden reclamar la exclusión de bienes del inventario deduciendo el incidente previsto en el artículo número 754 del CPCC.",
+      "4.- En consecuencia, por los argumentos dados, no corresponde hacer lugar a la queja interpuesta.",
+      "Por último, habiendo mayoría absoluta, EL SR. VOCAL EN EJERCICIO DE LA PRESIDENCIA DEL STJ, DR. LEONARDO PORTELA, se abstiene de votar y firmar la presente resolución con arreglo a lo dispuesto por el artículo número 33 de la LOPJ, texto según ley número 10.704.",
+      "Por ello, se"
+    ],
+    "RESUELVE": [
+      "DENEGAR el recurso de queja deducido en fecha 13/2/2024 contra la resolución de la Sala Tercera de la Cámara Segunda de Apelaciones de Paraná dictada en fecha 5/2/2024.",
+      "Líbrese oficio a la Cámara con copia de esta resolución.",
+      "Regístrese, notifíquese conforme artículos 1 y 4 del Acuerdo General 15/18 SNE y oportunamente archívese Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo General número 11/20 del 23-6-2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

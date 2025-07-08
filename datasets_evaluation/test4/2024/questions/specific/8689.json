@@ -1,0 +1,11 @@
+{
+  "json_id": "8689",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8689.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué normativa arancelaria se utilizó para regular los honorarios profesionales en este caso?",
+    "¿Cuál es el plazo establecido para el pago de los honorarios regulados judicialmente según la ley aplicable?",
+    "¿Qué procedimiento debe seguirse para notificar la regulación de honorarios conforme al artículo 28 de la Ley 7046?"
+  ],
+  "generated_at": "20250703_194041"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8792",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8792.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo se determina el porcentaje de honorarios que corresponde a cada letrado en un caso judicial?",
+    "¿Cuáles son los criterios para aplicar la escala general de regulación de honorarios en un proceso legal?",
+    "¿Qué medidas se deben tomar para notificar la regulación de honorarios conforme los estándares legales?"
+  ],
+  "generated_at": "20250703_194344"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9034",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9034.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué se considera que el Juzgado Civil no tiene competencia para tramitar causas penales en este caso?",
+    "¿Qué implicancias tiene la subrogancia legal en la determinación de competencia de un juzgado según el fallo?",
+    "¿Cómo afecta la utilización del artículo 75 de la Ley Orgánica del Poder Judicial al principio de especialidad en el contexto del caso?"
+  ],
+  "generated_at": "20250703_193940"
+}

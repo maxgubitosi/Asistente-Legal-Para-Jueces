@@ -1,0 +1,108 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "9061",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 9861",
+          "cited_articles": [
+            55,
+            58
+          ],
+          "extra": [
+            "Ley de Protección Integral de los Derechos del Niño, el Adolescente y la Familia (Ley Provincial 9.861)"
+          ]
+        },
+        {
+          "main_source": "Ley 26.061",
+          "cited_articles": [
+            40
+          ],
+          "extra": [
+            "Ley de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes (Ley Nacional 26.061)"
+          ]
+        },
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            280
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Ley 10.704",
+          "cited_articles": [
+            33
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Ley 10.668",
+          "cited_articles": [],
+          "extra": [
+            "Ley Procesal de Familia (Ley Provincial 10.668)"
+          ]
+        },
+        {
+          "main_source": "Resolución 170/19",
+          "cited_articles": [],
+          "extra": [
+            "Procedimiento de intervención del Organismo de Protección de Derechos de la Provincia de Entre Ríos"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "arts. 1 y 4 Ac. Gral 15/18 SNE"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "Acuerdo Gral. 11/20 del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "",
+  "IDEA_CENTRAL": "El fallo judicial resuelve hacer lugar al recurso de queja interpuesto por el Dr. Bruno Francisco Giordano, en representación de la Coordinación Departamental del Consejo del Niño, el Adolescente y la Familia de Gualeguaychú, contra una resolución de la Cámara de Apelaciones que había permitido el contacto supervisado de una madre con sus hijos y nieto. La decisión se fundamenta en la violación de derechos fundamentales de los menores, consagrados en diversas normativas nacionales e internacionales.\n\n**Decisión Judicial Principal y Fundamento Legal**\n\nEl tribunal concede el recurso de inaplicabilidad de ley, argumentando que la Cámara de Apelaciones incurrió en un exceso al evaluar la admisibilidad del recurso extraordinario, al considerar cuestiones de hecho y prueba que no son materia de revisión en casación. Se destaca que la resolución impugnada no valoró adecuadamente las intervenciones y evaluaciones de los profesionales del sistema de protección de derechos, contraviniendo la ley número 26.061 y la ley provincial número 9.861, entre otras.\n\n**Aspectos Legales Relevantes**\n\n1. **Convención sobre los Derechos del Niño**.\n2. **Ley Nacional número 26.061** (Protección Integral de los Derechos de Niñas, Niños y Adolescentes).\n3. **Ley Provincial número 9.861** (Protección Integral de los Derechos del Niño, Adolescente y la Familia).\n4. **Código Civil y Comercial de la Nación**.\n5. **Ley Procesal de Familia (ley provincial número 10.668)**.\n\n**Razonamiento del Tribunal**\n\nEl tribunal argumenta que la decisión de la Cámara de Apelaciones no solo desatiende las valoraciones profesionales, sino que también podría cercenar derechos y garantías constitucionales de los menores. Se resalta que el respeto a las evaluaciones interdisciplinarias es crucial para el correcto funcionamiento del sistema de protección integral. Por lo tanto, se concluye que la queja debe ser admitida y el recurso de inaplicabilidad de ley concedido, con efecto suspensivo.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"A. A. A. Y OTROS S MEDIDA DE PROTECCION EXCEPCIONAL DIGITAL\" S/ QUEJA (QUEJA INTERPUESTA POR EL DR BRUNO FRANCISCO GIORDANO) \"Expediente Nº 9061 PARANÁ, 26 de abril de 2024."
+    ],
+    "VISTO": [
+      "El recurso de queja interpuesto por el asesor legal de la Coordinación Departamental del Consejo del Niño, el Adolescente y la Familia de Gualeguaychú, Bruno Francisco Giordano, en fecha 25/3/2024, en los autos \"A. A. A. Y OTROS S MEDIDA DE PROTECCION EXCEPCIONAL DIGITAL\" S/ QUEJA (QUEJA INTERPUESTA POR EL DR BRUNO FRANCISCO GIORDANO)\" - Expediente Nº 9061, contra la resolución de la fecha 15/3/2024, y,"
+    ],
+    "CONSIDERANDO": [
+      "1.- La resolución del tribunal de grado no concedió el recurso de inaplicabilidad de ley interpuesto contra la decisión de esa alzada, por la cual se resolvió admitir parcialmente el recurso de apelación articulado por la Sra.",
+      "Mirta Inés Soria respecto del Pto. 9) de la resolución dictada en la audiencia de fecha 31 de octubre de 2023 y se permita así ver a la señora Mirta Inés Soria a sus hijos y nieto, por el plazo de dos horas diarias, bajo supervisión de personal del COPNAF y en espacio público, y que dicho contacto se aumente y modalice particularmente durante las fiestas de fin de año.",
+      "Para así decidir, la Cámara consideró que la fundamentación del recurrente está exclusivamente referida a cuestiones de hecho y prueba, que como tiene dicho esta Sala son inabordables en casación, no habiendo el recurrente invocado arbitrariedad y/o absurdidad que permitiese excepcionar la regla.",
+      "2.- En su queja, el recurrente invoca arbitrariedad de la resolución dictada por la Cámara de apelaciones y violación de la normativa vigente.",
+      "Expresa que el tribunal incurrió en un apartamiento de las constancias del expediente y realizó afirmaciones dogmáticas en el juicio de admisibilidad, puesto que desde un primer momento se denunció que el fallo atacado viola lo dispuesto en la Convención sobre los Derechos del Niño; ley número 26.061; ley número 9.861; Código Civil y Comercial de la Nación; ley provincial 10.668; y el Procedimiento de intervención del Organismo de Protección de Derechos de la Provincia de Entre Ríos (Resolución 170/19).",
+      "Alega que al disponerse la admisión del recurso de apelación interpuesto por la Sra. Mirta Inés Soria contra la resolución dictada en la audiencia del 31/10/23 con el alcance asignado en el punto 9), todas las intervenciones y evaluaciones realizadas por los profesionales del sistema de protección de derechos de acuerdo a la normativa nacional e internacional que los regula, no fueron valoradas por la sentencia que al parecer no confió en las evaluaciones de una gran cantidad de profesionales y en sus considerandos dispuso el contacto de la madre con sus hijos y nieto, en contra de lo normado por los artículos 55 y 58 de la ley número 9861; artículo 40 de la ley número 26.061; entre otras normas.",
+      "Destaca que es inadmisible que la resolución indique e imponga una modalidad de vinculación (días y cantidad de horas) sobrepasando las innumerables apreciaciones profesionales de quienes acompañan de manera cotidiana al grupo familiar.",
+      "Advierte que no es posible el correcto funcionamiento del Sistema de Protección Integral de Derechos de Niñas, Niños y Adolescentes, si no se cumple con el debido rol que cada organismo tiene.",
+      "Por el contrario, refiere que las consideraciones manifestadas en la resolución podrían encuadrarse dentro de la doctrina de la arbitrariedad por decidir contradictoriamente a las valoraciones profesionales e interdisciplinarias, planteadas en los diferentes informes existentes.",
+      "Hace reserva del caso federal y peticiona que se declare mal denegado el recurso.",
+      "3.- Seguidamente, estando las presentes actuaciones a depacho para resolver la queja, dado que en el caso se encuentran en juego intereses de personas menores de edad, se dispuso como medida para mejor proveer que se corra vista al Sr. Defensor General de la Provincia, Dr. Maximiliano F. Benítez (fecha, 22 de abril de 2024), quien dictaminó que considerando que una decisión adversa podría cercenar derechos y garantías constitucionales de los menores de edad, el recurso de queja deducido debe ser recepcionado favorablemente (23 de abril de 2024).",
+      "4.- En orden a tratar el recurso traído a juzgamiento cabe recordar que el tribunal a quo, al decidir sobre la admisibilidad del recurso extraordinario en cuestión debe limitarse a examinar la concurrencia de las condiciones formales contempladas en la ley procesal (artículo número 280, CPCC), sin entrar en consideraciones de otro orden y que son materia privativa del superior.",
+      "Conforme ello, en la especie se verifica que la Cámara, en oportunidad de denegar el recurso de inaplicabilidad de ley deducido por la quejosa, se adentra en cuestiones que hacen a su procedencia, por lo que incurrió en un exceso que debe ser corregido.",
+      "5.- En consecuencia, en concordancia con lo dictaminado por el Sr. Defensor General de la Provincia, Dr. Maximiliano F. Benítez, corresponde hacer lugar a la queja interpuesta.",
+      "Por último, habiendo mayoría absoluta, EL SR. VOCAL EN EJERCICIO DE LA PRESIDENCIA DEL STJ, DR. LEONARDO PORTELA, se abstiene de votar y firmar la presente resolución con arreglo a lo dispuesto por el artículo número 33 de la LOPJ, texto según ley número 10.704.",
+      "Por ello, se"
+    ],
+    "RESUELVE": [
+      "HACER LUGAR al recurso de queja interpuesto en fecha 25/3/2024 contra la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Gualeguaychú dictada en fecha 15/3/2024, y en consecuencia, CONCEDER el recurso de inaplicabilidad de ley número 7046 interpuesto contra la sentencia definitiva de segunda instancia, con efecto suspensivo.",
+      "Líbrese oficio a la Cámara solicitando las actuaciones principales.",
+      "Regístrese, notifíquese conforme artículo número 1 y artículo número 4 del Acuerdo General 15/18 SNE y oportunamente archívese.",
+      "Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo General 11/20 del 23 de junio de 2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

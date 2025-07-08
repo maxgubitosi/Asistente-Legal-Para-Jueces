@@ -1,0 +1,11 @@
+{
+  "json_id": "9024",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9024.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la fecha en la que la Dra. Susana Griselda Irurzun, jueza de garantías interina, se excusó de intervenir en el proceso debido a su actuación previa como fiscal?",
+    "¿Qué dispone el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ) en relación con la subrogancia de jueces ante la excusación o impedimento de los mismos?",
+    "¿Qué razonamiento utilizó el Superior Tribunal de Justicia de Entre Ríos para rechazar la declaración de incompetencia formulada por el Dr. Omar Javier Ovando en el expediente Nº 9024?"
+  ],
+  "generated_at": "20250703_193436"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8131",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8131.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la fecha en que Susana del Carmen Ramona Ramírez interpuso el recurso de inaplicabilidad de ley contra la sentencia de la Cámara Segunda de Apelaciones de Paraná?",
+    "¿Qué artículo del Código Procesal Civil y Comercial regula los requisitos para la admisibilidad del recurso de inaplicabilidad de ley analizado en este caso?",
+    "¿Cuál es el fundamento específico por el que el Tribunal concluye que Susana del Carmen Ramona Ramírez carece de legitimación activa para solicitar la nulidad de la escritura pública número 109?"
+  ],
+  "generated_at": "20250703_194444"
+}

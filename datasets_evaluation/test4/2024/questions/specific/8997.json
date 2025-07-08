@@ -1,0 +1,11 @@
+{
+  "json_id": "8997",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8997.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue la razón principal por la que se declaró 'no presentado' el recurso de queja interpuesto por la Dra. Pamela María Irigoyen?",
+    "¿Qué documentación específica debía presentar la recurrente en el plazo establecido según lo requerido por el tribunal?",
+    "¿Qué normativa se cita como fundamento para la resolución adoptada en este caso?"
+  ],
+  "generated_at": "20250703_193536"
+}

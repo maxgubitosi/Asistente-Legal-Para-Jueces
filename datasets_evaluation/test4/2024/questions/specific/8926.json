@@ -1,0 +1,11 @@
+{
+  "json_id": "8926",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8926.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los criterios legales utilizados por el Tribunal para determinar la jerarquía de las arterias involucradas en el accidente?",
+    "¿Qué interpretación realizó el Tribunal respecto de la aplicación del artículo 41 de la Ley Nacional de Tránsito en el caso?",
+    "¿Cómo justificó el Tribunal la ruptura del nexo causal en relación con la conducta del actor al ingresar a la intersección?"
+  ],
+  "generated_at": "20250703_194242"
+}

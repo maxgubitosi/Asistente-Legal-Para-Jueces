@@ -1,0 +1,11 @@
+{
+  "json_id": "8999",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8999.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son las implicancias legales de la excusación de un juez en un proceso civil?",
+    "¿Qué criterios deben considerarse para garantizar la imparcialidad del tribunal en casos donde un magistrado se ha excusado?",
+    "¿Cómo se asegura la correcta integración de la sala cuando se reemplaza a un juez excusado en un proceso judicial?"
+  ],
+  "generated_at": "20250703_193941"
+}

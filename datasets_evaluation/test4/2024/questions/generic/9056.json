@@ -1,0 +1,11 @@
+{
+  "json_id": "9056",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9056.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe actuar un tribunal al abordar un caso de violencia de género cuando el comportamiento procesal de las partes incluye lenguaje discriminatorio?",
+    "¿Qué mecanismos pueden implementarse para garantizar la capacitación en perspectiva de género de los profesionales del derecho involucrados en procesos judiciales?",
+    "¿Qué opciones tiene un tribunal para prevenir conductas estigmatizantes por parte de denunciados y letrados en casos de violencia de género?"
+  ],
+  "generated_at": "20250703_193837"
+}

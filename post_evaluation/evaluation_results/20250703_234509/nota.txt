@@ -1,0 +1,5 @@
+métricas relevantes de estos resultados (test 4)  están en:
+
+"details": {"by_question_type": {"specific/ulta_specific/generic": {"top1/5_accuracy":
+y
+"details": {"by_question_type": {"specific/ulta_specific/generic": {"best_question_per_document_metrics": {"best_top1/5_accuracy":

@@ -1,0 +1,11 @@
+{
+  "json_id": "8936",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8936.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos legales específicos fueron citados para aceptar la excusación del Dr. Carlos Federico Tepsich en el caso 'BORCARD MABEL BEATRIZ C/ SOTO RAUL ALFREDO Y OTROS S/ USUCAPION'?",
+    "¿En qué fechas emitió opiniones el Dr. Carlos Federico Tepsich, según lo indicado en la recusación planteada por la Dra. Romina D. Brugaletta en representación de la Sra. Mabel B. Borcard?",
+    "¿Cómo se integra la Sala tras la aceptación de la excusación del Dr. Carlos Federico Tepsich, según lo dispuesto por el artículo 33 de la Ley Orgánica del Poder Judicial (LOPJ)?"
+  ],
+  "generated_at": "20250703_193942"
+}

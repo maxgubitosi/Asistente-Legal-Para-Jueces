@@ -1,0 +1,11 @@
+{
+  "json_id": "9056",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9056.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué el Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por el denunciado?",
+    "¿Qué medidas de protección fueron confirmadas por la Cámara de Apelaciones en el caso de violencia de género?",
+    "¿Cuál es la finalidad de la capacitación obligatoria impuesta por la Ley Micaela en este contexto legal?"
+  ],
+  "generated_at": "20250703_193737"
+}

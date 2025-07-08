@@ -1,0 +1,11 @@
+{
+  "json_id": "8771",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8771.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los criterios utilizados por los tribunales para regular honorarios profesionales en actuaciones judiciales?",
+    "¿Qué mecanismos existen para asegurar el cumplimiento del pago de honorarios profesionales dentro del plazo establecido?",
+    "¿Qué efectos legales tiene la abstención de un miembro del tribunal en la validez de una resolución adoptada por mayoría?"
+  ],
+  "generated_at": "20250703_193838"
+}

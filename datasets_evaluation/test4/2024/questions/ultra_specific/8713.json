@@ -1,0 +1,11 @@
+{
+  "json_id": "8713",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8713.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué argumentos presentó el apoderado del fallido, Dr. Rubén María Virué, en el recurso de inaplicabilidad de ley interpuesto el 2 de octubre de 2023?",
+    "¿Qué fundamentos utilizó el Tribunal para declarar inadmisible el recurso de inaplicabilidad de ley en el expediente 'Perri Enrique Ernesto s/ Pedido de Quiebra', Expte. Nº 8713?",
+    "¿Qué papel desempeñó el martillero José Antonio Badaracco en la valuación económica que fue aprobada por la Cámara de Apelaciones en su resolución del 14 de septiembre de 2023?"
+  ],
+  "generated_at": "20250703_194143"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9011",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9011.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son las principales razones que justificaron la aceptación de la excusación de la Sra. Vocal Gisela N. Schumacher en este caso?",
+    "¿Cómo interpreta el tribunal la aplicación de las normas de excusación en casos que involucran razones de decoro y violencia moral?",
+    "¿Qué disposiciones legales regulan la integración de la sala judicial tras la excusación de un magistrado?"
+  ],
+  "generated_at": "20250703_194041"
+}

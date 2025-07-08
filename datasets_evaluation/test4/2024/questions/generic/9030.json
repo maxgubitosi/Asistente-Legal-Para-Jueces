@@ -1,0 +1,11 @@
+{
+  "json_id": "9030",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9030.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios se deben considerar para determinar la competencia material de un juzgado en casos de subrogancia?",
+    "¿Cómo puede afectar al servicio de justicia la asignación de casos penales a un juzgado civil que carece de conocimientos específicos en la materia?",
+    "¿Qué procedimientos administrativos existen para resolver conflictos de competencia aparentes entre diferentes juzgados?"
+  ],
+  "generated_at": "20250703_193738"
+}

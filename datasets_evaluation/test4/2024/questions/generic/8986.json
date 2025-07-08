@@ -1,0 +1,11 @@
+{
+  "json_id": "8986",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8986.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué casos una resolución interlocutoria puede ser considerada no recurrible en instancias extraordinarias?",
+    "¿Qué criterios se emplean para determinar la imposición de costas en una ejecución de honorarios?",
+    "¿Cuáles son las limitaciones para recurrir decisiones judiciales que no tienen carácter de sentencia definitiva?"
+  ],
+  "generated_at": "20250703_194242"
+}

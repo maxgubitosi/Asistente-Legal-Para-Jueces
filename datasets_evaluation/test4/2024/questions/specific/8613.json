@@ -1,0 +1,11 @@
+{
+  "json_id": "8613",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8613.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la base legal utilizada por el tribunal para regular los honorarios profesionales de los abogados intervinientes?",
+    "¿Qué procedimientos establece la Ley 7046 para la notificación de la regulación de honorarios?",
+    "¿Qué consecuencias dispone la normativa en caso de mora en el pago de los honorarios regulados judicialmente?"
+  ],
+  "generated_at": "20250703_193536"
+}

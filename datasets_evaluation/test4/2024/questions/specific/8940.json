@@ -1,0 +1,11 @@
+{
+  "json_id": "8940",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8940.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del Tribunal para declarar inadmisible el recurso de inaplicabilidad de ley presentado por los demandados?",
+    "¿Por qué la defensa de usucapión planteada por los demandados no fue aceptada en este caso?",
+    "¿Qué diferencia estableció el Tribunal entre el ius possidendi y el ius possessionis al resolver el caso?"
+  ],
+  "generated_at": "20250703_193534"
+}

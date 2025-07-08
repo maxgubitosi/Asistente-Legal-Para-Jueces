@@ -1,0 +1,11 @@
+{
+  "json_id": "8131",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8131.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal para que la actora carezca de legitimación activa en esta causa?",
+    "¿Qué requisitos establece el Código Procesal Civil y Comercial para la admisibilidad de un recurso de inaplicabilidad de ley?",
+    "¿Por qué el Tribunal consideró que la acción de nulidad por dolo no podía ser promovida por la actora?"
+  ],
+  "generated_at": "20250703_194345"
+}

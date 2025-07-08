@@ -1,0 +1,11 @@
+{
+  "json_id": "8752",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8752.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué criterios establece la Ley 7046 para la regulación de honorarios profesionales de los abogados?",
+    "¿Cuál es el procedimiento de notificación requerido por el Artículo 28 para la regulación de honorarios?",
+    "¿Qué consecuencias establece el Artículo 114 de la Ley 7046 en caso de mora en el pago de honorarios?"
+  ],
+  "generated_at": "20250703_194243"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8965",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8965.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué elementos fundamentales debe contener un recurso de apelación para garantizar su admisibilidad?",
+    "¿Cómo afecta la preclusión procesal los derechos de defensa en el marco de un recurso judicial?",
+    "¿Qué criterios deben evaluarse para determinar si un fallo incurre en arbitrariedad en la valoración de hechos y pruebas?"
+  ],
+  "generated_at": "20250703_193839"
+}

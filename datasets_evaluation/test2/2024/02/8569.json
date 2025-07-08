@@ -1,0 +1,55 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8569",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 7046",
+          "cited_articles": [
+            3,
+            14,
+            28,
+            29,
+            30,
+            63,
+            64,
+            71,
+            94,
+            114
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "EJECUTIVO",
+  "IDEA_CENTRAL": "El tribunal ha decidido establecer los honorarios profesionales correspondientes a los abogados que participaron en el recurso de inaplicabilidad de ley, determinando montos específicos para cada uno de ellos.\n\n**Fundamento Legal:** La regulación de los honorarios se fundamenta en la normativa arancelaria vigente, en particular en los artículos de la Ley 7046 que abordan esta cuestión.\n\n### Aspectos Legales Relevantes\n\n1. **Normativa Aplicable:** \n   - Ley 7046, que regula los honorarios de abogados y procuradores.\n   - Artículos clave:\n     - **Art. 28:** Impone la obligación de notificar la regulación de honorarios.\n     - **Art. 114:** Establece las condiciones y plazos para el pago de honorarios, incluyendo situaciones de mora.\n\n2. **Montos Regulados:**\n   - Honorarios establecidos en $1.981.000 para el Dr. Agustín Ponzoni.\n   - Honorarios establecidos en $693.350 para los Dres. Nicolás Valazza y Sebastián Alberto Victorio.\n\n### Razonamiento del Tribunal\n\nEl tribunal justifica su decisión mediante la aplicación de la normativa arancelaria correspondiente, teniendo en cuenta la liquidación económica que fue aprobada con anterioridad. Se resalta la relevancia de la regulación de honorarios como un mecanismo que asegura el derecho de los profesionales a recibir una compensación equitativa por sus servicios. Asimismo, se indica que la notificación de la regulación es crucial para que los abogados puedan ejercer su derecho al cobro, cumpliendo con los requisitos formales que establece la ley.\n\n### Conclusión\n\nEl fallo proporciona un marco definido para la regulación de honorarios en el contexto de un recurso de inaplicabilidad de ley, garantizando el respeto a los derechos de los profesionales implicados y el cumplimiento de las disposiciones legales aplicables.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"Silvia Miriam Beltrán contra Orlando Ramón Muchiutti S, en el marco de un proceso ejecutivo, expediente número 8569.\"",
+      "PARANÁ, 5 de febrero de 2024."
+    ],
+    "VISTO Y CONSIDERANDO": [
+      "Los autos \"BELTRAN, SILVIA MIRIAM C/ MUCHIUTTI ORLANDO RAMÓN S EJECUTIVO S/ EJECUTIVO\" - Expte. Nº 8569, son presentados ante este Tribunal con el propósito de establecer los honorarios correspondientes a la actuación profesional en el recurso de inaplicabilidad de ley, el cual fue resuelto el 14 de noviembre de 2022.",
+      "Se considera para la regulación actual la normativa arancelaria pertinente -arts. 3, 14, 29, 30, 63, 64, 71 y 94 de la ley 7046-, así como la base económica de acuerdo con la liquidación que fue aprobada el 9 de mayo de 2023.",
+      "En consecuencia, se"
+    ],
+    "RESUELVE": [
+      "ESTABLECER los honorarios profesionales correspondientes a los Dres. Agustín Ponzoni, Nicolás Valazza y Sebastián Alberto Victorio en relación al recurso de inaplicabilidad de ley, fijándose en las cantidades de pesos un millón novecientos ochenta y un mil ($ 1.981.000), pesos seiscientos noventa y tres mil trescientos cincuenta ($ 693.350) y pesos seiscientos noventa y tres mil trescientos cincuenta ($ 693.350), más IVA si fuera aplicable.",
+      "Proceda a notificar de acuerdo con los artículos 1º y 4º de la Ac. Gral. 15/18 SNE, realice el registro correspondiente y, en su momento, devuélvase.",
+      "Frente a mí. En la misma fecha se llevó a cabo el registro. Igualmente, se hace constar que la presente se firma a través de firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) omitiéndose su impresión en papel.",
+      "Dado que hay una normativa que regula los honorarios de abogados y/o procuradores, y en cumplimiento de lo establecido por la ley 7046, se procede a transcribir los siguientes artículos:",
+      "Art. 28: NOTIFICACIÓN DE CUALQUIER REGULACIÓN. La regulación de honorarios deberá ser notificada de manera personal o mediante cédula. Para poder ejercer el derecho al cobro del honorario por parte del mandante o patrocinado, es necesario que la notificación se realice en su domicilio real. En todos los casos, la cédula deberá contar con la firma del Secretario del Juzgado o Tribunal, incluyendo la transcripción de este Artículo y del art. 114, bajo pena de nulidad. No será requerida la notificación personal o por cédula de los autos que resuelvan los reajustes posteriores que se efectúen en virtud de la aplicación del art. 114.",
+      "Art. 114: PAGO DE HONORARIOS. Los honorarios que hayan sido regulados por la vía judicial deberán ser pagados en un plazo de diez días a partir de la solicitud de su abono de manera fehaciente. Una vez que se produzca la mora, el profesional tendrá el derecho de exigir el honorario actualizado, aplicando el índice establecido en el art. 29 desde el momento de la regulación hasta que se efectúe el pago, además de un interés del 8% anual. En situaciones donde los honorarios hayan sido objeto de apelación, se aplicará la corrección monetaria sobre el monto que se determine de manera definitiva por la instancia superior, comenzando desde la regulación de la instancia inferior. No será necesario justificar en los juicios los índices que serán aplicados de oficio por los Sres. Jueces y Tribunales."
+    ]
+  }
+}

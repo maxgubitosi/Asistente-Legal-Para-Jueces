@@ -1,0 +1,11 @@
+{
+  "json_id": "8971",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8971.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los fundamentos legales citados por el tribunal para revocar la resolución de la Cámara de Apelaciones en el caso 'FAURE NESTOR BERNARDO C/ PERAGALLO WALDEMAR EMILIO S. MONITORIO EJECUTIVO' - Expte. Nº 8971?",
+    "¿Qué particularidades del proceso monitorio llevaron a considerar la resolución de la Cámara de Apelaciones como equiparable a una sentencia definitiva según los artículos 276 y 277 del Código Procesal Civil y Comercial?",
+    "¿Qué argumentos presentó el Dr. Sebastián A. Roude Chaulet en la queja interpuesta el 9 de noviembre de 2023 respecto a la vulneración de garantías constitucionales por parte de la Cámara de Apelaciones?"
+  ],
+  "generated_at": "20250703_194244"
+}

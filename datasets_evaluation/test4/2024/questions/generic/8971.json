@@ -1,0 +1,11 @@
+{
+  "json_id": "8971",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8971.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué circunstancias una resolución no definitiva puede ser equiparada a una sentencia definitiva en un proceso monitorio?",
+    "¿Cuáles son los requisitos formales que deben cumplir los recursos de inaplicabilidad de ley para su admisión?",
+    "¿De qué manera la negativa a admitir un recurso puede afectar el derecho al debido proceso y la defensa en juicio?"
+  ],
+  "generated_at": "20250703_194245"
+}

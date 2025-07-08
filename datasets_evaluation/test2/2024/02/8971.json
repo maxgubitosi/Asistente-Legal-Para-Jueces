@@ -1,0 +1,69 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8971",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            276,
+            277
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020, Punto 4°"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. SEBASTIAN A. ROUDE CHAULET)",
+  "IDEA_CENTRAL": "El tribunal resolvió dar lugar al recurso de queja presentado por el Dr. Sebastián A. Roude Chaulet, revocando así la decisión de la Cámara de Apelaciones que había declarado inadmisible el recurso de inaplicabilidad de ley interpuesto por el Sr. Peragallo.\n\n**Fundamento Legal:**\nLa decisión del tribunal se basó en la interpretación de los artículos 276 y 277 del Código Procesal Civil y Comercial (CPCC), que establecen los criterios para la admisibilidad de los recursos de inaplicabilidad de ley. Se evaluó que, aunque la resolución de la Cámara no era típicamente definitiva, en el marco del proceso monitorio, sus efectos podían considerarse equivalentes a una sentencia definitiva, lo que afectaba el derecho de defensa del ejecutado.\n\n**Aspectos Legales Relevantes:**\n1. **Código Procesal Civil y Comercial (CPCC)**: Artículos 276 y 277, que regulan la admisibilidad de recursos de inaplicabilidad de ley.\n2. **Derecho al Debido Proceso**: Se argumentó que la resolución de la Cámara comprometía garantías constitucionales al impedir una defensa efectiva.\n\n**Razonamiento del Tribunal:**\nEl tribunal subrayó que el recurrente había presentado una defensa dilatoria sin cuestionar el fondo del asunto, lo que limitó su derecho de defensa. A pesar de que la Cámara había calificado la resolución como no definitiva, el tribunal determinó que, considerando las particularidades del caso, la decisión de la Cámara tenía efectos que justificaban la apertura de la instancia extraordinaria. Así, se concluyó que la queja cumplía con los requisitos necesarios para su admisión.\n\nPor lo tanto, se dispuso la remisión de las actuaciones principales a la Cámara de Apelaciones para su reconsideración.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"FAURE NESTOR BERNARDO C/ PERAGALLO WALDEMAR EMILIO S. MONITORIO EJECUTIVO S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. SEBASTIAN A. ROUDE CHAULET)\" - Expte. Nº 8971 PARANÁ, 5 de febrero de 2024."
+    ],
+    "VISTO": [
+      "El Sr. Peragallo Waldemar Emilio, actuando en su propio nombre y con la representación legal del Dr. Sebastián A. Roude Chaulet, presentó un recurso de queja el 9 de noviembre de 2023, en el expediente: \"FAURE NESTOR BERNARDO C/ PERAGALLO WALDEMAR EMILIO S. MONITORIO EJECUTIVO S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. SEBASTIAN A. ROUDE CHAULET)\" - Expte. Nº 8971, en contra de la resolución emitida por la Sala Civil y Comercial de la Cámara de Apelaciones de Concepción del Uruguay, con fecha 31 de octubre de 2023."
+    ],
+    "CONSIDERANDO": [
+      "1.- El tribunal de grado no otorgó el recurso de inaplicabilidad de ley presentado en oposición a la decisión de esa instancia, mediante la cual se aceptó el recurso de apelación interpuesto por la actora, revocando así la resolución que había declarado la caducidad de instancia.",
+      "Con el fin de llegar a una resolución, se recordó que el recurso de inaplicabilidad de ley se concede frente a las sentencias definitivas emitidas por las Cámaras de Apelaciones que infrinjan o apliquen incorrectamente la ley o la doctrina legal. Se citó el art. 276 del CPCC, así como los antecedentes de esta Sala. En este contexto, se determinó que era pertinente declarar inadmisible el recurso de inaplicabilidad de ley, subrayando además que el recurrente no presentó un argumento que justificara una admisión excepcional.",
+      "En relación con la impugnación por arbitrariedad, se indicó que el apelante no logró probar que, debido a la seriedad de los defectos alegados, el fallo impugnado no pueda considerarse como un acto judicial válido. Asimismo, no se evidenció de manera clara que el razonamiento del fallo fuera incompatible con las pruebas del expediente, ni que careciera de la adecuada fundamentación jurídica. Esto se debe a que la demostración de tales aspectos es un requisito necesario para permitir el acceso a la instancia superior.",
+      "En última instancia, se determinó que la sentencia apelada no posee carácter definitivo conforme a lo establecido en los artículos 276 y 277 del CPCC, y no se identificó ningún otro escenario que permita la activación de la instancia extraordinaria.",
+      "3.- En su apelación, la parte recurrente manifiesta que la decisión impugnada no constituye una consecuencia razonada del derecho vigente que corresponde a estas actuaciones.",
+      "Sostiene que la resolución impugnada se desvía de dicho dispositivo, constituyendo una evidente infracción al derecho al debido proceso y a la defensa en juicio, lo que resulta en un acto arbitrario y no conforme a derecho.",
+      "Se cuestiona que la cámara de apelaciones haya considerado que no se trata de una sentencia definitiva, mencionando antecedentes de esta Sala que, a su juicio, respaldan su postura: \"FAURE NESTOR BERNARDO C/ PERAGALLO WALDEMAR EMILIO S. MONITORIO EJECUTIVO S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. SEBASTIAN A. ROUDE CHAULET)\" - Expte. Nº 8971, la cual se sostiene como doctrina legal de interpretación obligatoria para la alzada.",
+      "Se expone que lo que se discute en el recurso de apelación que dio lugar a la sentencia del 6 de septiembre de 2023 es el inicio de la instancia; además, se argumenta que el desvío de la doctrina considerada vinculante por la cámara fue la razón que fundamentó la presentación del recurso de inaplicabilidad de ley, al afectar garantías constitucionales, y que la negativa a este recurso dio origen a la presente queja.",
+      "Se reitera que, dado que están en juego garantías de carácter constitucional y se ha cumplido con la característica de sentencia \"definitiva\" conforme a la doctrina legal mencionada, el recurso cumple con los requisitos necesarios para ser declarado admisible.",
+      "Finalmente, pide que se admita la queja.",
+      "4.- Una vez resumidos los puntos clave del caso, es necesario establecer si la queja ha satisfecho los requisitos formales que permitan proceder con el análisis del recurso presentado y, en su caso, determinar si la denegación del recurso de inaplicabilidad de ley ha sido adecuada.",
+      "Es importante señalar que la opción seleccionada debe ser autosuficiente, ya que requiere una fundamentación adecuada que esté organizada en una crítica precisa, clara y efectiva, destinada a justificar las razones por las cuales el recurso que fue rechazado debería haber sido aceptado.",
+      "En este contexto, se reconoce que el recurrente tiene razón, ya que aunque este tribunal ha mantenido de forma consistente en integraciones anteriores que \"...la sentencia que desestima la caducidad de instancia carece de la nota de definitividad exigida por la normativa aplicable como condición de impugnabilidad por la presente vía, al no poner fin a la acción, continuando el proceso según su estado, ni existir un perjuicio irreparable que torne viable la apertura de la instancia extraordinaria intentada...\"1; lo cierto es que en el caso actual, y considerando las particularidades del proceso monitorio, el ejecutado optó por una defensa dilatoria al plantear la caducidad de instancia, sin oponerse a la sentencia. De este modo, cerró la posibilidad de ejercer su derecho de defensa respecto al fondo de la cuestión. Por lo tanto, la decisión impugnada -en virtud de sus efectos- puede considerarse equivalente al concepto de sentencia definitiva requerido por los arts.",
+      "276 y 277 del CPCC.",
+      "Por lo tanto, atendiendo a los argumentos expuestos y sin menoscabo del adecuado uso de la vía extraordinaria solicitada, se debe dar lugar a la queja presentada.",
+      "Finalmente, el Dr. Martín F. Carbonell expresa que debido a la existencia de 1 \"Fernández Ramón Avelino c/ Aedo Eduardo Germán s/ desalojo (queja interpuesta por el Dr.",
+      "\"Suarez Raquel Angélica c/ Suarez Teresa Graciela y otros s/ ordinario simulación (queja presentada por la Sra. Raquel Angélica Suarez con la representación de la Dra. Alejandra Lucía Gomez)\" - Expte. Nº 8058, resolución del 16/12/2019; \"Velzi José Gustavo\" - Expte. Nº 7999, resolución del 2/10/2019; entre otros.",
+      "\"FAURE NESTOR BERNARDO C/ PERAGALLO WALDEMAR EMILIO S. MONITORIO EJECUTIVO S/ RECURSO DE QUEJA (QUEJA INTERPUESTA POR EL DR. SEBASTIAN A. ROUDE CHAULET)\" - Expte. Nº 8971, dado que la mayoría de las opiniones sobre el asunto planteado indican que no es necesario emitir un pronunciamiento al respecto.",
+      "Por ello, se"
+    ],
+    "RESUELVE": [
+      "ACOGER el recurso de queja presentado el 9 de noviembre de 2023 en contra de la resolución emitida por la Sala Primera Civil y Comercial de la Cámara de Apelaciones de Concepción del Uruguay, con fecha 31 de octubre de 2023. Se ordena la emisión de un oficio a la cámara para solicitar las actuaciones principales.",
+      "Proceda a registrar, notifique de acuerdo con los artículos 1 y 4 de la Ac. Gral 15/18 SNE y, en su momento, archívese.",
+      "Frente a mí. En la misma fecha se llevó a cabo el registro. Igualmente, se hace constar que la presente se firma a través de firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) omitiéndose su impresión en papel."
+    ]
+  }
+}

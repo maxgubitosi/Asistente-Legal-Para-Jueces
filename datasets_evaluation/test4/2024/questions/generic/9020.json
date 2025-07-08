@@ -1,0 +1,11 @@
+{
+  "json_id": "9020",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9020.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe resolverse un conflicto de competencia entre juzgados de diferentes materias?",
+    "¿Qué consecuencias puede generar la alteración de la competencia material de un juzgado especializado?",
+    "¿Qué principios deben garantizarse para asegurar la correcta distribución de competencias en el sistema judicial?"
+  ],
+  "generated_at": "20250703_193736"
+}

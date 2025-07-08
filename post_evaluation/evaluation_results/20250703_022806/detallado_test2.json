@@ -1,0 +1,339 @@
+{
+  "test_name": "Redaction Robustness",
+  "accuracy": 0.31500000000000006,
+  "precision": 0.31500000000000006,
+  "recall": 0.32500000000000007,
+  "f1_score": 0.3194444444444445,
+  "details": {
+    "total_consultas": 10,
+    "respuestas_robustas": 8,
+    "similitud_promedio": 0.8094492048677961,
+    "tasa_robustez": 0.8,
+    "source_precision": 0.31500000000000006,
+    "source_recall": 0.32500000000000007,
+    "source_f1": 0.3194444444444445,
+    "resultados_detallados": [
+      {
+        "query_id": 1,
+        "query": "¿Qué criterios aplica un tribunal para regular los honorarios de abogados en un recurso de inaplicabilidad de ley y qué rangos de montos se han fijado en decisiones recientes?",
+        "original_response": "[8613] «El tribunal ha decidido regular los honorarios profesionales de los abogados intervinientes en los recursos de inaplicabilidad de ley y extraordinario federal, conforme a la normativa arancelaria vigente, estableciendo montos específicos para cada profesional, en base a la Ley 7046, que regula los honorarios de abogados y procuradores, destacando la importancia de la notificación adecuada para el ejercicio del derecho al cobro de los honorarios (§).»\n\n[8689] «En el caso \"CACERES CRISTIAN FABRICIO C/ NET G.S.R.L. S/ ORDINARIO DAÑOS Y PERJUICIOS\", el tribunal regula los honorarios del abogado Dr. Sebastián Castillo en la suma de $72,800, fundamentándose en la Ley 7046, que establece pautas claras para la determinación de honorarios, asegurando así una compensación justa por la labor profesional realizada (§).»\n\n[8752] «El tribunal resolvió regular los honorarios profesionales de los abogados intervinientes en el recurso de inaplicabilidad de ley, fijando las sumas de $49,000 y $34,300, más IVA si corresponde, en cumplimiento de la Ley 7046, que establece criterios y procedimientos para la fijación de honorarios, resaltando la importancia de la notificación adecuada y las consecuencias de la mora en el pago (§).»\n\n[8771] «En el caso \"SCHROEDER ERNESTO RODOLFO C/ LEFFLER Y WOLLERT SRL S/ ORDINARIO\", el tribunal aprueba los honorarios a los abogados intervinientes, basándose en la Ley 7046, que regula la determinación y notificación de los honorarios, y enfatiza la obligación de pago dentro de los diez días de requerido, conforme al artículo 114, asegurando así el derecho al cobro por parte de los profesionales (§).»\n\n[8569] «El tribunal ha resuelto regular los honorarios profesionales de los abogados intervinientes en el recurso de inaplicabilidad de ley, fijando montos específicos que ascienden a $1.981.000 para el Dr. Agustín Ponzoni y $693.350 para los Dres. Nicolás Valazza y Sebastián Alberto Victorio, en cumplimiento de la Ley 7046, que regula los honorarios de abogados y procuradores, destacando la importancia de la notificación para el ejercicio del derecho al cobro (§).»",
+        "modified_response": "[8935] «El Tribunal desestima la excusación del Sr. Vocal Carlos Federico Tepsich, al no configurarse la causal de prejuzgamiento conforme al artículo 14 inciso 7 del Código Procesal Civil y Comercial (CPCC), dado que la regulación de honorarios es un asunto autónomo que no compromete su imparcialidad. Se enfatiza que las causales de excusación deben interpretarse de manera estricta para no afectar la composición del tribunal, lo que se refleja en la decisión de mantener la integración del órgano jurisdiccional (§VISTO Y CONSIDERANDO).»\n\n[8792] «En el fallo \"BOBADILLA, GRISELDA LEONOR C/ TAVELLA PABLO CONSTANTE Y OTRA -SUS SUCESORES Y/O HEREDEROS- S/ USUCAPION\", el Tribunal regula los honorarios de los abogados conforme a la Ley 7046, específicamente en los artículos 30, 3, 63, 64 y 94, que establecen criterios y porcentajes aplicables según el valor del litigio. Se determina que los honorarios deben fijarse en función de un porcentaje del valor del juicio, garantizando así una compensación equitativa por los servicios prestados (§RESUELVE).»\n\n[9065] «El Tribunal declara inadmisible el recurso de inaplicabilidad de ley en el caso \"SUSINI HERNAN GONZALO C/ GALOTTO JUAN Y OTROS S/ ORDINARIO DAÑOS Y PERJUICIOS\", ratificando la responsabilidad de los demandados en el incumplimiento del contrato de pastaje. Se hace referencia a los artículos 59 de la Ley de Sociedades y 280 del CPCC, subrayando la importancia de la prueba indiciaria en la determinación de la responsabilidad, lo que refuerza la necesidad de una adecuada fundamentación en los recursos judiciales (§ACUERDO).»\n\n[9012] «El Tribunal declara improcedente el recurso de inaplicabilidad de ley presentado por el Superior Gobierno de la Provincia de Entre Ríos, reafirmando que los certificados de obra pública son títulos ejecutivos, conforme a los artículos 506 y 2640 del Código Civil y Comercial (CCC). Se establece que la acción no estaba sujeta a prescripción, ya que se presentó dentro del plazo legal, lo que resalta la importancia de la correcta interpretación de la normativa en la regulación de honorarios en esta etapa (§ACUERDO).»\n\n[9129] «El Tribunal declara inadmisible el recurso de inaplicabilidad de ley presentado por Pablo Cheremnov Martushov, fundamentando su decisión en el incumplimiento de los requisitos formales establecidos en los artículos 276 y 280 del CPCC. Se destaca que el demandado no presentó un domicilio correcto para las notificaciones, lo que justifica la decisión de la instancia inferior, reafirmando la necesidad de cumplir con los requisitos procesales y la adecuada fundamentación en los recursos judiciales (§ACUERDO).»",
+        "similarity_score": 0.6764762331753541,
+        "original_sources": [
+          "8613",
+          "8689",
+          "8752",
+          "8771",
+          "8569"
+        ],
+        "modified_sources": [
+          "8935",
+          "8792",
+          "9065",
+          "9012",
+          "9129"
+        ],
+        "robust": false,
+        "source_metrics": {
+          "accuracy": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0,
+          "true_positives": 0,
+          "false_positives": 5,
+          "false_negatives": 5,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 2,
+        "query": "¿Qué motivos suele tener un tribunal para rechazar un recurso por falta de fundamentación y qué efectos produce (por ejemplo, imposición de costas)?",
+        "original_response": "[8965] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por Petruccio Víctor Hugo, fundamentando su decisión en la falta de fundamentación adecuada del recurso, conforme a los artículos 276, 280 y 281 del Código Procesal Civil y Comercial (CPCC). Se destacó que la parte recurrente no cumplió con la carga de expresar agravios de manera efectiva, lo que resultó en la preclusión de su derecho a apelar, reafirmando que \"las manifestaciones genéricas de los casos en que se configuran los motivos del catálogo casatorio son insuficientes para tener por cumplida la carga de debida fundamentación\" (§ Gisela Schumacher).»\n\n[9041] «El Tribunal denegó el recurso de queja interpuesto por Maira Soledad Caraballo, argumentando que las resoluciones sobre competencia no son consideradas sentencias definitivas según los artículos 276 y 277 del CPCC, ya que no ponen fin al litigio. La recurrente alegó un exceso de jurisdicción, pero el Tribunal concluyó que este planteo no alteraba la naturaleza provisional de la resolución, reafirmando que \"la resolución del tribunal de grado no concedió el recurso de inaplicabilidad de ley articulado\" (§ CONSIDERANDO).»\n\n[9064] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por Cingolani Eduardo B., fundamentando su decisión en la falta de argumentación suficiente que demuestre arbitrariedad en la resolución impugnada, así como en el incumplimiento de los requisitos formales establecidos en el artículo 257 del CPCC. Se enfatizó que la mera disconformidad con el fallo no es suficiente para habilitar la revisión en casación, y se impusieron costas a la parte vencida, conforme al artículo 65 del CPCC, dado que \"la declaración de deserción de un recurso de apelación es materia privativa del tribunal de alzada\" (§ Gisela N. Schumacher).»\n\n[9079] «El Tribunal declaró procedente el recurso de inaplicabilidad de ley interpuesto por Teresa Elena Cardozo, casando la resolución de la Cámara de Apelaciones que había rechazado su demanda por escrituración y daños. La decisión se fundamentó en la interpretación de los artículos 2537, 2554 y 2560 del Código Civil y Comercial, estableciendo que el plazo de prescripción no comenzó a contarse hasta que la obligación de escriturar fue exigible, lo que ocurrió tras la resolución del juicio de usucapión. Se destacó que \"la acción de escrituración se volvió exigible solo después de que se resolvió a su favor\" (§ Gisela N. Schumacher).»\n\n[9172] «Se deniega el recurso de queja interpuesto por la Dra. María Amelia Angerosa de Céspedes, en relación a la resolución de la Cámara de Apelaciones que declaró desierto el recurso de apelación de la parte demandada. El Tribunal argumentó que la quejosa no logró demostrar de manera clara y concreta los vicios alegados en la resolución impugnada, limitándose a hacer afirmaciones generales sobre la violación de derechos sin proporcionar un análisis riguroso. Se reafirmó que \"la fundamentación es un requisito de admisibilidad del recurso de inaplicabilidad de ley\" (art. 280, CPCC) (§ Federico Tepsich).»",
+        "modified_response": "[8713] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley presentado por el apoderado del fallido, Enrique Ernesto Perri, fundamentando su decisión en la insuficiencia de la argumentación y la extemporaneidad de las objeciones, conforme a los artículos 276 y 282 del Código Procesal Civil y Comercial (CPCC). Se destacó que el recurrente no logró demostrar que las decisiones de la Cámara contravinieran la sentencia casatoria del 26 de abril de 2023, limitándose a expresar disconformidades sin aportar pruebas concretas que evidenciaran errores en la tasación, lo que se traduce en una falta de defensa efectiva (§N. SCHUMACHER DIJO).»\n\n[8965] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley presentado por Petruccio Víctor Hugo, argumentando que la parte recurrente no cumplió con la obligación de expresar sus agravios de manera adecuada, conforme a los artículos 276, 280 y 281 del CPCC. La falta de una fundamentación específica en el recurso impidió su admisión, ya que no se evidenciaron errores en la aplicación de la ley ni arbitrariedad en la valoración de los hechos, lo que resalta la importancia de una adecuada fundamentación para salvaguardar el derecho de defensa (§GISELA SCHUMACHER DIJO).»\n\n[8916] «El recurso extraordinario federal presentado por Rodolfo Esteban Vera fue rechazado por el tribunal debido a la falta de cumplimiento de los requisitos formales establecidos en la Acordada 4/2007, especialmente la ausencia de la carátula correspondiente y el depósito adecuado, conforme al artículo 280 del CPCC. El tribunal enfatizó que el respeto a los requisitos formales no es un exceso de rigor, sino una garantía de igualdad en el acceso a la justicia, y desestimó las afirmaciones del apelante sobre la violación de su derecho de defensa, reafirmando la relevancia del cumplimiento de las normas procesales (§CONSIDERANDO).»\n\n[8932] «Se rechazó el recurso de queja presentado por los Dres. Carlos E. Moro y Emilio F. Moro, ya que la recurrente no logró impugnar adecuadamente los argumentos del tribunal de grado, y su crítica se sustentó en supuestos fácticos que no alteraban el razonamiento del juzgador. El tribunal determinó que la queja no satisfizo los requisitos formales y sustantivos necesarios para su admisión, reiterando que la invocación de arbitrariedad debe ir acompañada de una demostración clara de vicios graves, lo que no se evidenció en este caso (§CONSIDERANDO).»\n\n[9041] «El tribunal denegó el recurso de queja presentado por Maira Soledad Caraballo, argumentando que las decisiones sobre competencia no son definitivas y no impiden la continuación del litigio, conforme a los artículos 276 y 277 del CPCC. La apelante no logró demostrar un gravamen irreparable que justificara la intervención del tribunal superior, reafirmando la legalidad del procedimiento realizado y la competencia del Juzgado de Paz, lo que subraya la importancia de la naturaleza provisional de las resoluciones sobre competencia (§CONSIDERANDO).»",
+        "similarity_score": 0.8314197518360587,
+        "original_sources": [
+          "8965",
+          "9041",
+          "9064",
+          "9079",
+          "9172"
+        ],
+        "modified_sources": [
+          "8713",
+          "8965",
+          "8916",
+          "8932",
+          "9041"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.25,
+          "precision": 0.4,
+          "recall": 0.4,
+          "f1_score": 0.4000000000000001,
+          "true_positives": 2,
+          "false_positives": 3,
+          "false_negatives": 3,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 3,
+        "query": "¿Qué precedentes judiciales han ordenado comunicar a un colegio profesional conductas procesales indebidas con sesgos de género?",
+        "original_response": "[9161] «El Tribunal declaró procedente el recurso de inaplicabilidad de ley interpuesto por los abogados de la parte actora, ajustando los honorarios a $89,215.22 cada uno, conforme a los artículos 50 y 64 de la Ley 7.046, que regulan los honorarios en procesos de alimentos. Se enfatiza que la regulación de honorarios debe basarse en el valor cuestionado en el recurso, no en el monto de la primera instancia, resaltando que \"la tarea judicial de determinación de los honorarios profesionales se compone de dos pasos\" (§ N. SCHUMACHER).»\n\n[8967] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por los acreedores, fundamentando su decisión en la falta de cumplimiento de los requisitos de fundamentación exigidos por el artículo 280 del Código Procesal Civil y Comercial (CPCC). Se reafirma que la inapelabilidad es la regla general en procesos falenciales, y que la declaración de inconstitucionalidad es excepcional, como se menciona: \"la declaración de inconstitucionalidad de un precepto de jerarquía constitucional es una de las delicadas funciones encomendada a un tribunal de justicia\" (§ FEDERICO TEPSICH).»\n\n[8996] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por Marcelo Claudio Fabián Velázquez, al no evidenciar arbitrariedad en la decisión de la Cámara que redujo su cuota alimentaria. Se fundamenta en que la obligación alimentaria se mantiene hasta los 21 años del alimentado, y se destaca que \"la modificación de la cuota alimentaria se basó en cambios fácticos relevantes\" (§ SCHUMACHER DIJERON).»\n\n[8947] «El Tribunal declaró procedente el recurso de inaplicabilidad de ley interpuesto por la codemandada, revocando la caducidad de la segunda instancia en un proceso de ejecución de honorarios. Se fundamenta en que la carga de impulso procesal recae en la secretaría del juzgado, conforme al artículo 301 del CPCC, y se sostiene que \"la caducidad debe interpretarse de manera restrictiva, protegiendo el derecho a la defensa y el debido proceso\" (§ GISELA SCHUMACHER).»\n\n[8939] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por la parte actora en el caso \"DELALOYE HUGO LUIS y otra C/ ASOCIACIÓN ARGENTINA DE LOS ADVENTISTAS DEL SEPTIMO DÍA\", argumentando que los agravios no demostraron una errónea aplicación de la ley. Se enfatiza que el recurso no permite revisar cuestiones de hecho, sino que se limita a un control jurídico del fallo, reafirmando que \"los honorarios regulados judicialmente deberán abonarse dentro de los diez días de requerido su pago\" (§ RESUELVE).»",
+        "modified_response": "[9164] «El Tribunal desestimó el recurso de inaplicabilidad de ley presentado por la Coordinadora del CoPNAF y el Director de Protección Integral de la Adolescencia, ratificando la decisión de la Cámara de Apelaciones que adoptó medidas de protección excepcionales para el menor Maximiliano Arredondo, fundamentándose en la Ley Provincial 9.861 y la Ley Nacional 26.061, que establecen la responsabilidad del Estado en la salvaguarda de los derechos de los menores, destacando el interés superior del niño como principio fundamental en la toma de decisiones (§FEDERICO TEPSICH DIJO: \"Se refiere a un mandato fundamentado en disposiciones claras de origen tanto internacional como nacional...\").»\n\n[9001] «El Tribunal resolvió mantener la guarda judicial de las hermanas Angelina, Agustina y Sahira a favor de Lidia Beatriz Nerón, priorizando el interés superior de las menores, quienes han expresado su rechazo a regresar con sus progenitores debido a experiencias traumáticas. Esta decisión se apoya en el artículo 657 del Código Civil y Comercial y en la Ley 26.061, que promueven el derecho de los niños a ser escuchados en decisiones que les conciernen, enfatizando la importancia de su estabilidad emocional y bienestar (§GISELA N. SCHUMACHER DIJO: \"La labor profesional debe prestar especial atención para evitar la revictimización...\").»\n\n[9034] «El Tribunal resolvió un conflicto de competencia entre un Juzgado de Garantías y un Juzgado Civil, Comercial y Laboral, remitiendo las actuaciones al Juez de Garantías, Dr. Omar Javier Ovando, debido a la falta de competencia material del Juzgado Civil para conocer causas penales, conforme a los artículos 5 y 6 del Código Procesal Civil y Comercial y los artículos 61 y 62 de la Ley Orgánica del Poder Judicial. Se subrayó la importancia de respetar las competencias establecidas por la ley para garantizar la adecuada administración de justicia (§VISTO: \"La cuestión presentada por el Sr. Juez Civil...\").»\n\n[9038] «El Tribunal determinó que la Sala Nº 2 en lo Civil y Comercial no tiene competencia para resolver el conflicto negativo de competencia entre el Juzgado Civil, Comercial y Laboral de Federal y el Juzgado de Paz, remitiendo el asunto al Superior Tribunal de Justicia. La decisión se fundamenta en la Ley 10.956 y la Ley 26.485, que regulan la competencia en situaciones de violencia laboral y de género, concluyendo que los hechos denunciados no constituyen violencia de género, sino un conflicto personal laboral (§CONSIDERANDO: \"Consideró que, ante la denuncia por violencia laboral...\").»",
+        "similarity_score": 0.6780821856548895,
+        "original_sources": [
+          "9161",
+          "8967",
+          "8996",
+          "8947",
+          "8939"
+        ],
+        "modified_sources": [
+          "9164",
+          "9001",
+          "9001",
+          "9034",
+          "9038"
+        ],
+        "robust": false,
+        "source_metrics": {
+          "accuracy": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0,
+          "true_positives": 0,
+          "false_positives": 4,
+          "false_negatives": 5,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 4,
+        "query": "¿Dónde encontrar sentencias que regulen honorarios de abogados en procesos de inaplicabilidad de ley conforme a la Ley 7046?",
+        "original_response": "[9161] «El Tribunal declaró procedente el recurso de inaplicabilidad de ley interpuesto por los abogados de la parte actora, regulando los honorarios en la suma de $89,215.22 cada uno, conforme a los artículos 50 y 64 de la Ley 7046, que establecen que los honorarios en procesos de alimentos deben basarse en el valor cuestionado en el recurso, no en el monto regulado en primera instancia. Se resalta que la regulación anterior era insuficiente y no respetaba el mínimo legal, lo que llevó a ajustar los honorarios a un monto razonable, asegurando así el derecho de los profesionales a una compensación justa (§ N. SCHUMACHER DIJO).»\n\n[8131] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por Susana del Carmen Ramona Ramírez, fundamentando su decisión en la falta de legitimación activa de la actora para solicitar la nulidad de la escritura pública, ya que no era parte en el negocio jurídico impugnado. Se destaca que la acción de nulidad por dolo solo puede ser promovida por quien ha sido perjudicado, y la actora no había demandado la nulidad del acto simulado previo, lo que impide su reclamo (§ RESUELVE).»\n\n[8362] «En el caso \"HERRERA CLEMENTE DE DOLORES - NOGUERA DE HERRERA PANTALEONA S/ SUCESORIO AB INTESTATO\", el Tribunal reguló los honorarios de los abogados intervinientes conforme a la Ley 7046, específicamente en los artículos 3, 12, 29, 30, 62, 63, 64 y 94, que establecen las pautas para la determinación de honorarios en función de la base económica aprobada. La regulación se realizó en cumplimiento de las disposiciones legales pertinentes, garantizando así el derecho de los profesionales a recibir su compensación de manera justa (§ RESUELVE).»\n\n[8878] «El fallo en el caso \"MAYOL VIVIANA SILVINA C/ NUEVO BANCO DE ENTRE RÍOS S.A. S/ SUMARISIMO\" se centra en la regulación de honorarios de los abogados intervinientes, fijándose en $58,800 y $41,160, respectivamente, conforme a los artículos 3, 29, 30, 63, 64 y 94 de la Ley 7046. El Tribunal destacó que la regulación se llevó a cabo en cumplimiento de los procedimientos establecidos, asegurando el derecho de los profesionales a recibir su remuneración de manera adecuada y en los plazos estipulados (§ RESUELVE).»\n\n[8861] «En el caso \"STIVANELLO Paola Andrea C/ ACOSTA Marcos Carlos Alejandro\", el Tribunal resolvió regular los honorarios de los abogados intervinientes en el proceso de división y liquidación de bienes de la unión convivencial, basándose en la Ley 7046. La regulación se realizó con mayoría absoluta y se garantizó que los profesionales reciban su compensación de manera adecuada y conforme a la ley, asegurando así el derecho a la remuneración por su trabajo en el proceso judicial (§ RESUELVE).»",
+        "modified_response": "[9012] «El Tribunal declaró que el recurso de inaplicabilidad de ley presentado por el Superior Gobierno de la Provincia de Entre Ríos no era procedente, ratificando la decisión de la Cámara Segunda de Apelaciones de Paraná, que desestimó la excepción de prescripción de la acción ejecutiva relacionada con certificados de obra pública. Se fundamenta en que los certificados son títulos ejecutivos, aunque no endosables, y la acción no estaba sujeta a prescripción por el plazo general de cinco años, conforme a los artículos 506 y 2640 del Código Civil y Comercial (CCC) (§).»\n\n[8852] «El tribunal ha regulado los honorarios de los Dres. Francisco Alejandro Amadío y Rodolfo Luis Fraga en $2.810.000 y $1.967.000, respectivamente, basándose en la Ley 7046, que establece las directrices para la fijación de honorarios en el ámbito judicial. Se destaca la obligación de notificación personal de la regulación de honorarios según el art. 28 y el plazo de pago establecido en el art. 114, que debe cumplirse dentro de los diez días de requerido (§).»\n\n[8689] «En el caso \"CACERES CRISTIAN FABRICIO C/ NET G.S.R.L. S/ ORDINARIO DAÑOS Y PERJUICIOS\", el tribunal reguló los honorarios del abogado Dr. Sebastián Castillo en $72,800, conforme a la Ley 7046. Esta regulación se fundamenta en los artículos 3, 29, 30, 63, 64 y 94, que establecen criterios claros para la fijación de honorarios, resaltando la importancia de la notificación adecuada y el cumplimiento de los plazos de pago según el art. 114 (§).»\n\n[8752] «En el asunto \"ARUYA ELVIA ANALIA C/ SANATORIO CONCORDIA S.A. y OTRA\", el tribunal fijó los honorarios de los abogados en $49,000 y $34,300, más IVA si corresponde, en cumplimiento de la Ley 7046. Se aplicaron los artículos 3, 29, 30, 63, 64 y 94, que regulan la determinación de honorarios, enfatizando la necesidad de una notificación adecuada y las implicaciones de la mora en el pago según el art. 114 (§).»\n\n[9161] «El Tribunal resolvió favorablemente el recurso de inaplicabilidad de ley, anulando parcialmente la decisión de la Cámara Segunda de Apelaciones de Paraná y estableciendo los honorarios de los abogados en $89,215.22 cada uno, conforme a los artículos 50 y 64 de la Ley 7046. Se determinó que la base económica para la fijación de honorarios en segunda instancia debe considerar el valor impugnado en el recurso, asegurando que se respeten los mínimos establecidos por la ley (§).»",
+        "similarity_score": 0.799427967988671,
+        "original_sources": [
+          "9161",
+          "8131",
+          "8362",
+          "8878",
+          "8861"
+        ],
+        "modified_sources": [
+          "9012",
+          "8852",
+          "8689",
+          "8752",
+          "9161"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.1111111111111111,
+          "precision": 0.2,
+          "recall": 0.2,
+          "f1_score": 0.20000000000000004,
+          "true_positives": 1,
+          "false_positives": 4,
+          "false_negatives": 4,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 5,
+        "query": "¿Qué precedentes analizan la aplicación del art. 75 de la LOPJ en casos de subrogancia y excusación de jueces?",
+        "original_response": "[8926] «El Tribunal resolvió declarar improcedente el recurso de inaplicabilidad de ley interpuesto por el actor en el caso \"Guzmán, Héctor Hilario c/ Ledesma, Lucas Demian y otros\", confirmando la decisión de la Cámara de Apelaciones que revocó el fallo de primera instancia. La decisión se fundamenta en la correcta aplicación de la normativa de tránsito, específicamente el artículo 41 de la Ley Nacional de Tránsito (LNT), que establece la prioridad de paso en función de la jerarquía de las arterias involucradas en el accidente, destacando que \"la jerarquía de las vías impone un deber de mayor precaución al conductor que ingresa a una avenida\" (§ MARTÍN F. CARBONELL).»\n\n[9028] «El Superior Tribunal de Justicia de Entre Ríos resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando, ordenando que se avoque al tratamiento del caso conforme lo dispuesto por el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ). La decisión se basa en la interpretación de la LOPJ, en particular los artículos 61, 62 y 75, así como los artículos 5 y 6 del Código Procesal Civil y Comercial (CPCC), estableciendo que \"la subrogancia es un deber personal del juez y no implica que el juzgado civil asuma competencias penales\" (§ CONSIDERANDO).»\n\n[9029] «El fallo judicial resuelve una cuestión de competencia entre el Juzgado Civil, Comercial y Laboral de Federal y el Juzgado de Garantías interino, devolviendo las actuaciones al Dr. Ovando para que se avoque al tratamiento del caso, rechazando su declaración de incompetencia. Se fundamenta en que la subrogancia legal prevista en el artículo 75 de la LOPJ obliga al juez a intervenir en la causa penal, destacando que \"la subrogancia no implica traslado de competencia institucional al juzgado, sino una carga funcional sobre el juez en su carácter personal\" (§ CONSIDERANDO).»\n\n[9026] «El Tribunal resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el tratamiento del caso \"DEL CASTILLO, JESICA MICAELA - RESISTENCIA A LA AUTORIDAD (Y LESIONES EN FLAGRANCIA)\" conforme lo dispuesto por el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ). La decisión se basa en la falta de competencia material del Juzgado Civil, Comercial y Laboral para tramitar causas penales, enfatizando que \"la remisión de expedientes penales al Juzgado Civil viola el principio de especialidad y la indelegabilidad de la competencia\" (§ CONSIDERANDO).»\n\n[9031] «El Tribunal resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el tratamiento del caso \"SCHIERLOH, JOSE IGNACIO - DENUNCIA ROBO\", conforme lo dispuesto por el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ). La decisión se fundamenta en que la subrogancia es un deber personal del juez y no implica que el juzgado civil deba tramitar causas penales, destacando que \"la remisión de expedientes penales a un juzgado civil podría afectar negativamente el servicio de justicia\" (§ CONSIDERANDO).»",
+        "modified_response": "[9025] «El fallo establece que el Juzgado Civil, Comercial y Laboral carece de competencia material para gestionar causas penales, conforme a los artículos 61, 62 y 63 de la Ley Orgánica del Poder Judicial (LOPJ) y los artículos 5 y 6 del Código Procesal Civil y Comercial (CPCC). La subrogancia, según el art. 75 de la LOPJ, es una obligación personal del juez, lo que implica que la excusación de la Jueza de Garantías no transfiere la competencia penal al juzgado civil, sino que debe ser asumida por su subrogante, en este caso, el Dr. Omar Javier Ovando. Se resalta que la remisión de causas penales a un juzgado civil genera un conflicto ficticio que afecta el servicio de justicia.» (§)\n\n[9035] «El Superior Tribunal de Justicia de Entre Ríos determina que el Juez Dr. Omar Javier Ovando debe continuar con el tratamiento del caso \"ROCHA, LUIS ESTEBAN y OTRA - CIRCUNVECCION DE INCAPACES\", basándose en la falta de competencia del Juzgado Civil para intervenir en procesos penales, conforme a los artículos 5 y 6 del CPCC y los artículos 61, 62 y 63 de la LOPJ. La subrogancia, como establece el art. 75 de la LOPJ, es una obligación que recae sobre el juez, y la excusación de la Jueza de Garantías no justifica la declaración de incompetencia del Juzgado Civil, lo que subraya la importancia de respetar las competencias establecidas por la ley.» (§)\n\n[9029] «El fallo judicial aborda la controversia sobre la competencia entre el Juzgado de Garantías y el Juzgado Civil, Comercial y Laboral, determinando que el Dr. Omar Javier Ovando debe encargarse del caso penal relacionado con lesiones y amenazas. La decisión se fundamenta en el artículo 75 de la LOPJ, que impone la obligación de subrogancia al juez, y se desestima la declaración de incompetencia del Juzgado Civil, que carece de fundamento legal. Se enfatiza que la subrogancia no implica un traslado de competencia, sino una carga funcional que debe ser asumida por el juez en su capacidad personal.» (§)\n\n[9030] «El Superior Tribunal de Justicia de Entre Ríos decide que el Juez Dr. Omar Javier Ovando debe continuar con el análisis del caso \"KERLING, CRISTIAN ALFREDO - TENENCIA DE ARMA DE FUEGO DE USO CIVIL\", rechazando la declaración de incompetencia del Juzgado Civil. Esta resolución se basa en la interpretación de la LOPJ y el CPCC, que establecen la competencia material de los juzgados y el procedimiento de subrogancia. Se argumenta que la subrogancia es una obligación del juez y que el conflicto de competencia planteado es ficticio, lo que resalta la necesidad de que el Dr. Ovando cumpla con su deber legal sin demoras.» (§)\n\n[9024] «El fallo aborda la cuestión de competencia entre el Juzgado de Garantías y el Juzgado Civil, Comercial y Laboral, determinando que el Dr. Omar Javier Ovando debe encargarse del caso penal por homicidio agravado. La decisión se fundamenta en el artículo 75 de la LOPJ, que establece la obligación de subrogancia del juez, y se desestima la declaración de incompetencia del Juzgado Civil, que carece de fundamento legal. Se subraya que la subrogancia no transfiere la competencia penal al juzgado, sino que es una responsabilidad que recae en el juez de manera personal, y que las inquietudes sobre la carga de trabajo deben ser abordadas por vías administrativas.» (§)",
+        "similarity_score": 0.8521529115315999,
+        "original_sources": [
+          "8926",
+          "9028",
+          "9029",
+          "9026",
+          "9031"
+        ],
+        "modified_sources": [
+          "9025",
+          "9035",
+          "9029",
+          "9030",
+          "9024"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.1111111111111111,
+          "precision": 0.2,
+          "recall": 0.2,
+          "f1_score": 0.20000000000000004,
+          "true_positives": 1,
+          "false_positives": 4,
+          "false_negatives": 4,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 6,
+        "query": "¿Existen sentencias que expliquen la diferencia entre “conflicto negativo de competencia” y “excusa” administrativa?",
+        "original_response": "[9019] «El tribunal resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el tratamiento del caso \"Avalos, Cristian Carlos Ariel\", desestimando la declaración de incompetencia material del Juzgado Civil, Comercial y Laboral, fundamentándose en el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ), que establece la subrogancia de jueces en caso de ausencia o impedimento. Se argumentó que la declaración de incompetencia era infundada, ya que el conflicto de competencia era ficticio y no se trataba de un verdadero conflicto negativo, lo que se traduce en que la subrogancia no implica que el juzgado civil deba asumir la tramitación de causas penales, afectando así el servicio de justicia (§).»\n\n[9024] «El fallo judicial resuelve una aparente cuestión de competencia entre el Juzgado Civil, Comercial y Laboral de Federal y el Juzgado de Garantías interino, en el contexto de una causa penal por homicidio agravado. El tribunal concluyó que la declaración de incompetencia del Dr. Ovando era infundada, ya que la subrogancia legal prevista en el artículo 75 de la LOPJ lo obliga a intervenir personalmente en la causa penal, y no puede ser evitada mediante la creación de un falso conflicto de competencia. Se enfatiza que la Oficina de Gestión de Audiencias (OGA) debe tramitar el expediente, y los planteos sobre sobrecarga deben canalizarse por vías administrativas (§).»\n\n[9035] «El Superior Tribunal de Justicia de Entre Ríos resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el tratamiento del caso \"ROCHA, LUIS ESTEBAN y OTRA - CIRCUNVECCION DE INCAPACES\", conforme lo dispuesto por el artículo 75 de la LOPJ. La decisión se fundamenta en la falta de competencia material del Juzgado Civil, Comercial y Laboral para entender en procesos penales, según los artículos 5 y 6 del CPCC. El tribunal concluyó que no existe un verdadero conflicto negativo de competencia, sino una excusación que debe ser tratada por los canales administrativos correspondientes (§).»\n\n[9028] «El Superior Tribunal de Justicia de Entre Ríos resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando, ordenando que se avoque al tratamiento del caso conforme lo dispuesto por el artículo 75 de la LOPJ, desestimando la declaración de incompetencia material del Juzgado Civil, Comercial y Laboral. La decisión se basa en la interpretación de la LOPJ y el CPCC, estableciendo que la subrogancia no implica que el juzgado civil deba tramitar causas penales, ya que carece de competencia material para ello. Se concluyó que la remisión de expedientes penales al Juzgado Civil altera la competencia material y provoca efectos negativos en el servicio de justicia (§).»\n\n[9031] «El Tribunal resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el tratamiento del caso \"SCHIERLOH, JOSE IGNACIO - DENUNCIA ROBO\", conforme lo dispuesto por el artículo 75 de la LOPJ. La decisión se fundamenta en la falta de competencia material del Juzgado Civil, Comercial y Laboral para entender en causas penales, tal como lo establece la LOPJ y el CPCC. Se destacó que el conflicto de competencia planteado era ficticio, ya que existían procedimientos administrativos adecuados para resolver la situación, reafirmando la importancia de respetar la especialización de los órganos judiciales (§).»",
+        "modified_response": "[9021] «El fallo establece que el Juzgado Civil, Comercial y Laboral no tiene competencia material para tratar causas penales, conforme a los artículos 5 y 6 del Código Procesal Civil y Comercial (CPCC) y los artículos 61 y 62 de la Ley Orgánica del Poder Judicial (LOPJ). Se resalta que la subrogancia, según el artículo 75 de la LOPJ, no implica la obligación de tramitar causas penales, lo que lleva a la conclusión de que el conflicto de competencia carece de fundamento. El tribunal ordena la devolución de las actuaciones al Juez de Garantías, quien debe retomar el control del proceso (§).»\n\n[9022] «En este fallo, el tribunal determina que no existe un conflicto negativo de competencia, sino una excusación que debe ser tratada administrativamente. Se subraya que el Juez Civil, Comercial y Laboral no tiene competencia para intervenir en procesos penales, de acuerdo con los artículos 5 y 6 del CPCC y los artículos 61 y 62 de la LOPJ. La subrogancia no implica que el juzgado civil deba hacerse cargo de causas penales, lo que refuerza la necesidad de que el Juez de Garantías continúe con el proceso (§).»\n\n[9029] «El tribunal concluye que la declaración de incompetencia del Juzgado Civil, Comercial y Laboral no tiene sustento jurídico, ya que la subrogancia es una obligación del juez y no implica un traslado de competencia. Se establece que el conflicto de competencia es una interpretación errónea y que las dificultades deben ser abordadas administrativamente, conforme al artículo 205 inciso 1.i de la Constitución Provincial. Por lo tanto, se ordena la devolución de las actuaciones al Juez Dr. Omar Javier Ovando para que prosiga con el tratamiento de la causa penal (§).»\n\n[9028] «El Superior Tribunal de Justicia de Entre Ríos determina que la subrogancia no implica que el Juzgado Civil, Comercial y Laboral asuma funciones penales, dado que no posee competencia material para ello, conforme a los artículos 5 y 6 del CPCC y los artículos 61, 62 y 75 de la LOPJ. Se concluye que no hay un conflicto negativo de competencia, sino una excusación que debe ser tratada administrativamente, lo que lleva a la decisión de que el Juez Dr. Ovando continúe con el tratamiento de las actuaciones (§).»\n\n[9031] «El Tribunal reafirma que el Juzgado Civil, Comercial y Laboral no tiene competencia para intervenir en causas penales, tal como lo establece la LOPJ y el CPCC. Se argumenta que la subrogancia es una obligación personal del juez y que el conflicto de competencia planteado es ficticio, ya que existen procedimientos administrativos para abordar la situación. Por lo tanto, se ordena la devolución de las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el proceso penal, respetando la especialización de los órganos judiciales (§).»",
+        "similarity_score": 0.844038101183397,
+        "original_sources": [
+          "9019",
+          "9024",
+          "9035",
+          "9028",
+          "9031"
+        ],
+        "modified_sources": [
+          "9021",
+          "9022",
+          "9029",
+          "9028",
+          "9031"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.25,
+          "precision": 0.4,
+          "recall": 0.4,
+          "f1_score": 0.4000000000000001,
+          "true_positives": 2,
+          "false_positives": 3,
+          "false_negatives": 3,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 7,
+        "query": "¿Dónde localizar decisiones que traten recursos de queja por competencia judicial en materia de familia?",
+        "original_response": "[8836] «El tribunal denegó el recurso extraordinario federal interpuesto por Estela Susana Zurdo y Alberto Manuel Zurdo, confirmando la decisión de la Cámara de Apelaciones que admitió parcialmente el recurso de apelación en el contexto de una acción de petición de herencia. La inadmisibilidad del recurso se fundamentó en la falta de cumplimiento de los requisitos de fundamentación exigidos por el art. 280 del Código Procesal Civil y Comercial (CPCC), y se destacó que la mala fe de los herederos modificaba su responsabilidad, excluyendo la cuestión de la buena fe del ámbito del recurso extraordinario. En este sentido, el tribunal enfatizó que las decisiones que declaran la inadmisibilidad de los recursos locales no justifican, en principio, el otorgamiento de la apelación extraordinaria (§).»\n\n[8903] «En el caso \"Estado de la Provincia de Entre Ríos c/ Borrajo Gustavo Eduardo\", el tribunal denegó el recurso extraordinario federal interpuesto por el demandado, Gustavo Borrajo, argumentando que no cumplía con los requisitos establecidos en el art. 280 del Código Procesal Civil y Comercial de Entre Ríos (CPCCER). A pesar de las alegaciones de violaciones a su derecho de defensa y debido proceso, el tribunal concluyó que no se evidenció arbitrariedad en la decisión impugnada, ya que las críticas del recurrente se basaban en su interpretación personal de la prueba, lo que no constituye un motivo suficiente para la admisión del recurso (§).»\n\n[9031] «El Tribunal resolvió devolver las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el tratamiento del caso \"SCHIERLOH, JOSE IGNACIO - DENUNCIA ROBO\", fundamentando su decisión en la falta de competencia material del Juzgado Civil, Comercial y Laboral para entender en causas penales, conforme a lo dispuesto por el art. 75 de la Ley Orgánica del Poder Judicial (LOPJ). Se destacó que la remisión de expedientes penales a un juzgado civil podría afectar negativamente el servicio de justicia, reafirmando la importancia de respetar la especialización de los órganos judiciales (§).»\n\n[9020] «El tribunal devolvió las actuaciones al Juez Dr. Omar Javier Ovando para que continúe con el tratamiento del caso \"LUNA, VICTOR RAMON Y OTROS\", afirmando que el Juzgado Civil, Comercial y Laboral carece de competencia material para conocer en procesos penales, conforme a los artículos 61, 62 y 63 de la LOPJ y los artículos 5 y 6 del CPCC. La decisión subraya que la subrogancia no implica que el juzgado civil asuma la tramitación de causas penales, garantizando así el correcto funcionamiento del sistema judicial (§).»\n\n[9027] «El fallo judicial resolvió un conflicto de competencia entre un Juzgado Civil, Comercial y Laboral y un Juzgado de Garantías en un proceso penal por privación ilegítima de la libertad y lesiones leves en un caso de violencia de género. El tribunal devolvió las actuaciones al Juez de Garantías, Dr. Omar Javier Ovando, afirmando que el Juzgado Civil no tiene competencia material para conocer en asuntos penales, conforme a los artículos 61, 62 y 63 de la LOPJ y los artículos 5 y 6 del CPCC. Se concluyó que no existe un verdadero conflicto negativo de competencia, sino una excusación que debe ser tratada por los canales administrativos correspondientes (§).»",
+        "modified_response": "[9028] «El Superior Tribunal de Justicia de Entre Ríos, al decidir remitir las actuaciones al Juez Dr. Omar Javier Ovando, fundamenta su resolución en el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ), que regula la subrogancia, y en los artículos 5 y 6 del Código Procesal Civil y Comercial (CPCC), que establecen la competencia material. Se destaca que la subrogancia no implica que el juzgado civil asuma funciones penales, lo que se traduce en la necesidad de evitar la sobrecarga de trabajo en el juzgado civil, ya que \"la remisión de expedientes penales al Juzgado Civil altera la competencia material\" (§).»\n\n[9021] «En este fallo, el tribunal aborda un conflicto de competencia entre un Juzgado de Garantías y un Juzgado Civil, Comercial y Laboral, determinando que el primero no tiene competencia material para tratar causas penales. Se ordena la devolución de las actuaciones al Juez Dr. Omar Javier Ovando, quien debe encargarse del caso conforme al artículo 75 de la LOPJ. La decisión se apoya en el principio de especialidad y en la indelegabilidad de la competencia, resaltando que \"la subrogancia no conlleva la obligación de tramitar causas penales\" (§).»\n\n[9029] «El tribunal resuelve una controversia sobre la competencia entre el Juzgado de Garantías y el Juzgado Civil, Comercial y Laboral, ordenando la devolución de las actuaciones al Dr. Omar Javier Ovando. Se argumenta que la subrogancia, según el artículo 75 de la LOPJ, impone la obligación de intervenir en la causa penal, a pesar de que el Juzgado Civil carece de competencia material en asuntos penales. Se enfatiza que \"la subrogancia es una obligación legal del juez\" (§), y que los problemas derivados de la carga de trabajo deben ser tratados administrativamente.»\n\n[9020] «El tribunal decide remitir nuevamente las actuaciones al Juez Dr. Omar Javier Ovando en el caso \"LUNA, VICTOR RAMON Y OTROS\", relacionado con la tenencia de estupefacientes. Se establece que el Juzgado Civil, Comercial y Laboral no tiene competencia material para intervenir en procesos penales, fundamentándose en los artículos 61, 62 y 63 de la LOPJ y los artículos 5 y 6 del CPCC. Se subraya que \"la remisión de expedientes penales al juzgado civil perturba la competencia material\" (§), reafirmando la importancia de que cada juzgado opere dentro de su ámbito de competencia.»\n\n[9025] «Este fallo judicial aborda un conflicto de competencia entre un Juzgado de Garantías y un Juzgado Civil, Comercial y Laboral, determinando que el Juzgado Civil carece de competencia para gestionar causas penales. Se ordena la remisión de las actuaciones al Juez de Garantías, Dr. Omar Javier Ovando, sustentándose en el artículo 38 del CPP y en los artículos 61, 62 y 63 de la LOPJ. El tribunal señala que \"la subrogancia no implica que el juzgado civil deba encargarse de causas penales\" (§), reafirmando la necesidad de respetar las competencias establecidas por la ley.»",
+        "similarity_score": 0.8124527649462382,
+        "original_sources": [
+          "8836",
+          "8903",
+          "9031",
+          "9020",
+          "9027"
+        ],
+        "modified_sources": [
+          "9028",
+          "9021",
+          "9029",
+          "9020",
+          "9025"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.1111111111111111,
+          "precision": 0.2,
+          "recall": 0.2,
+          "f1_score": 0.20000000000000004,
+          "true_positives": 1,
+          "false_positives": 4,
+          "false_negatives": 4,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 8,
+        "query": "¿Existen sentencias que invoquen el art. 716 del CCC o el art. 12 de la LPF para rechazar nulidades procesales en la fase de competencia?",
+        "original_response": "[9041] «El tribunal denegó el recurso de queja interpuesto por Maira Soledad Caraballo, argumentando que las resoluciones sobre competencia no son sentencias definitivas según los artículos 276 y 277 del Código Procesal Civil y Comercial (CPCC), lo que implica que no se puede alegar nulidad en este contexto. Se reafirma que se han respetado las disposiciones del art. 716 del Código Civil y Comercial (CCC) y del art. 12 de la Ley de Protección Familiar (LPF), lo que refuerza la validez del procedimiento seguido, destacando que \"en la causa está debidamente preservada la regla consagrada en el art. 716 del CCC y en el art. 12 de la LPF\" (§).»\n\n[8953] «El tribunal declaró parcialmente procedente el recurso de inaplicabilidad de ley interpuesto por las codemandadas, anulando el reconocimiento de paternidad de Domingo Pedro Astorga respecto de Ana Luz Astorga, fundamentando su decisión en un vicio en la voluntad del actor, específicamente un error esencial de hecho, conforme a los artículos 265 y 588 del Código Civil y Comercial (CCC). Se enfatiza que el derecho a la identidad y la verdad biológica son primordiales, permitiendo que Ana Luz mantenga su apellido \"Astorga\", a pesar de la nulidad del reconocimiento, ya que \"es razonable que el principio de inmutabilidad del nombre haga aconsejable que el nuevo estado de familia no implique\" (§).»\n\n[9060] «En el caso \"Taffarel José Luis Ramón c/ Taffarel María Lucrecia y otro\", el Tribunal resolvió a favor del recurso de inaplicabilidad de ley, revocando la sentencia de la Cámara de Apelaciones que admitió la impugnación de reconocimiento de filiación extramatrimonial. Se fundamentó en la existencia de una sólida posesión de estado y un vínculo socio-afectivo consolidado, destacando que la caducidad de la acción debe ser considerada de oficio, conforme al art. 593 del Código Civil y Comercial (CCC). El Tribunal subrayó que \"la identidad familiar y su estabilidad son fundamentales para la seguridad jurídica\" (§).»\n\n[8971] «El tribunal hizo lugar al recurso de queja interpuesto por el Dr. Sebastián A. Roude Chaulet, revocando la resolución de la Cámara de Apelaciones que había declarado inadmisible el recurso de inaplicabilidad de ley presentado por el Sr. Peragallo. Se fundamentó en los artículos 276 y 277 del Código Procesal Civil y Comercial (CPCC), argumentando que, aunque la resolución de la Cámara no era definitiva, sus efectos podían equipararse a una sentencia definitiva, afectando el derecho de defensa del ejecutado. Se concluyó que \"la queja cumplía con los requisitos necesarios para su admisión\" (§).»",
+        "modified_response": "[9041] «El tribunal denegó el recurso de queja presentado por Maira Soledad Caraballo, argumentando que las decisiones sobre competencia no son sentencias definitivas según los artículos 276 y 277 del CPCC, y que la apelante no logró demostrar un gravamen irreparable que justificara la intervención del tribunal superior. Se reafirma la legalidad del procedimiento, cumpliendo con lo dispuesto en el art. 716 del CCC y el art. 12 de la LPF, lo que refuerza la legitimidad del proceso (§).»\n\n[9079] «El Tribunal resolvió favorablemente el recurso de inaplicabilidad de ley presentado por Teresa Elena Cardozo, anulando la decisión de la Cámara de Apelaciones que desestimó su demanda por escrituración y daños. Se fundamenta en que el plazo de prescripción no comenzó a contarse hasta que se resolvió el juicio de usucapión, conforme a los artículos 2537 y 2560 del CCC, y se destaca que la carta documento enviada en 2020 interrumpió dicho plazo (§).»\n\n[8948] «El Tribunal consideró admisibles los recursos de inaplicabilidad de ley presentados por los ejecutados, anulando la decisión de la Cámara de Apelaciones que ratificó la ejecución hipotecaria en dólares. Se fundamenta en el artículo 506 del CPCC, que establece que las ejecuciones deben realizarse en moneda de curso legal, y en el artículo 765 del CCC, que otorga al deudor el derecho a saldar deudas en moneda nacional, resaltando la incongruencia en las resoluciones previas (§).»\n\n[9006] «El Superior Tribunal de Justicia de Entre Ríos rechazó el recurso de queja presentado por las Sras. Eliana Jaquelina Utz y Laura Beatriz Martínez, argumentando que la decisión de la Cámara de Apelaciones no es una sentencia definitiva según los artículos 239, 276 y 277 del CPCC. Se subraya que las recurrentes pueden expresar su desacuerdo mediante un incidente conforme al artículo 754 del CPCC, asegurando su derecho a la defensa (§).»\n\n[8953] «El tribunal resolvió parcialmente el recurso de inaplicabilidad de ley presentado por las codemandadas, anulando el reconocimiento de paternidad de Domingo Pedro Astorga en relación con Ana Luz Astorga, debido a un error esencial de hecho que comprometió la validez del acto, conforme a los artículos 265 y 588 del CCC. Sin embargo, se autorizó a Ana Luz a conservar el apellido \"Astorga\", equilibrando el derecho a la identidad con la verdad biológica (§).»",
+        "similarity_score": 0.8116954273805339,
+        "original_sources": [
+          "9041",
+          "8953",
+          "8953",
+          "9060",
+          "8971"
+        ],
+        "modified_sources": [
+          "9041",
+          "9079",
+          "8948",
+          "9006",
+          "8953"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.2857142857142857,
+          "precision": 0.4,
+          "recall": 0.5,
+          "f1_score": 0.4444444444444445,
+          "true_positives": 2,
+          "false_positives": 3,
+          "false_negatives": 2,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 9,
+        "query": "¿Dónde hallar sentencias que acepten prueba indiciaria para atribuir responsabilidad en contratos verbales de pastaje?",
+        "original_response": "[9065] «En el caso \"SUSINI HERNAN GONZALO C/ GALOTTO JUAN Y OTROS S/ ORDINARIO DAÑOS Y PERJUICIOS\", el Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por los demandados, confirmando su responsabilidad contractual y extracontractual en relación con el incumplimiento de un contrato de pastaje, fundamentándose en la prueba indiciaria que evidenció su participación activa en la gestión del campo y el cuidado de los animales del actor, tal como se establece en el art. 280 del Código Procesal Civil y Comercial (CPCC) que regula la carga de la prueba. El Tribunal subrayó que la falta de argumentos suficientes por parte de los demandados para desvirtuar la decisión de la Cámara fue determinante para la inadmisibilidad del recurso, reafirmando que la valoración de hechos y pruebas es competencia de los tribunales de instancia (§SCHUMACHER DIJERON).»\n\n[8973] «En el caso \"Velázquez Hernán Ramón c/ Salcedo Daniel Omar y otros\", el Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por los demandados, confirmando la responsabilidad civil de Juan Mateo Salcedo y su madre, María Isabel Arreseygor, por daños derivados de una actividad peligrosa en grupo, conforme al artículo 1762 del Código Civil y Comercial (CCC). La decisión se fundamentó en la aplicación del principio de responsabilidad colectiva, donde se considera el comportamiento del grupo en lugar de las acciones individuales, destacando que la falta de prueba de la no participación de Salcedo no exime de responsabilidad, lo que se alinea con el principio iura novit curia (§SCHUMACHER DIJERON).»\n\n[8836] «El tribunal, en el contexto de la acción de petición de herencia interpuesta por Estela Susana Zurdo y Alberto Manuel Zurdo, denegó el recurso extraordinario federal, confirmando la decisión de la Cámara de Apelaciones que había admitido parcialmente el recurso de apelación. La inadmisibilidad del recurso se fundamentó en la falta de cumplimiento de los requisitos de fundamentación exigidos por el Código Procesal Civil y Comercial (CPCC), y se destacó que los demandados actuaron de mala fe al disponer de los bienes hereditarios, a pesar de conocer la existencia de un reclamante legítimo, lo que se encuentra en línea con el artículo 772 del CCC que establece la aplicación inmediata de la nueva ley a situaciones jurídicas existentes (§CONSIDERANDO).»\n\n[8949] «En el caso \"González José María c/ Centro Médico Crespo S.R.L. s/ Ejecución de Honorarios\", el Tribunal declaró improcedente el recurso de inaplicabilidad de ley interpuesto por José María González, confirmando la decisión de la Cámara de Apelaciones que había rechazado su apelación respecto a la ejecución de honorarios. La decisión se basó en la interpretación del artículo 74 del Código Procesal Civil y Comercial (CPCC) en relación con el artículo 29 de la Ley 4878, estableciendo que, aunque el artículo 29 reconoce el derecho del perito a cobrar el 100% de sus honorarios, el artículo 74 limita este derecho al 50% cuando la parte no ha sido condenada en costas, lo que resalta la necesidad de una interpretación armónica del ordenamiento jurídico (§LEONARDO PORTELA DIJO).»",
+        "modified_response": "[8903] «El tribunal declaró inadmisible el recurso extraordinario federal presentado por Gustavo Borrajo, fundamentando su decisión en que no se cumplían los requisitos del artículo 280 del Código Procesal Civil y Comercial de Entre Ríos (CPCCER). Se destacó que las objeciones del demandado no lograron desvirtuar la valoración probatoria realizada por la Cámara de Apelaciones, que había establecido su responsabilidad civil por daños y perjuicios, evidenciando su conducta negligente en la gestión de la cartera de créditos, lo que se traduce en una clara aplicación del derecho a la defensa y al debido proceso, conforme a los artículos 18 de la Constitución Nacional y 8 del Pacto de San José de Costa Rica.» (§)\n\n[9065] «En el caso \"SUSINI HERNAN GONZALO C/ GALOTTO JUAN Y OTROS\", el Tribunal resolvió declarar inadmisible el recurso de inaplicabilidad de ley, ratificando la responsabilidad de los demandados en el incumplimiento de un contrato de pastaje. Se utilizó prueba indiciaria para establecer su implicación, dado que no existía un acuerdo formal por escrito, lo que se encuentra en consonancia con el artículo 280 del Código Procesal Civil y Comercial (CPCC). La decisión subraya la importancia de la responsabilidad compartida en las relaciones contractuales y la relevancia de la prueba indiciaria en la determinación de dicha responsabilidad, tal como se menciona en el artículo 59 de la Ley de Sociedades.» (§)\n\n[8836] «El tribunal rechazó el recurso extraordinario federal presentado por Estela Susana Zurdo y Alberto Manuel Zurdo, ratificando la resolución de la Cámara de Apelaciones en el marco de una acción de petición de herencia. Se fundamentó la inadmisibilidad del recurso en la falta de requisitos de fundamentación establecidos por el Código Procesal Civil y Comercial (CPCC), destacando que los apelantes no lograron probar la arbitrariedad de la sentencia ni la infracción de derechos constitucionales, en particular los artículos 17, 18 y 19 de la Constitución Nacional, lo que reafirma la importancia de la buena fe en la disposición de bienes de la herencia.» (§)\n\n[8973] «El Tribunal consideró inadmisible el recurso de inaplicabilidad de ley en el caso \"Velázquez Hernán Ramón c/ Salcedo Daniel Omar y otros\", confirmando la responsabilidad civil de los demandados por daños ocasionados en una actividad peligrosa, conforme al artículo 1762 del Código Civil y Comercial (CCC). La decisión se basa en la aplicación del principio de responsabilidad colectiva, donde se evalúa el comportamiento del grupo, y se subrayó que la falta de evidencia sobre la no participación de Juan Mateo Salcedo no lo exime de responsabilidad, reafirmando que la valoración de hechos y pruebas corresponde a los tribunales de instancia.» (§)",
+        "similarity_score": 0.8790588319967152,
+        "original_sources": [
+          "9065",
+          "9065",
+          "8973",
+          "8836",
+          "8949"
+        ],
+        "modified_sources": [
+          "8903",
+          "9065",
+          "8836",
+          "8973",
+          "8973"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.6,
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1_score": 0.75,
+          "true_positives": 3,
+          "false_positives": 1,
+          "false_negatives": 1,
+          "true_negatives": 0
+        }
+      },
+      {
+        "query_id": 10,
+        "query": "¿Qué precedentes aplican el art. 59 de la Ley de Sociedades para imputar responsabilidad extracontractual a directivos en daños y perjuicios?",
+        "original_response": "[8887] «El fallo en el caso \"SUPERIOR GOBIERNO DE LA PROVINCIA DE ENTRE RIOS C/ SPAHN JORGE EDUARDO S/ ORDINARIO DAÑOS Y PERJUICIOS\" confirma la decisión de la Cámara de Apelaciones que rechazó la excepción de prescripción de la acción por daños y perjuicios, fundamentándose en el art. 2537 del Código Civil y Comercial (CCC), que establece un plazo de prescripción de tres años, el cual fue suspendido por la tramitación administrativa previa, conforme al art. 49 de la Ley 5796. Se resalta que el demandado no logró demostrar la arbitrariedad en la decisión anterior ni la inconstitucionalidad de la normativa provincial aplicada, lo que refuerza la improcedencia del recurso extraordinario interpuesto.» (§)\n\n[9065] «En el caso \"SUSINI HERNAN GONZALO C/ GALOTTO JUAN Y OTROS S/ ORDINARIO DAÑOS Y PERJUICIOS\", el Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por los demandados, confirmando su responsabilidad tanto contractual como extracontractual en relación con el incumplimiento de un contrato de pastaje. Se fundamenta en la valoración de pruebas que evidencian la participación activa de los demandados en la gestión del campo y el cuidado de los animales, así como en la falta de argumentos suficientes para desvirtuar la decisión de la Cámara de Apelaciones, destacando la relevancia del art. 59 de la Ley de Sociedades en la imputación de responsabilidad.» (§)\n\n[8926] «El Tribunal en el caso \"Guzmán, Héctor Hilario c/ Ledesma, Lucas Demian y otros\" declaró improcedente el recurso de inaplicabilidad de ley interpuesto por el actor, confirmando la decisión de la Cámara de Apelaciones que revocó el fallo de primera instancia. La decisión se basa en la correcta aplicación de la normativa de tránsito, específicamente el art. 41 de la Ley Nacional de Tránsito, que establece la prioridad de paso, y se concluye que el actor no cumplió con el deber de cuidado al ingresar a la intersección, rompiendo el nexo de causalidad que presumía su responsabilidad, lo que reafirma la importancia de la jerarquía vial en la determinación de la responsabilidad en accidentes de tránsito.» (§)\n\n[8991] «En el fallo que declara inadmisible el recurso de inaplicabilidad de ley interpuesto por la parte accionante en el caso de la Sra. María Luz Correa Uriburu, el Tribunal confirma la resolución de la Cámara que otorgó el beneficio de litigar sin gastos. La decisión se fundamenta en el art. 65 del Código Procesal Civil y Comercial (CPCC), que permite la exención de costas, y en la Ley 26.487, que establece principios de igualdad y perspectiva de género. El Tribunal enfatiza que la parte recurrente no demostró adecuadamente la arbitrariedad en la decisión de la Cámara, lo que refuerza la importancia de la correcta aplicación de estos principios en el ámbito judicial.» (§)\n\n[9164] «El Tribunal, en el caso de la Coordinadora del CoPNAF y el Director de Protección Integral de la Adolescencia, rechazó el recurso de inaplicabilidad de ley, confirmando la resolución de la Cámara que ordenó la adopción de medidas de protección excepcionales para el menor Maximiliano Arredondo. La decisión se basa en la Ley Provincial 9.861 y la Ley Nacional 26.061, que establecen la obligación del Estado de proteger los derechos de los menores, enfatizando el interés superior del niño como principio rector. Se argumenta que la situación del menor requería intervención estatal urgente, justificando la internación involuntaria como medida necesaria para su protección.» (§)",
+        "modified_response": "[9065] «En el caso \"SUSINI HERNAN GONZALO C/ GALOTTO JUAN Y OTROS S/ ORDINARIO DAÑOS Y PERJUICIOS\", el Tribunal declaró inadmisible el recurso de inaplicabilidad de ley, reafirmando la responsabilidad tanto contractual como extracontractual de los demandados, en virtud del art. 59 de la Ley de Sociedades, que permite imputar responsabilidad a los directivos en casos de daños y perjuicios. La decisión se fundamenta en la activa participación de los demandados en la administración del campo y el cuidado de los animales, lo que se traduce en corresponsabilidad por los daños sufridos por el actor, destacando que la valoración de pruebas corresponde a los tribunales de instancia (§).»\n\n[8887] «En el fallo \"SUPERIOR GOBIERNO DE LA PROVINCIA DE ENTRE RIOS C/ SPAHN JORGE EDUARDO S/ ORDINARIO DAÑOS Y PERJUICIOS\", se denegó el recurso extraordinario federal presentado por el demandado, confirmando la resolución de la Cámara que desestimó la excepción de prescripción de la acción por daños. La decisión se basa en la correcta aplicación del art. 2537 del Código Civil y Comercial, que establece un plazo de prescripción de tres años, el cual fue suspendido por la tramitación administrativa previa, conforme al art. 49 de la Ley 5796, lo que refuerza la idea de que la normativa provincial fue aplicada adecuadamente (§).»\n\n[8946] «El recurso de queja presentado por Gastón Eduardo Catán fue rechazado por el tribunal, fundamentándose en el incumplimiento de los requisitos formales del art. 280 del Código Procesal Civil y Comercial (CPCC). El tribunal determinó que el apelante no presentó adecuadamente las razones que sustentaran su afirmación de incongruencia en la resolución, limitándose a discrepancias subjetivas, y concluyó que carecía de legitimación para impugnar la multa impuesta a sus abogados, dado que esta no le fue directamente aplicada (§).»\n\n[8991] «El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley presentado por la parte demandante, ratificando la resolución que concedió a la Sra. María Luz Correa Uriburu el beneficio de litigar sin gastos. Esta decisión se fundamenta en el art. 65 del CPCC, que permite la exención de costas al litigante vencido, y en la Ley 26.487, que promueve la igualdad y perspectiva de género. El Tribunal subrayó que no se presentaron circunstancias que justificaran la aplicación de la perspectiva de género en este caso, destacando que la carga de la prueba sobre la arbitrariedad recae en la parte recurrente, lo cual no fue satisfecho (§).»\n\n[8953] «En el caso de la acción de nulidad, el tribunal resolvió parcialmente el recurso de inaplicabilidad de ley, anulando el reconocimiento de paternidad de Domingo Pedro Astorga respecto a Ana Luz Astorga, pero permitiendo que esta conserve su apellido. La decisión se fundamenta en el art. 265 del Código Civil y Comercial, que establece la nulidad de actos jurídicos con vicios, en este caso, un error esencial de hecho que comprometió la validez del reconocimiento. Se enfatiza el derecho a la identidad y la verdad biológica, permitiendo que Ana Luz mantenga su apellido a pesar de la nulidad (§).»",
+        "similarity_score": 0.9096878729845034,
+        "original_sources": [
+          "8887",
+          "9065",
+          "8926",
+          "8991",
+          "9164"
+        ],
+        "modified_sources": [
+          "9065",
+          "8887",
+          "8946",
+          "8991",
+          "8953"
+        ],
+        "robust": true,
+        "source_metrics": {
+          "accuracy": 0.42857142857142855,
+          "precision": 0.6,
+          "recall": 0.6,
+          "f1_score": 0.6,
+          "true_positives": 3,
+          "false_positives": 2,
+          "false_negatives": 2,
+          "true_negatives": 0
+        }
+      }
+    ],
+    "descripcion": "Evalúa si el RAG retorna resultados similares con redacción diferente"
+  }
+}

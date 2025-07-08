@@ -1,0 +1,11 @@
+{
+  "json_id": "8949",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8949.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento legal utilizado por el Tribunal para declarar improcedente el recurso de inaplicabilidad de ley interpuesto por José María González en el caso Expte. Nº 8949?",
+    "¿Cómo establece el artículo 74 del Código Procesal Civil y Comercial la limitación al cobro de honorarios en relación con el artículo 29 de la Ley 4878 según el fallo emitido el 13 de marzo de 2024?",
+    "¿Qué alegación realizó José María González respecto a la conformación de los votos en la sentencia emitida por la Cámara Segunda de Apelaciones de Paraná el 30 de junio de 2023?"
+  ],
+  "generated_at": "20250703_193638"
+}

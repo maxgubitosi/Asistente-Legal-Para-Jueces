@@ -1,17 +1,18 @@
 """
 Test 3: Content Change Sensitivity Evaluation
 
-This module evaluates if the RAG system can detect fundamental content changes
-by comparing responses when content is significantly modified but citations remain.
+Este test evalúa la sensibilidad del RAG ante cambios fundamentales de contenido.
+(DEPRECADO)
 """
 
 import logging
 from pathlib import Path
 from typing import Dict, List, Any
 from tqdm import tqdm
+import json
 
 from ..src.rag_client import RAGClient, RAGResponse
-from ..src.metrics import EvaluationResult
+from ..src.metrics import EvaluationResult, MetricsCalculator
 
 
 def evaluate_test3_content_sensitivity(
@@ -68,6 +69,7 @@ def evaluate_test3_content_sensitivity(
     total_queries = len(queries)
     detailed_results = []
     dissimilarity_scores = []
+    classification_metrics_list = []
     
     logger.info(f"🔍 Testing {total_queries} queries")
     
@@ -89,6 +91,15 @@ def evaluate_test3_content_sensitivity(
             # Check if system detected content changes
             content_change_detected = dissimilarity >= 0.3  # Threshold for detecting changes
             
+            # source overlap metrics
+            orig_set = set([r.expte for r in original_response.results])
+            mod_set = set([r.expte for r in modified_response.results])
+            tp = len(orig_set.intersection(mod_set))
+            fp = len(mod_set - orig_set)
+            fn = len(orig_set - mod_set)
+            cls_metrics = MetricsCalculator.calculate_classification_metrics(tp, fp, fn)
+            classification_metrics_list.append(cls_metrics)
+
             detailed_results.append({
                 'query_id': i + 1,
                 'query': query,
@@ -99,6 +110,7 @@ def evaluate_test3_content_sensitivity(
                 'content_change_detected': content_change_detected,
                 'original_sources': [r.expte for r in original_response.results],
                 'modified_sources': [r.expte for r in modified_response.results],
+                'source_metrics': cls_metrics,
                 'expected': 'Content changes should be detected'
             })
             
@@ -120,22 +132,34 @@ def evaluate_test3_content_sensitivity(
         sensitivity_rate = 0.0
         changes_detected = 0
     
+    # Aggregate classification metrics
+    if classification_metrics_list:
+        avg_precision_cls = sum(m['precision'] for m in classification_metrics_list) / len(classification_metrics_list)
+        avg_recall_cls = sum(m['recall'] for m in classification_metrics_list) / len(classification_metrics_list)
+        avg_f1_cls = sum(m['f1_score'] for m in classification_metrics_list) / len(classification_metrics_list)
+    else:
+        avg_precision_cls = avg_recall_cls = avg_f1_cls = 0.0
+
     logger.info(f"📊 Test 3 Results:")
     logger.info(f"  📈 Average Dissimilarity: {avg_dissimilarity:.3f}")
     logger.info(f"  🔍 Changes Detected: {changes_detected}/{total_queries}")
     logger.info(f"  📈 Sensitivity Rate: {sensitivity_rate:.3f}")
+    logger.info(f"  📈 Source Precision: {avg_precision_cls:.3f} Recall: {avg_recall_cls:.3f} F1: {avg_f1_cls:.3f}")
     
     return EvaluationResult(
         test_name="Content Change Sensitivity",
-        accuracy=sensitivity_rate,
-        precision=avg_dissimilarity,
-        recall=avg_dissimilarity,
-        f1_score=avg_dissimilarity,
+        accuracy=avg_precision_cls,
+        precision=avg_precision_cls,
+        recall=avg_recall_cls,
+        f1_score=avg_f1_cls,
         details={
             'total_consultas': total_queries,
             'cambios_detectados': changes_detected,
             'disimilitud_promedio': avg_dissimilarity,
             'tasa_sensibilidad': sensitivity_rate,
+            'source_precision': avg_precision_cls,
+            'source_recall': avg_recall_cls,
+            'source_f1': avg_f1_cls,
             'resultados_detallados': detailed_results,
             'descripcion': 'Evalúa si el RAG detecta cambios fundamentales de contenido'
         }
@@ -210,4 +234,18 @@ def get_content_sensitive_queries() -> List[str]:
         "¿Qué procedimientos se ordenan seguir según la resolución?",
         "¿Cuáles son los derechos que se reconocen en esta decisión?",
         "¿Qué criterios utiliza el tribunal para fundamentar su decisión?"
-    ] 
+    ]
+
+# helper to load queries from json
+def load_queries_from_json(path: Path):
+    if not path.exists():
+        raise FileNotFoundError(f"Prompts file not found: {path}")
+    with open(path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    if not isinstance(data, list):
+        raise ValueError("Prompts JSON must be list")
+    return [str(q) for q in data]
+
+
+# default queries json path
+DEFAULT_PROMPTS_PATH = Path(__file__).parent / "resources" / "test3" / "queries_default.json" 

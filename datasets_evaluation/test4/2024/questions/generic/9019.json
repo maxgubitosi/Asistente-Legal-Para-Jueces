@@ -1,0 +1,11 @@
+{
+  "json_id": "9019",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9019.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe procederse en casos donde surgen conflictos aparentes de competencia entre fueros diferentes?",
+    "¿Qué medidas se pueden tomar para garantizar que el principio de especialidad sea respetado en la tramitación de causas judiciales?",
+    "¿Cuáles son las implicancias jurídicas de la subrogancia de jueces en materias para las que no tienen competencia material específica?"
+  ],
+  "generated_at": "20250703_193534"
+}

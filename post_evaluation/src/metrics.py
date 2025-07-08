@@ -2,7 +2,7 @@
 Métricas y Resultados de Evaluación
 
 Este módulo define las estructuras de datos y funciones para calcular y manejar
-las métricas de evaluación del sistema RAG legal.
+las métricas de evaluación.
 """
 
 import json
@@ -25,15 +25,6 @@ class EvaluationResult:
     def to_dict(self) -> Dict[str, Any]:
         """Convierte el resultado a diccionario"""
         return asdict(self)
-    
-    def to_summary(self) -> Dict[str, float]:
-        """Retorna solo las métricas principales"""
-        return {
-            'accuracy': self.accuracy,
-            'precision': self.precision,
-            'recall': self.recall,
-            'f1_score': self.f1_score
-        }
 
 class MetricsCalculator:
     """
@@ -193,101 +184,25 @@ class ResultsManager:
         
         saved_files = {}
         
-        # Guardar resumen
-        summary_data = {}
-        for test_name, result in results.items():
-            summary_data[test_name] = result.to_summary()
-        
-        summary_file = run_dir / "resumen_evaluacion.json"
-        with open(summary_file, 'w', encoding='utf-8') as f:
-            json.dump(summary_data, f, indent=2, ensure_ascii=False)
-        saved_files['resumen'] = summary_file
-        
         # Guardar resultados detallados
         for test_name, result in results.items():
             detail_file = run_dir / f"detallado_{test_name}.json"
             with open(detail_file, 'w', encoding='utf-8') as f:
-                json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                def _convert_sets(o: Any):
+                    """Recursively convert any set instances to list for JSON serialization."""
+                    if isinstance(o, set):
+                        return list(o)
+                    if isinstance(o, dict):
+                        return {k: _convert_sets(v) for k, v in o.items()}
+                    if isinstance(o, list):
+                        return [_convert_sets(i) for i in o]
+                    return o
+                json.dump(_convert_sets(result.to_dict()), f, indent=2, ensure_ascii=False)
             saved_files[f'detallado_{test_name}'] = detail_file
-        
-        # Crear reporte en markdown
-        report_file = self.create_markdown_report(results, run_dir)
-        saved_files['reporte'] = report_file
         
         return saved_files
     
-    def create_markdown_report(self, results: Dict[str, EvaluationResult], run_dir: Path) -> Path:
-        """
-        Crea un reporte en formato Markdown
-        
-        Args:
-            results: Resultados de evaluación
-            run_dir: Directorio de la ejecución
-            
-        Returns:
-            Ruta del archivo de reporte generado
-        """
-        report_file = run_dir / "reporte_evaluacion.md"
-        
-        with open(report_file, 'w', encoding='utf-8') as f:
-            f.write("# Reporte de Evaluación - Sistema RAG Legal\n\n")
-            f.write(f"**Generado:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
-            
-            # Resumen ejecutivo
-            f.write("## Resumen Ejecutivo\n\n")
-            f.write("| Prueba | Exactitud | Precisión | Recall | F1 Score |\n")
-            f.write("|--------|-----------|-----------|--------|----------|\n")
-            
-            for test_name, result in results.items():
-                f.write(f"| {result.test_name} | {result.accuracy:.3f} | {result.precision:.3f} | {result.recall:.3f} | {result.f1_score:.3f} |\n")
-            
-            # Resultados detallados
-            f.write("\n## Resultados Detallados\n\n")
-            
-            for test_name, result in results.items():
-                f.write(f"### {result.test_name}\n\n")
-                f.write(f"**Exactitud:** {result.accuracy:.3f}\n")
-                f.write(f"**Precisión:** {result.precision:.3f}\n")
-                f.write(f"**Recall:** {result.recall:.3f}\n")
-                f.write(f"**F1 Score:** {result.f1_score:.3f}\n\n")
-                
-                # Información adicional de los detalles
-                if 'error' in result.details:
-                    f.write(f"**Error:** {result.details['error']}\n\n")
-                else:
-                    if 'total_files' in result.details:
-                        f.write(f"**Archivos Procesados:** {result.details['total_files']}\n")
-                    if 'correct_extractions' in result.details:
-                        f.write(f"**Extracciones Correctas:** {result.details['correct_extractions']}\n")
-                    if 'total_queries' in result.details:
-                        f.write(f"**Consultas Probadas:** {result.details['total_queries']}\n")
-                    if 'nota' in result.details:
-                        f.write(f"**Nota:** {result.details['nota']}\n")
-                    f.write("\n")
-            
-            # Interpretación de resultados
-            f.write("## Interpretación de Resultados\n\n")
-            f.write("### Criterios de Evaluación\n\n")
-            f.write("- **Exactitud ≥ 0.9:** Excelente\n")
-            f.write("- **Exactitud ≥ 0.8:** Bueno\n")
-            f.write("- **Exactitud ≥ 0.7:** Aceptable\n")
-            f.write("- **Exactitud < 0.7:** Necesita mejoras\n\n")
-            
-            # Recomendaciones basadas en resultados
-            f.write("### Recomendaciones\n\n")
-            
-            overall_performance = sum(r.accuracy for r in results.values()) / len(results) if results else 0
-            
-            if overall_performance >= 0.9:
-                f.write("🟢 **Rendimiento Excelente:** El sistema muestra alta robustez en todas las pruebas.\n\n")
-            elif overall_performance >= 0.8:
-                f.write("🟡 **Rendimiento Bueno:** El sistema es generalmente robusto con algunas áreas de mejora.\n\n")
-            elif overall_performance >= 0.7:
-                f.write("🟠 **Rendimiento Aceptable:** Se recomienda revisar los componentes con menor rendimiento.\n\n")
-            else:
-                f.write("🔴 **Rendimiento Bajo:** Se requieren mejoras significativas en el sistema.\n\n")
-        
-        return report_file
+
     
     def load_results(self, timestamp: str) -> Dict[str, EvaluationResult]:
         """

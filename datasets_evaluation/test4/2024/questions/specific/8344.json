@@ -1,0 +1,11 @@
+{
+  "json_id": "8344",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8344.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué requisitos establece el Código Civil para revocar una donación por incumplimiento de las cargas impuestas al donatario?",
+    "¿Cómo justificó el tribunal que la falta de constitución en mora no impedía la revocación de la donación en este caso?",
+    "¿Cuál fue el fundamento de los actores para alegar el incumplimiento de las cargas por parte del demandado respecto de los derechos políticos de la donante?"
+  ],
+  "generated_at": "20250703_194243"
+}

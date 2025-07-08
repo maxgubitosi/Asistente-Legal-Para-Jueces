@@ -1,0 +1,11 @@
+{
+  "json_id": "8678",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8678.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios debe considerar un juez para justificar su excusación en una causa?",
+    "¿Cómo se interpreta el concepto de prejuzgamiento en el ámbito jurisdiccional?",
+    "¿Cuáles son las implicancias legales de mantener la composición original de un tribunal en una causa?"
+  ],
+  "generated_at": "20250703_194444"
+}

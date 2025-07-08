@@ -1,0 +1,11 @@
+{
+  "json_id": "8953",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8953.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿En qué casos el Código Civil y Comercial permite anular un acto jurídico por vicio de voluntad?",
+    "¿Cómo interpreta el tribunal el silencio procesal en relación al deber de expedirse conforme al CPCC?",
+    "¿Qué derechos se buscó equilibrar al permitir que Ana Luz Astorga conserve el apellido a pesar de la nulidad del reconocimiento de paternidad?"
+  ],
+  "generated_at": "20250703_193736"
+}

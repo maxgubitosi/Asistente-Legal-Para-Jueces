@@ -1,0 +1,11 @@
+{
+  "json_id": "9011",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9011.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es el fundamento específico utilizado por el tribunal para aceptar la excusación de la Sra. Vocal Gisela N. Schumacher en el caso 'BUTTAZZONI MABEL TERESITA S. PEDIDO DE CONCURSO PREVENTIVO' según el artículo 14 del Código Procesal Civil y Comercial (CPCC)?",
+    "¿Qué razones graves mencionó la Sra. Vocal Gisela N. Schumacher respecto a su previa experiencia en el caso 'Micheloud Marcelo c/ Estado Provincial s/ contencioso administrativo' - Expte Nº 550, que derivaron en su decisión de excusarse en el presente caso?",
+    "¿Cómo se integró la Sala del tribunal para sustituir a la Sra. Vocal Gisela N. Schumacher, según lo dispuesto por el artículo 33 de la Ley Orgánica del Poder Judicial (LOPJ)?"
+  ],
+  "generated_at": "20250703_194042"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9020",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9020.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué fundamentos legales utiliza el tribunal para determinar que el Juzgado Civil, Comercial y Laboral carece de competencia material en procesos penales?",
+    "¿Cómo interpreta el tribunal el principio de especialidad e indelegabilidad de la competencia en este caso?",
+    "¿Cuál es el impacto del uso del artículo 75 de la Ley Orgánica del Poder Judicial en el traspaso de expedientes penales al Juzgado Civil?"
+  ],
+  "generated_at": "20250703_193635"
+}

@@ -1,8 +1,7 @@
 """
 Test 1: Citation Format Robustness Evaluation
 
-This module evaluates if the citation extractor is robust to format variations
-by comparing citation extraction between original and format-modified JSON files.
+Este test evalúa la robustez del extractor de citas frente a variaciones en el formato de las citas.
 """
 
 import json

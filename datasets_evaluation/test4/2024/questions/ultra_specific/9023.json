@@ -1,0 +1,11 @@
+{
+  "json_id": "9023",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9023.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos específicos determinó el tribunal para devolver las actuaciones al Juez Dr. Omar Javier Ovando en el caso 'MONZON, Daniel Alberto y Otros - ROBO' conforme al artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ)?",
+    "¿Cuáles son los argumentos del Juez Civil, Comercial y Laboral de Federal, Dr. Omar Javier Ovando, para declarar la incompetencia material de su juzgado en el proceso penal mencionado en el expediente Nº 9023?",
+    "¿Qué consideraciones expresó la Procuradora Adjunta del Ministerio Público Fiscal, Dra. Mónica Elizabeth Carmona, respecto a la competencia para resolver el incidente en el legajo OGA nro. 1340 y fecha 13/3/2024?"
+  ],
+  "generated_at": "20250703_193536"
+}

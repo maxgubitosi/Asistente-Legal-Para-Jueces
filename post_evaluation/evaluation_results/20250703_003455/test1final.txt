@@ -1,0 +1,2 @@
+nota: el accuracy quedó en terminos de exact match entre documentos.
+En cambio las demás métricas son por cita.

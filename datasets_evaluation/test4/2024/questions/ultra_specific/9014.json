@@ -1,0 +1,11 @@
+{
+  "json_id": "9014",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9014.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la causal de excusación invocada por el Dr. Carlos Federico Tepsich según el artículo 14, inciso 7 del Código Procesal Civil y Comercial (CPCC)?",
+    "¿Qué jueces integran la sala tras la aceptación de la excusación del Dr. Carlos Federico Tepsich en el expediente N° 9014?",
+    "¿Qué normativa regula la abstención del Sr. Vocal Leonardo Portela en la resolución del 21 de mayo de 2024?"
+  ],
+  "generated_at": "20250703_193940"
+}

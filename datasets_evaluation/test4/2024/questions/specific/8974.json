@@ -1,0 +1,11 @@
+{
+  "json_id": "8974",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8974.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los requisitos legales para la adquisición de dominio por usucapión según el Código Civil y Comercial?",
+    "¿Qué argumentos utilizó el Tribunal para fundamentar la posesión pública, pacífica, ininterrumpida y continua del actor?",
+    "¿En qué fecha se considera que Lázaro Rodrigo Baldo adquirió el dominio del inmueble por usucapión según la sentencia?"
+  ],
+  "generated_at": "20250703_193942"
+}

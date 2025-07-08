@@ -1,0 +1,11 @@
+{
+  "json_id": "8689",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8689.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe proceder un abogado para reclamar sus honorarios en caso de mora en el pago?",
+    "¿Qué criterios debe considerar un tribunal al regular los honorarios de un profesional en un juicio civil?",
+    "¿Qué métodos de notificación son válidos para comunicar la regulación de honorarios a las partes involucradas?"
+  ],
+  "generated_at": "20250703_194141"
+}

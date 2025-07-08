@@ -1,0 +1,11 @@
+{
+  "json_id": "8996",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8996.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron las razones específicas por las que el tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por Marcelo Claudio Fabián Velázquez en relación con la sentencia del 24 de agosto de 2023?",
+    "¿Qué artículos del Código Procesal Civil y Comercial y de la Ley Procesal de Familia fueron citados como fundamento para la decisión adoptada por el tribunal?",
+    "¿Qué impacto tuvo el cambio de residencia de uno de los hijos en la decisión de la Cámara Segunda de Apelaciones de Paraná respecto a la reducción de la cuota alimentaria?"
+  ],
+  "generated_at": "20250703_193635"
+}

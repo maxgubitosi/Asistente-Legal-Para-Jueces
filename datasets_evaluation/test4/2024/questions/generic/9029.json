@@ -1,0 +1,11 @@
+{
+  "json_id": "9029",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9029.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los criterios para determinar la competencia de un juez en casos donde interviene como subrogante en causas penales?",
+    "¿Qué procedimientos administrativos pueden aplicarse para resolver conflictos derivados de la sobrecarga laboral de un juzgado debido a subrogancias legales?",
+    "¿En qué circunstancias puede la declaración de incompetencia material de un juez ser considerada infundada en un proceso judicial?"
+  ],
+  "generated_at": "20250703_193534"
+}

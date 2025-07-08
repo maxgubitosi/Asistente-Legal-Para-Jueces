@@ -1,0 +1,11 @@
+{
+  "json_id": "9164",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9164.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento principal para que el Tribunal confirmara la adopción de medidas de protección excepcionales para el menor?",
+    "¿Qué rol cumple el CoPNAF según lo dispuesto en la Ley Provincial 9.861 en casos de protección integral de menores?",
+    "¿Cómo justifica el Tribunal la necesidad de una internación involuntaria en este caso específico?"
+  ],
+  "generated_at": "20250703_194445"
+}

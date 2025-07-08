@@ -1,0 +1,11 @@
+{
+  "json_id": "9116",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9116.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron los fundamentos del Tribunal para declarar mal concedido el recurso de inaplicabilidad interpuesto por Raúl Miguel Ghione en fecha 11/4/2024?",
+    "¿Por qué el Tribunal consideró que la resolución de fecha 23/5/2023 que estableció el monto adeudado era firme e irrecurrible según el expediente Nº 9116?",
+    "¿Qué interpretaciones realizó el Tribunal respecto de la supuesta exención prevista en el artículo 113 de la Ley Arancelaria en relación con el depósito exigido por el artículo 280 del Código Procesal Civil y Comercial?"
+  ],
+  "generated_at": "20250703_194346"
+}

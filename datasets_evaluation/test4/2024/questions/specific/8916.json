@@ -1,0 +1,11 @@
+{
+  "json_id": "8916",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8916.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué requisitos formales establece el artículo 280 del Código Procesal Civil y Comercial para la admisibilidad de un recurso extraordinario?",
+    "¿Cómo se determina la cuantificación de la trascendencia económica según el artículo 52 de la Ley 7046?",
+    "¿De qué manera el tribunal justificó que el cumplimiento de los requisitos formales no vulnera la garantía de defensa en juicio prevista en el artículo 18 de la Constitución Nacional?"
+  ],
+  "generated_at": "20250703_193534"
+}

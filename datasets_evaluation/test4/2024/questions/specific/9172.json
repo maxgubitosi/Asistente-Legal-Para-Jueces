@@ -1,0 +1,11 @@
+{
+  "json_id": "9172",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9172.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los requisitos formales necesarios para la admisibilidad del recurso de inaplicabilidad de ley según el Código Procesal Civil y Comercial?",
+    "¿Qué condiciones deben cumplirse para que un tribunal considere la existencia de un menoscabo a la garantía de defensa en juicio?",
+    "¿Qué argumentos utilizó el tribunal para justificar la denegación del recurso de queja interpuesto por la recurrente?"
+  ],
+  "generated_at": "20250703_194445"
+}

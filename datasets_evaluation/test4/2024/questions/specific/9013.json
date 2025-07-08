@@ -1,0 +1,11 @@
+{
+  "json_id": "9013",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9013.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal que determina la competencia del juez que reguló los honorarios en este caso?",
+    "¿Por qué el tribunal consideró al Juzgado de Paz de Seguí como competente para ejecutar los honorarios?",
+    "¿Qué criterio se aplica cuando la parte actora opta por no utilizar el proceso común de ejecución de sentencias?"
+  ],
+  "generated_at": "20250703_193838"
+}

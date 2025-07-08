@@ -1,0 +1,11 @@
+{
+  "json_id": "8932",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8932.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos específicos utilizó la Cámara de Apelaciones de Gualeguaychú el 4 de septiembre de 2023 para declarar desierto el recurso de apelación interpuesto por Nélida Raquel Quiroz contra José María Vitasse?",
+    "¿Por qué el Tribunal concluyó que el recurso de inaplicabilidad de ley presentado por la recurrente en el Expte. Nº 8932 no cumplió con los requisitos de fundamentación exigidos?",
+    "¿Qué argumentos concretos presentó la recurrente el 12 de septiembre de 2023 para denunciar arbitrariedad y absurdidad en la sentencia que rechazó el recurso de queja en el caso 'QUIROS NELIDA RAQUEL C/ VITASSE JOSE MARIA S. ORDINARIO (ACCION DE REMOCION)'?"
+  ],
+  "generated_at": "20250703_193640"
+}

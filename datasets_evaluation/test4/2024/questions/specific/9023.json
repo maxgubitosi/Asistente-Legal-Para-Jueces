@@ -1,0 +1,11 @@
+{
+  "json_id": "9023",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9023.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué establece el artículo 75 de la Ley Orgánica del Poder Judicial respecto a la subrogancia de jueces?",
+    "¿Por qué se consideró incorrecto trasladar causas penales al Juzgado Civil, Comercial y Laboral en este caso?",
+    "¿Cuál fue el fundamento del tribunal para determinar que no existía un conflicto negativo de competencia?"
+  ],
+  "generated_at": "20250703_193535"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9172",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9172.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué argumentos presentó la Dra. María Amelia Angerosa de Céspedes para sostener que el tribunal de alzada incurrió en denegación de justicia al no considerar los intereses de menores de edad en el proceso?",
+    "¿De qué manera invocó la recurrente los artículos 16 y 18 de la Constitución Nacional para fundamentar su alegación de menoscabo al derecho de defensa en juicio?",
+    "¿Qué vicio alegó la parte recurrente con respecto al cumplimiento del artículo 47 de la Ley Nº 9234 en la resolución emitida por el tribunal de alzada y cómo justificó su solicitud de nulidad?"
+  ],
+  "generated_at": "20250703_194447"
+}

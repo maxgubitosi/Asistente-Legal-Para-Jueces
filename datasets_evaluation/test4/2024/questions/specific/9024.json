@@ -1,0 +1,11 @@
+{
+  "json_id": "9024",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9024.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los fundamentos legales por los que el Superior Tribunal de Justicia de Entre Ríos rechazó la declaración de incompetencia material del Dr. Ovando?",
+    "¿Qué establece el artículo 75 de la Ley Orgánica del Poder Judicial respecto a la subrogancia de jueces y su aplicación en casos penales?",
+    "¿Cómo se aborda el principio del juez natural en relación con la subrogancia establecida en este caso?"
+  ],
+  "generated_at": "20250703_193434"
+}

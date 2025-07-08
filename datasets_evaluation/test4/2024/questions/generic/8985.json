@@ -1,0 +1,11 @@
+{
+  "json_id": "8985",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8985.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los criterios que deben considerarse para determinar la proporcionalidad en la regulación de honorarios en un proceso concursal?",
+    "¿En qué casos puede un tribunal declarar inadmisible un recurso relacionado con la regulación de honorarios en procesos de quiebra?",
+    "¿Qué peso tienen las labores específicas de los profesionales en la distribución de honorarios dentro de un proceso concursal?"
+  ],
+  "generated_at": "20250703_193436"
+}

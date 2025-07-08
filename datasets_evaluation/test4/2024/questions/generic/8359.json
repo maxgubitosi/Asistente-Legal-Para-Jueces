@@ -1,0 +1,11 @@
+{
+  "json_id": "8359",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8359.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Es legalmente exigible una tasa si la norma que la establece no fue debidamente publicada?",
+    "¿Puede configurarse la inexistencia de deuda cuando el deudor no tuvo conocimiento de la norma que da origen a la obligación?",
+    "¿Quién debe asumir las costas procesales cuando se revoca una ejecución por falta de cumplimento de requisitos legales en la norma aplicada?"
+  ],
+  "generated_at": "20250703_194143"
+}

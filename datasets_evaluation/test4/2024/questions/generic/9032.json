@@ -1,0 +1,11 @@
+{
+  "json_id": "9032",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9032.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué medidas deben tomar los tribunales cuando se presenta una excusación entre jueces que no comparten un superior común?",
+    "¿Cómo se determina la competencia material de un juzgado al enfrentar casos que exceden su especialidad?",
+    "¿Qué impacto tiene la subrogancia legal en la eficiencia y especialización del sistema judicial?"
+  ],
+  "generated_at": "20250703_193436"
+}

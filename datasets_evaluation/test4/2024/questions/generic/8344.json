@@ -1,0 +1,11 @@
+{
+  "json_id": "8344",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8344.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios se deben considerar para determinar el incumplimiento de las cargas impuestas al donatario en una donación?",
+    "¿Cuáles son las posibles consecuencias jurídicas de la revocación de una donación en el contexto de una sociedad empresarial familiar?",
+    "¿Qué elementos son necesarios para constituir formalmente al donatario en mora respecto del cumplimiento de las cargas estipuladas en una donación?"
+  ],
+  "generated_at": "20250703_194343"
+}

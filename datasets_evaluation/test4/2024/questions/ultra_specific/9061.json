@@ -1,0 +1,11 @@
+{
+  "json_id": "9061",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9061.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la fundamentación del Dr. Bruno Francisco Giordano para interponer el recurso de queja contra la resolución de la Cámara de Apelaciones de Gualeguaychú dictada el 15 de marzo de 2024?",
+    "¿Qué normativa específica, como los artículos 55 y 58 de la Ley Provincial 9.861 y el artículo 40 de la Ley Nacional 26.061, se mencionan como vulneradas en la resolución impugnada?",
+    "¿Cuál fue el dictamen del Sr. Defensor General de la Provincia, Dr. Maximiliano F. Benítez, con relación al recurso de queja presentado el 25 de marzo de 2024?"
+  ],
+  "generated_at": "20250703_193838"
+}

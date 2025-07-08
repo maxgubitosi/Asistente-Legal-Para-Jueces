@@ -1,0 +1,11 @@
+{
+  "json_id": "8887",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8887.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué situaciones se puede suspender el plazo de prescripción en un proceso de responsabilidad por daños y perjuicios?",
+    "¿Cómo debe garantizarse el derecho de defensa del demandado durante la tramitación administrativa previa en casos de responsabilidad civil?",
+    "¿Qué criterios se deben evaluar para determinar la procedencia de un recurso extraordinario en materia de prescripción?"
+  ],
+  "generated_at": "20250703_193537"
+}

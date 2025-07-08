@@ -1,0 +1,11 @@
+{
+  "json_id": "8977",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8977.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué procedimientos siguen los tribunales para garantizar la imparcialidad en casos donde un juez se excusa?",
+    "¿Cómo se realiza la integración de una sala judicial cuando uno de sus miembros se abstiene de participar?",
+    "¿Qué criterios se aplican para determinar la existencia de conflicto de interés en el proceso judicial?"
+  ],
+  "generated_at": "20250703_194039"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9019",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9019.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal en el que se basó el tribunal para ordenar al Dr. Omar Javier Ovando continuar con el tratamiento del caso 'Avalos, Cristian Carlos Ariel' según el artículo 75 de la Ley Orgánica del Poder Judicial?",
+    "¿Qué razones expuso la Dra. Susana Griselda Irurzun para excusarse del proceso penal 'Avalos, Cristian Carlos Ariel = Infracción a la Ley 23737' conforme al artículo 38 inciso a) del CPP?",
+    "¿Por qué el tribunal concluyó que no existía un conflicto negativo de competencia entre el Juzgado Civil, Comercial y Laboral y el Juzgado de Garantías de Federal en el caso 'Avalos, Cristian Carlos Ariel'?"
+  ],
+  "generated_at": "20250703_193436"
+}

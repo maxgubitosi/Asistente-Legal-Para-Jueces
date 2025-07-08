@@ -1,0 +1,11 @@
+{
+  "json_id": "9033",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9033.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es el fundamento que utilizó la Sra. Jueza de Garantías Interina de Federal, Dra. Susana Griselda Irurzun, para excusarse en el proceso 'DUARTE, DARIO RAFAEL - ABUSO SEXUAL CON ACCESO CARNAL' Expte. Nº 9033 según el art. 38 inc. a) del CPP?",
+    "¿Qué disposición del artículo 75 de la LOPJ regula el orden de subrogancias en caso de ausencia o impedimento de los jueces y cómo aplica en este caso concreto?",
+    "¿Por qué razón consideró el STJER que el supuesto conflicto de competencia entre el Juzgado de Garantías y el Juzgado Civil, Comercial y Laboral de Federal no tenía sustento legal alguno en el caso del Expte. Nº 9033?"
+  ],
+  "generated_at": "20250703_193840"
+}

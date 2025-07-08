@@ -1,0 +1,11 @@
+{
+  "json_id": "9172",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9172.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué hacer si un recurso de apelación es declarado desierto por falta de cumplimiento de requisitos formales?",
+    "¿Cómo se puede demostrar un agravio en un recurso para justificar su admisión, según las normas procesales?",
+    "¿En qué circunstancias puede un tribunal de alzada incurrir en una denegación de justicia al evaluar recursos extraordinarios?"
+  ],
+  "generated_at": "20250703_194545"
+}

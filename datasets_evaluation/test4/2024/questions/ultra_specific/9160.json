@@ -1,0 +1,11 @@
+{
+  "json_id": "9160",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9160.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿En qué fecha el Juzgado de Primera Instancia Civil y Comercial Nº 1 de Gualeguaychú declaró su incompetencia inicial en el caso 'BUIATTI VERÓNICA ESTEFANIA C/ PETROFF LUCÍA ROSANA Y OTRO S/ COBRO DE PESOS'?",
+    "¿Qué monto reclamado por Verónica Estefanía Buiatti fue considerado para determinar la competencia del Juzgado de Primera Instancia Civil y Comercial Nº 1 según la Acordada General N° 14/24?",
+    "¿Cuál fue el criterio adoptado por el Ministerio Público Fiscal, Dra. Mónica Elizabeth Carmona, respecto al conflicto de competencia en este caso en su dictamen del 17/9/2024?"
+  ],
+  "generated_at": "20250703_194345"
+}

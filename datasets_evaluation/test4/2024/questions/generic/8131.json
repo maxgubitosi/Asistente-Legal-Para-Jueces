@@ -1,0 +1,11 @@
+{
+  "json_id": "8131",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8131.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué requisitos debe cumplir una persona para tener legitimación activa en una acción de nulidad de un acto jurídico?",
+    "¿En qué casos es posible solicitar la nulidad de un contrato por dolo o fraude, y quiénes están legitimados para hacerlo?",
+    "¿Qué implica la inadmisibilidad de un recurso judicial y qué consecuencias tiene en el desarrollo del proceso?"
+  ],
+  "generated_at": "20250703_194446"
+}

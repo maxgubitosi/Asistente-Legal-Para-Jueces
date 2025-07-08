@@ -1,0 +1,11 @@
+{
+  "json_id": "9129",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9129.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los fundamentos legales específicos establecidos en los artículos 276 y 280 del Código Procesal Civil y Comercial que llevaron a declarar inadmisible el recurso interpuesto por Pablo Cheremnov Martushov?",
+    "¿Qué razones y pruebas utilizó la Cámara de Apelaciones de Concepción del Uruguay en su resolución del 21/5/2024 para rechazar el incidente de nulidad del domicilio denunciado por Pablo Cheremnov Martushov?",
+    "¿Cuál es la relevancia del informe del oficial de justicia del Poder Judicial de Corrientes respecto al domicilio inexistente denunciado por Pablo Cheremnov Martushov, y cómo influyó en la decisión judicial en la causa 'MIQUEO LEONEL ESTEBAN C/ CHEREMNOV MARTUSHOV PABLO Y OTRA S/ ORDINARIO DAÑOS Y PERJUICIOS' - Expte. Nº 9129?"
+  ],
+  "generated_at": "20250703_194449"
+}

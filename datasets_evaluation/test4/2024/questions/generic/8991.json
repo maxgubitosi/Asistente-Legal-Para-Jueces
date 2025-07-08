@@ -1,0 +1,11 @@
+{
+  "json_id": "8991",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8991.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué circunstancias es posible eximir total o parcialmente de las costas a un litigante vencido?",
+    "¿Qué criterios deben considerarse para aplicar la perspectiva de género en la distribución de costas en un litigio?",
+    "¿Cómo se puede demostrar la arbitrariedad en una resolución judicial respecto a la distribución de costas?"
+  ],
+  "generated_at": "20250703_194141"
+}

@@ -1,0 +1,207 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8927",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 24.449",
+          "cited_articles": [
+            3,
+            5,
+            41,
+            50,
+            51,
+            64,
+            65
+          ],
+          "extra": [
+            "Ley Nacional de Tránsito Nro. 24.449, LNT"
+          ]
+        },
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            65,
+            276,
+            280,
+            281
+          ],
+          "extra": [
+            "Código procesal civil y comercial"
+          ]
+        },
+        {
+          "main_source": "Código Civil y Comercial (CCC)",
+          "cited_articles": [
+            2,
+            1113
+          ],
+          "extra": [
+            "Código Civil"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "Acuerdo Gral. 11/20 del 23-6-2020"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "conforme arts. 1º y 4º"
+          ]
+        },
+        {
+          "main_source": "Corte Suprema de Justicia de la Nación (CSJN)",
+          "cited_articles": [],
+          "extra": [
+            "Fallos: 297:210; 306:1988"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "ORDINARIO DAÑOS Y PERJUICIOS",
+  "IDEA_CENTRAL": "El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por la aseguradora San Cristóbal, confirmando la condena a los demandados por daños y perjuicios a favor del actor, Fernando Ariel Zampedri, en virtud de un accidente de tránsito.\n\n**Fundamento Legal:**\nLa decisión se basa en la correcta aplicación de la Ley Nacional de Tránsito N° 24.449, especialmente los artículos 41 y 64, que establecen la prioridad de paso y la presunción de responsabilidad en accidentes de tránsito. El Tribunal concluyó que el actor, al circular por una arteria de doble sentido, tenía prioridad sobre el vehículo que llegó por la derecha, lo que desvirtuó la defensa de la demandada.\n\n**Aspectos Legales Relevantes:**\n1. **Ley Nacional de Tránsito N° 24.449:**\n   - **Art. 41:** Establece la prioridad de paso del vehículo que viene por la derecha, salvo excepciones como las semiautopistas.\n   - **Art. 64:** Presume la responsabilidad del conductor que no tiene prioridad de paso.\n\n**Razonamiento del Tribunal:**\nEl Tribunal argumentó que la interpretación extensiva de la norma que considera a las calles de doble sentido como semiautopistas es válida, dado el contexto de seguridad vial. Se enfatizó que la prioridad de paso no se pierde simplemente por la dirección desde la que se llega a una encrucijada, sino que debe considerarse el tipo de vía. La aseguradora no logró demostrar arbitrariedad en la decisión de la Cámara de Apelaciones, que había revocado la sentencia de primera instancia.\n\n**Conclusión:**\nEl fallo reafirma la importancia de la correcta interpretación de las normas de tránsito y la responsabilidad en accidentes, destacando que la seguridad vial debe prevalecer sobre interpretaciones que puedan resultar en situaciones de riesgo.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927"
+    ],
+    "///CUERDO": [
+      "En la ciudad de Paraná, capital de la provincia de Entre Ríos, a los seis días del mes de febrero del año dos mil veinticuatro reunidos los integrantes de este Tribunal asistidos por el Secretario autorizante, para conocer el recurso de inaplicabilidad de ley deducido en fecha 3/7/2023 en los autos: \"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927, respecto de la resolución dictada por la Sala Primera Civil y Comercial de la Cámara de Apelaciones de Concordia en fecha 15/6/2023. Se practicó el sorteo de ley resultando que la votación debía tener lugar en el siguiente orden: Sr. Vocal Dr. Leonardo Portela; Sra. Vocal Dra. Gisela N. Schumacher y Sr. Vocal Dr. Martín F. Carbonell.",
+      "Estudiados los autos, la Sala se planteó la siguiente cuestión: ¿qué corresponde resolver respecto del recurso de inaplicabilidad de ley interpuesto?",
+      "A LA CUESTIÓN PROPUESTA EL SR. VOCAL DR."
+    ],
+    "LEONARDO PORTELA DIJO": [
+      "1.- Que la citada en garantía, San Cristóbal Sociedad Mutual de Seguros Generales, interpuso recurso de inaplicabilidad de ley contra la resolución dictada por la Sala Primera Civil y Comercial de la Cámara de Apelaciones de Concordia (15/6/2023), por cuanto hizo lugar al recurso de apelación interpuesto por el actor, revocó la sentencia de grado y condenó en forma concurrente a los demandados Sergio Andrés Pessolani y Dalila Silvana Reniero, a abonar al actor Fernando Ariel Zampedri, dentro de los diez (10) días de notificados, el importe que sumariamente se fije en la instancia de origen en concepto de daño emergente, incapacidad sobreviniente y daño moral. Asimismo, hizo extensiva la condena a la aseguradora citada en garantía.",
+      "2.- Que el tribunal de la anterior instancia, luego de relacionar los antecedentes de la causa y delimitar los agravios de la actora, hizo el siguiente análisis.",
+      "Aclaró que ese tribunal sostiene el criterio de que en la emergencia la \"prioridad\" de quien arribó por la derecha (en el caso, la demandada) cede ante quien llega a la encrucijada circulando por una arteria con doble sentido de circulación vehicular (el actor apelante), califique ésta como \"avenida\" o no.",
+      "Resaltó, los que circulan por una vía de menor jerarquía, aunque lo hagan por la derecha, deben ceder la prioridad a los que marchan por la vía de jerarquía mayor.",
+      "Relató que el actor circulaba por calle de doble mano que imponía a la accionada ceder el paso a quien circulaba por ella y no lo hizo, siendo esa infracción el factor determinante de la colisión entre ambos vehículos, y que de las pruebas producidas no surgió ningún elemento que permita apartarse de ese criterio.",
+      "\"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 Concluyó que conforme la interpretación extensiva que este inciso d) de la Ley Nacional de Tránsito Nº 24449 respecto a la semiautopista, en relación a la regla del paso prioritario de quien viene por la derecha y de la prueba producida, el actor contaba con la prioridad de paso que le otorgaba el hecho de transitar por una arteria de doble mano, desvirtuando plenamente así la prioridad que aduce la parte demandada por circular desde la derecha.",
+      "3.- Que contra dicho pronunciamiento se alza la citada en garantía y, tras enunciar que se encuentran cumplidos los recaudos de admisibilidad formal y relacionar los antecedentes del caso, funda su planteo.",
+      "En su embate, cuestiona la interpretación que efectuó el tribunal de lo normado por los arts. 41, 39, 50 y 64 de la Ley Nacional de Tránsito Nro.",
+      "24.449, extendiendo hasta lo absurdo la aplicación de la doctrina jurisprudencial de la Sala Civil y Comercial del Superior Tribunal de Justicia de Entre Ríos.",
+      "Aduce que esa absurdidad lleva a concluir que todas las calles de menor importancia de los pueblos y ciudades de Entre Ríos son avenidas por el simple hecho de ser de doble mano, y que tienen prioridad sobre cualquier arteria de mano única, incluso avenida de mano única, sepultando arbitrariamente la regla expresa del art. 41 de la Ley Nacional de Tránsito de la prioridad absoluta del vehículo que se presenta por la derecha en toda encrucijada en la República Argentina y en la interpretación de la prueba respecto a qué vehículo arribó primero a la confluencia de arterias.",
+      "Atribuye una valoración arbitraria de los hechos, pruebas y del derecho involucrados en la decisión, lo que no constituye una derivación razonada del derecho vigente en relación a las circunstancias comprobadas de la causa, por ello se tacha dicho fallo de hacer gala de inaplicar la ley y de arbitrariedad.",
+      "Considera que no puede llegarse a la conclusión que la calle Inmaculada Concepción de la ciudad de Federación por la que circulaba la motocicleta es una avenida de doble mano de circulación, una de rápido tránsito y gran congestión, que pueda ser equiparada al concepto de semiautopista consignado por el inc. d) del art. 41 de la Ley Nacional de Tránsito. Finalmente, hace reserva del caso federal y peticiona.",
+      "4.- Que, corrido el traslado del recurso de inaplicabilidad de ley, fue replicado por la actora.",
+      "5.- Que la Cámara lo concedió con efecto suspensivo.",
+      "6.- Que, sintetizados los aspectos relevantes del caso e ingresando al tratamiento y definición de la cuestión propuesta a juzgamiento, podemos señalar que el recurso de inaplicabilidad de ley es el remedio creado para efectuar un control jurídico del fallo, examinando si el mismo ha respetado el derecho aplicable y ha efectuado un correcto encuadre jurídico de la causa, siendo \"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 solamente viable el análisis de los hechos y la prueba cuando se invoque y demuestre arbitrariedad y/o absurdidad.",
+      "Conforme a ello, cabe mencionar que la Cámara ha efectuado una correcta aplicación e interpretación de la Ley Nacional de Tránsito, puntualizando que la prioridad del automotor que circulaba por la derecha, debía ceder su paso dado que el actor se conducía por una avenida de doble circulación, ello a partir de una aplicación armónica y práctica de la normativa de tránsito.",
+      "En virtud de ello, teniendo en cuenta que el art. 41 inciso d) de la LNT regula como excepción a la regla de la prioridad de paso por la derecha a la semiautopista -entendiendo su carácter ejemplificativo-, surge la posibilidad de efectuar una interpretación extensiva para incluir también a las calles de doble mano de circulación, ya que poseen similitud fáctica e idénticos fundamentos, dada la peligrosidad que entraña el ingreso a esas vías de rápido tránsito y gran congestión, obligando a adoptar una conducta cautelosa antes de iniciar su cruce, lo cual en su máxima expresión llevan a la detención.",
+      "Ante dicha circunstancia, el recurrente intenta soslayar por completo los fundamentos que edifican el pronunciamiento impugnado, sin lograr demostrar acabadamente por qué razón el veredicto debe modificarse.",
+      "Es que la habilitación de esta instancia, por vía de la causal de arbitrariedad, es excepcional y procede sólo frente a pronunciamientos que por la gravedad de sus vicios no pueden reputarse como actos judiciales válidos y siempre que el recurrente haya logrado demostrar de forma cabal que el razonamiento que apuntala el fallo se revele absolutamente inconciliable con las constancias de la causa y no cuente con la debida fundamentación en derecho, extremos que no se encuentran acreditados en autos.",
+      "Finalmente, vale recordar que esta Sala ha reiteradamente dicho que el remedio del absurdo en materia de apreciación de pruebas debe apreciarse con criterio restrictivo, y su apreciación requiere innegable prudencia para evitar extralimitaciones en la distinción del punto donde termina el juicio erróneo o el pronunciamiento injusto, y donde comienza el absurdo evidente. En resumen, exige demostrar la absoluta incompatibilidad entre el razonamiento del juzgador y las constancias probadas de la causa.",
+      "Ello, sin perjuicio de destacar que la cuestión propuesta involucra la consideración de aspectos fácticos como son determinar la mecánica del accidente -calidad de vehículo embistente o embestido, condiciones en las que circulaban-, temáticas que constituyen una típica cuestión de hecho y prueba inabordable en esta instancia casatoria.",
+      "En efecto, la crítica del recurrente edificada a partir de la posición asumida en la litis, no demuestra que el razonamiento del juzgador derive de un irrazonable análisis del material probatorio y, contrariamente a lo argumentado por \"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 el quejoso, la Cámara ha dado debido fundamento a la decisión a partir de las conclusiones a las que arribara.",
+      "Teniendo en cuenta las consideraciones precedentemente expuestas, propongo al acuerdo declarar la inadmisibilidad del recurso de inaplicabilidad de ley interpuesto, con imposición de costas a la recurrente vencida -art. 65 del CPCC-. ASÍ VOTO.",
+      "A LA CUESTIÓN PROPUESTA LA SRA. VOCAL DRA."
+    ],
+    "GISELA SCHUMACHER DIJO": [
+      "1.- Reseñados los antecedentes del caso por el colega que comanda la votación me remito a ellos, en honor a la brevedad, e ingreso directamente al tratamiento de la cuestión sometida a juzgamiento.",
+      "2.- En tal cometido, respetuosamente voy a disentir con la propuesta elaborada por el doctor Portela, por las razones que expondré a continuación.",
+      "3.- Admisibilidad de la vía casatoria.",
+      "a.- El análisis preliminar de admisibilidad, previsto expresamente en nuestro ordenamiento procesal, indica que cuando el medio de impugnación se interpuso ante el mismo organismo jurisdiccional que dictó la resolución recurrida aquél sea llevado a cabo en dos oportunidades, la primera por la cámara que analiza el cumplimiento de los requisitos formales de admisibilidad y de fundabilidad del planteo recursivo (artículos 276, 280 y 281 del código procesal civil y comercial), y la segunda por esta sala.",
+      "Conforme a las exigencias técnicas del recurso se debe efectuar el directo cuestionamiento de la sentencia definitiva de segunda instancia del cual derive una crítica y un ataque pertinentes a su fundamentación, que demuestren la errónea aplicación de la ley y/o doctrina legal emanada de este tribunal.",
+      "No obstante la literalidad de la norma, se admite por vía pretoriana el análisis de cuestiones de hecho y prueba reservadas en principio a la magistratura de las instancias ordinarias, cuando se alegue y demuestre absurdidad o arbitrariedad en su valoración.",
+      "b.- Al amparo de tales consideraciones advierto que la impugnación en estudio cumple con los requisitos previstos en la norma de rito.",
+      "En efecto, el veredicto constituye sentencia definitiva en los términos del artículo 277 del ordenamiento procesal, y la construcción recursiva cumplió con la carga de debida fundamentación impuesta por el artículo 280, segundo párrafo, del código citado: la querella identificó en forma puntual cuáles son los vicios de los que, a su entender, adolece el decisorio enjuiciado y los motivos en los que sustentó dicha afirmación.",
+      "Por consiguiente la vía casatoria se encuentra habilitada en la especie, lo que conlleva el análisis de procedencia de las denuncias de arbitrariedad \"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 y violación de la ley alegados en representación de la citada en garantía.",
+      "4.- Examen de procedencia.",
+      "Los hechos.",
+      "a.- Fernando Ariel Zampedri promovió demanda por indemnización de daños y perjuicios contra Andrés Pessolani y Dalila Reniero (18/5/2016, escrito de hojas 1/4 vuelta).",
+      "El actor asentó su pretensión en los menoscabos producidos por el accidente de tránsito acaecido mientras circulaba al mando de su motocicleta Yamaha, circunstancia en la que fue embestido por el vehículo Mercedes Benz conducido por la demandada Reniero. Fundó el promocional en el carácter de embistente del automotor.",
+      "b.- Dalila Reniero contestó demanda y articuló reconvención por daños y perjuicios (13/6/2017, escrito de hojas 105/112).",
+      "Argumentó que el reclamante no cumplió las estipulaciones normativas vigentes.",
+      "Citó en garantía a San Cristóbal Seguros Generales.",
+      "c.- Sergio Andrés Pessolani contestó el promocional en idénticos términos que la coaccionada (14/6/2017, escrito de hojas 113/120 vuelta).",
+      "d.- Se tuvo por desistida la reconvención de la demandada (2/10/2017).",
+      "e.- El apoderado de la aseguradora contestó la citación en garantía (7/11/2017, escrito de hojas 137/143). Endilgó la responsabilidad de los daños sufridos por Zampedri al propio actor.",
+      "Las pruebas.",
+      "Entre las pruebas admitidas en la audiencia preliminar (19/6/2018, hojas 158/159 vuelta), rescato a los efectos de este recurso el legajo Nº 3953 IPP, \"De oficio para investigar accidente de tránsito en el que sufriera s/ lesiones graves (Fernando Ariel Zampedri)\", y la pericial mecánica accidentológica.",
+      "a.- Actuaciones penales. Del informe técnico pericial que consta en las actuaciones prevencionales de referencia surge que el automotor impactó con su parte frontal el lateral derecho zona posterior de la motocicleta; y se ubicó como el sitio más favorable del impacto al sector noroeste de la intersección de las calles Las Magnolias e Inmaculada Concepción.",
+      "Como mecánica del accidente, obra descripto como hipótesis más favorable que previo al accidente la motocicleta circulaba por Inmaculada Concepción hacia el cardinal norte, en tanto el automóvil lo hacía por calle Las Magnolias hacia el cardinal oeste. En circunstancias en que ambas unidades se aproximaban a la intersección de las arterias, ninguna de las personas al mando de los vehículos intervinientes realizaron algún tipo de maniobra evasiva activa a los fines de evitar el impacto, incorporándose el automóvil a la encrucijada un \"tiempo \"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 después\" (textual del original) de la unidad de menor porte, y se produjo el contacto estructural entre ambos rodados. No se pudo constatar la velocidad a que circulaba ninguno de los vehículos.",
+      "Se consignó que la motocicleta se desplazaba sobre calle Inmaculada Concepción hacia el cardinal norte, a la izquierda del conductor del automóvil que se desplazaba sobre calle Las Magnolias hacia el cardinal oeste. El experto refirió que el artículo 41 de la ley nacional de tránsito establece que la prioridad del que viene por la derecha es absoluta.",
+      "Asimismo, del acta de inspección surge que se trata de una intersección no semaforizada; que la calle Inmaculada Concepción es de doble circulación, de asfalto y con un ancho de calzada de 10 metros.",
+      "b.- Pericial mecánica. El ingeniero mecánico Héctor Alejo Leiva (en movimiento del 3/5/2021), informó, como mecánica del accidente, que ambas unidades se dirigían a un mismo punto al mismo tiempo, y al resultar insuficiente el tiempo-espacio para realizar maniobras tendientes a evitar la colisión, las unidades entran en contacto. En circunstancias en que la motocicleta se encontraba en proceso de cruce de la intersección es impactada en su lateral derecho parte media posterior, por la parte delantera del automóvil que circulaba hacia el oeste e intentaba el cruce de la intersección. Asentó que si bien no es posible establecer la velocidad a la que se conducían las unidades, las consecuencias presentadas indican que aquella era más bien baja, moderada. Respondió que al momento de la colisión la motocicleta se encontraba más avanzada en la encrucijada.",
+      "Indicó que la motocicleta circulaba hacia el norte, presentándose a la izquierda del automotor que circulaba hacia el oeste, presentándose desde la derecha. Entendió que las responsabilidades se enmarcan dentro de las presunciones establecidas por el artículo 64 de la ley nacional de tránsito.",
+      "El derecho.",
+      "a.- El supuesto trata de la colisión de una motocicleta y un automóvil, producto de lo cual se reclama la indemnización de los daños y perjuicios alegados por el actor.",
+      "Es decir, asistimos a una pretensión sustentada en el infortunio producido por dos rodados en movimiento, por lo que ambos constituyen cosas riesgosas (artículo 1113 del código civil, aplicable en virtud de la fecha de acaecimiento del hecho).",
+      "De la prueba surge que el vehículo embistente físico fue el automotor, el impacto fue ubicado en la parte lateral delantera de éste y lateral derecho trasero de la moto, y su concreción probable es sobre el sector noroeste de la intersección de ambas arterias.",
+      "Corresponde analizar, entonces, las implicancias de la prioridad de paso legalmente establecida y, con ello, si se verifica la fractura del nexo causal.",
+      "\"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 b.- Con el dictado de la ordenanza Nº 1088, el Municipio de Federación adhirió a la ley nacional de tránsito Nº 24449 (en adelante LNT).",
+      "Según el artículo 41 de la LNT, en lo que aquí interesa, \"[t]odo conductor debe ceder siempre el paso en las encrucijadas al que cruza desde su derecha. Esta prioridad del que viene por la derecha es absoluta, y sólo se pierde ante: a) la señalización específica en contrario...d) los vehículos que circulan por una semiautopista...\".",
+      "c.- Por su lado, el artículo 64 del ordenamiento de tránsito \"...presume como responsable de un accidente de tránsito al que carecía de la prioridad paso...\".",
+      "El caso.",
+      "a.- Según la prueba producida, las alegaciones de las partes y los términos de las sentencias de las anteriores instancias, en los instantes previos al accidente ambos rodados se dirigían a la encrucijada de las arterias Las Magnolias e Inmaculada Concepción. No fue objeto de discusión la falta de señalización semaforizada en el sitio en que ocurrió el accidente. Por lo demás, las velocidades de conducción de los rodados al momento del impacto no pudieron ser estimadas por los expertos intervinientes en sedes prevencional y civil.",
+      "Lo que sí representa motivo de análisis es el tiempo al que cada unidad arribó a la encrucijada, y su incidencia al someter el supuesto a la norma aplicable.",
+      "b.- La labor de la magistratura en la solución del asunto que se le presenta no resulta de un mero encastre de un suceso abstracto (de molde) a la ley aplicable, sino que se encamina a determinar cuál es norma adecuada1 -en sentido amplio- a las especiales características que presenta el hecho sometido a jurisdicción: es decir, la subsunción de los hechos concretos al derecho vigente.",
+      "En tal contexto, para el análisis del presente es imperioso determinar qué se entiende por \"semiautopista\" como causal exonerativa de la prioridad de paso de quien circula por la derecha; y si en la especie resulta acertado el encuadre por el que la sentencia en revisión hizo lugar al recurso de apelación deducido oportunamente por el actor Zampedri y condenó a la parte demandada a abonar a aquél los importes que se fijen en la instancia de origen.",
+      "Ello en tanto, según sostengo, la prioridad de paso de quien circula por la derecha no se pierde por la sola circunstancia de que quien goza de ella sea el rodado embistente2.",
+      "c.- La sentencia de alzada puso énfasis en la trascendencia que para resolución del caso tiene el doble sentido de circulación de una de las arterias involucradas. En concreto, que la prioridad de quien arribó por la derecha (en el 1conforme artículo 2 del Código Civil y Comercial 2en igual sentido, Suprema Corte de Justicia de la Provincia de Mendoza, Sala I, \"Barrera Héctor c/ Juan Humberto Velázquez y Seguros Bernardino Rivadavia Coop. Ltda. s/ daños y perjuicios\", sentencia del 2/3/2017 ( en TR LALEY AR/JUR/587/2017).",
+      "\"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 caso, la demandada) cede ante quien llegó a la encrucijada circulando por una vía de doble sentido. En función de tal extremo consideró aplicables los precedentes de este tribunal en \"Todero c/ Alvarez\", \"Vera c/ Orbe\" y \"Fernández c/ Guichón\"3.",
+      "En este último antecedente, esta sala -con distinta integración- remitió a lo establecido en anterior oportunidad en \"Vera\" en cuanto a que \"...",
+      "teniendo en cuenta que el art. 41 inciso d) de la LNT regula como excepción de la regla de la prioridad de paso por la derecha a la semiautopista -entendiendo su carácter ejemplificativo-, surge la posibilidad de efectuar una interpretación extensiva para incluir también a las avenidas de doble mano de circulación, ya que poseen similitud fáctica e idénticos fundamentos, dada la peligrosidad que entraña el ingreso a esas vías de rápido tránsito y gran congestión, obligando a adoptar una conducta cautelosa antes de iniciar su cruce, lo cual en su máxima expresión llevan a la detención\".",
+      "Ahora bien ¿es acertado emplear fórmulas tarifadas de interpretación extensiva de excepciones, para hacer decir a la ley aquello que no dice? La respuesta, en el suceso, es rotundamente negativa.",
+      "Veamos.",
+      "3Superior Tribunal de Justicia de Entre Ríos, Sala Nº 2, Todero Jonathan Emmanuel c/ Alvarez José Isaias s/ ordinario daños y perjuicios\", Nº 7658, del 18/5/2018; \"Vera Jorge c/ Orbe Oscar s/ ordinario\", Nº 7902, del 27/6/2019; y \"Fernandez Manuel R. y otra c/ Guichón José A. y otros s/ ordinario daños y perjuicios\", Nº 7862, del 3/7/2019.",
+      "La circulación por una semiautopista es la excepción que consagra el mentado artículo 41 de la LNT.",
+      "Es claro que semiautopista y calle con doble sentido de circulación no son sinónimos ni poseen características que permitan identificar un término con el otro. Por el contrario, la propia LNT, en su artículo 5, asimila a la semiautopista a la autopista cuando reza \"[a] los efectos de esta ley se entiende por:...s) Semiautopista: un camino similar a la autopista pero con cruces a nivel con otra calle o ferrocarril\". Por su lado, la autopista fue definida como \"una vía multicarril sin cruces a nivel con otra calle o ferrocarril, con calzadas separadas físicamente y con limitación de ingreso directo desde los predios frentistas lindantes\".",
+      "Sigo.",
+      "En los referidos antecedentes de este tribunal se tuvo en miras la gran congestión vehicular de las avenidas, la peligrosidad en el acceso por la velocidad con la que se transita en dichas vías, el diseño arquitectónico urbanístico que tal denominación implica, y el sinsentido que acarrearía que el vehículo que posee la derecha por la calle común tenga preferencia de paso en la primera línea de cruce con la avenida pero la pierda en la segunda mano, debiendo detener su marcha en el centro de la vía, obstruyendo la circulación y presentándose como fuente segura de daños y accidentes.",
+      "Además, en aquellas oportunidades se sostuvo que la excepción a \"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 la prioridad de paso por la derecha en semiautopistas tiene un carácter ejemplificativo.",
+      "No concuerdo con dicha tesis.",
+      "La interpretación extensiva de una excepción que se utiliza en abstracto, como horma en la que se trata de acomodar un supuesto sin atender a las finalidades de la norma, no constituye una decisión razonada y razonable4. La justicia del caso hace necesario dejar de lado dogmas que se apartan de las puntuales consideraciones en que se subsumen los distintos supuestos.",
+      "Aquí se encuentra involucrada la seguridad jurídica. La ley es clara: la prioridad de paso de quien circular por la derecha es absoluta salvo en los supuestos legalmente previstos.",
+      "El propio ordenamiento de tránsito prevé un límite máximo de circulación en calles y avenidas de 40 y 60 kilómetros por hora5, respectivamente;",
+      "mientras que en semiautopistas dicho tope es de 120 kilómetros por hora para motocicletas y automóviles6. Las diferencias intrínsecas son palmarias.",
+      "Ante tan nítida reglamentación, las excepciones legalmente establecidas en este supuesto no pueden ser tomadas como un mero enunciado 4artículo 3 del Código Civil y Comercial 5artículo 51, inciso a) de la ley 24449 6artículo citado, inciso b).",
+      "ejemplificativo, puesto que ello implica \"crear\" reservas que atentan contra el espíritu y finalidad de la ley de tránsito7, y menoscaban la seguridad jurídica en una materia que atraviesa la vida cotidiana de la ciudadanía toda.",
+      "En otras palabras: la norma de aplicación no refiere como excepción de la prioridad de paso de quien se presenta en la bocacalle por la derecha a los vehículos que circulan por vías de doble circulación, sino que limita la misma solamente a quienes lo hacen por una semiautopista8. La dispensa de la prioridad de paso de quien circula por la derecha en favor de quien se conduce por una calle de doble circulación no existe, y, por tanto, no puede ser mantenida como criterio de interpretación.",
+      "d.- Volvamos a este caso.",
+      "Conforme la prueba obrante, las arterias involucradas tratan de dos vías no semaforizadas de la ciudad de Federación; una de ellas posee doble sentido de circulación; ambas son de hormigón y/o asfalto en buen estado de conservación.",
+      "Las placas fotográficas anexadas por la División Investigaciones de la Jefatura Departamental de Federación (que forman parte del expediente prevencional) muestran dos calles de esa ciudad, semejantes a la vista; sin canteros en el medio; con una diferencia en su ancho de sólo 2,85 metros (según croquis policial) que resulta irrelevante a la percepción de los sentidos.",
+      "7ley nacional de tránsito Nº 24449, a la que nuestra provincia adhirió por ley 10025 (boletín oficial del 9/5/2011).",
+      "8Suprema Corte de Justicia de la Provincia de Buenos Aires, causa 118.128, \"Rearte, Walter Edgardo contra Chere, Miguel Ángel y otro. Daños y perjuicios, sentencia del 8/4/2015.",
+      "\"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 Y aquí advierto: en este supuesto la diferencia fáctica de ambas calles en lo que atañe a la interpretación del principio de la prioridad de paso (y las excepciones legalmente establecidas) no existe. No hay posibilidad de subsumir las circunstancias de la causa dentro de la salvedad que contiene la norma.",
+      "e.- Ahora bien, sentado lo anterior no soslayo que las probanzas producidas introdujeron una arista de necesaria valoración en el caso, que es la alegada circunstancia que la motocicleta habría \"llegado antes\" a la encrucijada donde se produjo el impacto.",
+      "Esto es porque no obstante lo categórico de la disposición relativa a la prioridad de paso, traigo a colación la inveterada interpretación realizada por el Máximo Tribunal del país en cuanto a que la mencionada presunción sólo juega cuando ambos vehículos llegan al cruce en forma más o menos simultánea9.",
+      "f.- La coyuntura del supuesto permite mantener el principio establecido.",
+      "En efecto, encuentro acertada la meritación del magistrado de primera instancia en tanto ponderó que la colisión entre ambas unidades se produjo en el sector noroeste de la intersección de las calles Las Magnolias e Inmaculada Concepción, lo que patentiza que el automóvil conducido por la demandada 9Corte Suprema de Justicia de la Nación, Fallos: 297:210; 306:1988.",
+      "ingresó por la derecha y se encontraba próximo a finalizar el cruce de la bocacalle al momento del impacto. Además, en la mejor de las hipótesis planteadas para el actor, la invasión del carril contrario por Zampedri daría cuenta del intento de una maniobra evasiva que le permitiera sortear la obligación de precaución en las encrucijadas y el respeto de la prioridad de paso de quien se presenta por la derecha.",
+      "Solución.",
+      "En función de lo expuesto, corresponde declarar procedente el recurso de inaplicabilidad de ley deducido en representación de la citada en garantía; CASAR la sentencia dictada por la sala civil y comercial de la cámara de apelaciones de Concordia dictada en fecha 15/6/2023; y DECLARAR que tiene carácter restrictivo la interpretación de la excepción a la prioridad de paso de quien circula por la derecha en favor de quien se conduce por semiautopistas. En consecuencia, se mantiene la sentencia dictada en primera instancia en fecha 7/11/2022.",
+      "Atento al cambio de criterio que aquí propicio, las costas por la tramitación en todas las instancias se imponen por el orden causado (artículo 65, segundo párrafo, del código procesal civil y comercial). ASÍ VOTO.",
+      "A LA CUESTIÓN PROPUESTA EL SR. VOCAL DR."
+    ],
+    "MARTÍN F. CARBONELL DIJO": [
+      "1.- Me remito a los antecedentes del caso reseñados en los votos \"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 precedentes, y definiendo la cuestión puesta a juzgamiento, adelanto mi adhesión al sufragio del Dr. Portela.",
+      "Conforme mi voto en los autos \"Guzman Héctor Hilario C/Ledesma, Lucas Demian y Otros S/Ordinario\" Expte Nº 8926, sentencia del 2/2/2024, coincido con la propuesta desestimatoria que impulsa en su sufragio el Dr. Portela.",
+      "Considero que la querella no logra desmoronar el fundamento medular del veredicto que con corrección y conforme doctrina que se cita, aplicable al caso, determina que no corresponde aplicar la regla de prioridad de paso establecida en el art. 41 de la Ley Nacional de Tránsito, en tanto si bien el demandado arribó por la derecha a la encrucijada en que se produjo el impacto, el vehículo conducido por el actor circulaba por una arteria de doble sentido equiparable al concepto de simiautopista previsto en la norma como un supuesto fáctico excepcionante a la regla preestablecida y cuya estructura funcional y dinámica de circulación conlleva consecuencias jurídicas aplicadas en el conflicto sometido a resolución judicial.",
+      "Las consideraciones efectuadas por el recurrente para desvirtuar ese razonamiento, que involucran la consideración de aspectos fácticos y probatorios inabordables en esta instancia en tanto fueron determinados sin arbitrariedad, ponen en evidencia una discrepancia que no logra conmover la razonabilidad del veredicto.",
+      "Voto entonces, por declarar la inadmisibilidad del recurso interpuesto, con costas. ASÍ VOTO.",
+      "Con lo que no siendo para más se da por finalizado el acto quedando acordada la siguiente sentencia:",
+      "Paraná, 6 de febrero de 2024."
+    ],
+    "Y VISTO": [
+      "Por los fundamentos del acuerdo que antecede se,"
+    ],
+    "RESUELVE": [
+      "DECLARAR INADMISIBLE el recurso de inaplicabilidad de ley deducido en fecha 3/7/2023, respecto de la resolución dictada por la Sala Primera Civil y Comercial de la Cámara de Apelaciones de Concordia en fecha 15/6/2023.",
+      "IMPONER costas a la vencida (art. 65 del CPCC).",
+      "DIFERIR la regulación de honorarios para la oportunidad en que se determinen los correspondientes a las instancias inferiores.",
+      "Tener presente la reserva del caso federal.",
+      "Notifíquese conforme arts. 1º y 4º Ac. Gral. 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "\"ZAMPEDRI Fernando Ariel C/ PESSOLANI Sergio Andrés y otra S/ ORDINARIO DAÑOS Y PERJUICIOS\" - Expte. Nº 8927 Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

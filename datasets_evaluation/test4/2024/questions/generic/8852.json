@@ -1,0 +1,11 @@
+{
+  "json_id": "8852",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8852.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios deben considerarse para la regulación de honorarios profesionales en un recurso judicial?",
+    "¿Cómo impacta la falta de notificación adecuada en el derecho al cobro de honorarios regulados judicialmente?",
+    "¿Qué consecuencias establece la normativa aplicable ante el incumplimiento del pago de honorarios regulados en el plazo estipulado?"
+  ],
+  "generated_at": "20250703_193537"
+}

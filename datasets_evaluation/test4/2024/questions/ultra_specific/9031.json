@@ -1,0 +1,11 @@
+{
+  "json_id": "9031",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9031.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la disposición del artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ) que regula la subrogancia y sustitución de jueces y cómo afecta al caso 'SCHIERLOH, JOSE IGNACIO - DENUNCIA ROBO' según el Tribunal?",
+    "¿Qué argumentos presentó el Juez Dr. Omar Javier Ovando para declarar la incompetencia material de su juzgado en relación al Expte. N.º 9031 y qué artículos de la LOPJ y el CPCC fundamentan su posición?",
+    "¿Por qué la Sra. Procuradora Adjunta del Ministerio Público Fiscal, Dra. Mónica Elizabeth Carmona, opinó que el STJER debía resolver la cuestión de competencia entre el Juzgado de Garantías Interino y el Juzgado Civil, Comercial y Laboral de Federal en el caso 'SCHIERLOH, JOSE IGNACIO - DENUNCIA ROBO'?"
+  ],
+  "generated_at": "20250703_193638"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9061",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9061.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo deberían los tribunales evaluar las intervenciones y recomendaciones de los equipos interdisciplinarios en casos de protección de derechos de menores?",
+    "¿Bajo qué circunstancias resulta apropiado limitar el contacto entre un progenitor y sus hijos cuando existen evaluaciones profesionales contradictorias?",
+    "¿Qué criterios deben considerarse para garantizar que las decisiones judiciales no vulneren derechos fundamentales de niños y adolescentes?"
+  ],
+  "generated_at": "20250703_193839"
+}

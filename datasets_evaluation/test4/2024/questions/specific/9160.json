@@ -1,0 +1,11 @@
+{
+  "json_id": "9160",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9160.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el criterio principal utilizado por el tribunal para determinar la competencia del Juzgado de Primera Instancia Civil y Comercial Nº 1 de Gualeguaychú?",
+    "¿Qué cambios normativos influyeron en la interpretación del monto límite para la competencia del Juzgado de Paz en este caso?",
+    "¿Qué argumentos presentó el Ministerio Público Fiscal respecto a la decisión sobre la competencia jurisdiccional?"
+  ],
+  "generated_at": "20250703_194343"
+}

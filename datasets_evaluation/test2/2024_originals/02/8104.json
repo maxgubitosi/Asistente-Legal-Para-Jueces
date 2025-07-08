@@ -1,0 +1,63 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8104",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 7046",
+          "cited_articles": [
+            3,
+            14,
+            28,
+            29,
+            30,
+            63,
+            64,
+            71,
+            94,
+            114
+          ],
+          "extra": [
+            "ley 7046"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "APREMIO",
+  "IDEA_CENTRAL": "El fallo judicial en el caso \"MUNICIPALIDAD DE CONCORDIA C/ TELEFONICA MOVILES ARGENTINA S.A. S/ APREMIO\" se centra en la regulación de honorarios profesionales por la actuación en recursos de inaplicabilidad de ley y recursos extraordinarios. El tribunal determina los montos a abonar a los abogados intervinientes, conforme a la normativa arancelaria vigente.\n\n**Decisión Judicial Principal y Fundamento Legal**\n\nEl tribunal resuelve regular los honorarios de los abogados involucrados en los recursos mencionados, estableciendo montos específicos para cada uno, basándose en la Ley 7046 que regula los honorarios de abogados y procuradores. Esta regulación se fundamenta en los artículos 3, 14, 29, 30, 63, 64, 71 y 94 de dicha ley.\n\n**Aspectos Legales Relevantes**\n\n1. **Ley 7046**: Regula los honorarios de abogados y establece los procedimientos para su notificación y pago.\n2. **Art. 28**: Establece la obligación de notificación de la regulación de honorarios.\n3. **Art. 114**: Dispone que los honorarios deben ser abonados dentro de los diez días de requerido su pago, y en caso de mora, se aplicarán intereses.\n\n**Razonamiento del Tribunal**\n\nEl tribunal considera la normativa arancelaria aplicable y la base económica de los planteos resueltos para determinar los honorarios. Se destaca la importancia de la regulación adecuada de los honorarios como un derecho de los profesionales del derecho, garantizando así la justicia en la retribución por sus servicios. La decisión se fundamenta en la necesidad de asegurar que los abogados reciban una compensación justa y acorde a la labor realizada en el marco de los recursos judiciales.\n\nEn conclusión, el fallo establece claramente los montos a abonar a cada abogado, asegurando el cumplimiento de la normativa vigente y la protección de los derechos de los profesionales involucrados.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"MUNICIPALIDAD DE CONCORDIA C/ TELEFONICA MOVILES ARGENTINA S.A. S/ APREMIO\" Expte. Nº 8104.",
+      "PARANÁ, 5 de febrero de 2024."
+    ],
+    "VISTO Y CONSIDERANDO": [
+      "Que los autos \"MUNICIPALIDAD DE CONCORDIA C/ TELEFONICA MOVILES ARGENTINA S.A. S/ APREMIO\" - Expte. Nº 8104, vienen a consideración de este Tribunal a los fines de regular honorarios por la actuación profesional en los recursos de inaplicabilidad de ley resueltos en fecha 21/5/2020 y 13/6/2022 y en los recursos extraordinarios, cuyas resoluciones fueron dictadas en fecha 17/9/2020 y 3/10/2022.",
+      "Que para la presente regulación se tiene en cuenta la normativa arancelaria aplicable -arts. 3, 14, 29, 30, 63, 64, 71 y 94 de la ley 7046-, y conforme a la base económica según liquidación aprobada en fecha 29/3/2021 y el valor de los respectivos planteos resueltos.",
+      "En consecuencia, se"
+    ],
+    "RESUELVE": [
+      "REGULAR los honorarios profesionales por el recurso de inaplicabilidad de ley resuelto en fecha 21/5/2020 a la Dra. Ana Laura Cazarré y los Dres. Ricardo Daniel Elgart, Martín Amiano, Juan Ignacio Malaisi, Carlos Maximiliano Williman, Matías Galimberti, Carlos H. Esteves, Raúl H. Vergara, Francisco Russo y Javier Ignacio Colacello en la suma de pesos setecientos setenta y ocho mil quinientos cincuenta ($ 778.550) para cada uno; y a los Dres. Emilio F.",
+      "Moro e Ignacio M. Arigós en la suma de pesos dos millones setecientos veinticuatro mil novecientos veinticinco ($ 2.724.925) para cada uno; más IVA si correspondiere.",
+      "REGULAR los honorarios profesionales por el recurso extraordinario federal resuelto en fecha 17/9/2020 a la Dra. Ana Laura Cazarré y los Dres. Ricardo Daniel Elgart, Martín Amiano, Juan Ignacio Malaisi, Carlos Maximiliano Williman, Matías Galimberti, Carlos H. Esteves, Raúl H. Vergara, Francisco Russo y Javier Ignacio Colacello en la suma de pesos setecientos setenta y ocho mil quinientos cincuenta ($ 778.550) para cada uno; y al Dr. Emilio F. Moro en la suma de pesos cinco millones cuatrocientos cuarenta y nueve mil ochocientos cincuenta ($ 5.449.850); más IVA si correspondiere.",
+      "REGULAR los honorarios profesionales por el recurso de inaplicabilidad de ley resuelto en fecha 13/6/2022 a la Dra. Ana Laura Cazarré y los Dres. Ricardo Daniel Elgart, Martín Amiano, Juan Ignacio Malaisi, Carlos Maximiliano Williman, Matías Galimberti, Carlos H. Esteves, Raúl H. Vergara, Francisco Russo y Javier Ignacio Colacello en la suma de pesos ciento cincuenta y cinco mil ochocientos ($ 155.800) para cada uno; y a los Dres. Emilio F. Moro e Ignacio M. Arigós en la suma de pesos quinientos cuarenta y cinco mil trescientos ($ 545.300) para cada uno; más IVA si correspondiere.",
+      "REGULAR los honorarios profesionales por el recurso extraordinario federal resuelto en fecha 3/10/2022 a la Dra. Ana Laura Cazarré y los Dres. Ricardo Daniel Elgart, Martín Amiano, Juan Ignacio Malaisi, Carlos Maximiliano Williman, Matías Galimberti, Carlos H. Esteves, Raúl H. Vergara, Francisco Russo y Javier Ignacio Colacello en la suma de pesos ciento cincuenta y cinco mil ochocientos ($ 155.800) para cada uno; y al Dr. Emilio F. Moro en la suma de pesos un millón noventa mil seiscientos ($ 1.090.600); más IVA si correspondiere.",
+      "Notifíquese conforme arts. 1º y 4º Ac. Gral. 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) prescindiéndose de su impresión en formato papel.",
+      "Existiendo regulación de honorarios a abogados y/o procuradores, cumpliendo con lo dispuesto por la ley 7046, se transcriben los siguientes los artículos:",
+      "Art. 28: NOTIFICACIÓN DE TODA REGULACIÓN. Toda regulación de honorarios deberá notificarse personalmente o por cédula. Para el ejercicio del derecho al cobro del honorario al mandante o patrocinado, la notificación deberá hacerse en su domicilio real.",
+      "En todos los casos la cédula deberá ser suscripta por el Secretario del Juzgado o Tribunal con transcripción de este Artículo y del art. 114 bajo pena de nulidad. No será necesaria la notificación personal o por cédula de los autos que resuelvan los reajustes posteriores que se practiquen por aplicación del art.114\".",
+      "Art. 114: PAGO DE HONORARIOS. Los honorarios regulados judicialmente deberán abonarse dentro de los diez días de requerido su pago en forma fehaciente. Operada la mora, el profesional podrá reclamar el honorario actualizado con aplicación del índice, previsto en el art. 29 desde la regulación y hasta el pago, con más un interés del 8% anual.",
+      "En caso de tratarse de honorarios que han sido materia de apelación, sobre el monto que quede fijado definitivamente su instancia superior, se aplicará la corrección monetaria a partir de la regulación de la instancia inferior. No será menester justificar en juicios los índices que se aplicarán de oficio por los Sres. Jueces y Tribunales”."
+    ]
+  }
+}

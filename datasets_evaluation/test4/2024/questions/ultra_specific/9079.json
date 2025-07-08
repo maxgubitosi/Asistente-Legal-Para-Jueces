@@ -1,0 +1,11 @@
+{
+  "json_id": "9079",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9079.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento legal aplicado por el Tribunal para determinar que el plazo de prescripción de la obligación de escriturar comenzó a contarse desde el 6 de noviembre de 2015?",
+    "¿Cómo justificó el Tribunal la interrupción del plazo de prescripción debido a la carta documento enviada por Teresa Elena Cardozo el 1 de julio de 2020?",
+    "¿Qué argumentos utilizó la Cámara de Apelaciones de Concepción del Uruguay para declarar procedente la excepción de prescripción opuesta por Analía Inés Elorriaga?"
+  ],
+  "generated_at": "20250703_194346"
+}

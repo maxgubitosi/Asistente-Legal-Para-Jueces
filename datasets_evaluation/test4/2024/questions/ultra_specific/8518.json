@@ -1,0 +1,11 @@
+{
+  "json_id": "8518",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8518.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la causa de la excusación del Dr. Carlos Federico Tepsich según el artículo 14, inciso 7º del Código Procesal Civil y Comercial (CPCC)?",
+    "¿Qué resoluciones previas, dictadas en las fechas 18/9/2023 y 22/11/2023, motivaron la recusación de la Sra. Sonia Yolanda Inés Giovenal contra el Dr. Tepsich?",
+    "¿Qué artículos de la Ley Orgánica del Poder Judicial (LOPJ) y del CPCC fundamentaron la abstención del Dr. Leonardo Portela en la resolución del 14 de mayo de 2024?"
+  ],
+  "generated_at": "20250703_194042"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9011",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9011.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los criterios que permiten a un magistrado excusarse de intervenir en un caso judicial?",
+    "¿Qué principios deben considerarse para garantizar la imparcialidad del juzgador en un proceso judicial?",
+    "¿Cómo se evalúan las razones de decoro o violencia moral como causales de excusación en la administración de justicia?"
+  ],
+  "generated_at": "20250703_194140"
+}

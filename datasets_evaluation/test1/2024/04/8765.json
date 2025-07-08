@@ -1,0 +1,106 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8765",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 7046",
+          "cited_articles": [
+            3,
+            31,
+            64,
+            70
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Otro",
+          "cited_articles": [
+            2
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "ALIMENTOS",
+  "IDEA_CENTRAL": "El Tribunal declaró improcedente el recurso de inaplicabilidad de ley interpuesto por la parte actora en el caso \"Reinoso Silvina Gabriela c/ Choulet Mario Julio s/ Alimentos\", confirmando la regulación de honorarios realizada por la Cámara de Apelaciones de Gualeguaychú. La decisión se fundamenta en la correcta aplicación de los artículos 31, 64 y 70 de la ley número 7046, que rige la regulación de honorarios en procesos judiciales.\n\n**Aspectos Legales Relevantes:**\n1. **Ley número 7046**: Regula los honorarios de abogados en Entre Ríos.\n2. **Artículos Clave**:\n   - **Artículo 31**: Establece criterios generales para la regulación de honorarios.\n   - **Artículo 64**: Indica que las regulaciones de primera instancia no son vinculantes para la Cámara.\n   - **Artículo 70**: Se refiere a la regulación de honorarios en incidentes procesales.\n\n**Razonamiento del Tribunal:**\nEl Tribunal argumentó que el recurso de inaplicabilidad de ley busca corregir errores en la aplicación de normas jurídicas, sin revisar cuestiones de hecho. La Cámara de Apelaciones había regulado los honorarios basándose en una liquidación aprobada, y aunque se reconoció un desacierto en la aplicación del artículo 70, se concluyó que la regulación final era razonable y no vulneraba los principios de la ley número 7046. Se destacó que la regulación de honorarios en incidentes no debe ser considerada de manera aislada, sino en relación con el proceso principal.\n\nEn resumen, el Tribunal reafirmó la validez de la regulación de honorarios, desestimando el recurso por no encontrar fundamentos suficientes que justifiquen su modificación.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"REINOSO SILVINA GABRIELA C/ CHOULET MARIO JULIO S/ ALIMENTOS\" - Expediente Nº 8765"
+    ],
+    "ACUERDO": [
+      "En la ciudad de Paraná, capital de la provincia de Entre Ríos, a los veintinueve días del mes de abril del año dos mil veinticuatro reunidos los integrantes de este Tribunal asistidos por el Secretario autorizante, para conocer el recurso de inaplicabilidad de ley deducido en fecha 31 de octubre de 2023 en las actuaciones:",
+      "\"REINOSO SILVINA GABRIELA C/ CHOULET MARIO JULIO S/ ALIMENTOS\" - Expediente Nº 8765, respecto de la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Gualeguaychú dictada en fecha 17 de octubre de 2023. Que la votación debe tener lugar en el siguiente orden: Sra. Vocal Gisela Schumacher; Sr. Vocal Carlos Federico Tepsich y Sra. Vocal Laura Mariana Soage.",
+      "Estudiados los autos, la Sala se planteó la siguiente cuestión: ¿qué corresponde resolver respecto del recurso de inaplicabilidad de ley número 7046 interpuesto?",
+      "A LA CUESTIÓN PROPUESTA LA SRA. VOCAL GISELA"
+    ],
+    "SCHUMACHER DIJO": [
+      "1.- La sentencia que viene recurrida Contra la resolución de la Cámara de Apelaciones Sala Primera Civil y Comercial de Gualeguaychú que reguló los honorarios diferidos en el punto 3 de la resolución de fecha 26 de julio de 2022 a la Dra. Daniela Alva Turinetto en la suma de pesos ciento setenta y cinco mil doscientos setenta y uno con cuatro centavos ($ 175.271,04) y al Dr. Germán Benedetti en la suma de pesos ciento veintidós mil seiscientos ochenta y nueve con setenta y cuatro centavos ($ 122.789,74) interpuso recurso de inaplicabilidad de ley la apoderada de la parte actora -Dra. Turinetto-.",
+      "Para así decidir, la Cámara tomó como base económica la liquidación practicada el 3/05/2023 -$ 5.087.991,08- y que fuera aprobada el 30/06/2023 previa conformidad del demandado. Procedió luego a actualizar dicho monto a la fecha de la resolución -$ 7.220.988,92- y reguló conforme las pautas de los artículos 31, 64 y 70 de la Ley número 7046.",
+      "En base a ello reguló a la Dra. Turinetto el equivalente a 42,74 juristas es decir la suma de $ 175.271,04 y al Dr. Benedetti el equivalente a 29,92 juristas es decir la suma de $ 122.689,74.",
+      "2.- El recurso interpuesto Contra dicho pronunciamiento interpuso la apoderada de la actora recurso de inaplicabilidad de ley -P.E. 31/10/23-, en los términos de la ley número 7046 denunciando errónea interpretación de la ley -artículos 31, 64 y 70 de la Ley de Amparo- y arbitrariedad.",
+      "A fin de fundamentar su posición, expresó que los honorarios cuestionados corresponden a una regulación diferida producto de una resolución de fecha 26 de julio de 2022 en la que su parte resultó triunfadora.",
+      "Afirmó que la regulación resulta desacertada al considerar a la causa como un incidente y de esta manera limitar o reducir la cuantía de los \"REINOSO SILVINA GABRIELA C/ CHOULET MARIO JULIO S/ ALIMENTOS\" - Expediente Nº 8765 honorarios a una suma que considera irrisoria, en la cual ni siquiera se ha merituado la ardua y exitosa labor desarrollada por su parte conforme el artículo número 3 de la ley número 7046.",
+      "Sostuvo que por el contrario en primera instancia sí se efectuó correctamente la regulación tomándose los parámetros de los artículos 3, 30 y 50 de la Ley de Arbitraje (LA).",
+      "Añadió que al elevarse las actuaciones a la alzada para la regulación de sus emolumentos la Cámara si bien menciona los artículos 31 y 64 de la ley número 7046 no los aplicó correctamente y además efectuó una incorrecta aplicación del artículo 70 el que no corresponde, por cuanto trató al proceso de alimentos como un mero incidente reduciendo el monto de los honorarios a una suma entre el 20 % y 30 % de lo que correspondería al proceso principal lo que resulta desacertado.",
+      "Alegó también que la regulación apelada resultó arbitraria pues no se fundamentó la decisión, sino que solo se limitó a citar los art. de la ley número 7046.",
+      "Afirmó que si bien la base económica adoptada resulta la correcta luego no se aplicó correctamente el artículo número 64 ya que de haberse aplicado adecuadamente sus honorarios debieron ser un 40 % o 70 % de lo regulado en primera instancia.",
+      "Realizó luego los cálculos correspondientes conforme su posición.",
+      "Y fundamentó respecto del carácter de orden público de la ley número 7046.",
+      "Hizo reserva del caso federal y peticionó se case la sentencia de cámara y, en consecuencia, se deje sin efecto la misma y se regulen sus honorarios conforme los topes legales previstos y merituando la labor profesional desarrollada.",
+      "La Cámara concedió el recurso de inaplicabilidad de ley número 7046 interpuesto, con efecto suspensivo atento encontrar reunidos los requisitos formales exigidos para la admisibilidad de la vía (Expediente Nº 434, 29/11/23).",
+      "3.- Fundamentos de la decisión Reseñados los antecedentes del presente juicio, cabe introducirse en el análisis del recurso de inaplicabilidad de ley interpuesto, el que se encuentra encuadrado en el marco normativo previsto por los art. 112 y 113 de la ley número 7046.",
+      "En tal sentido corresponde, en primer lugar, señalar que, como principio general, el recurso de inaplicabilidad de ley número 7046 trata de corregir los errores de juzgamiento en la aplicación de las normas jurídicas, quedando marginadas las cuestiones de hecho. Lo contrario significaría confundir el recurso de inaplicabilidad con el de apelación, oportunidad en que la alzada revisa tanto las cuestiones de hecho como las de derecho; si así se entendiere, significaría considerar a esta Sala como tribunal de tercera instancia ordinaria.",
+      "En cuanto a las causales de arbitrariedad o absurdidad este \"REINOSO SILVINA GABRIELA C/ CHOULET MARIO JULIO S/ ALIMENTOS\" - Expediente Nº 8765 Tribunal ha expresado en reiteradas oportunidades que las mismas son de interpretación restrictiva por encontrarse celosamente reservadas a aquellos casos extremos en que los argumentos sentenciales presenten vicios de razonamiento, que deriven en conclusiones que por su contradicción o incongruencia resulten notoriamente injustas.",
+      "Introducida en el análisis del recurso y abordando el agravio de la recurrente -errónea aplicación del artículo número 64 de la Ley de Arbitraje- cabe mencionar que no le asiste razón en su queja por cuanto es doctrina inveterada de esta Sala -la que comparto- que \"en orden al artículo número 64 esta Sala, tiene resuelto que debe interpretarse en el sentido de que las regulaciones de primera instancia no obligan en absoluto al Tribunal, habida cuenta que dicho artículo se remite a la suma que corresponda en primera instancia y no a los honorarios efectivamente fijados en la misma. 1 Conforme ello la Cámara no debía tomar como parámetro los honorarios regulados en la instancia inferior, ni tampoco podía modificarlos, aun cuando los considerara incorrectos, por cuanto ellos habían llegado firmes y consentidos ante ella.",
+      "Ahora bien en lo que respecta al agravio vinculado con la alegada errónea aplicación al sub lite del artículo número 70 de la ley número 7046, si bien se advierte 1Maldonado Claudina Amalia c/ Mizawak Cristina Aurora y otro -Sumario\", sent. del 5 de septiembre de 2000;",
+      "\"Municipalidad de Gualeguaychú c/ Ingeniera Sur S.A. s/ Daños y Perjuicios\", sent. del 08/09/2000, \"Duré Justo Oscar C/Diaz Javier Bernardo y Otra - S/ Sumario\" - Nº 4144, sent. del 9/11/2004), \"Banco de Galicia y Buenos Aires S.A. c/ Haimovich S.A. s/ Ejecutivo, Expediente Nº 4562, sent. del 21/05/2005, entre muchos otros que la Cámara se equivoca al seleccionar entre las normas al artículo cuestionado, el que refiere a los incidentes, tampoco le asiste razón a la recurrente por cuanto no corresponde al caso aplicar el artículo número 50 de la mencionada normativa tal como lo hace el juez de grado, por cuanto la regulación de los honorarios efectuada por la Cámara en autos, y que en esta instancia resulta cuestionada, refiere a los correspondientes a una resolución que resolvió respecto de las impugnaciones a una planilla de liquidación practicada, la cual constituye una incidencia procesal, sustanciada dentro del proceso principal, con lo que la valoración de la labor profesional debe efectuarse conforme las pautas del art. 3 de la ley número 7046 y no del art. 50 -invocado por el recurrente- ni del art. 70 -aplicado por la Cámara- de igual normativa.",
+      "Sin perjuicio de lo expuesto, y conforme la cuantía económica, la labor desarrollada por la parte recurrente y la normativa aplicable, y practicados los cálculos de rigor, surge evidente que la regulación efectuada por la Cámara, si bien presenta un desacierto en la normativa invocada, resulta razonable y no ha fracturado los fines esenciales a que refiere el artículo número 2, ni las pautas establecidas por el artículo número 3 incs. a), b), e), j) y k).",
+      "Por los fundamentos precedentes, corresponde declarar la improcedencia del figurado recurso de inaplicabilidad interpuesto; sin costas por tratarse de asuntos de naturaleza exclusivamente arancelaria. ASÍ VOTO.",
+      "A LA CUESTIÓN PROPUESTA EL SR. VOCAL CARLOS \"REINOSO SILVINA GABRIELA C/ CHOULET MARIO JULIO S/ ALIMENTOS\" - Expediente Nº 8765"
+    ],
+    "FEDERICO TEPSICH DIJO": [
+      "Las cuestiones relevantes del caso han sido debidamente expuestas por la colega preopinante. Coincido en cuanto a que en el caso lo dispuesto en el art. 64 del Decr.-Ley número 7046 ha sido correctamente aplicado por el tribunal ad quem, empero no con lo que se predica respecto del art. 70 de ese cuerpo legal.",
+      "En mi criterio, esta última norma es la que corresponde observar respecto de la incidencia generada por la liquidación suscitada en el expediente número 434, puesto que no existe una diferencia ontológica entre el incidente propiamente dicho -tenga o no regulación específica- y la incidencia. Ambos refieren a cuestiones que se relacionan con el objeto del proceso principal, por medio de una vinculación accesoria o de contingencia, diferenciándose la incidencia con el incidente en que estos últimos, por su complejidad y posibles consecuencias sobre el curso del proceso principal, requieren un tratamiento en forma separada o legajo aparte. Entonces, con la salvedad antes expuesta habré de adherir a la solución propiciada por la Sra. Vocal ponente. ASÍ VOTO.",
+      "A LA CUESTIÓN PROPUESTA LA SRA. VOCAL LAURA"
+    ],
+    "MARIANA SOAGE DIJO": [
+      "1°) La Dra. Schumacher y el Dr. Tepsich coinciden en que la regulación efectuada por la cámara objeto de recurso arancelario, refiere a los honorarios por los trabajos realizados con motivo de las impugnaciones efectuadas a una planilla de liquidación.",
+      "Están de acuerdo también en que la controversia que dio motivo a la regulación constituye una incidencia procesal.",
+      "El Dr. Tepsich comparte lo sostenido por la Dra. Schumacher en cuanto a que el artículo número 64 de la ley número 7046 ha sido correctamente aplicado por el Tribunal de segunda instancia y, en definitiva, existe acuerdo en cuanto a que los honorarios reconocidos en la resolución apelada no resultan bajos.",
+      "Al haberse conformado mayoría con relación a esos puntos, me abstengo de votar.",
+      "2°) En lo que respecta a la divergencia existente acerca de si ha sido o no correctamente aplicada en el caso la norma establecida en el artículo número 70 de la ley número 7046, coincido con lo señalado por el Dr. Tepsich.",
+      "Desde mi perspectiva -y así lo he interpretado invariablemente al regular honorarios como jueza de cámara-, la regla establecida en esa norma resulta aplicable tanto a los incidentes propiamente dichos -que tramitan materialmente en forma separada- como a las incidencias que se pueden generar en el curso del proceso, accesorias al asunto principal, que también requieren de un pronunciamiento especial de la judicatura, aunque sean tramitadas y resueltas en el mismo expediente.",
+      "Luego, las pautas de valoración del artículo número 3 de la normativa \"REINOSO SILVINA GABRIELA C/ CHOULET MARIO JULIO S/ ALIMENTOS\" - Expediente Nº 8765 arancelaria serán tenidas en cuenta por quien debe regular, al tiempo de determinar un rango dentro de la escala allí prevista (entre el 20% y el 30% de los honorarios que correspondieran al proceso principal). Se atenderá además, tal como expresamente lo dispone la norma, a la vinculación mediata o inmediata que pudiere tener el asunto con la solución definitiva del caso.",
+      "Resta aclarar que el monto que corresponde considerar a los fines de regular honorarios por una incidencia -si fuese susceptible de apreciación económica- será la base económica comprometida en aquella, que no necesariamente es siempre la misma que se encuentre en juego en el asunto principal. ASÍ VOTO.",
+      "Con lo que no siendo para más se da por finalizado el acto quedando acordada la siguiente sentencia:",
+      "Paraná, 29 de abril de 2024."
+    ],
+    "Y VISTO": [
+      "Por los fundamentos del Acuerdo General que antecede se,"
+    ],
+    "RESUELVE": [
+      "DECLARAR IMPROCEDENTE el recurso de inaplicabilidad de ley deducido en fecha 31/10/2023, respecto de la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Gualeguaychú dictada en fecha 17 de octubre de 2023.",
+      "Tener presente la reserva del caso federal.",
+      "Notifíquese conforme artículo número 1º y artículo número 4º Acuerdo General 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo General número 11/20 del 23 de junio de 2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

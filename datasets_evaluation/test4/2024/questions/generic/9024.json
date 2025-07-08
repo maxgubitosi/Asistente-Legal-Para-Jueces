@@ -1,0 +1,11 @@
+{
+  "json_id": "9024",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9024.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué circunstancias un juez subrogante debe intervenir en un proceso penal específico?",
+    "¿Cómo se resuelve un aparente conflicto de competencia entre juzgados de diferentes ámbitos materiales?",
+    "¿Qué mecanismos pueden emplearse para abordar la sobrecarga laboral derivada de la asignación de causas penales a un juzgado sin competencia material en esa área?"
+  ],
+  "generated_at": "20250703_193535"
+}

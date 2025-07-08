@@ -1,0 +1,11 @@
+{
+  "json_id": "9014",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9014.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son las consecuencias jurídicas de la participación previa de un juez en una resolución dentro del mismo caso?",
+    "¿Qué criterios deben considerarse para garantizar la imparcialidad en la integración de una sala judicial?",
+    "¿En qué circunstancias un juez está obligado a excusarse para evitar conflictos de interés en un proceso judicial?"
+  ],
+  "generated_at": "20250703_193941"
+}

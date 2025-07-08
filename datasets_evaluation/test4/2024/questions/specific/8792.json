@@ -1,0 +1,11 @@
+{
+  "json_id": "8792",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8792.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el criterio establecido por la Ley 7046 para determinar los honorarios profesionales de los abogados en procesos judiciales?",
+    "¿Cómo define el fallo la distribución porcentual de los honorarios entre los abogados de las partes vencedora y vencida?",
+    "¿Qué procedimiento debe seguirse para la notificación de una regulación de honorarios conforme al artículo 28 de la Ley 7046?"
+  ],
+  "generated_at": "20250703_194244"
+}

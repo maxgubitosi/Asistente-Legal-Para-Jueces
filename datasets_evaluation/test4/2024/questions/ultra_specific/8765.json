@@ -1,0 +1,11 @@
+{
+  "json_id": "8765",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8765.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del Tribunal para confirmar la regulación de honorarios realizada por la Cámara de Apelaciones de Gualeguaychú en el caso 'Reinoso Silvina Gabriela c/ Choulet Mario Julio s/ Alimentos'?",
+    "¿Qué aspectos específicos de los artículos 31, 64 y 70 de la Ley 7046 fueron cuestionados por la apoderada de la parte actora al interponer el recurso de inaplicabilidad de ley en fecha 31/10/2023?",
+    "¿En qué fecha y bajo qué fundamento la Cámara de Apelaciones tomó como base económica la liquidación practicada para regular los honorarios en el expediente Nº 8765?"
+  ],
+  "generated_at": "20250703_193739"
+}

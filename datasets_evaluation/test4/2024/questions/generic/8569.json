@@ -1,0 +1,11 @@
+{
+  "json_id": "8569",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8569.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios utiliza el tribunal para fijar los honorarios profesionales en un caso relacionado con un recurso de inaplicabilidad de ley?",
+    "¿Cómo se garantiza el derecho de los abogados al cobro de sus honorarios conforme a la normativa aplicable?",
+    "¿Qué procedimiento debe seguirse para notificar la regulación de honorarios a las partes involucradas en un proceso judicial?"
+  ],
+  "generated_at": "20250703_194343"
+}

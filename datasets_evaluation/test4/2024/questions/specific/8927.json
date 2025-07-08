@@ -1,0 +1,11 @@
+{
+  "json_id": "8927",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8927.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué establecen los artículos 41 y 64 de la Ley Nacional de Tránsito N° 24.449 respecto a la prioridad de paso y la presunción de responsabilidad?",
+    "¿Por qué motivo el Tribunal consideró inaplicable la regla general de prioridad del que circula por la derecha en este caso?",
+    "¿Qué argumentos presentó la aseguradora San Cristóbal al interponer el recurso de inaplicabilidad de ley?"
+  ],
+  "generated_at": "20250703_194142"
+}

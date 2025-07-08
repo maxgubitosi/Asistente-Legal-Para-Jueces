@@ -1,0 +1,125 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "9004",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            7,
+            14,
+            65,
+            257,
+            258,
+            276,
+            280,
+            281
+          ],
+          "extra": [
+            "artículo 18 en diálogo con el artículo 33"
+          ]
+        },
+        {
+          "main_source": "Ley 10.668",
+          "cited_articles": [],
+          "extra": [
+            ""
+          ]
+        },
+        {
+          "main_source": "Otro",
+          "cited_articles": [
+            304,
+            305
+          ],
+          "extra": [
+            "de la Ley Procesal de Familia"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            ""
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "ALIMENTOS",
+  "IDEA_CENTRAL": "En el caso \"FRANCO ANDREA VERONICA C/ ROJAS SERGIO S/ ALIMENTOS\", el Tribunal resolvió declarar **inadmisible** el recurso de inaplicabilidad de ley interpuesto por la parte actora, Andrea Verónica Franco, en relación a la decisión de la Cámara de Apelaciones de Concordia que había declarado desiertos los agravios expresados en un recurso de apelación anterior.\n\n**Fundamento Legal:**\nLa decisión se fundamenta en la falta de definitividad de la resolución recurrida, ya que la recusación no pone fin al pleito y no obsta la prosecución del trámite. Se citan los artículos 276 y 277 del Código Procesal Civil y Comercial, que establecen los requisitos para la admisibilidad de los recursos.\n\n**Aspectos Legales Relevantes:**\n1. **Código Procesal Civil y Comercial**: Artículo número 14, artículo número 65, artículos 276, 277, 304 y 305.\n2. **Ley Procesal de Familia**: Ley número 10668.\n3. **Jurisprudencia**: Se menciona la posición de la Corte Suprema de Justicia de la Nación sobre la improcedencia de recusaciones manifiestas.\n\n**Razonamiento del Tribunal:**\nEl Tribunal argumentó que la parte actora no cumplió con los requisitos formales para la admisibilidad del recurso, y que los agravios presentados eran reiteraciones de críticas ya expuestas en el recurso de apelación anterior. Además, se destacó que la recusación no era procedente, ya que la magistrada había actuado conforme a sus facultades y no había afectado la imparcialidad del proceso. La decisión de la Cámara fue considerada adecuada, y se subrayó la importancia de la celeridad y economía procesal.\n\nEn conclusión, el Tribunal reafirmó la inadmisibilidad del recurso, imponiendo costas a la parte vencida y reservando el caso para eventual revisión federal.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"FRANCO ANDREA VERONICA C/ ROJAS SERGIO S/ ALIMENTOS\" - Expediente Nº 9004"
+    ],
+    "ACUERDO": [
+      "En la ciudad de Paraná, capital de la provincia de Entre Ríos, a los dieciséis días del mes de abril del año dos mil veinticuatro reunidos los integrantes de este Tribunal asistidos por el Secretario autorizante, para conocer el recurso de inaplicabilidad de ley deducido en fecha 1/2/2024 en las actuaciones: \"FRANCO ANDREA VERONICA C/ ROJAS SERGIO S/ ALIMENTOS\" - Expediente Nº 9004, respecto de la resolución de la Sala Segunda Civil y Comercial de la Cámara de Apelaciones de Concordia dictada en fecha 12/12/2023. Que la votación debe tener lugar en el siguiente orden: Sra. Vocal Dra. Gisela N. Schumacher; Sr. Vocal Dr. Carlos Federico Tepsich y Sr. Vocal Dr. Leonardo Portela.",
+      "Estudiados los autos, la Sala se planteó la siguiente cuestión: ¿qué corresponde resolver respecto del recurso de inaplicabilidad de ley número 7046 interpuesto?",
+      "A LA CUESTIÓN PROPUESTA LA SEÑORA VOCAL DRA."
+    ],
+    "GISELA N. SCHUMACHER DIJO": [
+      "1.- La parte actora interpuso demanda por alimentos y medida cautelar por alimentos provisorios (movimiento del 25 de octubre de 2023).",
+      "En su escrito promocional hizo uso de la recusación con causa normada por el art. 14, inciso 7, del Código Procesal Civil y Comercial.",
+      "Fundó el pedido de apartamiento en que la magistrada de primera instancia rechazó de manera liminar una demanda de igual tenor instaurada en anterior oportunidad por su parte, e interpuesto recurso de apelación la judicante lo consideró mal deducido. Entendió que ello configura la causal de emisión de dictamen previo, inscripto en el ordenamiento procesal local.",
+      "2.- La jueza de primera instancia tuvo por presentada a la accionante y rechazó el planteo de recusación opuesto (1 de noviembre de 2023).",
+      "Para decidir en este último sentido, expresó que la promotora motivó la causal de recusación en el dictado de la sentencia en las actuaciones \"Franco Verónica Andrea c/ Rojas Sergio s/ alimentos\", Expediente Nº 14.316, donde esa magistrada resolvió respecto de la pretensión que nuevamente dedujo en este expediente. Esto es, se solicitó la recusación con posterioridad a haberse resuelto la cuestión planteada en otro proceso.",
+      "Entendió que la situación no resulta acorde con la garantía del juez natural ni tampoco parece perseguir la imparcialidad del juzgador.",
+      "Afirmó que el pedido de recusación no cumple con los requisitos para el desplazamiento de la competencia que la ley número 7046 le atribuye.",
+      "3.- La parte recusante interpuso recurso de apelación (movimiento del 7 de enero de 2023 y expresión de agravios del 17 de noviembre de 2023).",
+      "4.- En tarea de resolver la impugnación, la Sala Segunda Civil y Comercial de la Cámara de Apelaciones de Concordia declaró desiertos los agravios expresados e inadmisible el recurso intentado. Asimismo, consideró \"FRANCO ANDREA VERONICA C/ ROJAS SERGIO S/ ALIMENTOS\" - Expediente Nº 9004 inoficiosa la tarea profesional desplegada (sentencia del 12 de diciembre de 2023).",
+      "Para así decidir, enunció que el deficiente memorial encuadra en las disposiciones normativas genéricas de los art. 257 y 258 del Código Procesal Civil y Comercial y, singularmente, en las reglas jurídicas autoritativas de los artículos 304 y 305 de la ley número 7046.",
+      "Apreció que el memorial de agravios es fatalmente deficitario e incardina en el reproche normativo que, con fuerza autoritativa, para el caso particular reglan las disposiciones normativas de la ley número 10668.",
+      "Agregó que si bien lo expuesto funda y justifica inadmitir el recurso, la recurrente no explicó un extremo que desmorona su tesis, ello en torno a la sentencia que, según dijo, apelada, rechazada pero no recurrida, vino consentida.",
+      "Dijo sospechar que la quejosa no utilizó los recursos ordinarios y extraordinarios previstos para ejercitar los derechos y garantías de acceso a la jurisdicción que hoy equivocadamente postula. Concluyó que esta circunstancia sella la suerte adversa de lo pretendido, y el resto de las manifestaciones en torno al trámite de la recusación que la apelante dice incumplido en la anterior instancia no resulta audible, en tanto que el rechazo por improcedente que en esa instancia se confirma, incardina los deberes y facultades ordenatorias, instructorias y de pronunciamiento liminar que la sentenciante y directora del proceso posee por imperio del art. 18 en diálogo con el art. 33 del código procesal civil y comercial. Añadió que razones de celeridad, economía y flexibilidad de las formas procesales justifican, así también, la solución propiciada.",
+      "5.- La parte actora interpuso recurso de inaplicabilidad de ley (movimiento del 1 de febrero de 2024).",
+      "Denunció violación de la ley número 7046, omisión de aplicación de la doctrina y la jurisprudencia, violación del debido proceso, la defensa en juicio y la tutela judicial efectiva, y arbitrariedad.",
+      "Adujo que la decisión al declarar desierto el recurso no analizó los agravios expresados por su parte, cuando debió resolver la recusación con causa interpuesta.",
+      "Sostuvo que la alzada debió revocar la sentencia de la magistrada de origen, quien no realizó lo correspondiente para elevar el mismo a la Sala para que resuelva la recusación.",
+      "Refirió que en el anterior proceso no se corrió traslado de la demanda, por lo que no existe prohibición legal para presentar una nueva.",
+      "Tuvo presente que la demanda de alimentos no produce cosa juzgada y es estable mientras no se modifiquen las circunstancias.",
+      "Relató las circunstancias del trámite del anterior proceso por alimentos presentado por su parte. Refirió que el rechazo contenido en la sentencia dictada en aquél expediente y en éste, es violatoria de la interpretación armónica y \"FRANCO ANDREA VERONICA C/ ROJAS SERGIO S/ ALIMENTOS\" - Expediente Nº 9004 funcional del bloque convencional y constitucional.",
+      "Fustigó que la decisión se desentiende de la justa resolución del caso y no le preocupa la compatibilidad con un sistema procesal que no fue pensado para casos como el presente.",
+      "Alegó exceso ritual manifiesto al declarar desiertos los agravios, inadmisible el recurso interpuesto y firme el fallo recurrido, lo que viola el acceso a justicia, la protección de las personas vulnerables, el impedimento de abordar el conflicto con perspectiva de género, en resguardo así de derechos y garantías.",
+      "Hizo reserva del caso federal.",
+      "6.- La alzada concedió el recurso de inaplicabilidad de ley número 7046, con efecto suspensivo.",
+      "7.- Resumidos los antecedentes relevantes para la definición de la cuestión planteada entiendo pertinente recordar que el análisis preliminar de admisibilidad, previsto expresamente en nuestro ordenamiento procesal, indica que cuando el medio de impugnación se interpuso ante el mismo organismo jurisdiccional que dictó la resolución recurrida aquél sea llevado a cabo en dos oportunidades, la primera por la Cámara que analiza el cumplimiento de los requisitos formales de admisibilidad y de fundabilidad del planteo recursivo (art. 276, 280 y 281 del Código Procesal Civil y Comercial), y la segunda por esta Sala.",
+      "Conforme a las exigencias técnicas del recurso se debe efectuar el directo cuestionamiento de la sentencia definitiva de segunda instancia del cual derive una crítica y un ataque pertinentes a su fundamentación, que demuestren la errónea aplicación de la ley número 7046 y/o doctrina legal emanada de este tribunal.",
+      "No obstante la literalidad de la norma, se admite por vía pretoriana el análisis de cuestiones de hecho y prueba reservadas en principio a la magistratura de las instancias ordinarias, cuando se alegue y demuestre absurdidad o arbitrariedad en su valoración.",
+      "9.- Bajo tales parámetros advierto, como previo, que la resolución recurrida carece de la nota de definitividad requerida por la normativa ritual (art. 276 y art. 277 del Código Procesal Civil y Comercial). Ello por cuanto la naturaleza procesal de la figura de la recusación, en su esencia, no pone fin al pleito ni obsta a la prosecución regular del trámite diseñado para este juicio1.",
+      "Si bien lo precedentemente detallado resulta suficiente para desestimar la impugnación deducida, considero conveniente añadir que el examen de las objeciones proferidas por la querella arroja una particular postura de la recurrente que no condice con el estadio en que se encuentra el pleito, ni con las sólidas definiciones plasmadas en la sentencia de la cámara.",
+      "Es decir, aún cuando en la pieza recursiva se denunció la 1 En el mismo sentido esta Sala en anterior integración en: \"Costa Bandera Sociedad Anónima s/ ordinarios (civil), Expediente Nº 6385, sentencia del 2/9/2013 \"FRANCO ANDREA VERONICA C/ ROJAS SERGIO S/ ALIMENTOS\" - Expediente Nº 9004 arbitrariedad y la violación a la ley número 7046 y derechos consagrados constitucional y convencionalmente, el análisis de la cuestión arroja una reiteración de críticas ya enunciadas al momento de interponer el recurso de apelación, así como cuestiones relacionadas con el fondo de la pretensión perseguida por la actora en su demanda, lo que es ajeno y de imposible tratamiento en esta oportunidad.",
+      "Por lo demás, recuerdo que la Corte Suprema de Justicia de la Nación se ha expedido en el sentido que las recusaciones manifiestamente improcedentes deben ser desestimadas de plano, lo que se condice con la posición adoptada en las anteriores instancias, en concordancia con el plexo normativo procesal aplicable.",
+      "Por consiguiente, corresponde declarar la inadmisibilidad del recurso de inaplicabilidad de ley interpuesto por Andrea Verónica Franco. Con costas a la vencida (art. 65 del Código Procesal Civil y Comercial, por remisión del art. 138 de la ley número 7046). ASÍ VOTO.",
+      "A LA CUESTIÓN PROPUESTA EL SR. VOCAL DR."
+    ],
+    "CARLOS FEDERICO TEPSICH DIJO": [
+      "1. Adhiero a la solución desestimatoria propuesta por la Sra. Vocal del primer voto, compartiendo los fundamentos que la sustentan. ASÍ VOTO.",
+      "2C.S.J.N.; Fallos: 330, artículo 51; 329, artículo 3127; 316, artículo 2512205, artículo 635; 240, artículo 123; 244, artículo 506; 270, artículo 415; 274, artículo 86; entre muchos otros.",
+      "Por último, habiendo mayoría absoluta, EL SR. VOCAL EN EJERCICIO DE LA PRESIDENCIA DEL STJ, DR. LEONARDO PORTELA, se abstiene de votar y firmar la presente resolución con arreglo a lo dispuesto por el artículo número 33 de la LOPJ, texto según ley número 10.704.",
+      "Con lo que no siendo para más se da por finalizado el acto quedando acordada la siguiente sentencia:",
+      "Paraná, 16 de abril de 2024."
+    ],
+    "Y VISTO": [
+      "Por los fundamentos del Acuerdo General que antecede se,"
+    ],
+    "RESUELVE": [
+      "DECLARAR INADMISIBLE el recurso de inaplicabilidad de ley deducido en fecha 1/2/2024, respecto de la resolución de la Sala Segunda Civil y Comercial de la Cámara de Apelaciones de Concordia dictada en fecha 12 de diciembre de 2023.",
+      "IMPONER costas a la vencida (artículo número 65 del CPCC, por remisión del art. 138 de la ley número 7046 de la ley procesal de familia).",
+      "HONORARIOS oportunamente.",
+      "Tener presente la reserva del caso federal.",
+      "Notifíquese conforme a los artículos 1º y 4º del Acuerdo General 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "\"FRANCO ANDREA VERONICA C/ ROJAS SERGIO S/ ALIMENTOS\" - Expediente Nº 9004 Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital - Acuerdo General 11/20 del 23 de junio de 2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

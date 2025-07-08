@@ -1,0 +1,11 @@
+{
+  "json_id": "9075",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9075.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del tribunal para rechazar el recurso de revocatoria in extremis interpuesto por la Sra. Julia Teresa Villanova en el expediente Nº 9075?",
+    "¿Por qué el tribunal consideró inaplicable el beneficio de litigar sin gastos otorgado parcialmente a la Sra. Julia Teresa Villanova en el expediente Nº 8210?",
+    "¿Qué razones dio el tribunal para negar la exención de costas solicitada por la Sra. Julia Teresa Villanova en el marco del recurso mal concedido?"
+  ],
+  "generated_at": "20250703_194346"
+}

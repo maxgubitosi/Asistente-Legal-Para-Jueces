@@ -1,0 +1,11 @@
+{
+  "json_id": "9025",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9025.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal para determinar que el Juzgado Civil no tiene competencia en causas penales?",
+    "¿Qué principios procesales se consideran vulnerados al derivar causas penales a un juzgado civil?",
+    "¿Qué procedimiento debe seguirse para resolver un conflicto de competencia entre jueces de diferentes materias?"
+  ],
+  "generated_at": "20250703_193434"
+}

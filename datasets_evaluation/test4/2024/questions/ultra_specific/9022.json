@@ -1,0 +1,11 @@
+{
+  "json_id": "9022",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9022.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué establece el artículo 75 de la Ley Orgánica del Poder Judicial respecto a la subrogación entre jueces en caso de ausencia o impedimento?",
+    "¿Cuál es el fundamento del Juez Civil, Dr. Omar Javier Ovando, para declarar su incompetencia material para intervenir en el proceso penal del expediente Nº 9022?",
+    "¿Qué razones expone el tribunal para considerar que no existe un conflicto negativo de competencia en el caso 'FRANDINO DANIEL DAVID' - Legajo Fiscal N° 12040?"
+  ],
+  "generated_at": "20250703_193941"
+}

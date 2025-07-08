@@ -1,0 +1,11 @@
+{
+  "json_id": "8996",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8996.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué el tribunal consideró inadmisible el recurso de inaplicabilidad de ley interpuesto por Marcelo Claudio Fabián Velázquez?",
+    "¿Qué fundamentos legales se utilizaron para mantener la obligación alimentaria hasta los 21 años?",
+    "¿Cómo influyó el cambio de residencia de uno de los hijos en la decisión de modificar la cuota alimentaria?"
+  ],
+  "generated_at": "20250703_193537"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8916",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8916.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son las consecuencias jurídicas de no cumplir con los requisitos formales para la admisibilidad de un recurso extraordinario?",
+    "¿Qué importancia tienen los depósitos proporcionales al monto del litigio en el marco de un recurso extraordinario?",
+    "¿En qué circunstancias podría considerarse que un requisito formal afecta el derecho de defensa en juicio?"
+  ],
+  "generated_at": "20250703_193635"
+}

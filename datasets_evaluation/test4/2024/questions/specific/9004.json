@@ -1,0 +1,11 @@
+{
+  "json_id": "9004",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9004.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los requisitos legales establecidos en los artículos 276 y 277 del Código Procesal Civil y Comercial que se consideran para la admisibilidad de un recurso?",
+    "¿Qué fundamentó la Cámara de Apelaciones de Concordia para declarar desiertos los agravios en el recurso de apelación anterior?",
+    "¿Por qué el Tribunal consideró inaplicable el recurso presentado en relación a la recusación de la magistrada?"
+  ],
+  "generated_at": "20250703_193737"
+}

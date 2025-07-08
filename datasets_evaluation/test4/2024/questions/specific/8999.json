@@ -1,0 +1,11 @@
+{
+  "json_id": "8999",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8999.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué disposición del Código Procesal Civil y Comercial establece la causal invocada para la excusación del Dr. Carlos Federico Tepsich?",
+    "¿Por qué el Dr. Leonardo Portela se abstuvo de votar y firmar la resolución en este caso según la Ley Orgánica del Poder Judicial?",
+    "¿Cómo se asegura la imparcialidad del tribunal tras la excusación del Dr. Carlos Federico Tepsich?"
+  ],
+  "generated_at": "20250703_193839"
+}

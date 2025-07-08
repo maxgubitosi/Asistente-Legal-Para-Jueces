@@ -1,0 +1,11 @@
+{
+  "json_id": "8986",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8986.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué el Superior Tribunal de Justicia de Entre Ríos considera inadmisible el recurso de inaplicabilidad de ley en este caso?",
+    "¿Cuál es el fundamento jurídico para que las resoluciones sobre costas no sean revisables por la vía extraordinaria?",
+    "¿Qué argumento presentó LIDERAR Compañía General de Seguros S.A. respecto a la supuesta arbitrariedad en la imposición de las costas?"
+  ],
+  "generated_at": "20250703_194141"
+}

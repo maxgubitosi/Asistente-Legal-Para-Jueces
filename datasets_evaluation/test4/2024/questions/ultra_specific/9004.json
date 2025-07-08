@@ -1,0 +1,11 @@
+{
+  "json_id": "9004",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9004.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son las razones específicas por las que el Tribunal consideró inadmisible el recurso de inaplicabilidad de ley interpuesto por Andrea Verónica Franco en el expediente Nº 9004?",
+    "¿Qué fundamentos legales, incluyendo los artículos del Código Procesal Civil y Comercial y la Ley Procesal de Familia, utilizó la Cámara de Apelaciones de Concordia para declarar desiertos los agravios en la sentencia del 12 de diciembre de 2023?",
+    "¿Qué consideraciones hizo el Tribunal respecto a la perspectiva de género y la tutela judicial efectiva en relación con el recurso de inaplicabilidad de ley interpuesto el 1 de febrero de 2024?"
+  ],
+  "generated_at": "20250703_193739"
+}

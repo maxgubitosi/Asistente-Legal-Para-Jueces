@@ -1,0 +1,11 @@
+{
+  "json_id": "8887",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8887.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿En qué fecha el Tribunal de Cuentas remitió el informe que determinó la responsabilidad del funcionario Jorge Eduardo Spahn y el perjuicio patrimonial?",
+    "¿Cuál es el artículo del Código Civil y Comercial que establece el plazo de prescripción de tres años mencionado en el fallo?",
+    "¿Qué dispone el artículo 49 de la Ley 5796 en relación a la suspensión de los plazos de prescripción durante la tramitación administrativa?"
+  ],
+  "generated_at": "20250703_193536"
+}

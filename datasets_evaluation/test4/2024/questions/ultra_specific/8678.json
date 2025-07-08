@@ -1,0 +1,11 @@
+{
+  "json_id": "8678",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/8678.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la causa principal invocada para la excusación de la Sra. Vocal Gisela N. Schumacher según el artículo 14, inciso 7 del Código Procesal Civil y Comercial (CPCC)?",
+    "¿Qué argumentos utilizó el tribunal para considerar que la intervención de la Sra. Vocal Gisela N. Schumacher no constituía prejuzgamiento en el expediente Nº 8678?",
+    "¿Qué disposición de la Ley Orgánica del Poder Judicial (LOPJ) justificó la abstención del Sr. Vocal Leonardo Portela en la firma de la resolución del 26 de noviembre de 2024?"
+  ],
+  "generated_at": "20250703_194346"
+}

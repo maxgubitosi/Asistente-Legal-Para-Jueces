@@ -1,0 +1,11 @@
+{
+  "json_id": "8947",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8947.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué casos la carga de impulso procesal puede recaer en el juzgado en lugar de las partes?",
+    "¿Cómo se evalúa la aplicación de una interpretación restrictiva para declarar la caducidad de instancia?",
+    "¿Cuáles son las implicancias del deber de impulso procesal de los tribunales para garantizar el debido proceso?"
+  ],
+  "generated_at": "20250703_193534"
+}

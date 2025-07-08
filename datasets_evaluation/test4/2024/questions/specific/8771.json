@@ -1,0 +1,11 @@
+{
+  "json_id": "8771",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8771.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la normativa aplicable para la regulación de honorarios profesionales en este caso?",
+    "¿Qué sucede si los honorarios regulados no son abonados dentro del plazo establecido?",
+    "¿Cómo se asegura la notificación de la regulación de honorarios según la ley y cuál es su consecuencia en caso de incumplimiento?"
+  ],
+  "generated_at": "20250703_193736"
+}

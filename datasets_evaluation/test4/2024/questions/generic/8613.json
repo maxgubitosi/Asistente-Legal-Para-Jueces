@@ -1,0 +1,11 @@
+{
+  "json_id": "8613",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8613.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe notificarse la regulación de honorarios para garantizar el derecho al cobro por parte de los profesionales intervinientes?",
+    "¿Qué factores deben considerarse al determinar los honorarios de un abogado en relación con los recursos judiciales presentados?",
+    "¿Qué consecuencias legales surgen si los honorarios regulados no se abonan en el plazo estipulado?"
+  ],
+  "generated_at": "20250703_193635"
+}

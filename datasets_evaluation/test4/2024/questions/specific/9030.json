@@ -1,0 +1,11 @@
+{
+  "json_id": "9030",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9030.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la razón principal por la que el Superior Tribunal de Justicia desestimó la declaración de incompetencia material del Juzgado Civil, Comercial y Laboral?",
+    "¿Qué artículos de la Ley Orgánica del Poder Judicial y del Código Procesal Civil y Comercial se mencionan como fundamento para resolver los conflictos de competencia?",
+    "¿Por qué se considera ficticio el conflicto negativo de competencia planteado en este caso?"
+  ],
+  "generated_at": "20250703_193637"
+}

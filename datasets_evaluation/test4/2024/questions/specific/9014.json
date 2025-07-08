@@ -1,0 +1,11 @@
+{
+  "json_id": "9014",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9014.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué establece el artículo 14, inciso 7 del Código Procesal Civil y Comercial (CPCC) como causal de excusación de un juez?",
+    "¿Por qué se consideró que la participación previa del Dr. Carlos Federico Tepsich generaba un conflicto de interés en este caso?",
+    "¿Cuál es el fundamento para que el Sr. Vocal Leonardo Portela se abstuviera de votar y firmar la resolución?"
+  ],
+  "generated_at": "20250703_193939"
+}

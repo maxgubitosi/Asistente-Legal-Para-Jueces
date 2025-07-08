@@ -1,0 +1,11 @@
+{
+  "json_id": "8996",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8996.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué circunstancias es procedente modificar la cuota alimentaria a cargo de uno de los progenitores?",
+    "¿Qué criterios deben cumplir los recursos de inaplicabilidad de ley para ser admitidos en casos de reducción de cuota alimentaria?",
+    "¿Hasta qué edad se mantiene la obligación alimentaria de un progenitor hacia sus hijos y cómo se evalúan las modificaciones según cambios fácticos?"
+  ],
+  "generated_at": "20250703_193637"
+}

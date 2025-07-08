@@ -1,0 +1,11 @@
+{
+  "json_id": "8949",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8949.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe interpretarse el principio de especialidad normativa cuando existen normas posteriores que regulan de manera diferente una materia específica?",
+    "¿Qué criterios deben aplicarse para determinar la compatibilidad entre el principio de igualdad y la aplicación diferenciada de normas específicas en ejecuciones de honorarios?",
+    "¿Cuáles son los límites y requisitos para plantear la inconstitucionalidad de una norma en el marco de un recurso judicial?"
+  ],
+  "generated_at": "20250703_193736"
+}

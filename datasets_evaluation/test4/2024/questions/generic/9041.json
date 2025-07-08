@@ -1,0 +1,11 @@
+{
+  "json_id": "9041",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9041.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Puede considerarse definitiva una resolución judicial que traslada la competencia de un caso a otro tribunal sin resolver el fondo del asunto?",
+    "¿Cómo se determina si una resolución sobre competencia judicial afecta irreparablemente los derechos de las partes involucradas?",
+    "¿Qué criterios deben evaluarse para alegar la nulidad de una resolución que designa un tribunal diferente por razones de jurisdicción?"
+  ],
+  "generated_at": "20250703_194042"
+}

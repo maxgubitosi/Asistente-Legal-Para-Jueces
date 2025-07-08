@@ -1,0 +1,11 @@
+{
+  "json_id": "9038",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9038.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los fundamentos legales invocados por el Dr. Omar Javier Ovando para declarar la incompetencia del Juzgado Civil, Comercial y Laboral de Federal en el Expte. N° 9038?",
+    "¿Qué argumentos presentó el Dr. Luis María Quiroz, juez del Juzgado de Paz de Federal, para no aceptar la competencia del caso 'PETIT, Carla Margarita S/ SU DENUNCIA'?",
+    "¿Qué establece el artículo 6 inciso c) de la Ley 26.485 y cómo fue aplicado en este caso según el Tribunal?"
+  ],
+  "generated_at": "20250703_193940"
+}

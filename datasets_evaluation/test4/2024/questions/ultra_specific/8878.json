@@ -1,0 +1,11 @@
+{
+  "json_id": "8878",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8878.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué montos de honorarios fueron regulados para los Dres. Ciro Daniel Muzzachiodi y Claudio Dlugovitzky en el fallo del caso 'MAYOL VIVIANA SILVINA C/ NUEVO BANCO DE ENTRE RÍOS S.A. S/ SUMARISIMO'?",
+    "¿Qué artículos específicos de la Ley 7046 utilizaron como fundamento legal para la regulación de honorarios en este fallo judicial?",
+    "¿Qué disposición del artículo 33 de la Ley de Organización del Poder Judicial permitió la abstención del Dr. Leonardo Portela en la firma de esta resolución?"
+  ],
+  "generated_at": "20250703_193839"
+}

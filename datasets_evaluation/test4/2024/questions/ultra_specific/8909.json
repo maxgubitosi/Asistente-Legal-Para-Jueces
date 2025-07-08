@@ -1,0 +1,11 @@
+{
+  "json_id": "8909",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8909.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos utilizó el tribunal para declarar extemporánea la recusación de los miembros, según el artículo 15 del Código Procesal Civil y Comercial (CPCC), en el caso 'BUTTAZZONI MABEL TERESITA S. PEDIDO DE CONCURSO PREVENTIVO' - Expte. Nº 8909?",
+    "¿Por qué el tribunal consideró insuficientes los argumentos del recurso extraordinario federal presentado por Mabel Teresita Butazzoni en relación con los requisitos establecidos en el artículo 280 del CPCC y el artículo 14 de la Ley 48?",
+    "¿Qué alegaciones hizo Mabel Teresita Butazzoni sobre la falta de perspectiva de género y cómo fueron refutadas por el tribunal en la sentencia del caso 'BUTTAZZONI MABEL TERESITA S. PEDIDO DE CONCURSO PREVENTIVO' - Expte. Nº 8909?"
+  ],
+  "generated_at": "20250703_194141"
+}

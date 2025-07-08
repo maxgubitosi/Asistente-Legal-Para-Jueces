@@ -1,0 +1,11 @@
+{
+  "json_id": "8359",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8359.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Por qué el Tribunal consideró inaplicable la Ordenanza Municipal que establece la tasa reclamada en el caso 'MUNICIPALIDAD DE SAN JOSÉ DE GUALEGUAYCHÚ C/ PEPSICO DE ARGENTINA S.R.L.'?",
+    "¿Qué fundamentos expuso la Corte Suprema de Justicia de la Nación en su fallo del 14 de noviembre de 2023 sobre la falta de publicación de la Ordenanza Municipal?",
+    "¿Cómo aplicó el Tribunal el artículo 65 del Código Procesal Civil y Comercial (CPCC) para la imposición de costas en este caso?"
+  ],
+  "generated_at": "20250703_194142"
+}

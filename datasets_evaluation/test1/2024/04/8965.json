@@ -1,0 +1,128 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8965",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Reglamento de Presentaciones Electrónicas",
+          "cited_articles": [
+            19
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            65,
+            251,
+            252,
+            276,
+            280,
+            281
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Constitución Provincial de Entre Ríos",
+          "cited_articles": [
+            65
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Constitución Nacional (CN)",
+          "cited_articles": [
+            18
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Ley 10.704",
+          "cited_articles": [
+            33
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "conforme arts. 1º y 4º"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "ORDINARIO CUMPLIMIENTO DE CONTRATO",
+  "IDEA_CENTRAL": "El Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por la parte demandada, Petruccio Víctor Hugo, en el caso \"PETRUCCIO VICTOR HUGO C/ LONDERO JAVIER GUSTAVO S/ ORDINARIO CUMPLIMIENTO DE CONTRATO\".\n\n**Fundamento Legal:** La inadmisibilidad se basa en la falta de fundamentación adecuada del recurso, conforme a los artículos 276, 280 y 281 del Código Procesal Civil y Comercial. La Cámara consideró que la parte recurrente no cumplió con la carga de expresar agravios de manera efectiva, lo que resultó en la preclusión de su derecho a apelar.\n\n### Aspectos Legales Relevantes\n\n1. **Código Procesal Civil y Comercial:** \n   - **Art. 251 y 252:** Establecen el procedimiento y efectos de la concesión del recurso de apelación.\n   - **Artículos 276 y 277:** Regulan la admisibilidad de los recursos y su efecto conclusivo.\n   - **Art. 280:** Requiere que el recurso contenga una crítica concreta a la fundamentación de la sentencia recurrida.\n\n2. **Constitución Nacional y Provincial:** \n   - **Art. 18 de la Constitución Nacional:** Garantiza el derecho de defensa.\n   - **Art. 65 de la Constitución de Entre Ríos:** Relativo a la imposición de costas.\n\n### Razonamiento del Tribunal\n\nEl Tribunal argumentó que la parte demandada no presentó adecuadamente sus agravios ante la Cámara, lo que llevó a la desestimación de su recurso de revocatoria y a la imposibilidad de apelar. Se enfatizó que la falta de fundamentación específica en el recurso de inaplicabilidad impidió su admisión, ya que no se demostraron errores en la aplicación de la ley ni se evidenció arbitrariedad en la valoración de los hechos. La decisión se fundamentó en la necesidad de respetar los procedimientos establecidos y garantizar la seguridad jurídica.\n\n### Conclusión\n\nEl fallo reafirma la importancia de la correcta fundamentación en los recursos judiciales y la necesidad de cumplir con los requisitos procesales para garantizar el derecho de defensa, evitando así la indefensión por cuestiones técnicas.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"PETRUCCIO VICTOR HUGO C/ LONDERO JAVIER GUSTAVO S/ ORDINARIO CUMPLIMIENTO DE CONTRATO\" - Expediente Nº 8965"
+    ],
+    "ACUERDO": [
+      "En la ciudad de Paraná, capital de la provincia de Entre Ríos, a los dieciséis días del mes de abril del año dos mil veinticuatro reunidos los integrantes de este Tribunal asistidos por el Secretario autorizante, para conocer el recurso de inaplicabilidad de ley deducido en fecha 10/8/2023 en las actuaciones:",
+      "\"PETRUCCIO VICTOR HUGO C/ LONDERO JAVIER GUSTAVO S/ ORDINARIO CUMPLIMIENTO DE CONTRATO\" - Expediente Nº 8965, respecto de la resolución de la Sala Segunda de la Cámara Segunda de Apelaciones de Paraná dictada en fecha 28 de julio de 2023. Que la votación debe tener lugar en el siguiente orden:",
+      "Dra. Gisela N. Schumacher, Dr. Carlos F. Tepsich y Dr. Leonardo Portela.",
+      "Estudiados los autos, la Sala se planteó la siguiente cuestión: ¿qué corresponde resolver respecto del recurso de inaplicabilidad de ley interpuesto?",
+      "A LA CUESTIÓN PROPUESTA LA SRA. VOCAL DRA."
+    ],
+    "GISELA SCHUMACHER DIJO": [
+      "1.- Por resolución del 18/4/2023 la Cámara Segunda, Sala Segunda, de Paraná declaró desierto el recurso de apelación incoado en representación de la parte demandada, con base en el informe de secretaría que dio cuenta que la apelante no fundó en esa sede la impugnación oportunamente deducida ante la instancia de origen.",
+      "2.- El representante de la accionada interpuso recurso de revocatoria con apelación en subsidio -sic- (20 de abril de 2023).",
+      "3.- En tarea de resolver los cuestionamientos, la alzada -por mayoría- desestimó el recurso de revocatoria. Tampoco acogió el recurso de apelación interpuesto en subsidio, por no encontrarse previsto en nuestro ordenamiento.",
+      "Para así decidir, la Cámara explicó que en caso que la apelación haya sido concedida en forma libre, como en la especie, la expresión de agravios debe ser presentada ante el tribunal de alzada. Agregó que al ser consentida por el recurrente la providencia de la Cámara que ordenó que se expresaran agravios, por efectos preclusivos y por su propio proceder, la parte quedó sometida a la satisfacción de la carga que tal providencia imponía.",
+      "Consideró que si bien el invocado art. 19 del Reglamento de Presentaciones Electrónicas manda emplear un criterio flexible, en el caso la desatención no solamente ocurrió respecto del organismo ante el cual se presentó el libelo (juzgado de primera instancia), sino que, además, después de ello, dejó firme la resolución que ordenaba expresar agravios, lo que hace que haya precluido la oportunidad de cuestionarla.",
+      "Añadió que el código procesal civil y comercial es claro en sus artículos 251 y 252, al preceptuar el modo y efecto de la concesión del recurso de apelación; y que en el supuesto fue concedido libremente y con efecto suspensivo, por lo que la expresión de agravios debió realizarse dentro del plazo de diez días a partir de \"PETRUCCIO VICTOR HUGO C/ LONDERO JAVIER GUSTAVO S/ ORDINARIO CUMPLIMIENTO DE CONTRATO\" - Expediente Nº 8965 que el expediente llegó a la Cámara y que dicha providencia fuera notificada a las partes.",
+      "4.- El apoderado de la parte demandada interpuso recurso de inaplicabilidad de ley (movimientos del 10 de agosto de 2023 y 11 de agosto de 2023, según informe de secretaría).",
+      "Adujo que lo decidido pone fin a este proceso, permitiendo la consumación de un estado de indefensión por pruritos técnicos que no se compadecen con las garantías constitucionales del art. 18 de la Constitución Nacional y tratados internacionales, en perjuicio de lo dispuesto en la normativa ritual de buenas prácticas en las presentaciones digitales (sic), y más precisamente en lo dispuesto en el art. 19 del citado cuerpo normativo, y en el artículo 65 de la Constitución de Entre Ríos.",
+      "Tachó al fallo de absurdidad y arbitrariedad.",
+      "Dijo que la decisión contiene una irregular e incongruente motivación.",
+      "Alegó que se omitió por completo el hecho que los agravios fueron presentados ante el único acceso que poseía en ese momento para incorporarlo, y cuyo juzgado lo borró por considerarlo prematuro, y en consecuencia no corresponder, sin notificación fehaciente impidiendo el derecho de defensa.",
+      "Estimó que la sentencia recurrida no dedicó un solo párrafo a las argumentaciones concretas y razonadas, infringió el derecho de defensa, e impidió la doble instancia.",
+      "Afirmó que el absurdo surge de la convicción del juzgador de alzada por la cual confirmó el fallo de primera instancia, formada con base en un error esencial de las conclusiones de la prueba existente, y al tener por inexistentes hechos debidamente acreditados.",
+      "Hizo reserva de la cuestión federal.",
+      "5.- Quienes representan a la contraparte solicitaron el rechazo del recurso deducido, con imposición de costas (movimiento del 23 de agosto de 2023).",
+      "6.- La Cámara concedió el recurso, con efecto suspensivo (23 de octubre de 2023).",
+      "7.- Sintetizados los antecedentes relevantes para la definición de la cuestión traída a juzgamiento entiendo pertinente recordar que el análisis preliminar de admisibilidad, previsto expresamente en nuestro ordenamiento procesal, indica que cuando el medio de impugnación se interpuso ante el mismo organismo jurisdiccional que dictó la resolución recurrida aquél sea llevado a cabo en dos oportunidades, la primera por la Cámara que analiza el cumplimiento de los requisitos formales de admisibilidad y de fundabilidad del planteo recursivo (art. 276, art. 280 y art. 281 del código procesal civil y comercial), y la segunda por esta Sala.",
+      "Conforme a las exigencias técnicas del recurso se debe efectuar el \"PETRUCCIO VICTOR HUGO C/ LONDERO JAVIER GUSTAVO S/ ORDINARIO CUMPLIMIENTO DE CONTRATO\" - Expediente Nº 8965 directo cuestionamiento de la sentencia definitiva de segunda instancia del cual derive una crítica y un ataque pertinentes a su fundamentación, que demuestren la errónea aplicación de la ley número 7046 y/o doctrina legal emanada de este tribunal.",
+      "No obstante la literalidad de la norma, se admite por vía pretoriana el análisis de cuestiones de hecho y prueba reservadas en principio a la magistratura de las instancias ordinarias, cuando se alegue y demuestre absurdidad o arbitrariedad en su valoración.",
+      "8.- Al amparo de tales consideraciones ingreso al tratamiento del tema sometido a dilucidación.",
+      "a.- El examen de la cuestión me convence respecto de la definitividad del veredicto enjuiciado, en los términos de los artículos 276 y 277 del Código Procesal Civil y Comercial. Ello en tanto la decisión contenida en la sentencia de alzada tuvo efectos conclusivos con relación al núcleo de este expediente, y, por tanto, puso fin a un pleito que resulta de imposible reedición a través de eventuales acciones judiciales posteriores.",
+      "b.- No obstante lo aseverado, la impugnación no sorteó la valla de admisibilidad que preceptúa el art. 280, segundo párrafo, del ordenamiento de forma local.",
+      "Ello en tanto las objeciones plasmadas en el memorial recursivo enuncian las normas que la parte demandada considera vulneradas por la sentencia en crisis, pero dicha mención luce desprovista de argumentos que sustenten las afirmaciones respecto de los vicios predicados.",
+      "Misma conclusión cabe a las mencionadas arbitrariedad y absurdidad del resolutorio. En concreto, las manifestaciones genéricas de los casos en que se configuran los motivos del catálogo casatorio son insuficientes para tener por cumplida la carga de debida fundamentación. Tampoco lo son el cúmulo de citas referidas a las potestades de este tribunal de revisar cuestiones de hecho y prueba, puesto que éstas, por sí mismas, no evidencian dónde radica el error denunciado por la querella en el caso particular.",
+      "En efecto, el recurso muestra una confusión entre lo que son los errores en la aplicación del derecho y las fallas en la meritación de los hechos y las pruebas. Pero en uno como en otro caso, ninguna de las quejas apunta en concreto a la estructura argumental en que se basó la sentencia recurrida.",
+      "La decisión no luce teñida de incongruencia, en contra de lo que señala la parte recurrente. Más aún, no encuentro alusión puntual de cuál sería el especial contexto soslayado por la alzada, que conllevaría a la aplicación de un excesivo rigor formal en desmedro de la manda prevista por el art. 19 del Reglamento de Presentaciones Electrónicas1.",
+      "9.- Por consiguiente, propicio declarar la inadmisibilidad del recurso 1Anexo I del Acuerdo General STJER de fecha 27/4/2020 \"PETRUCCIO VICTOR HUGO C/ LONDERO JAVIER GUSTAVO S/ ORDINARIO CUMPLIMIENTO DE CONTRATO\" - Expediente Nº 8965 de inaplicabilidad de ley deducido en representación de la parte demandada, con costas a la vencida por no hallar mérito para apartarme del principio objetivo de la derrota (art. 65 del código procesal civil y comercial). ASÍ VOTO.",
+      "A LA CUESTIÓN PROPUESTA EL SEÑOR VOCAL DOCTOR CARLOS"
+    ],
+    "FEDERICO TEPSICH DIJO": [
+      "1.- Adhiero a la solución desestimatoria que viene impulsada en el voto de la colega preopinante, compartiendo los fundamentos que la sustentan. ASÍ VOTO.",
+      "Por último, habiendo mayoría absoluta, EL SR. VOCAL EN EJERCICIO DE LA PRESIDENCIA DEL STJ, DR. LEONARDO PORTELA, se abstiene de votar y firmar la presente resolución con arreglo a lo dispuesto por el artículo número 33 de la LOPJ, texto según ley número 10.704.",
+      "Con lo que no siendo para más se da por finalizado el acto quedando acordada la siguiente sentencia:",
+      "Paraná, 16 de abril de 2024."
+    ],
+    "Y VISTO": [
+      "Por los fundamentos del Acuerdo General que antecede se,"
+    ],
+    "RESUELVE": [
+      "DECLARAR INADMISIBLE el recurso de inaplicabilidad de ley deducido en fecha 10 de agosto de 2023, respecto de la resolución de la Sala Segunda de la Cámara Segunda de Apelaciones de Paraná dictada en fecha 28 de julio de 2023.",
+      "IMPONER costas a la vencida (artículo número 65 del CPCC).",
+      "HONORARIOS oportunamente.",
+      "Tener presente la reserva del caso federal.",
+      "Notifíquese conforme artículo número 1º y artículo número 4º del Acuerdo General 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo General número 11/20 del 23 de junio de 2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

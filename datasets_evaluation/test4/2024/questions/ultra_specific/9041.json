@@ -1,0 +1,11 @@
+{
+  "json_id": "9041",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9041.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué artículos del Código Procesal Civil y Comercial se mencionan como fundamento para determinar que las resoluciones sobre competencia no son sentencias definitivas?",
+    "¿Qué argumentó Maira Soledad Caraballo en su queja respecto a la afectación de su derecho al juez natural?",
+    "¿Qué disposiciones legales se mencionan en el fallo para justificar la preservación de los derechos involucrados en el caso, en relación al artículo 716 del Código Civil y Comercial y el artículo 12 de la Ley de Protección Familiar?"
+  ],
+  "generated_at": "20250703_194041"
+}

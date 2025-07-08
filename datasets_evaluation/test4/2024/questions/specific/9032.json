@@ -1,0 +1,11 @@
+{
+  "json_id": "9032",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9032.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué fundamentos legales utilizó el tribunal para concluir que no existía un conflicto negativo de competencia en este caso?",
+    "¿Cómo se relaciona el principio de especialidad con la resolución del caso en el contexto de la subrogancia legal?",
+    "¿Por qué el tribunal decidió devolver las actuaciones al Juez Dr. Omar Javier Ovando en lugar de aceptar la incompetencia material declarada por él?"
+  ],
+  "generated_at": "20250703_193434"
+}

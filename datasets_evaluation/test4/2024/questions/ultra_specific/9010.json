@@ -1,0 +1,11 @@
+{
+  "json_id": "9010",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9010.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la fecha en la que el Dr. Carlos Federico Tepsich presentó su excusación en el expediente N° 9010 'Guy Edith E. c/ Cardozo Jorge R. y otros'?",
+    "¿Qué fechas específicas se mencionan en relación con las resoluciones previas emitidas por el Dr. Carlos Federico Tepsich en el caso 'Guy Edith E. c/ Cardozo Jorge R. y otros' que justifican su excusación según el artículo 14, inciso 7 del CPCC?",
+    "¿Cómo se integra la sala tras la excusación del Dr. Carlos Federico Tepsich en virtud del artículo 33 de la Ley Orgánica del Poder Judicial y quiénes son sus nuevos integrantes?"
+  ],
+  "generated_at": "20250703_194144"
+}

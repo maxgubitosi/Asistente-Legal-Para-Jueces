@@ -1,0 +1,11 @@
+{
+  "json_id": "9026",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9026.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué fundamentos legales justifican la devolución de las actuaciones al Dr. Omar Javier Ovando?",
+    "¿Cómo se define la competencia material en el caso de procesos penales según la LOPJ y el CPCC?",
+    "¿Qué razones argumentó el Tribunal para determinar que no existía un conflicto negativo de competencia en este caso?"
+  ],
+  "generated_at": "20250703_193636"
+}

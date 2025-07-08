@@ -1,0 +1,11 @@
+{
+  "json_id": "9064",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9064.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron las razones específicas por las que el Tribunal declaró inadmisible el recurso de inaplicabilidad de ley interpuesto por Cingolani Eduardo B. contra la resolución de la Cámara Segunda de Apelaciones de Paraná?",
+    "¿Qué incumplimientos al artículo 257 del Código Procesal Civil y Comercial fueron señalados por la Cámara Segunda de Apelaciones de Paraná en relación con el recurso presentado por Cingolani Eduardo B.?",
+    "¿Qué relación tiene el monto de $256.715,45 autorizado a compensar en la resolución del 25/11/2022 con los fundamentos del rechazo del recurso de inaplicabilidad de ley en el expediente 'CINGOLANI EDUARDO B. C/ CARLETTI ANGEL R. Y OTRO.'?"
+  ],
+  "generated_at": "20250703_194344"
+}

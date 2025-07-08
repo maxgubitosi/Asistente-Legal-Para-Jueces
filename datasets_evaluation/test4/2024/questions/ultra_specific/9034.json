@@ -1,0 +1,11 @@
+{
+  "json_id": "9034",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9034.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos legales utilizó el Dr. Omar Javier Ovando para argumentar la incompetencia material de su Juzgado Civil, Comercial y Laboral en el expediente Nº 9034?",
+    "¿Qué razones expuso la Dra. Susana Griselda Irurzun para excusarse en el expediente penal del 14 de diciembre de 2023, según el artículo 38 inciso a) del Código Procesal Penal?",
+    "¿Qué posición adoptó la Dra. Mónica Elizabeth Carmona respecto al supuesto conflicto negativo de competencia entre el Juzgado de Garantías y el Juzgado Civil, Comercial y Laboral en el dictamen del 1 de marzo de 2024?"
+  ],
+  "generated_at": "20250703_193941"
+}

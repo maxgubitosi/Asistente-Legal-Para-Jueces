@@ -1,0 +1,11 @@
+{
+  "json_id": "8984",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8984.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué establece el artículo 79, inciso 1° de la Ley Orgánica del Poder Judicial (Ley 6902) respecto a la competencia de los Juzgados de Paz en juicios ejecutivos?",
+    "¿Cómo justifica el tribunal que el monto reclamado de $76.150,00 se encuentra dentro del límite de competencia para los Juzgados de Paz según la Acordada General Nº 28/15?",
+    "¿Cuál fue la opinión del Ministerio Fiscal respecto a la competencia material del Juzgado de Paz Nº 1 en las actuaciones 'Fischbach Verónica y Otra c/ Tortul Adriana Silvina s/ Incidente (Competencia)' según el dictamen del 25/8/2023?"
+  ],
+  "generated_at": "20250703_193435"
+}

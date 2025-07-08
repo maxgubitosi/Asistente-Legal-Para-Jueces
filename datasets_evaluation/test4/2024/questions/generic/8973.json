@@ -1,0 +1,11 @@
+{
+  "json_id": "8973",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8973.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los criterios para establecer la responsabilidad civil en casos de daños derivados de actividades peligrosas en grupo?",
+    "¿Qué requisitos debe cumplir la víctima para acreditar la responsabilidad colectiva en casos de daños causados por un grupo?",
+    "¿Qué implica el principio de responsabilidad objetiva en situaciones donde no se prueba la acción individual de los integrantes de un grupo que genera un daño?"
+  ],
+  "generated_at": "20250703_193736"
+}

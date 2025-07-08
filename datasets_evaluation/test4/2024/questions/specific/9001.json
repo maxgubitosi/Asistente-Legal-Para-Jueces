@@ -1,0 +1,11 @@
+{
+  "json_id": "9001",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9001.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cómo se garantiza el interés superior de las menores en la decisión judicial adoptada?",
+    "¿Qué fundamento legal respalda la medida de guarda judicial otorgada a Lidia Beatriz Nerón en este caso?",
+    "¿Cuál es el procedimiento establecido para la revisión periódica del plan de revinculación y su relación con la voluntad de las adolescentes?"
+  ],
+  "generated_at": "20250703_194040"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9001",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9001.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué argumentos utilizó el Tribunal para mantener la guarda judicial de Angelina, Agustina y Sahira a favor de Lidia Beatriz Nerón en la resolución del 6 de mayo de 2024?",
+    "¿Cómo se aplicó el artículo 657 del Código Civil y Comercial en relación al límite temporal de la guarda judicial otorgada a Lidia Beatriz Nerón?",
+    "¿Qué fundamentos presentaron los equipos técnicos interdisciplinarios para justificar la negativa de las menores a revincularse con sus progenitores en los informes aportados al expediente Nº 9001?"
+  ],
+  "generated_at": "20250703_194041"
+}

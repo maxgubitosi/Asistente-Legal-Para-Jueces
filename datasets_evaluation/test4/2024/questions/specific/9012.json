@@ -1,0 +1,11 @@
+{
+  "json_id": "9012",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9012.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la naturaleza jurídica de los certificados de obra pública según la interpretación del Tribunal?",
+    "¿Por qué motivo el Tribunal rechazó la excepción de prescripción planteada por la parte demandada?",
+    "¿Qué relevancia tiene la Ley 27.440 en relación con la negociación de certificados de obra pública en este caso?"
+  ],
+  "generated_at": "20250703_194344"
+}

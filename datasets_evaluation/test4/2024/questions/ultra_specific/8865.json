@@ -1,0 +1,11 @@
+{
+  "json_id": "8865",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8865.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos legales del artículo 114 de la Ley 7046 establece el plazo para el pago de honorarios regulados judicialmente en el caso 'ROMERO ESCROFINE DEBORA VANESA C/ COMAR ORFILIA Y OTRA S/ DESALOJO'?",
+    "¿Cuál es el monto exacto regulado como honorarios para la Dra. María Carolina Marani según el fallo del 5 de febrero de 2024 en el expediente Nº 8865?",
+    "¿Cómo debe realizarse la notificación de la regulación de honorarios conforme al artículo 28 de la Ley 7046 en el marco del caso 'ROMERO ESCROFINE DEBORA VANESA C/ COMAR ORFILIA Y OTRA S/ DESALOJO'?"
+  ],
+  "generated_at": "20250703_194244"
+}

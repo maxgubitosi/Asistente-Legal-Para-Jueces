@@ -1,0 +1,11 @@
+{
+  "json_id": "8914",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8914.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento principal por el que se denegó el recurso extraordinario federal presentado por Mabel Teresita Buttazzoni?",
+    "¿Qué requisitos procesales establecidos en el Código Procesal Civil y Comercial y la Ley 48 no fueron cumplidos por la recurrente?",
+    "¿Por qué se consideró extemporánea la recusación contra los vocales del tribunal según el artículo 15 del Código Procesal Civil y Comercial?"
+  ],
+  "generated_at": "20250703_194040"
+}

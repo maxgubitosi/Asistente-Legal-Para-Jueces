@@ -1,0 +1,11 @@
+{
+  "json_id": "9025",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9025.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Por qué el tribunal determinó que el Juez Civil, Comercial y Laboral de Federal, Dr. Omar Javier Ovando, no tiene competencia para tramitar procesos penales según los artículos 61, 62 y 63 de la Ley Orgánica del Poder Judicial (LOPJ)?",
+    "¿Qué razones expuso la jueza de Garantías Interina, Dra. Susana Griselda Irurzun, para excusarse de intervenir en el caso 'LEDESMA, SUSANA y OTROS - Legajo Fiscal n.° 10065 - Legajo OGA N.° 921' el 19 de diciembre de 2023 según el artículo 38 del Código Procesal Penal (CPP)?",
+    "¿Qué observaciones realizó la Procuradora Adjunta del Ministerio Público Fiscal, Dra. Mónica Elizabeth Carmona, en su dictamen del 13 de marzo de 2024 con respecto al conflicto negativo de competencia entre el Juzgado de Garantías y el Juzgado Civil, Comercial y Laboral?"
+  ],
+  "generated_at": "20250703_193436"
+}

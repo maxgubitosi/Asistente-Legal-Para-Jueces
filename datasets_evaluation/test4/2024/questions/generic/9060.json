@@ -1,0 +1,11 @@
+{
+  "json_id": "9060",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9060.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué circunstancias puede declararse la caducidad de una acción de impugnación de filiación extramatrimonial?",
+    "¿Qué elementos deben prevalecer en un conflicto entre la identidad biológica y la identidad socio-afectiva en materia de filiación?",
+    "¿Qué criterios debe considerar un tribunal para evaluar la estabilidad del vínculo filiatorio frente a una impugnación?"
+  ],
+  "generated_at": "20250703_194545"
+}

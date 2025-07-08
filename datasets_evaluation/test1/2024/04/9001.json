@@ -1,0 +1,64 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "9001",
+    "MES": "04",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            14
+          ],
+          "extra": [
+            "inc. 7"
+          ]
+        },
+        {
+          "main_source": "Ley 10.704",
+          "cited_articles": [
+            33
+          ],
+          "extra": [
+            ""
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            ""
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "GUARDA JUDICIAL",
+  "IDEA_CENTRAL": "El fallo judicial se centra en la aceptación de la excusación del Dr. Carlos Federico Tepsich en el caso \"JUAREZ JAURE ANGELINA ELSA y OTRAS S/ GUARDA JUDICIAL\", debido a la configuración de una causal de recusación establecida en el art. 14, inciso 7 de la ley número 7046 (Código Procesal Civil y Comercial - CPCC).\n\n**Decisión Judicial Principal y Fundamento:**\n\nLa decisión principal es la aceptación de la excusación del Dr. Tepsich, lo que implica su apartamiento del caso. Este fundamento se basa en la normativa procesal que establece las causales de recusación para garantizar la imparcialidad en el proceso judicial.\n\n**Aspectos Legales Relevantes:**\n\n1. **Código Procesal Civil y Comercial (CPCC)**: Artículo número 14, inciso 7, que regula las causales de excusación de los jueces.\n2. **Ley Orgánica del Poder Judicial (LOPJ)**: Artículo número 33, que establece las normas sobre la abstención de los vocales en situaciones de conflicto de interés.\n\n**Razonamiento del Tribunal:**\n\nEl tribunal, al considerar la excusación presentada, determina que la causal alegada por el Dr. Tepsich es válida, dado que había emitido opinión en una resolución anterior relacionada con el caso. Esto asegura que el proceso mantenga su integridad y la confianza en la administración de justicia. La decisión se toma con mayoría absoluta, y se procede a la integración de la sala con los vocales restantes, garantizando así la continuidad del proceso judicial.\n\n**Conclusión:**\n\nLa resolución reafirma el compromiso del tribunal con la imparcialidad y la transparencia en el ejercicio de la justicia, al aceptar la excusación de un juez que podría haber estado en una situación de conflicto de interés.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"JUAREZ JAURE ANGELINA ELSA y OTRAS S/ GUARDA JUDICIAL\" - Expediente Nº 9001 PARANÁ, 17 de abril de 2024."
+    ],
+    "VISTO Y CONSIDERANDO": [
+      "La excusación del Dr. Carlos Federico Tepsich de fecha 9/4/2024 en las actuaciones \"JUAREZ JAURE ANGELINA ELSA y OTRAS S/ GUARDA JUDICIAL\" - Expediente Nº 9001, y atento a que ha quedado configurada la causal dispuesta por el artículo número 14 inciso 7 del CPCC, puesto que emitió opinión en la resolución de fecha 31/10/2023, corresponde aceptarla.",
+      "Asimismo, habiendo mayoría absoluta, el Sr. Vocal en ejercicio de la presidencia del STJ, Dr. Leonardo Portela, se abstiene de votar y firmar la presente resolución con arreglo a lo dispuesto por el artículo número 33 de la LOPJ, texto según ley número 10.704.",
+      "En consecuencia, se"
+    ],
+    "RESUELVE": [
+      "Aceptar la excusación del Dr. Carlos Federico Tepsich, quedando integrada esta Sala por la Sra. Vocal Dra. Gisela N. Schumacher, Sra. Vocal Dra.",
+      "Claudia Mizawak y Señor Vocal Doctor Leonardo Portela.",
+      "Regístrese y notifíquese conforme artículo número 1 y artículo número 4 Acuerdo General 15/18 SNE.",
+      "Ante mí:",
+      "En igual fecha se registró. Conste. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo General número 11/20 del 23 de junio de 2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}

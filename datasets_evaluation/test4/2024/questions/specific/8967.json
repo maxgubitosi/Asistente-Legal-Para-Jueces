@@ -1,0 +1,11 @@
+{
+  "json_id": "8967",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8967.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué el Tribunal consideró inadmisible el recurso de inaplicabilidad de ley interpuesto?",
+    "¿Qué requisitos del artículo 280 del Código Procesal Civil y Comercial no se cumplieron en el recurso presentado por los acreedores?",
+    "¿Cómo fundamenta el Tribunal la regla general de inapelabilidad en procesos falenciales según el artículo 273 inc. 3 de la LCQ?"
+  ],
+  "generated_at": "20250703_193839"
+}

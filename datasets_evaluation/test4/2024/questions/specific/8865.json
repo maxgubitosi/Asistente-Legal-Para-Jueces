@@ -1,0 +1,11 @@
+{
+  "json_id": "8865",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8865.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los artículos específicos de la Ley 7046 que se aplican para regular los honorarios en este caso?",
+    "¿Qué procedimiento establece el artículo 28 de la Ley 7046 para la notificación de la regulación de honorarios?",
+    "¿Cómo se calcula el interés anual sobre los honorarios en mora según el artículo 114 de la Ley 7046?"
+  ],
+  "generated_at": "20250703_194242"
+}

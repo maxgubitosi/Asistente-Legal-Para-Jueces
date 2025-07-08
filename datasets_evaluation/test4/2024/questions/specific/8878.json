@@ -1,0 +1,11 @@
+{
+  "json_id": "8878",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8878.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué normativa específica regula los honorarios profesionales en este caso?",
+    "¿Cuál es el procedimiento para la notificación de la regulación de honorarios según el texto legal?",
+    "¿Qué consecuencias establece el artículo 114 de la Ley 7046 en caso de mora en el pago de honorarios regulados?"
+  ],
+  "generated_at": "20250703_193837"
+}

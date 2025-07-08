@@ -1,8 +1,8 @@
 """
 Extractor de Citas Legales
 
-Este módulo utiliza la lógica exacta de extracción de citas del sistema principal
-para garantizar consistencia en las evaluaciones.
+Este módulo utiliza la lógica de extracción de citas del sistema principal
+para la evaluación.
 """
 
 import re

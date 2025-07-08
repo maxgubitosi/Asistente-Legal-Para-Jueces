@@ -1,0 +1,11 @@
+{
+  "json_id": "8949",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8949.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cómo se interpreta la relación entre el artículo 74 del CPCC y el artículo 29 de la Ley 4878 según el Tribunal?",
+    "¿Qué fundamentos tomó el Tribunal para desestimar el recurso de inaplicabilidad de ley interpuesto?",
+    "¿Qué criterios utiliza el Tribunal para resolver potenciales antinomias entre normas jurídicas?"
+  ],
+  "generated_at": "20250703_193636"
+}

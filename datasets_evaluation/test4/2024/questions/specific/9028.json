@@ -1,0 +1,11 @@
+{
+  "json_id": "9028",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9028.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal para desestimar la incompetencia material declarada por el Juzgado Civil, Comercial y Laboral?",
+    "¿Qué establece el artículo 75 de la Ley Orgánica del Poder Judicial en relación con la subrogancia judicial?",
+    "¿Por qué el Superior Tribunal de Justicia concluye que no existe un conflicto negativo de competencia en este caso?"
+  ],
+  "generated_at": "20250703_193839"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9021",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9021.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la fecha en la que la Sra. Jueza de Garantías Interina de Federal, Dra. Susana Griselda Irurzun, se excusó de intervenir en el proceso 'MARTINEZ, LUIS ALCIDES Y OTROS = ABIGEATO (CALIFICADO. L.F. N° 10889)'?",
+    "¿Qué fundamento legal brindó el Juez Civil, Comercial y Laboral de Federal, Dr. Omar Javier Ovando, para declarar de oficio la incompetencia material de su juzgado en causas penales?",
+    "¿Qué artículos específicos de la Ley Orgánica del Poder Judicial (LOPJ) y el Código Procesal Civil y Comercial (CPCC) fueron citados en relación con la subrogancia y la competencia en este caso penal?"
+  ],
+  "generated_at": "20250703_193942"
+}

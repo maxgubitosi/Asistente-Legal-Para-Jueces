@@ -1,0 +1,11 @@
+{
+  "json_id": "8948",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8948.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Es válido ejecutar una obligación pactada en moneda extranjera cuando las normativas procesales exigen su conversión a moneda de curso legal?",
+    "¿Puede prevalecer un acuerdo privado sobre el pago en una moneda específica frente a disposiciones legales de orden público en un proceso ejecutivo?",
+    "¿Qué sucede si existe una contradicción entre la parte resolutiva de un fallo y las consideraciones legales establecidas en la normativa procesal aplicable?"
+  ],
+  "generated_at": "20250703_194343"
+}

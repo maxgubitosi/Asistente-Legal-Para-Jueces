@@ -1,0 +1,11 @@
+{
+  "json_id": "8836",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8836.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué consideraciones realizó el tribunal respecto a la aplicación del artículo 772 del Código Civil y Comercial en relación con la determinación cuantitativa de la reparación integral para Raúl Gerardo Zurdo?",
+    "¿Qué fundamentos utilizó el tribunal para denegar el recurso extraordinario federal presentado por Estela Susana Zurdo y Alberto Manuel Zurdo en fecha 26/10/2023?",
+    "¿Cómo interpretó el tribunal la mala fe de los herederos aparentes en cuanto a su responsabilidad frente al heredero legítimo según el acervo hereditario de Raúl Gerardo Zurdo?"
+  ],
+  "generated_at": "20250703_194143"
+}

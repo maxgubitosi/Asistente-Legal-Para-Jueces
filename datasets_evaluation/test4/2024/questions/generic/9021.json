@@ -1,0 +1,11 @@
+{
+  "json_id": "9021",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9021.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo se resuelve un conflicto negativo de competencia entre juzgados de diferentes materias?",
+    "¿Qué implica el principio de especialidad en la asignación de causas judiciales?",
+    "¿Qué consecuencias podría tener la remisión indebida de expedientes a un juzgado sin competencia material en la materia tratada?"
+  ],
+  "generated_at": "20250703_194039"
+}

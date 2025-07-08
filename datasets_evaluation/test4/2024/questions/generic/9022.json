@@ -1,0 +1,11 @@
+{
+  "json_id": "9022",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9022.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué criterios deben considerarse al decidir si un juez puede excusarse de continuar con un caso por haber intervenido previamente en otra función dentro del mismo proceso?",
+    "¿Cuáles son las implicancias de asignar expedientes de naturaleza penal a un juzgado con competencia exclusivamente civil y comercial?",
+    "¿En qué circunstancias podría generarse un conflicto negativo de competencia y cómo debe resolverse según la jerarquía judicial?"
+  ],
+  "generated_at": "20250703_193943"
+}

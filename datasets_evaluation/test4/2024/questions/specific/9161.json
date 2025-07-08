@@ -1,0 +1,11 @@
+{
+  "json_id": "9161",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9161.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el criterio legal establecido por los artículos 50 y 64 de la Ley 7.046 para la regulación de honorarios en segunda instancia?",
+    "¿Por qué el Tribunal consideró insuficiente la regulación de honorarios realizada por la Cámara Segunda de Apelaciones de Paraná?",
+    "¿Qué fundamentos utilizaron los abogados en el recurso de inaplicabilidad de ley para impugnar la base económica utilizada en la regulación de honorarios?"
+  ],
+  "generated_at": "20250703_194348"
+}

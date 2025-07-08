@@ -1,0 +1,11 @@
+{
+  "json_id": "8852",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8852.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué establece la Ley 7046 respecto a la notificación de la regulación de honorarios profesionales?",
+    "¿Cuál es el plazo establecido para el pago de los honorarios una vez regulados judicialmente?",
+    "¿En qué se basa el tribunal para determinar los montos de los honorarios regulados en este caso?"
+  ],
+  "generated_at": "20250703_193534"
+}

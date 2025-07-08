@@ -1,0 +1,11 @@
+{
+  "json_id": "8999",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8999.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la causal específica de excusación invocada por el Dr. Carlos Federico Tepsich según el artículo 14, inciso 7 del CPCC en el caso 'SANATORIO AMERICANO S.A.M.A. C/ OSPEC S/ COBRO DE PESOS'?",
+    "¿Por qué fechas específicas el Dr. Carlos Federico Tepsich emitió opiniones previas en el caso, lo que motivó su excusación conforme al fallo del 15 de mayo de 2024?",
+    "¿Qué artículo de la Ley Orgánica del Poder Judicial fue invocado para justificar la abstención del voto por parte del Dr. Leonardo Portela en esta resolución?"
+  ],
+  "generated_at": "20250703_193940"
+}

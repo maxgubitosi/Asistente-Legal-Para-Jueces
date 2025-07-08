@@ -1,0 +1,11 @@
+{
+  "json_id": "9006",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9006.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Por qué el Superior Tribunal de Justicia de Entre Ríos considera que la resolución de la Cámara de Apelaciones del 5 de febrero de 2024 no reviste carácter de sentencia definitiva según los artículos 276 y 277 del CPCC?",
+    "¿Qué fundamentos legales invocaron las Sras. Eliana Jaquelina Utz y Laura Beatriz Martínez al alegar que el inventario aprobado sin traslado a la contraria vulnera el artículo 18 de la Constitución Nacional?",
+    "¿Cómo se aplica el artículo 754 del CPCC en los casos donde se reclama la exclusión de bienes del inventario en el sucesorio de Lilian Lenoy Schneider?"
+  ],
+  "generated_at": "20250703_193839"
+}

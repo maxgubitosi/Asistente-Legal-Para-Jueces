@@ -1,0 +1,11 @@
+{
+  "json_id": "8995",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8995.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos legales utilizó el tribunal para corregir el exceso de la Cámara de Apelaciones de Gualeguaychú en relación con el recurso de inaplicabilidad de ley bajo el artículo 280 del CPCC?",
+    "¿Qué argumentos presentó la Dra. Lucía Demarchi Moret respecto a la aplicación incorrecta del artículo 770 inciso c) del Código Civil y Comercial por parte de la Cámara de Apelaciones de Gualeguaychú?",
+    "¿Cómo se relaciona el precedente de la Corte Suprema de Justicia de la Nación 'Elena Margarita Aranda' con el caso 'Taborda Juan Jesús c/ Reynoso Delfina Magali y otra - Ordinario Daños y Perjuicios S/ Ejecución de Sentencia' en materia de capitalización de intereses?"
+  ],
+  "generated_at": "20250703_193739"
+}

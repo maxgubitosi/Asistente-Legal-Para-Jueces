@@ -1,0 +1,11 @@
+{
+  "json_id": "9027",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9027.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal para determinar que el Juzgado Civil y Comercial no tiene competencia material en causas penales?",
+    "¿Cuáles son las consecuencias identificadas por el tribunal debido al uso excesivo de la subrogancia en procesos penales?",
+    "¿Por qué el tribunal concluyó que no existe un verdadero conflicto negativo de competencia en este caso?"
+  ],
+  "generated_at": "20250703_194141"
+}

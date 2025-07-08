@@ -1,0 +1,11 @@
+{
+  "json_id": "8940",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8940.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron los fundamentos específicos por los cuales el Tribunal rechazó la defensa de usucapión interpuesta por César Luis Ibarrola y Amalia Teresita Pereyra en el marco de la acción reivindicatoria promovida por Raúl Oscar Polo?",
+    "¿Qué argumentos expuso la Cámara de Apelaciones de Concordia en su resolución del 22/8/2023 respecto de la distinción entre el ius possidendi y el ius possessionis?",
+    "¿Qué elementos probatorios presentó Raúl Oscar Polo para acreditar su título de propiedad sobre el inmueble ubicado en calle Laprida Nº 551 de la ciudad de Concordia?"
+  ],
+  "generated_at": "20250703_193536"
+}

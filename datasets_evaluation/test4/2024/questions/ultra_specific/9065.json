@@ -1,0 +1,11 @@
+{
+  "json_id": "9065",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9065.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la fecha en que la Cámara de Apelaciones de Gualeguaychú dictó el fallo que rechazó las excepciones de falta de legitimación pasiva de Juan y Pablo Galotto y Jorge Joaquín Spiazzi?",
+    "¿Qué artículos legales fueron citados en relación con la responsabilidad del socio gerente de Manta Verde S.R.L. por su actuación en el caso?",
+    "¿Qué pruebas y fundamentos utilizó el Tribunal para determinar la corresponsabilidad de los demandados en el incumplimiento del contrato de pastaje y los daños ocasionados al actor?"
+  ],
+  "generated_at": "20250703_194346"
+}

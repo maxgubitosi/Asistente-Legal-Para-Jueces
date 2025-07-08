@@ -1,0 +1,11 @@
+{
+  "json_id": "8953",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8953.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del tribunal para permitir que Ana Luz Astorga conserve el apellido 'Astorga' a pesar de la nulidad del reconocimiento de paternidad de Domingo Pedro Astorga?",
+    "¿Qué argumentos legales invocó el tribunal al considerar el silencio procesal de Ana Luz Astorga y Julia Edith Martínez como una manifestación de voluntad de acuerdo con el artículo 263 del Código Procesal Civil y Comercial (CPCC)?",
+    "¿Qué relevancia tuvo el informe privado de ADN presentado por Domingo Pedro Astorga en la admisión del recurso de inaplicabilidad de ley interpuesto contra la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Gualeguaychú del 5/7/2023?"
+  ],
+  "generated_at": "20250703_193738"
+}

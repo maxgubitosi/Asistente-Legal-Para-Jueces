@@ -1,0 +1,11 @@
+{
+  "json_id": "8984",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8984.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué establece el artículo 79, inciso 1°, de la Ley Orgánica del Poder Judicial respecto a la competencia de los Juzgados de Paz?",
+    "¿Cómo se determina el monto límite para litigar ante los Juzgados de Paz según la Acordada General Nº 28/15?",
+    "¿Por qué el tribunal resolvió que el Juzgado de Paz Nº 1 de Paraná es competente en el presente caso?"
+  ],
+  "generated_at": "20250703_193433"
+}

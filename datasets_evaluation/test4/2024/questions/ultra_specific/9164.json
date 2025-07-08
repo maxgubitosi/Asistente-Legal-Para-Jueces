@@ -1,0 +1,11 @@
+{
+  "json_id": "9164",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9164.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos legales específicos establecen la obligación del CoPNAF de garantizar la protección del menor Maximiliano Arredondo según la Ley Provincial 9.861 y la Ley Nacional 26.061?",
+    "¿Cuáles fueron las razones esgrimidas por la Coordinadora del CoPNAF, Natalia Mariela Vescina, para calificar de arbitraria la sentencia dictada por la Cámara de Apelaciones de Gualeguaychú en fecha 26/6/2024?",
+    "¿Qué papel desempeñan los artículos 7 y 9 de la Ley de Salud Mental 26.657 en la resolución que ordenó la internación involuntaria de Maximiliano Arredondo?"
+  ],
+  "generated_at": "20250703_194447"
+}

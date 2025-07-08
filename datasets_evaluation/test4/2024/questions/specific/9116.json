@@ -1,0 +1,11 @@
+{
+  "json_id": "9116",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9116.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la consecuencia jurídica de no cumplir con el requisito del depósito previo exigido por el artículo 280 del Código Procesal Civil y Comercial?",
+    "¿Qué criterio utilizó el Tribunal para considerar que la resolución anterior era irrecurrible?",
+    "¿En qué casos puede aplicarse la exención de depósito según los artículos 112 y 113 de la Ley Arancelaria?"
+  ],
+  "generated_at": "20250703_194344"
+}

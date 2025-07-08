@@ -1,0 +1,11 @@
+{
+  "json_id": "9017",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9017.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué requisitos deben cumplirse para la admisibilidad de un recurso de inaplicabilidad de ley?",
+    "¿Cómo se debe evaluar la proporcionalidad de los honorarios profesionales en casos de apelaciones arancelarias?",
+    "¿En qué circunstancias puede considerarse inadmisible un recurso extraordinario ante un tribunal superior?"
+  ],
+  "generated_at": "20250703_194041"
+}

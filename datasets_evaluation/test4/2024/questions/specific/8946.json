@@ -1,0 +1,11 @@
+{
+  "json_id": "8946",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8946.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los requisitos formales establecidos por el artículo 280 del Código Procesal Civil y Comercial que no se cumplieron en el recurso de queja?",
+    "¿Qué argumentos presentó el tribunal para concluir que la discrepancia con el fallo no constituye arbitrariedad o absurdidad?",
+    "¿Por qué se determinó que el demandado carece de legitimación para cuestionar la multa procesal impuesta a sus letrados?"
+  ],
+  "generated_at": "20250703_193433"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9161",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9161.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue la razón fundamental por la que el Tribunal resolvió ajustar los honorarios a $89,215.22 conforme a los artículos 50 y 64 de la Ley 7.046?",
+    "¿Qué argumentos presentaron los abogados de la parte actora el 22 de julio de 2024 para alegar la errónea aplicación de la Ley 7.046 en su recurso de inaplicabilidad de ley?",
+    "¿En qué se basó la Sala Segunda de la Cámara de Apelaciones de Paraná en su resolución del 18 de junio de 2024 a la hora de determinar los honorarios que luego fueron cuestionados?"
+  ],
+  "generated_at": "20250703_194445"
+}

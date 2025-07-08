@@ -1,0 +1,11 @@
+{
+  "json_id": "8848",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8848.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué normativa específica utilizó el tribunal para regular los honorarios de los abogados en el caso 'LOPEZ DORA ELENA C/ COMPAÑIA DE ASISTENCIA INTEGRAL S.A. Y OTRO S/ SUMARISIMO' según el fallo del 14 de mayo de 2024?",
+    "¿Cuál fue la razón invocada por el Dr. Leonardo Portela para abstenerse de votar en la resolución sobre la regulación de honorarios en este caso?",
+    "¿Qué procedimiento debe seguirse para la notificación de la regulación de honorarios según el artículo 28 de la ley 7046 citado en este fallo?"
+  ],
+  "generated_at": "20250703_193940"
+}

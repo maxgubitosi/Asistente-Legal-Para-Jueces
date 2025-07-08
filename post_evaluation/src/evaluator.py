@@ -1,8 +1,7 @@
 """
 Evaluador Principal del Sistema RAG Legal
 
-Este módulo orquesta todas las pruebas de evaluación del sistema RAG legal,
-incluyendo robustez de citas, redacción superficial y sensibilidad al contenido.
+Este módulo orquesta todas las pruebas de evaluación.
 """
 
 import asyncio
@@ -17,6 +16,13 @@ from .rag_client import RAGClient
 from .metrics import EvaluationResult, MetricsCalculator, ResultsManager
 
 logger = logging.getLogger(__name__)
+
+# Default prompts for evaluation operations (combined)
+DEFAULT_PROMPTS = {
+    "formato_citas": "Modifica el formato de citas manteniendo el mismo contenido: {texto}",
+    "redaccion_superficial": "Reescribe el texto con redacción superficial manteniendo significado: {texto}",
+    "cambio_contenido": "Cambia completamente el contenido manteniendo citas iguales: {texto}"
+}
 
 class LegalRAGEvaluator:
     """
@@ -33,7 +39,7 @@ class LegalRAGEvaluator:
         
         # Inicializar componentes
         self.citation_extractor = CitationExtractor()
-        self.text_modifier = TextModifier()
+        self.text_modifier = TextModifier(prompts=DEFAULT_PROMPTS)
         self.rag_client = RAGClient(backend_url)
         self.results_manager = ResultsManager(Path(output_dir))
         
@@ -216,10 +222,7 @@ class LegalRAGEvaluator:
     
     def test_content_change_sensitivity(self, sample_size: int = 5) -> EvaluationResult:
         """
-        Prueba 3: Sensibilidad a Cambios de Contenido
-        
-        Evalúa si el sistema RAG puede distinguir cuando el contenido fundamental
-        de un documento ha cambiado, incluso manteniendo las mismas citas.
+        Prueba 3: DEPRECADO
         """
         logger.info("🔄 Iniciando Prueba de Sensibilidad a Cambios de Contenido")
         

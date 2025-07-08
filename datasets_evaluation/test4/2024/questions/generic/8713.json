@@ -1,0 +1,11 @@
+{
+  "json_id": "8713",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8713.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué requisitos deben cumplirse para que un recurso sea considerado admisible en un proceso judicial?",
+    "¿En qué circunstancias puede un tribunal rechazar las objeciones presentadas contra una tasación pericial?",
+    "¿Cómo debe proceder una parte en un litigio para demostrar arbitrariedades en una decisión judicial previa?"
+  ],
+  "generated_at": "20250703_194242"
+}

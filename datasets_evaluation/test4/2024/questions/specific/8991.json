@@ -1,0 +1,11 @@
+{
+  "json_id": "8991",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8991.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿En qué circunstancias puede un juez eximir total o parcialmente de costas al litigante vencido según el artículo 65 del CPCC?",
+    "¿Cómo se determina la pertinencia de aplicar la perspectiva de género en un caso judicial?",
+    "¿Qué requisitos deben cumplirse para que prospere un recurso de inaplicabilidad de ley en relación con la distribución de costas?"
+  ],
+  "generated_at": "20250703_194041"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9065",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9065.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo puede determinarse la responsabilidad compartida entre las partes cuando no existe un contrato escrito pero se presentan pruebas indiciarias?",
+    "¿Qué implicancias jurídicas tiene la falta de entrega de bienes en el marco de un acuerdo verbal y cómo se evalúan los daños ocasionados?",
+    "¿De qué manera influye el deber de cuidado y vigilancia en la atribución de responsabilidad extracontractual entre los involucrados en una relación comercial?"
+  ],
+  "generated_at": "20250703_194444"
+}

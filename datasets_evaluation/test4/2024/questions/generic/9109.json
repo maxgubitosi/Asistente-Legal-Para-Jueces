@@ -1,0 +1,11 @@
+{
+  "json_id": "9109",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9109.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son las implicancias jurídicas de los errores en los cálculos indemnizatorios realizados por una Cámara de Apelaciones?",
+    "¿En qué casos una aclaratoria puede ser considerada improcedente en un proceso judicial?",
+    "¿Qué criterios se deben tener en cuenta al determinar la proporción de ingresos asignada a los beneficiarios en una indemnización por daños y perjuicios?"
+  ],
+  "generated_at": "20250703_194545"
+}

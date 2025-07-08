@@ -1,0 +1,11 @@
+{
+  "json_id": "8985",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8985.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos utilizó el Tribunal para declarar inadmisible el recurso de inaplicabilidad de ley en el caso 'URBANOTEC S.A. S/ QUIEBRA' (Expte. Nº 8985)?",
+    "¿Cuál fue el monto final regulado por la Cámara de Apelaciones de Gualeguaychú para los honorarios del Dr. Rafael Arnolfi en la resolución del 19/10/2023?",
+    "¿Cómo justifica el Tribunal que la regulación de honorarios respeta los límites previstos en el artículo 267 de la Ley 24.522 (LCQ)?"
+  ],
+  "generated_at": "20250703_193435"
+}

@@ -1,0 +1,55 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8865",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Ley 7046",
+          "cited_articles": [
+            3,
+            14,
+            28,
+            29,
+            30,
+            45,
+            63,
+            64,
+            94,
+            114
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": []
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "DESALOJO",
+  "IDEA_CENTRAL": "El fallo judicial en el caso \"ROMERO ESCROFINE DEBORA VANESA C/ COMAR ORFILIA Y OTRA S/ DESALOJO\" se centra en la regulación de honorarios profesionales por la actuación en un recurso de inaplicabilidad de ley. La decisión principal consiste en establecer los montos a abonar a los abogados intervinientes, conforme a la normativa arancelaria vigente.\n\n**Fundamento Legal:**\n\nLa regulación de honorarios se basa en la Ley 7046, específicamente en los artículos 3, 14, 29, 30, 45, 63, 64 y 94, que establecen los criterios y procedimientos para la fijación de honorarios en el ámbito judicial. En particular, se hace referencia al artículo 28 sobre la notificación de la regulación y al artículo 114 que regula el pago de honorarios.\n\n**Aspectos Legales Relevantes:**\n\n1. **Ley 7046**: Normativa que regula los honorarios de abogados y procuradores.\n2. **Art. 28**: Establece la obligación de notificación de la regulación de honorarios.\n3. **Art. 114**: Regula el pago de honorarios, incluyendo plazos y consecuencias de la mora.\n\n**Razonamiento del Tribunal:**\n\nEl tribunal, al regular los honorarios, considera la normativa aplicable y la base económica del juicio. Se determina que la Dra. María Carolina Marani recibirá $80,000, mientras que los Dres. Daniel A. Galizzi, Andrés M. Galizzi y Claudio M. Galizzi recibirán $18,666 cada uno. La decisión se fundamenta en la necesidad de garantizar una compensación justa por los servicios legales prestados, en cumplimiento con las disposiciones legales pertinentes.\n\nEn conclusión, el fallo establece claramente los montos a abonar por honorarios, asegurando el cumplimiento de la normativa arancelaria y el derecho de los profesionales a recibir su remuneración por los servicios prestados en el proceso judicial.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"ROMERO ESCROFINE DEBORA VANESA C/ COMAR ORFILIA Y OTRA S/ DESALOJO\" Expte. Nº 8865.",
+      "PARANÁ, 5 de febrero de 2024."
+    ],
+    "VISTO Y CONSIDERANDO": [
+      "Que los autos \"ROMERO ESCROFINE DEBORA VANESA C/ COMAR ORFILIA Y OTRA S/ DESALOJO\" - Expte. Nº 8865, vienen a consideración de este Tribunal a los fines de regular honorarios por la actuación profesional en el recurso de inaplicabilidad de ley resuelto en fecha 15/8/2023.",
+      "Que para la presente regulación se tiene en cuenta la normativa arancelaria aplicable -arts. 3, 14, 29, 30, 45, 63, 64 y 94 de la ley 7046-, y conforme a la base económica del juicio.",
+      "En consecuencia, se"
+    ],
+    "RESUELVE": [
+      "REGULAR los honorarios profesionales por el recurso de inaplicabilidad de ley resuelto, a la Dra. María Carolina Marani en la suma de pesos ochenta mil ($ 80.000) y a los Dres. Daniel A. Galizzi, Andrés M. Galizzi y Claudio M. Galizzi en la suma de pesos dieciocho mil seiscientos sesenta y seis ($ 18.666) para cada uno, más IVA si correspondiere.",
+      "Notifíquese conforme arts. 1º y 4º Ac. Gral. 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) prescindiéndose de su impresión en formato papel.",
+      "Existiendo regulación de honorarios a abogados y/o procuradores, cumpliendo con lo dispuesto por la ley 7046, se transcriben los siguientes los artículos:",
+      "Art. 28: NOTIFICACIÓN DE TODA REGULACIÓN. Toda regulación de honorarios deberá notificarse personalmente o por cédula. Para el ejercicio del derecho al cobro del honorario al mandante o patrocinado, la notificación deberá hacerse en su domicilio real. En todos los casos la cédula deberá ser suscripta por el Secretario del Juzgado o Tribunal con transcripción de este Artículo y del art. 114 bajo pena de nulidad. No será necesaria la notificación personal o por cédula de los autos que resuelvan los reajustes posteriores que se practiquen por aplicación del art.114\".",
+      "Art. 114: PAGO DE HONORARIOS. Los honorarios regulados judicialmente deberán abonarse dentro de los diez días de requerido su pago en forma fehaciente. Operada la mora, el profesional podrá reclamar el honorario actualizado con aplicación del índice, previsto en el art. 29 desde la regulación y hasta el pago, con más un interés del 8% anual. En caso de tratarse de honorarios que han sido materia de apelación, sobre el monto que quede fijado definitivamente su instancia superior, se aplicará la corrección monetaria a partir de la regulación de la instancia inferior. No será menester justificar en juicios los índices que se aplicarán de oficio por los Sres. Jueces y Tribunales”."
+    ]
+  }
+}

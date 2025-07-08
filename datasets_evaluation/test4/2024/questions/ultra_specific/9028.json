@@ -1,0 +1,11 @@
+{
+  "json_id": "9028",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9028.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué establece el artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ) en relación con la subrogancia y la sustitución de jueces?",
+    "¿Cuál fue la fecha en la que la Sra. Jueza de Garantías Interina de Federal, Dra. Susana Griselda Irurzun, se excusó de intervenir en el caso 'PREDIGER, DARIO GERMAN - TENENCIA DE ARMA DE FUEGO DE USO CIVIL' y con qué fundamento?",
+    "¿Qué argumento utilizó el Dr. Omar Javier Ovando el 26 de febrero de 2024 para fundamentar la declaración de incompetencia material de su juzgado en relación al proceso penal remitido?"
+  ],
+  "generated_at": "20250703_193840"
+}

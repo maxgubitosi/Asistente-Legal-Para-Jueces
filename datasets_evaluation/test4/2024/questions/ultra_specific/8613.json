@@ -1,0 +1,11 @@
+{
+  "json_id": "8613",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8613.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué montos específicos fueron regulados por el tribunal como honorarios para los Dres. Juan Sebastián Vela, Mariano Manuel Monfort y Roberto Cristian Vanopstal en el recurso de inaplicabilidad de ley resuelto el 24 de agosto de 2022?",
+    "¿Cuál es la base económica según la liquidación aprobada el 21 de abril de 2023 utilizada por el tribunal para regular los honorarios en el expediente 'MONFORT MARIANO MANUEL C/ GABIRONDO JUAN FRANCISCO S/ EJECUCION DE HONORARIOS'?",
+    "¿Cómo se aplican los artículos 28 y 114 de la Ley 7046 en la regulación y el pago de honorarios dentro del presente fallo judicial?"
+  ],
+  "generated_at": "20250703_193538"
+}

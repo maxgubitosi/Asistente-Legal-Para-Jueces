@@ -1,0 +1,11 @@
+{
+  "json_id": "9022",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9022.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál fue el fundamento del tribunal para determinar que no existe un conflicto negativo de competencia en este caso?",
+    "¿Qué principios legales advirtió el tribunal que podrían haber sido violados al remitir expedientes penales a un juzgado civil?",
+    "¿Qué establece el artículo 75 de la Ley Orgánica del Poder Judicial respecto a la subrogancia legal entre jueces?"
+  ],
+  "generated_at": "20250703_193940"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "9019",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9019.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal de la subrogancia de jueces en casos de ausencia o impedimento según la LOPJ?",
+    "¿En qué circunstancias un juzgado civil puede declarar su incompetencia en un caso penal?",
+    "¿Qué principios procesales se ven afectados por la remisión de causas penales a un juzgado civil según el tribunal?"
+  ],
+  "generated_at": "20250703_193434"
+}

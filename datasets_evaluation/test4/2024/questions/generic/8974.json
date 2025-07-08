@@ -1,0 +1,11 @@
+{
+  "json_id": "8974",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8974.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué requisitos debe cumplir una persona para que se le reconozca la propiedad de un inmueble mediante usucapión?",
+    "¿Cómo se acredita el carácter público, pacífico, ininterrumpido y con ánimo de dueño en la posesión de un bien?",
+    "¿Qué tipo de actos materiales podrían considerarse evidencia suficiente para demostrar la interversión de título en un caso de usucapión?"
+  ],
+  "generated_at": "20250703_194042"
+}

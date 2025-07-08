@@ -1,0 +1,11 @@
+{
+  "json_id": "8940",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8940.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué requisitos son necesarios para que prospere una defensa de usucapión en el marco de una acción reivindicatoria?",
+    "¿Cómo se determina la primacía entre el título de propiedad registrado y la posesión alegada en un litigio por reivindicación de inmueble?",
+    "¿Qué impacto tiene la cosa juzgada de un juicio de desalojo en la determinación del derecho de propiedad en una acción reivindicatoria?"
+  ],
+  "generated_at": "20250703_193635"
+}

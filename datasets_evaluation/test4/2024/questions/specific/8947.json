@@ -1,0 +1,11 @@
+{
+  "json_id": "8947",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8947.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué disposición del Código Procesal Civil y Comercial establece que el impulso procesal recae en la secretaría del juzgado?",
+    "¿Por qué el Tribunal consideró errónea la decisión de la Cámara de declarar la caducidad de la segunda instancia?",
+    "¿De qué manera el fallo del Tribunal protege el derecho a la defensa y el debido proceso en relación con la caducidad de instancia?"
+  ],
+  "generated_at": "20250703_193434"
+}

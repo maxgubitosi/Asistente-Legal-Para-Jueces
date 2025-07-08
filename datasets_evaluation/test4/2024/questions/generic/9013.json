@@ -1,0 +1,11 @@
+{
+  "json_id": "9013",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9013.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Qué tribunal es competente para ejecutar honorarios en un caso derivado de un proceso de hábeas data?",
+    "¿Cómo se define la competencia judicial cuando existe conflicto entre diferentes juzgados en casos de ejecución de honorarios?",
+    "¿Cuáles son los principios que determinan si un juez del proceso principal debe encargarse de la ejecución de honorarios?"
+  ],
+  "generated_at": "20250703_193939"
+}

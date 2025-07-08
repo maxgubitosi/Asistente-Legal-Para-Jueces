@@ -1,0 +1,11 @@
+{
+  "json_id": "9061",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9061.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Por qué se consideró que la Cámara de Apelaciones incurrió en un exceso al denegar el recurso de inaplicabilidad de ley?",
+    "¿Qué fundamento legal respalda la decisión del tribunal de hacer lugar al recurso de queja presentado?",
+    "¿Cuál es la importancia de las evaluaciones interdisciplinarias en el sistema de protección de derechos citadas en el fallo?"
+  ],
+  "generated_at": "20250703_193738"
+}

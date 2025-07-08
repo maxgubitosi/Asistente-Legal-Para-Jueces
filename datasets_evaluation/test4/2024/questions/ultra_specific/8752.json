@@ -1,0 +1,11 @@
+{
+  "json_id": "8752",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8752.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿En qué fecha el tribunal resolvió el recurso de inaplicabilidad de ley en el caso 'ARUYA ELVIA ANALIA C/ SANATORIO CONCORDIA S.A. y OTRA' - Expte. Nº 8752?",
+    "¿Cuál es el monto regulado de honorarios para la Dra. Nadua Valeria Zuleiman según el fallo de fecha 5 de febrero de 2024?",
+    "¿Qué artículo de la Ley 7046 regula las consecuencias de la mora en el pago de honorarios y qué tasa de interés anual se aplica en ese caso?"
+  ],
+  "generated_at": "20250703_194245"
+}

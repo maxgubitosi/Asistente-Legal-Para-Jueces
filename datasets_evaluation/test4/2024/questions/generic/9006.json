@@ -1,0 +1,11 @@
+{
+  "json_id": "9006",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/9006.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuáles son los requisitos para que una resolución sea considerada una sentencia definitiva y así ser apelable?",
+    "¿Qué procedimientos pueden seguirse para cuestionar la inclusión de bienes en un inventario sucesorio?",
+    "¿Qué implicancias tiene privilegiar la validez formal del proceso sobre la sustancial en un caso judicial?"
+  ],
+  "generated_at": "20250703_193938"
+}

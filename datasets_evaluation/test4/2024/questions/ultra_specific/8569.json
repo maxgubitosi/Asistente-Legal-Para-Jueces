@@ -1,0 +1,11 @@
+{
+  "json_id": "8569",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8569.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los honorarios regulados para el Dr. Agustín Ponzoni en el expediente 'BELTRAN, SILVIA MIRIAM C/ MUCHIUTTI ORLANDO RAMÓN S EJECUTIVO S/ EJECUTIVO' Nº 8569?",
+    "¿Qué artículos de la Ley 7046 se mencionan como fundamento para la notificación y el pago de los honorarios en este caso?",
+    "¿En qué fecha el tribunal resolvió el recurso de inaplicabilidad de ley en el expediente Nº 8569?"
+  ],
+  "generated_at": "20250703_194244"
+}

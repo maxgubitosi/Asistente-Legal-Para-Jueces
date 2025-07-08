@@ -1,0 +1,11 @@
+{
+  "json_id": "9017",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9017.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles son los requisitos formales y sustantivos estipulados en el artículo 280 del CPCC para la admisibilidad del recurso de inaplicabilidad de ley?",
+    "¿Cómo justificó el Tribunal que no hubo evidencia de un absurdo jurídico ni violación concreta de normas en la valoración de los honorarios profesionales?",
+    "¿Qué implica la consideración de proporcionalidad conforme al artículo 1255 del Código Civil y Comercial en la regulación de honorarios?"
+  ],
+  "generated_at": "20250703_193943"
+}

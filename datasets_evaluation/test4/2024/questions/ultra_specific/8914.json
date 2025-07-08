@@ -1,0 +1,11 @@
+{
+  "json_id": "8914",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8914.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron los fundamentos legales específicos invocados en el fallo del 27 de mayo de 2024 para denegar el recurso extraordinario federal interpuesto por Mabel Teresita Buttazzoni?",
+    "¿Por qué se consideró extemporánea la recusación de vocales realizada por Mabel Teresita Buttazzoni según lo estipulado en el artículo 15 del Código Procesal Civil y Comercial?",
+    "¿Qué argumentos presentó Mabel Teresita Buttazzoni respecto a la presunta violación de derechos y garantías constitucionales, y cómo respondió el tribunal a estos planteos?"
+  ],
+  "generated_at": "20250703_194041"
+}

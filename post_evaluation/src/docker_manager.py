@@ -1,12 +1,3 @@
-"""
-Docker Manager for RAG Evaluation
-
-This module handles Docker operations for running evaluation tests:
-- Copying test data to eval version
-- Managing cache cleanup
-- Starting/stopping eval Docker containers
-"""
-
 import shutil
 import subprocess
 import time

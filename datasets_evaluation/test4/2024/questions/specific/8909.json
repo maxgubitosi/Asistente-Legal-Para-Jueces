@@ -1,0 +1,11 @@
+{
+  "json_id": "8909",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8909.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuáles fueron los argumentos principales del tribunal para denegar el recurso extraordinario federal solicitado por Mabel Teresita Butazzoni?",
+    "¿Qué requisitos procesales establecidos por el Código Procesal Civil y Comercial y la Ley 48 no fueron cumplidos en este caso?",
+    "¿Por qué el tribunal concluyó que no se configuraba una cuestión de gravedad institucional en este caso?"
+  ],
+  "generated_at": "20250703_194042"
+}

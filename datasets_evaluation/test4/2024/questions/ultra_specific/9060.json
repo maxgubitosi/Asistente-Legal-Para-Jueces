@@ -1,0 +1,11 @@
+{
+  "json_id": "9060",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9060.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál es la interpretación del Tribunal respecto al plazo de caducidad de acción establecido en el artículo 593 del Código Civil y Comercial en el caso 'Taffarel José Luis Ramón c/ Taffarel María Lucrecia y otro' - Expte. Nº 9060?",
+    "¿Qué fundamentos presentó la demandada en el recurso de inaplicabilidad de ley interpuesto el 2 de noviembre de 2023 contra la sentencia de la Sala Primera de la Cámara de Apelaciones de Gualeguaychú, dictada el 19 de octubre de 2023?",
+    "¿Qué consideraciones realizó la Sra. Procuradora Adjunta, Dra. Mónica Carmona, respecto a la afectación de las garantías constitucionales en su dictamen del 14 de noviembre de 2023 sobre el caso 'Taffarel José Luis Ramón c/ Taffarel María Lucrecia y otro'?"
+  ],
+  "generated_at": "20250703_194447"
+}

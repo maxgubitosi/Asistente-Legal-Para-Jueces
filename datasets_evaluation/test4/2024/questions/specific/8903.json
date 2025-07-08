@@ -1,0 +1,11 @@
+{
+  "json_id": "8903",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8903.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué requisitos establece el artículo 280 del Código Procesal Civil y Comercial de Entre Ríos para que un recurso extraordinario sea admitido?",
+    "¿Por qué el tribunal consideró inadmisible el recurso interpuesto por Gustavo Borrajo?",
+    "¿Cómo fundamentó la Cámara de Apelaciones la responsabilidad civil del demandado en este caso?"
+  ],
+  "generated_at": "20250703_193535"
+}

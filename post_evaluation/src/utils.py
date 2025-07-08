@@ -1,13 +1,3 @@
-"""
-Utility functions for RAG evaluation system.
-
-This module contains common utility functions used across the evaluation system:
-- Dependency checking
-- Logging setup
-- File system operations
-- Dataset verification
-"""
-
 import logging
 import sys
 import time

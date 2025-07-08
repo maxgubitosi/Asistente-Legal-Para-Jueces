@@ -1,0 +1,11 @@
+{
+  "json_id": "8104",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8104.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué normativa arancelaria aplica el tribunal para la regulación de honorarios en este caso?",
+    "¿Cuál es el plazo establecido para el pago de honorarios según la ley mencionada en el fallo?",
+    "¿Qué interés anual se aplica en caso de mora en el pago de los honorarios regulados judicialmente?"
+  ],
+  "generated_at": "20250703_194242"
+}

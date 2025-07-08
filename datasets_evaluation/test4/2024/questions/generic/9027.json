@@ -1,0 +1,11 @@
+{
+  "json_id": "9027",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9027.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuál es la jurisdicción adecuada para tramitar un caso penal cuando se plantea una excusación por parte del juez originalmente asignado?",
+    "¿Cómo se resuelve la competencia material entre un juzgado civil y uno penal en situaciones de subrogancia legal?",
+    "¿Qué principios procesales se afectan al asignar expedientes penales a juzgados sin competencia en esa materia?"
+  ],
+  "generated_at": "20250703_194144"
+}

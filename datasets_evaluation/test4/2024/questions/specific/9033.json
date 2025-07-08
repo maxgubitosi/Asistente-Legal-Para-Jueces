@@ -1,0 +1,11 @@
+{
+  "json_id": "9033",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9033.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es la base legal para que la jueza de garantías interina haya decidido excusarse en este caso?",
+    "¿Qué argumentos plantea el Juez Civil, Comercial y Laboral de Federal para declararse incompetente en este proceso penal?",
+    "¿Qué determina el artículo 75 de la Ley Orgánica del Poder Judicial respecto a la subrogancia entre jueces?"
+  ],
+  "generated_at": "20250703_193838"
+}

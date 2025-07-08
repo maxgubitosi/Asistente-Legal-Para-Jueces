@@ -1,0 +1,11 @@
+{
+  "json_id": "8861",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8861.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué artículos específicos de la Ley 7046 se consideraron para la regulación de honorarios en el expediente Nº 8861 'STIVANELLO Paola Andrea C/ ACOSTA Marcos Carlos Alejandro'?",
+    "¿Qué fundamento utilizó el Tribunal para abstenerse de votar el Dr. Leonardo Portela en la resolución del 20 de mayo de 2024?",
+    "¿Cuáles son los plazos establecidos en el artículo 114 de la Ley 7046 para el pago de honorarios regulados judicialmente y qué ocurre en caso de mora?"
+  ],
+  "generated_at": "20250703_194143"
+}

@@ -1,0 +1,11 @@
+{
+  "json_id": "8104",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8104.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles son los montos específicos de honorarios regulados para el Dr. Emilio F. Moro por el recurso extraordinario federal resuelto el 17/9/2020?",
+    "¿Qué artículos de la Ley 7046 fueron considerados para regular los honorarios en este caso?",
+    "¿Cuál es el plazo estipulado por el artículo 114 de la Ley 7046 para el pago de los honorarios regulados judicialmente?"
+  ],
+  "generated_at": "20250703_194243"
+}

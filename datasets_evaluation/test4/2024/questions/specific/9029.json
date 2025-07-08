@@ -1,0 +1,11 @@
+{
+  "json_id": "9029",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9029.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cómo fundamenta el Superior Tribunal de Justicia de Entre Ríos la obligación del Dr. Ovando de intervenir en la causa penal bajo el régimen de subrogancia establecido en el artículo 75 de la LOPJ?",
+    "¿Qué argumentos utiliza el Dr. Ovando para declarar la incompetencia material de su juzgado en el tratamiento de causas penales?",
+    "¿De qué manera considera el tribunal que deben canalizarse las dificultades administrativas derivadas del exceso de causas remitidas al Juzgado Civil, Comercial y Laboral?"
+  ],
+  "generated_at": "20250703_193434"
+}

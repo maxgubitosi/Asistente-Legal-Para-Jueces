@@ -1,0 +1,11 @@
+{
+  "json_id": "9161",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9161.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cómo debe determinarse la base económica para regular los honorarios en instancias de apelación?",
+    "¿Cuáles son los criterios que se deben considerar al fijar honorarios en juicios relacionados con procesos alimentarios?",
+    "¿Qué fundamentos pueden invocarse para cuestionar la cuantía económica de los honorarios regulados en una sentencia?"
+  ],
+  "generated_at": "20250703_194446"
+}

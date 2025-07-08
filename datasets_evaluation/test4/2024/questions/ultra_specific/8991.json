@@ -1,0 +1,11 @@
+{
+  "json_id": "8991",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8991.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos legales citados en el caso fueron relevantes para confirmar la resolución que otorgó el beneficio de litigar sin gastos a María Luz Correa Uriburu?",
+    "¿Cuál fue la posición del Tribunal respecto a la aplicación de la perspectiva de género en este caso específico, según lo argumentado por la parte recurrente?",
+    "¿En qué fecha la Sala Primera de la Cámara Segunda de Apelaciones de Paraná dictó la resolución confirmada por el Tribunal y qué aspectos de esa resolución fueron cuestionados por la parte recurrente?"
+  ],
+  "generated_at": "20250703_194042"
+}

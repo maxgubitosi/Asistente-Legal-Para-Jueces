@@ -1,0 +1,11 @@
+{
+  "json_id": "8518",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8518.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿Cuál es el procedimiento adecuado para garantizar la imparcialidad de los jueces en casos donde podrían existir conflictos de interés?",
+    "¿En qué circunstancias se considera válida la excusación de un juez en un proceso judicial?",
+    "¿Qué medidas deben implementarse cuando un juez participa en resoluciones previas que podrían comprometer su objetividad en un caso actual?"
+  ],
+  "generated_at": "20250703_194141"
+}

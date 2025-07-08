@@ -1,0 +1,11 @@
+{
+  "json_id": "8956",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8956.json",
+  "question_type": "generate_questions_generic",
+  "questions": [
+    "¿En qué circunstancias es procedente que un juez se excuse de intervenir en un caso judicial para garantizar la imparcialidad del proceso?",
+    "¿Qué medidas deben adoptarse para que un tribunal continúe funcionando adecuadamente cuando un miembro se excusa o es recusado?",
+    "¿Cómo se asegura el cumplimiento de las normas de imparcialidad en un tribunal cuando se identifican posibles conflictos de interés de sus integrantes?"
+  ],
+  "generated_at": "20250703_193941"
+}

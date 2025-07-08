@@ -1,0 +1,11 @@
+{
+  "json_id": "9012",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/11/9012.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué fundamentos legales utilizó el Tribunal para determinar que los certificados de obra pública no son títulos endosables, y cómo se aplicaron los artículos 506 y 2640 del Código Civil y Comercial en esta decisión?",
+    "¿Por qué el Tribunal decidió no aplicar retroactivamente la Ley 27.440 en relación con la negociación de certificados de obra pública en este caso específico?",
+    "¿Qué argumentos presentó el Superior Gobierno de la Provincia de Entre Ríos al sostener que la sentencia violó los principios establecidos en el artículo 2564 inciso d) del Código Civil y Comercial y la Ley 27.440?"
+  ],
+  "generated_at": "20250703_194346"
+}

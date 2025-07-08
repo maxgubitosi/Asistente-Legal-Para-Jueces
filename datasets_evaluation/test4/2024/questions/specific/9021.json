@@ -1,0 +1,11 @@
+{
+  "json_id": "9021",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9021.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cuál es el fundamento legal para determinar la competencia material de los juzgados en el caso analizado?",
+    "¿Qué implicancias tiene la aplicación incorrecta del artículo 75 de la Ley Orgánica del Poder Judicial en este proceso?",
+    "¿Por qué se considera infundado el conflicto negativo de competencia planteado por el Juez Civil, Comercial y Laboral de Federal?"
+  ],
+  "generated_at": "20250703_193940"
+}

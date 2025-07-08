@@ -1,0 +1,11 @@
+{
+  "json_id": "8771",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/04/8771.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Qué artículos específicos de la Ley 7046 fueron utilizados por el tribunal como fundamento para la regulación de honorarios en el caso SCHROEDER ERNESTO RODOLFO C/ LEFFLER Y WOLLERT SRL Expte. Nº 8771?",
+    "¿Cuál fue la base económica aprobada el 31 de julio de 2023 utilizada para liquidar los honorarios en el recurso de inaplicabilidad de ley resuelto el 9 de mayo de 2023?",
+    "¿Qué suma específica fue regulada como honorarios al Dr. Diego Eugenio Yust conforme al fallo emitido el 16 de abril de 2024?"
+  ],
+  "generated_at": "20250703_193738"
+}

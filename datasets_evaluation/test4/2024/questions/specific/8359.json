@@ -1,0 +1,11 @@
+{
+  "json_id": "8359",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/8359.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Cómo afecta la falta de publicación de una Ordenanza Municipal a su exigibilidad según el Tribunal?",
+    "¿Qué determina el artículo 65 del Código Procesal Civil y Comercial respecto a la imposición de costas?",
+    "¿Cuál fue la razón principal para declarar procedente el recurso de inaplicabilidad de ley en este caso?"
+  ],
+  "generated_at": "20250703_194140"
+}

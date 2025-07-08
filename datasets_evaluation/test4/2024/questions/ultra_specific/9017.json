@@ -1,0 +1,11 @@
+{
+  "json_id": "9017",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/05/9017.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuáles fueron los argumentos específicos presentados por el recurrente para invocar la errónea aplicación de los artículos 16 y 19 de la ley de honorarios profesionales en el caso 'ADMINISTRADORA TRIBUTARIA DE ENTRE RIOS C/ SANCHEZ ISLA MARIA LAURA S/ MONITORIO APREMIO'?",
+    "¿Qué criterios utilizó el Tribunal de Justicia de Entre Ríos para declarar inadmisible el recurso basado en el artículo 280 del Código Procesal Civil y Comercial?",
+    "¿Qué resolución adoptó la Sala Primera Civil y Comercial de la Cámara de Apelaciones de Concordia el 13 de diciembre de 2023, que motivó la presentación del recurso de inaplicabilidad de ley por parte del accionante?"
+  ],
+  "generated_at": "20250703_194040"
+}

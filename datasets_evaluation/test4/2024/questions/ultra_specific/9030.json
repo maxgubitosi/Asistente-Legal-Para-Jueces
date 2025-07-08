@@ -1,0 +1,11 @@
+{
+  "json_id": "9030",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/9030.json",
+  "question_type": "generate_questions_ultra_specific",
+  "questions": [
+    "¿Cuál fue el fundamento legal invocado por la Dra. Susana Griselda Irurzun para excusarse del caso 'KERLING, CRISTIAN ALFREDO - TENENCIA DE ARMA DE FUEGO DE USO CIVIL' según el artículo 38 inciso a) del CPP?",
+    "¿Qué argumentos utilizó el Dr. Omar Javier Ovando para declarar la incompetencia material de su juzgado en las actuaciones 'KERLING, CRISTIAN ALFREDO - TENENCIA DE ARMA DE FUEGO DE USO CIVIL' el 26 de febrero de 2024?",
+    "¿Qué disposición del artículo 75 de la Ley Orgánica del Poder Judicial (LOPJ) fue cuestionada por su impacto en la competencia material establecida en los artículos 5 y 6 del Código Procesal Civil y Comercial (CPCC)?"
+  ],
+  "generated_at": "20250703_193737"
+}

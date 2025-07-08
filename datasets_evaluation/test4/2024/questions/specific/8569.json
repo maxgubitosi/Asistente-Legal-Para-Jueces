@@ -1,0 +1,11 @@
+{
+  "json_id": "8569",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/02/8569.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿Qué normativa arancelaria fue utilizada por el tribunal para regular los honorarios profesionales en este caso?",
+    "¿Cuál es el procedimiento establecido por la ley para notificar la regulación de honorarios a los profesionales intervinientes?",
+    "¿Qué consecuencias establece la normativa aplicable en caso de mora en el pago de los honorarios regulados judicialmente?"
+  ],
+  "generated_at": "20250703_194243"
+}

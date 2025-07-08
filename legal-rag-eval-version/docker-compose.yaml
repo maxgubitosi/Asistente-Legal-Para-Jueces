@@ -4,7 +4,7 @@ services:
 # --------------------------------------------------- Qdrant
   qdrant:
     image: qdrant/qdrant:v1.9.1
-    ports: ["6334:6333"]  # External:Internal - laptop uses 6334, containers use 6333
+    ports: ["6334:6333"]  # External:Internal
     volumes: [qdrant_data_eval:/qdrant/storage]
 
 # ---------------------------------- Backend (índices + FastAPI)
@@ -13,12 +13,12 @@ services:
     depends_on: [qdrant]
     env_file: [.env]
     environment:
-      QDRANT_URL: "http://qdrant:6333"  # ← FIXED: Use internal port for container communication
+      QDRANT_URL: "http://qdrant:6333"
       PYTHONPATH: "/app"  # ← IMPORTANTE: Para que encuentre el módulo backend
     volumes:
       - ./datasets:/datasets
       - ./bm25_cache:/indexes    # ←─ comando directo para uvicorn
-    ports: ["8001:8000"]  # External:Internal - laptop uses 8001, containers use 8000
+    ports: ["8001:8000"]  # External:Internal
     command: ["bash", "/app/deployment/scripts/build_and_start.sh"]  # ← Nueva ruta
 
 # ---------------------------------- UI Streamlit
@@ -27,13 +27,13 @@ services:
     container_name: rag-ui-eval
     depends_on: [backend]
     environment:
-      API_URL: "http://backend:8000/query"  # ← FIXED: Use internal port for container communication
+      API_URL: "http://backend:8000/query" 
       PYTHONPATH: "/app"  # ← Agregar también aquí
     command: >
       streamlit run frontend/ui.py
         --server.port 8501
         --server.address 0.0.0.0
-    ports: ["8502:8501"]  # External:Internal - laptop uses 8502, containers use 8501
+    ports: ["8502:8501"]  # External:Internal
 
 volumes:
   qdrant_data_eval:

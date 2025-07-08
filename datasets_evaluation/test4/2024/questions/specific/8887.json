@@ -1,0 +1,11 @@
+{
+  "json_id": "8887",
+  "original_file": "/Users/gaborgorondi/Documents/udesa/8_nlp/tp_final/TP_NLP/datasets_evaluation/test4/2024_originals/03/8887.json",
+  "question_type": "generate_questions_specific",
+  "questions": [
+    "¿En qué se fundamenta el tribunal para rechazar el recurso extraordinario federal interpuesto por el demandado?",
+    "¿Cómo se aplica la suspensión del plazo de prescripción según las leyes mencionadas en el caso?",
+    "¿Qué razones llevó al tribunal a descartar la arbitrariedad en la decisión impugnada?"
+  ],
+  "generated_at": "20250703_193534"
+}

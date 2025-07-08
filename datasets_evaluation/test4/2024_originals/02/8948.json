@@ -1,0 +1,135 @@
+{
+  "METADATOS": {
+    "ID_FALLO": "8948",
+    "MES": "02",
+    "ARTICULOS_CITADOS": {
+      "citations": [
+        {
+          "main_source": "Código Procesal Civil y Comercial (CPCC)",
+          "cited_articles": [
+            65,
+            506
+          ],
+          "extra": [
+            "3er. párrafo"
+          ]
+        },
+        {
+          "main_source": "Código Civil y Comercial (CCC)",
+          "cited_articles": [
+            279,
+            765,
+            771,
+            962
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Constitución Nacional (CN)",
+          "cited_articles": [
+            17,
+            18
+          ],
+          "extra": []
+        },
+        {
+          "main_source": "Otro",
+          "cited_articles": [
+            944,
+            946
+          ],
+          "extra": [
+            "Código Civil y Comercial de la Nación"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 15/18 SNE",
+          "cited_articles": [
+            1,
+            4
+          ],
+          "extra": [
+            "conforme"
+          ]
+        },
+        {
+          "main_source": "Acuerdo General 11/20",
+          "cited_articles": [],
+          "extra": [
+            "del 23-6-2020, Punto 4°"
+          ]
+        }
+      ]
+    }
+  },
+  "MATERIA_PRELIMINAR": "EJECUCION HIPOTECARIA",
+  "IDEA_CENTRAL": "El Tribunal declara procedentes los recursos de inaplicabilidad de ley interpuestos por los ejecutados, casando la resolución de la Cámara de Apelaciones que había confirmado la ejecución hipotecaria en dólares, y ordenando que la ejecución continúe en moneda de curso legal (pesos), conforme al artículo 506 del Código Procesal Civil y Comercial (CPCC).\n\n**Fundamento Legal:**\nLa decisión se basa en la interpretación del artículo 506 del CPCC, que establece que las ejecuciones deben promoverse en moneda de curso legal, y en el artículo 765 del Código Civil y Comercial (CCC), que otorga al deudor la facultad de cancelar deudas en moneda nacional, salvo que exista una renuncia expresa a esta opción, como ocurrió en el caso.\n\n**Aspectos Legales Relevantes:**\n1. **Artículo 506 del CPCC:** Establece que la ejecución debe llevarse a cabo en moneda de curso legal.\n2. **Artículo 765 del CCC:** Permite al deudor pagar en moneda nacional, salvo renuncia expresa.\n3. **Contradicción en Resoluciones:** Se señala que la Cámara no advirtió la contradicción entre los considerandos y la parte resolutiva de la sentencia de primera instancia.\n\n**Razonamiento del Tribunal:**\nEl Tribunal argumenta que, a pesar de que las partes habían pactado el pago en dólares, la ejecución debía seguir lo estipulado por el CPCC, que exige el uso de moneda de curso legal. La renuncia a pagar en moneda nacional no puede ser invocada en el contexto de un proceso ejecutivo, donde la ley prevalece sobre los acuerdos privados. Además, se destaca que la ejecución en dólares contraviene la normativa procesal y la doctrina establecida en casos previos.\n\n**Conclusión:**\nEl fallo reafirma la primacía de la normativa procesal sobre los acuerdos contractuales en el contexto de ejecuciones hipotecarias, garantizando que las deudas se salden en moneda de curso legal, lo que protege los derechos de los deudores y asegura la coherencia en la aplicación de la ley.",
+  "CONTENIDO": {
+    "INICIO": [
+      "\"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948"
+    ],
+    "///CUERDO": [
+      "En la ciudad de Paraná, capital de la provincia de Entre Ríos, a los cinco días del mes de febrero del año dos mil veinticuatro reunidos los integrantes de este Tribunal asistidos por el Secretario autorizante, para conocer los recursos de inaplicabilidad de ley deducidos en fecha 28/8/2023 y 29/8/2023 en los autos:",
+      "\"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948, respecto de la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Concepción del Uruguay dictada en fecha 10/8/2023. Se practicó el sorteo de ley resultando que la votación debía tener lugar en el siguiente orden: Sr. Vocal Dr.",
+      "Martín F. Carbonell; Sr. Vocal Dr. Leonardo Portela y Sra. Vocal Dra. Gisela N.",
+      "Schumacher.",
+      "Estudiados los autos, la Sala se planteó la siguiente cuestión: ¿qué corresponde resolver respecto de los recursos de inaplicabilidad de ley interpuestos?",
+      "A LA CUESTIÓN PROPUESTA LOS SRES. VOCALES DRES. MARTÍN F. CARBONELL Y LEONARDO PORTELA DIJERON:",
+      "1.- Contra la sentencia de fecha 10 de agosto de 2023 dictada por la Cámara de Apelaciones de Concepción del Uruguay, que confirma la sentencia de primera instancia (16/03/2023), en cuanto manda a seguir adelante la ejecución hipotecaria promovida por los ejecutantes -Ricardo Alberto Schwarz y Sandra Carina Taborda- hasta que Cristian Javier Olivanti y Elvio Martín Giordano, les paguen la suma de dólares estadounidenses treinta y seis mil trescientos noventa (US$ 36.390), en concepto de capital impago, con más los intereses compensatorios y moratorios pactados, interponen los ejecutados recursos de inaplicabilidad de ley, cuyas respectivas concesiones motivan la intervención de esta Sala.",
+      "2.- Antecedentes:",
+      "a) Se promovió ejecución hipotecaria por la suma en dólares señalada mas arriba en concepto de capital impago desde el 31/05/2022 e intereses en base al contrato de compraventa con constitución de hipoteca instrumentado en la escritura Nº 68, celebrado entre las partes en juicio (ejecutantes y ejecutados).",
+      "b) Previo requerimientos del juzgado interviniente tendientes a encausar la acción, subsanar defectos de personería y que se denuncie el equivalente a lo reclamado en moneda nacional -para el pago de la Tasa de Justicia, Ley 10.056-, el 23/06/2022 se tuvo por promovida EJECUCION HIPOTECARIA contra Cristian Javier Olivanti y Elvio Martín Giordano por la suma -conforme el art. 506 del CPCC- de $ 4.425.751,80, más intereses y costas.",
+      "c) Contestada la demanda por los accionados, el 24/10/2022 se puso el expediente a despacho para resolver, requiriéndose el 13/12/2022 como \"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948 medida para mejor proveer para su análisis el expediente \"Giordano Elvio Martín c/ Schwarz Ricardo Alberto y Otra s/ Ordinario Acción de Consignación\", en trámite ante al Juzgado en lo Civil y Comercial Nº 2 de esa ciudad. Se decretó embargo en fecha 22/12/2022 bajo responsabilidad de la actora, sobre los fondos en dólares existentes en la cuenta en dicho expediente por la suma reclamada, de lo cual se tomó debida razón.",
+      "d) Esa decisión fue impugnada por el coaccionado Elvio Martín Giordano, con fundamento en que el proceso monitorio inicialmente promovido perdió autonomía procesal y derivó en un proceso de ejecución hipotecaria, promovida en fecha 23/06/2022 por la suma de $ 4.425.751,80, con más de la de $ 2.100.000 estimada provisoriamente para intereses y costas, monto por los cuales se ordenó trabar embargo sobre el inmueble hipotecado. Expresó que el otorgamiento del embargo implica una doble imposición porque en el proceso el acreedor cuenta con la garantía hipotecaria y el embargo del bien.",
+      "A su turno, los ejecutantes ( 1/02/2023), contestando el traslado expresaron que no existe doble imposición porque la garantía hipotecaria no impide solicitar cautelares y en relación a la suma consignada judicialmente en el expediente más arriba señalado, expresaron que no fue rechazada pero se oponen a que se considere como de obligación cumplida dado que no cubre lo adeudado en concepto de intereses.",
+      "e) En fecha 16/03/2023 se dictó sentencia de trance y remate.",
+      "En sus considerandos se expresa que \"corresponde mandar a seguir adelante la presente ejecución hipotecaria en su contra por la suma de pesos cuatro millones cuatrocientos veinticinco mil setecientos cincuenta y uno con ochenta centavos ($ 4.425.751,80) equivalentes al momento de la promoción de la demanda a la suma de dólares estadounidenses treinta y seis mil trescientos noventa (US$ 36.390,00), sin perjuicio del reajuste que pudiera corresponder al momento del pago -art. 506 CPCC y en su parte resolutiva se manda llevar adelante la ejecución hipotecaria por \"la suma de dólares estadounidenses treinta y seis mil trescientos noventa (US$ 36.390,00) en concepto de capital impago, con más los intereses señalados en el considerando respectivo de su vencimiento y hasta el momento de su efectivo pago\".",
+      "f) La Cámara, como anticiparamos, confirmó la decisión. Para así resolver, consideró correcta la resolución del juez de grado que, en su parte resolutiva, mandó llevar adelante la ejecución por la deuda expresada en la moneda extranjera y no por la equivalencia en el escrito de demanda.",
+      "Puntualizó que en este particular caso no resulta aplicable la doctrina vinculante de esta Sala sentada en los autos \"Dutruel Hector Homar c/ Rossier Carlos Ernesto y Otra s/ Ejecutivo\" - Expte. Nº 8518 sentencia del 30/05/2022 y reiterada en \"Beltran, Silvia Miriam c/ Muchiutti Orlando Ramón S/ \"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948 Ejecutivo\" - Expte. Nº 8569 sentencia del 14/11/22, \"Lande, Ricardo Isidoro c/ Panozzo Zenere, Camilo Antonio y Otros S/ Ejecutivo\" - Expte. Nº 8670 sentencia del 27/12/22 y \"Guidoni Fernando Martín c/ Bire Guillermo Humberto S/ Preparación de la Via Monitoria (Sumarisimo)\" - Expte. Nº 8810 sentencia del 28/6/2023 porque en ninguno de esos procesos existía una renuncia expresa por parte de los demandados a invocar el art. 765 del CCC, lo que sí ocurre en el contrato que se ejecuta en estos autos.",
+      "Relacionó que en la Escritura nº 68 en la cual se instrumentó el contrato de compraventa con constitución de hipoteca por saldo de venta que dió lugar a la presente ejecución, la parte compradora (demandada en autos) expresa que \"... renuncia en los términos de los artículos 13, 944 y 962 del Código Civil y Comercial de la Nación a invocar la facultad de abonar el saldo de precio en moneda de curso legal prevista en el artículo 765 segunda parte del Código Civil y Comercial de la nación, siendo condición esencial cancelar en moneda extranjera de Dólares Estadounidenses Billetes\".",
+      "Con numerosas citas doctrinaria y jurisprudenciales, consideró que es mayoritaria la postura que sostiene que el artículo 765 del CCC en cuanto otorga a quien se obligó en moneda extranjera la facultad de liberarse dando el equivalente en moneda de curso legal no es de orden público y dicha aseveración -sentenció- viene dada principalmente porque la regulación legal de los contratos resulta supletoria de la voluntad de las partes conforme lo establece como regla general el art. 962 del CCC y, en consecuencia, quien renuncia expresamente a la facultad de desobligarse abonando en la moneda de curso legal equivalente a la moneda extranjera pactada no puede luego contradecir sus propios actos y pretender la aplicación de una norma que voluntariamente excluyó del sinalagma contractual.",
+      "Consideró que resultaba incuestionable el mantenimiento del embargo trabado sobre los fondos en dólares existentes en la cuenta a nombre del expediente de consignación relacionado más arriba e inadmisible -conforme doctrina y jurisprudencia que se cita- la pretensión del codemandado Giordano tendiente a su levantamiento por que su actual conducta contraría sus propios actos evidenciados al consignar la sumas pertinentes con el objetivo de abonar el crédito reclamado por los actores en autos.",
+      "Finalmente revoca la decisión de origen en cuanto morigera los intereses pactados, considerando que no se da en el caso una situación excepcional que justifique la revisión de oficio y en esa línea de razonamiento sentencial manda seguir adelante la ejecución por los intereses acordados y reclamados en la demanda.",
+      "3.- Los ejecutados en idénticos términos, interponen contra dicha decisión recurso de inaplicabilidad de ley invocando violación de la ley, la doctrina \"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948 legal, arbitrariedad y lesión a los artículos 17 y 18 de la Constitución Nacional.",
+      "Esencialmente sostienen que la sentencia viola el texto expreso de la ley y la doctrina legal al considerar correcto mandar llevar adelante la ejecución por la deuda expresada en moneda extranjera. Dice que el art. 506 del CPCC acepta el reajuste del pago de la moneda nacional pero en ningún supuesto admite que se disponga el pago en moneda extranjera, destacando que la tramitación de la ejecución en moneda nacional se encontraba consentida por la actora en la causa, desconociéndose lo dispuesto por los artículos 944 y 948 del CCC.",
+      "Expresan que cualquier pacto anterior respecto de la moneda de pago perdió virtualidad porque en la causa, la ley y lo dispuesto por el tribunal disponían su tramitación y culminación en moneda nacional.",
+      "Detallan que en fecha 2 de marzo de 2022 se rechazó el recurso de revocatoria interpuesto por la parte accionante contra la resolución que emplaza al cumplimiento del art. 506 3er. párrafo del CPCC y que si bien se impugnó ese decisorio, la accionante nunca instó la continuación del trámite, por lo que quedó definitivamente saldado que la ejecución se tuvo por promovida en moneda nacional.",
+      "Exponen que la sentencia viola el texto expreso de la ley y la doctrina legal al convalidar una tasa de interés en dólares estadounidenses groseramente excesiva, ignorando el planteo formulado en el expediente de consignación, que describe como anexo al presente sobre el punto y obviando dice que la ejecución quedó sustanciada en moneda nacional por lo que la tasa pactada no sería aplicable.",
+      "Manifiestan que considerar que no resulta violatoria de la moral y las buenas costumbres una tasa del 36% anual en dólares estadounidenses se opone a lo dispuesto en el art. 279 del CCC y pone en evidencia un apartamiento de la ley y la realidad económica.",
+      "Expresan que la sentencia realiza afirmaciones dogmáticas e incurre en arbitrariedad al confirmar un pronunciamiento que exhibe una contradicción entre sus considerandos y su parte resolutiva. Reiteran que conforme las facultades que al tribunal otorga el artículo 771 del CCC la morigeración de los intereses convenidos cuya exorbitancia detalla, resultaba de procedencia indubitable. Citan jurisprudencia, mantienen reserva del caso federal y peticionan.",
+      "4.- A su turno, la parte actora recurrida, solicita por las razones que expone el rechazo de los recursos interpuestos.",
+      "5.- Se solicitó como medida para mejor proveer la remisión a esta Sala de las actuaciones \"Giordano Elvio Martín c/ Schwarz Ricardo Alberto y Otra s/ Ordinario - Acción de Consignación\" Expte Nº 10090, en tanto lo debatido en ambos juicios -el presente y el nombrado- refieren al cumplimiento de la misma obligación instrumentada en la escritura pública relacionada. Por Oficio Nº 51 se \"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948 remitieron los autos en expediente digitalizado, obrando constancia que en fecha 12/04/2023 se admitió el desistimiento de la acción de consignación por parte del accionante y se transfirieron los fondos en dólares depositados en ese proceso, en virtud del embargo ordenado en el presente juicio.",
+      "6.- Sintetizados los aspectos relevantes del caso, pasamos a definir la cuestión puesta a juzgamiento.",
+      "Advertimos en primer lugar que la sentencia impugnada, aún dictada en un proceso ejecutivo que en principio excluiría la nota de definitividad exigida por la norma ritual como condición de impugnabilidad por la presente vía, reviste en el caso puntual tal carácter -por su equiparación a definitiva- en tanto se trae a definición si es o no ajustada a derecho la decisión de continuar la presente ejecución en la moneda pactada -dólares- excluyendo en el caso la conversión requerida por la norma procesal -art. 506 del CPCC- para reclamar en juicio ejecutivo la obligación contractualmente establecida y la inaplicabilidad al caso del art. 765 del CCC.",
+      "En el caso es a nuestro entender claro que se puede constatar una manifiesta contradicción lógica en la resolución de fecha 16/03/2023 dictada por el a quo y que la Cámara confirma en decisión que viene a revisión de esta Sala, en cuanto en sus considerandos manda llevar adelante la ejecución por la suma en pesos equivalente al momento de la promoción de la demanda a la suma en dólares reclamada (US$ 36.390, mas intereses compensatorios y punitorios en esa moneda), y en su parte resolutiva dispone dar continuidad al trámite de la ejecución por la suma en dólares. Esa contradicción debió ser advertida por la Cámara en el análisis completo que el recurso de apelación le permite efectuar de la sentencia impugnada y dejar sin efecto ese pronunciamiento por su déficit estructural y lógico sin embargo, improcedentemente, resolvió confirmarlo priorizando su parte dispositiva que además se opone a pronunciamientos anteriores y firmes (resolución de fecha 23 de junio de 2022 más arriba reseñadas y sus antecedentes).",
+      "Para evitar un dispendio jurisdiccional que postergue la resolución del conflicto, creemos conveniente resolver el núcleo del asunto que motiva este recurso.",
+      "Entonces, más allá de la incongruencia señalada, entendemos que asiste razón a los recurrentes en su planteo impugnativo.",
+      "En primer lugar, la presente ejecución se tuvo por promovida -con corrección y en orden a lo dispuesto en el art. 506 del CPCC- en moneda de curso legal equivalente a la suma reclamada y adeudada en dólares conforme título -escritura de compraventa e hipoteca- que da base a la demanda y esa decisión que fuere en origen impugnada por el accionante quedó luego firme y consentida.",
+      "En ese escenario procesal, la resolución de fecha 16/03/2023 que no obstante establecer en sus considerandos que la ejecución debía continuar en la \"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948 moneda de curso legal, coherente con la decisión primigenia, resuelve finalmente continuar el trámite por la moneda pactada -dólares-, carece a nuestro criterio de toda razonabilidad y es además contraria a la ley aplicable.",
+      "La Cámara confirma esa decisión, reiteramos, haciendo caso omiso a la contradicción señalada y acudiendo improcedentemente a una posibilidad legal que no existe en la norma aplicada para ello -art. 506 del CPCC-. Cuando la norma, en el trámite ejecutivo , dispone que la ejecución debe promoverse y continuarse en moneda de curso legal, \"... sin perjuicio del reajuste que pudiere corresponder al día del pago\", en modo alguno habilita la sustitución en cualquier etapa del proceso de la moneda de curso legal por la extranjera (dólares) convenida, sino que contempla la actualización de esa suma en pesos por la que se promueva -en su equivalencia a la divisa adeudada la ejecución-, a la cotización que en definitiva se tome al día del pago. En ese contexto, es provisional la conversión dispuesta en el origen del trámite y en su faz cuantitativa.",
+      "La decisión que viene cuestionada, se aparta además de la doctrina sentada por esta Sala sobre el asunto propuesto a decisión.",
+      "En los autos \"Gomez Susana María Beatriz c/ Agroalimentos Sociedad de Responsabilidad Limitada s/ Ejecución Hipotecaria\", Expte Nº 8811, sentencia del 11 de agosto de 2023, las partes, en el contrato establecieron como condición esencial el cumplimiento de la obligación contraída en la moneda pactada (dólares estadounidenses) y se sostenía entonces la inaplicabilidad del art.",
+      "765 del CCC en cuanto otorga al deudor la posiblidad de cancelar la deuda pactada en el caso dólares con la entrega de moneda de curso legal. En dicho fallo, esta Sala determinó que conforme lo dispuesto en el art. 506 del CPCC, cuya claridad textual impide distintas interpretaciones, el reclamo de obligaciones a través de juicio ejecutivo, reiteramos, deben ser establecidas en moneda de curso legal (peso), lo que se ve reforzado por lo dispuesto en el art. 765 del CCC.",
+      "El pacto suscripto por las partes respecto al modo en que se cancelaría la obligación instrumentada, no perdió como sostienen los recurrentes virtualidad, pero en el proceso ejecutivo seleccionado por el propio ejecutante para obtener la satisfacción de su crédito corresponde aplicar lo dispuesto en el art. 506 del CPCC que refuerza el art. 765 del CCC, cuya vigencia impide desconocer sus efectos para el proceso.",
+      "El resultado del acogimiento que se postula entonces de los recursos interpuestos por los ejecutados en relación al núcleo central en discusión, torna abstracto el tratamiento de los demás agravios expuestos en esta instancia (intereses) que deberán analizarse en el nuevo pronunciamiento que propiciaremos se dicte en este juicio.",
+      "En virtud de lo expuesto, proponemos entonces al acuerdo a declarar la nulidad de lo actuado en este proceso a partir del dictado de la \"SCHWARZ RICARDO ALBERTO Y OTRA C/ OLIVANTI CRISTIAN JAVIER Y OTRO S/ EJECUCION HIPOTECARIA\" - Expte. Nº 8948 resolución de fecha 16/03/2023 y remitir las actuaciones al juzgado de origen a los efectos de que se disponga dar continuidad al trámite de la presente ejecución conforme lo dispone el art. 506 del CPCC, con costas a la vencida. ASÍ VOTAMOS.",
+      "POR ÚLTIMO, LA SRA. VOCAL DRA. GISELA N."
+    ],
+    "SCHUMACHER DIJO": [
+      "Existiendo mayoría de opiniones acerca de la cuestión propuesta resulta innecesario pronunciarme al respecto. ASÍ VOTO.",
+      "Con lo que no siendo para más se da por finalizado el acto quedando acordada la siguiente sentencia:",
+      "Paraná, 5 de febrero de 2024."
+    ],
+    "Y VISTO": [
+      "Por los fundamentos del acuerdo que antecede se,"
+    ],
+    "RESUELVE": [
+      "DECLARAR PROCEDENTES los recursos de inaplicabilidad de ley deducidos en fecha 28/8/2023 y 29/8/2023, CASAR la resolución de la Sala Civil y Comercial de la Cámara de Apelaciones de Concepción del Uruguay dictada en fecha 10/8/2023 y, en consecuencia, DECLARAR LA NULIDAD de lo actuado en este proceso a partir del dictado de la resolución de fecha 16/03/2023 y remitir las actuaciones al juzgado de origen a los efectos de que se disponga dar continuidad al trámite de la presente ejecución conforme lo dispone el art. 506 del CPCC.",
+      "IMPONER costas a la vencida (art. 65 del CPCC).",
+      "DIFERIR la regulación de honorarios para la oportunidad en que se determinen los correspondientes a las instancias inferiores.",
+      "Tener presente la reserva del caso federal.",
+      "Notifíquese conforme arts. 1º y 4º Ac. Gral. 15/18 SNE, regístrese y oportunamente devuélvase.",
+      "Ante mí. En igual fecha se registró. Asimismo, se deja constancia que la presente se suscribe mediante firma digital -Acuerdo Gral. 11/20 del 23-6-2020, Punto 4°) prescindiéndose de su impresión en formato papel."
+    ]
+  }
+}
