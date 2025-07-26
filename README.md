@@ -1,5 +1,7 @@
 # Asistente Legal Para Jueces
 
+[Poster del trabajo presentado](Asistente_Legal_Para_Jueces.pdf)
+
 ## Objetivo
 
 Mejorar la eficacia con la que jueces y funcionarios del poder judicial acceden a resoluciones previas relevantes de una cámara federal, facilitando la identificación de antecedentes de resoluciones similares y evitando contradicciones con fallos anteriores.
