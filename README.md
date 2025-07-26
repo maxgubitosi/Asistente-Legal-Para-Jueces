@@ -1,6 +1,6 @@
 # Asistente Legal Para Jueces
 
-[Poster del trabajo presentado](Asistente%20Legal%20Para%20Jueces.pdf)
+[![Ver póster](preview.jpg)](Asistente%20Legal%20Para%20Jueces.pdf)
 
 ## Objetivo
 
