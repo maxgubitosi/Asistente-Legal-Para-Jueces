@@ -1,6 +1,6 @@
 # Asistente Legal Para Jueces
 
-[Poster del trabajo presentado](Asistente_Legal_Para_Jueces.pdf)
+[Poster del trabajo presentado]("Asistente Legal Para Jueces.pdf")
 
 ## Objetivo
 
